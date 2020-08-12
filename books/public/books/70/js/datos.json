@@ -1,0 +1,2342 @@
+{
+    "book": {
+        "titleES": "El héroe de Dinamita",
+        "titleEN": "Dinamita's Hero",
+        "titlePT": "O herói de Dinamita",
+        "titleCN": "迪纳米塔的偶像",
+        "titleJP": "ディナミタのヒーロー",
+        "titleKR": "다이나미타의 영웅",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "Dinamita y Estrella fueron a la arena para ver competir al luchador Víctor el Aguacate. Él era el ídolo de Dinamita y verlo luchar en vivo era su sueño hecho realidad.",
+                "textEN": "Dinamita and Estrella went to an arena to watch the wrestler, Víctor el Aguacate, compete in a match. El Aguacate was Dinamita’s idol and seeing him was a dream come true.",
+                "textPT": "Dinamita e Estrella foram a uma arena para assistir o lutador, Víctor el Aguacate, competir em um combate. El Aguacate era o ídolo de Dinamita e vê-lo era um sonho tornado realidade.",
+                "textCN": "迪纳米塔和埃斯特蕾拉前往竞技场观看摔跤手维克多·阿瓜卡特的比赛。阿瓜卡特是迪纳米塔的偶像，能够见到他是迪纳米塔的梦想，而现在梦想成真了。",
+                "textJP": "ディナミタとエストレラは、レスラーのビクトル・エルアグアカテの試合を見に競技場にでかけました。エルアグアカテはディナミタの憧れの人で、エルアグアカテを見られるなんて夢のようです。",
+                "textKR": "다이나미타와 에스트레야가 레슬링 시합을 보러 경기장에 갔어요. 빅토르 엘아구아까떼 선수가 경기하고 있었어요. 엘아구아까떼 선수는 다이나미타의 우상이고 드디어 그 선수를 만나겠다는 다이나미타의 꿈이 이루어졌어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "fueron"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "la"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "arena"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "para"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "competir"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "al"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "luchador"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "Víctor"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "Aguacate."
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "Él"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "era"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "el"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "ídolo"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "y"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "verlo"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "luchar"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "en"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "vivo"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "era"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "su"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "sueño"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "hecho"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "realidad."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "went"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "an"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "arena"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "watch"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "wrestler,"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "Víctor"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "Aguacate,"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "compete"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "in"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "match."
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "El"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "was"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "Dinamita’s"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "idol"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "seeing"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "him"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "was"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "a"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "dream"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "come"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "true."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "다이나미타와" },
+                    { "start": "1.468","text": "에스트레야가" },
+                    { "start": "3.294","text": "레슬링" },
+                    { "start": "4.164","text": "시합을" },
+                    { "start": "5.499","text": "보러" },
+                    { "start": "6.505","text": "경기장에" },
+                    { "start": "7.674","text": "갔어요." },
+                    { "start": "9.941","text": "빅토르" },
+                    { "start": "10.781","text": "엘아구아까떼" },
+                    { "start": "12.348","text": "선수가" },
+                    { "start": "13.648","text": "경기하고" },
+                    { "start": "14.736","text": "있었어요." },
+                    { "start": "17.246","text": "엘아구아까떼" },
+                    { "start": "18.708","text": "선수는" },
+                    { "start": "20.070","text": "다이나미타의" },
+                    { "start": "21.460","text": "우상이고" },
+                    { "start": "23.109","text": "드디어" },
+                    { "start": "24.255","text": "그" },
+                    { "start": "24.597","text": "선수를" },
+                    { "start": "25.457","text": "만나겠다는" },
+                    { "start": "27.312","text": "다이나미타의" },
+                    { "start": "28.687","text": "꿈이" },
+                    { "start": "29.639","text": "이루어졌어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "En la primera ronda, el Aguacate arrasó con todos los competidores. Dinamita y Estrella apoyaban y gritaban desde la tribuna.",
+                "textEN": "In the first round, el Aguacate won all his matches. Dinamita and Estrella supported and shouted from the stands.",
+                "textPT": "No primeiro round, el Aguacate venceu todos seus adversários. Dinamita e Estrella torciam e gritavam da arquibancada.",
+                "textCN": "阿瓜卡特在第一轮中赢得了所有比赛。迪纳米塔和埃斯特蕾拉在看台上大声助威。",
+                "textJP": "第１ラウンド、エルアグアカテは全部の試合で勝ちました。ディナミタとエストレラは観客席から大声で応援しました。",
+                "textKR": "첫 라운드에서 엘아구아까떼 선수가 모든 경기에서 이겼어요. 다이나미타와 에스트레야는 관중석에서 소리를 지르면서 응원을 했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.01",
+                        "text": "En"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "primera"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "ronda,"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "arrasó"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "con"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "los"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "competidores."
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "y"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "apoyaban"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "y"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "gritaban"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "desde"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "la"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "tribuna."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "In"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "first"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "round,"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "won"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "all"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "his"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "matches."
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "and"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "supported"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "and"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "shouted"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "from"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "stands."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.º","text": "첫" },
+                    { "start": "0.439","text": "라운드에서" },
+                    { "start": "2.268","text": "엘아구아까떼" },
+                    { "start": "3.907","text": "선수가" },
+                    { "start": "5.134","text": "모든" },
+                    { "start": "5.904","text": "경기에서" },
+                    { "start": "7.171","text": "이겼어요." },
+                    { "start": "9.588","text": "다이나미타와" },
+                    { "start": "11.073","text": "에스트레야는" },
+                    { "start": "12.763","text": "관중석에서" },
+                    { "start": "14.669","text": "소리를" },
+                    { "start": "15.515","text": "지르면서" },
+                    { "start": "16.861","text": "응원을" },
+                    { "start": "17.984","text": "했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "Llegó el intermedio y Dinamita fue corriendo tras Víctor pues quería su autógrafo y tal vez hasta una foto con él. Dinamita logró escabullirse hacia los camerinos pero antes de poder saludarlo, vio como el luchador se colocaba un dispositivo robótico para tener más fuerza.",
+                "textEN": "During intermission, Dinamita ran after el Aguacate to ask for his autograph and photo. Dinamita managed to sneak into the dressing room, but before he could speak, he saw that el Aguacate had on a robotic device that made him stronger.",
+                "textPT": "Durante o intervalo, Dinamita correu atrás de el Aguacate para pedir seu autógrafo e foto. Dinamita conseguiu se esgueirar até o vestiário, mas antes que ele pudesse falar, ele viu que el Aguacate tinha um dispositivo robótico que o fazia mais forte.",
+                "textCN": "在中场休息时，迪纳米塔追着阿瓜卡特，想要向他索要亲笔签名和照片。迪纳米塔成功潜入了更衣室，但在他开口之前，他看到阿瓜卡特戴着一个能使他更加强壮的机器设备。",
+                "textJP": "休憩のとき、ディナミタはサインを頼んで写真を撮らせてもらうためにエルアグアカテを追いかけました。ディナミタはうまく控え室に忍びこみました。ところがディナミタが声をかけようとしたとき、エルアグアカテが強くなるためのロボット装置を付けているのを見てしまったのです。",
+                "textKR": "휴식시간이 되자 다이나미타는 엘아구아까떼 선수의 사인과 사진을 받으려고 달려갔어요. 다이나미타는 몰래 탈의실까지 들어갔어요. 하지만 입을 떼기도 전에 다이나미타는 그 선수가 힘을 세게 해주는 로봇 장치를 쓰고 있는 모습을 보았어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Llegó"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "el"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "intermedio"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "fue"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "corriendo"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "tras"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "Víctor"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "quería"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "su"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "autógrafo"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "y"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "tal"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "hasta"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "una"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "foto"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "con"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "él."
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "logró"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "escabullirse"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "hacia"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "los"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "camerinos"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "antes"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "poder"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "saludarlo,"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "vio"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "como"
+                    },
+                    {
+                        "start": "15.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "luchador"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "se"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "colocaba"
+                    },
+                    {
+                        "start": "17.1",
+                        "text": "un"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "dispositivo"
+                    },
+                    {
+                        "start": "18.6",
+                        "text": "robótico"
+                    },
+                    {
+                        "start": "19.4",
+                        "text": "para"
+                    },
+                    {
+                        "start": "19.6",
+                        "text": "tener"
+                    },
+                    {
+                        "start": "20.1",
+                        "text": "más"
+                    },
+                    {
+                        "start": "20.7",
+                        "text": "fuerza."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "During"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "intermission,"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "ran"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "after"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "el"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "ask"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "for"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "his"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "autograph"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "and"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "photo."
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "managed"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "sneak"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "into"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "dressing"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "room,"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "but"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "before"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "he"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "could"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "speak,"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "he"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "saw"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "that"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "el"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "had"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "on"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "robotic"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "device"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "that"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "made"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "him"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "stronger."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "휴식시간이" },
+                    { "start": "1.123","text": "되자" },
+                    { "start": "2.208","text": "다이나미타는" },
+                    { "start": "3.918","text": "엘아구아까떼" },
+                    { "start": "5.469","text": "선수의" },
+                    { "start": "6.610","text": "사인과" },
+                    { "start": "7.884","text": "사진을" },
+                    { "start": "8.689","text": "받으려고" },
+                    { "start": "9.902","text": "달려갔어요." },
+                    { "start": "12.572","text": "다이나미타는" },
+                    { "start": "14.116","text": "몰래" },
+                    { "start": "15.423","text": "탈의실까지" },
+                    { "start": "16.897","text": "들어갔어요." },
+                    { "start": "19.474","text": "하지만" },
+                    { "start": "20.641","text": "입을" },
+                    { "start": "21.281","text": "떼기도" },
+                    { "start": "21.908","text": "전에" },
+                    { "start": "23.109","text": "다이나미타는" },
+                    { "start": "24.826","text": "그" },
+                    { "start": "25.122","text": "선수가" },
+                    { "start": "26.514","text": "힘을" },
+                    { "start": "27.487","text": "세게" },
+                    { "start": "28.438","text": "해주는" },
+                    { "start": "29.789","text": "로봇" },
+                    { "start": "30.322","text": "장치를" },
+                    { "start": "31.558","text": "쓰고" },
+                    { "start": "32.256","text": "있는" },
+                    { "start": "32.836","text": "모습을" },
+                    { "start": "34.188","text": "보았어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "Dinamita, decepcionado de su héroe, regresó con Estrella y le dijo: <br><br> –Él hace trampa, gana todo porque usa un dispositivo robótico. <br><br> –Tienes que decirles –respondió Estrella. <br><br> –Pero… él es mi héroe –dijo Dinamita, con voz triste.",
+                "textEN": "Disappointed by his hero, Dinamita ran back to Estrella to tell her the secret. <br><br> “He’s cheating! Víctor el Aguacate wins his matches with a robotic device,” Dinamita exclaimed. <br><br> “You have to say something!” replied Estrella. <br><br> “But, he’s my hero… I can’t do that,” Dinamita said, sadly.",
+                "textPT": "Dinamita estava desiludido de seu herói e correu de volta a Estrella para lhe dizer o segredo. <br><br> &#34;Ele está trapaceando! Víctor el Aguacate vence seus adversários com um dispositivo robótico,&#34; exclamou Dinamita. <br><br> &#34;Você tem que dizer alguma coisa!&#34;, respondeu Estrella. <br><br> &#34;Mas, ele é meu herói... não posso fazer isso&#34;, disse Dinamita tristemente.",
+                "textCN": "迪纳米塔对他的偶像倍感失望，他跑回去找埃斯特蕾拉，将这个秘密告诉了她。“他在作弊！维克多·阿瓜卡特是利用机器设备赢得比赛的。” 迪纳米塔大声说道。“你必须说出来！” 埃斯特蕾拉回应道。&#34;但是，他是我的偶像......我做不到。” 迪纳米塔难过地说道。",
+                "textJP": "ヒーローの姿にがっかりしたデイナミタはエストレラのところにかけもどり秘密をうちあけました。「エルアグアカテはズルしてるんだよ！ビクトル・エルアグアカテはロボット装置を使って試合に勝ってるんだ」とディナミタは叫びました。「あなたが何か言わなきゃ!」とエストレラ。「でもエルアグアカテはぼくのヒーローだもん…そんなことできない」とディナミタは悲しそうに言いました。",
+                "textKR": "자기의 영웅에게 실망한 채로 다이나미타는 에스트레야에게 달려가서 모든 비밀을 말했어요. <br><br> &#34;그 선수가 속임수를 썼어! 빅토르 엘아구아까떼는 로봇 장치를 써서 모든 경기를 이긴 거야.&#34; 다이나마타가 소리쳤어요. <br><br> &#34;너는 그걸 말해야 해!&#34; 에스트레야가 대답했어요. <br><br> &#34;하지만 그 선수는 내 영웅인걸… 나는 못 하겠어.&#34; 다이나미타가 슬프게 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Dinamita,"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "decepcionado"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "su"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "héroe,"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "regresó"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "con"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "y"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "le"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "dijo:"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "–Él"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "hace"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "trampa,"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "gana"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "todo"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "porque"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "usa"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "un"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "dispositivo"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "robótico."
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "–Tienes"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "que"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "decirles"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "–respondió"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "Estrella."
+                    },
+                    {
+                        "start": "18.2",
+                        "text": "–Pero…"
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "él"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "es"
+                    },
+                    {
+                        "start": "19.6",
+                        "text": "mi"
+                    },
+                    {
+                        "start": "19.9",
+                        "text": "héroe"
+                    },
+                    {
+                        "start": "21.3",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "21.6",
+                        "text": "Dinamita,"
+                    },
+                    {
+                        "start": "22.5",
+                        "text": "con"
+                    },
+                    {
+                        "start": "22.8",
+                        "text": "voz"
+                    },
+                    {
+                        "start": "23.1",
+                        "text": "triste."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.2",
+                        "text": "Disappointed"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "by"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "his"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "hero,"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "ran"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "back"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "tell"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "her"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "secret."
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "“He’s"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "cheating!"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "Víctor"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "el"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "wins"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "his"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "matches"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "with"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "robotic"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "device,”"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "exclaimed."
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "“You"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "have"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "to"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "say"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "something!”"
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "replied"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "Estrella."
+                    },
+                    {
+                        "start": "17.2",
+                        "text": "“But,"
+                    },
+                    {
+                        "start": "17.7",
+                        "text": "he’s"
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "my"
+                    },
+                    {
+                        "start": "18.3",
+                        "text": "hero…"
+                    },
+                    {
+                        "start": "18.7",
+                        "text": "I"
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "can’t"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "do"
+                    },
+                    {
+                        "start": "19.5",
+                        "text": "that,”"
+                    },
+                    {
+                        "start": "20.0",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "20.6",
+                        "text": "said,"
+                    },
+                    {
+                        "start": "21.0",
+                        "text": "sadly."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "자기의" },
+                    { "start": "0.757","text": "영웅에게" },
+                    { "start": "2.246","text": "실망한" },
+                    { "start": "3.169","text": "채로" },
+                    { "start": "4.238","text": "다이나미타는" },
+                    { "start": "6.186","text": "에스트레야에게" },
+                    { "start": "7.675","text": "달려가서" },
+                    { "start": "9.044","text": "모든" },
+                    { "start": "10.004","text": "비밀을" },
+                    { "start": "10.790","text": "말했어요." },
+                    { "start": "13.385","text": "그" },
+                    { "start": "13.593","text": "선수가" },
+                    { "start": "14.819","text": "속임수를" },
+                    { "start": "15.653","text": "썼어!" },
+                    { "start": "17.398","text": "빅토르" },
+                    { "start": "18.112","text": "엘아구아까떼는" },
+                    { "start": "19.927","text": "로봇" },
+                    { "start": "20.431","text": "장치를" },
+                    { "start": "21.112","text": "써서" },
+                    { "start": "22.209","text": "모든" },
+                    { "start": "22.793","text": "경기를" },
+                    { "start": "23.879","text": "이긴" },
+                    { "start": "24.314","text": "거야." },
+                    { "start": "26.035","text": "다이나마타가" },
+                    { "start": "27.624","text": "소리쳤어요." },
+                    { "start": "30.347","text": "너는" },
+                    { "start": "31.349","text": "그걸" },
+                    { "start": "32.095","text": "말해야" },
+                    { "start": "32.733","text": "해!" },
+                    { "start": "34.066","text": "에스트레야가" },
+                    { "start": "35.761","text": "대답했어요." },
+                    { "start": "38.385","text": "하지만" },
+                    { "start": "39.802","text": "그" },
+                    { "start": "40.074","text": "선수는" },
+                    { "start": "41.594","text": "내" },
+                    { "start": "42.099","text": "영웅인걸…" },
+                    { "start": "45.054","text": "나는" },
+                    { "start": "46.326","text": "못" },
+                    { "start": "46.700","text": "하겠어." },
+                    { "start": "48.887","text": "다이나미타가" },
+                    { "start": "50.569","text": "슬프게" },
+                    { "start": "51.624","text": "말했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "El Aguacate volvió a ganar y el evento estaba a punto de terminar. Estrella ya no le dijo nada a Dinamita; sabía que su amigo haría lo correcto. <br><br> –¡Detengan todo! –exclamó Dinamita. Está haciendo trampa. Miren su brazo.",
+                "textEN": "Once again, el Aguacate won another match. The event was about to end, but Estrella kept quiet. She knew Dinamita would do the right thing. Finally, Dinamita found the courage to speak up. <br><br> “Stop everything!” Dinamita shouted. “Víctor el Aguacate is cheating. Take a look at his arm.”",
+                "textPT": "Mais uma vez, el Aguacate ganhou outra partida. O evento estava prestes a acabar, mas Estrella manteve o silêncio. Ela sabia que Dinamita faria a coisa certa. Finalmente, Dinamita encontrou a coragem para falar. &#34;Parem tudo!&#34; gritou Dinamita. &#34;Víctor el Aguacate está trapaceando. Olhem seu braço.&#34;",
+                "textCN": "之后，阿瓜卡特再一次赢得了另一场比赛。活动就要结束，但埃斯特蕾拉依然沉默着。她知道迪纳米塔会做出正确的事。最后，迪纳米塔鼓起了勇气大声宣告。“停下一切！” 迪纳米塔喊道。“维克多·阿瓜卡特在作弊。 你们看他的手臂。”",
+                "textJP": "またエルアグアカテが試合に勝ちました。大会はもう終わろうとしていましたが、エストレラはだまったままです。エストレラは、ディナミタが正しいことをするとわかっていました。ついにディナミタは声を上げる勇気を出しました。「ぜんぶストップ!」ディナミタが叫びました。「ビクトル・エルアグアカテはズルしてる。あいつの腕を見てよ」",
+                "textKR": "그렇게 다시 한번 엘아구아까떼 선수가 경기에서 이겼어요. 시합은 거의 끝나가고 있는데 에스트레야는 아무 말도 하지 않았어요. 에스트레야는 다이나미타가 옳은 일을 할 거라고 알고 있었어요. 마침내, 다이나미타가 말할 용기를 냈어요. <br><br> &#34;모두 멈추세요!&#34; 다이나미타가 소리쳤어요. <br><br> &#34;빅토르 엘아구아까떼는 속임수를 쓰고 있어요. 저 팔을 보세요.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "El"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "volvió"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "ganar"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "evento"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "punto"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "de"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "terminar."
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "ya"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "no"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "le"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "nada"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "Dinamita;"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "sabía"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "que"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "su"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "haría"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "correcto."
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "–¡Detengan"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "todo!"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "–exclamó"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "Dinamita."
+                    },
+                    {
+                        "start": "18.1",
+                        "text": "Está"
+                    },
+                    {
+                        "start": "18.5",
+                        "text": "haciendo"
+                    },
+                    {
+                        "start": "19.2",
+                        "text": "trampa."
+                    },
+                    {
+                        "start": "20.1",
+                        "text": "Miren"
+                    },
+                    {
+                        "start": "20.5",
+                        "text": "su"
+                    },
+                    {
+                        "start": "20.8",
+                        "text": "brazo."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.2",
+                        "text": "Once"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "again,"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "el"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "won"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "another"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "match."
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "The"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "event"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "was"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "about"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "end,"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "but"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "kept"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "quiet."
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "She"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "knew"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "would"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "do"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "right"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "thing."
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "Finally,"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "found"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "courage"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "speak"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "up."
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "“Stop"
+                    },
+                    {
+                        "start": "15.7",
+                        "text": "everything!”"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "shouted."
+                    },
+                    {
+                        "start": "18.3",
+                        "text": "“Víctor"
+                    },
+                    {
+                        "start": "18.6",
+                        "text": "el"
+                    },
+                    {
+                        "start": "18.9",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "19.6",
+                        "text": "is"
+                    },
+                    {
+                        "start": "20.0",
+                        "text": "cheating."
+                    },
+                    {
+                        "start": "20.7",
+                        "text": "Take"
+                    },
+                    {
+                        "start": "21.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "21.2",
+                        "text": "look"
+                    },
+                    {
+                        "start": "21.5",
+                        "text": "at"
+                    },
+                    {
+                        "start": "21.7",
+                        "text": "his"
+                    },
+                    {
+                        "start": "21.9",
+                        "text": "arm.”"
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "그렇게" },
+                    { "start": "0.794","text": "다시" },
+                    { "start": "1.308","text": "한번" },
+                    { "start": "2.466","text": "엘아구아까떼" },
+                    { "start": "3.925","text": "선수가" },
+                    { "start": "5.147","text": "경기에서" },
+                    { "start": "6.172","text": "이겼어요." },
+                    { "start": "8.734","text": "시합은" },
+                    { "start": "9.697","text": "거의" },
+                    { "start": "10.332","text": "끝나가고" },
+                    { "start": "11.271","text": "있는데" },
+                    { "start": "12.549","text": "에스트레야는" },
+                    { "start": "14.210","text": "아무" },
+                    { "start": "14.795","text": "말도" },
+                    { "start": "15.963","text": "하지" },
+                    { "start": "16.568","text": "않았어요." },
+                    { "start": "19.037","text": "에스트레야는" },
+                    { "start": "20.722","text": "다이나미타가" },
+                    { "start": "22.548","text": "옳은" },
+                    { "start": "23.146","text": "일을" },
+                    { "start": "23.983","text": "할" },
+                    { "start": "24.434","text": "거라고" },
+                    { "start": "25.697","text": "알고" },
+                    { "start": "26.722","text": "있었어요." },
+                    { "start": "29.172","text": "마침내," },
+                    { "start": "30.500","text": "다이나미타가" },
+                    { "start": "32.256","text": "말할" },
+                    { "start": "32.849","text": "용기를" },
+                    { "start": "33.902","text": "냈어요." },
+                    { "start": "36.254","text": "모두" },
+                    { "start": "36.905","text": "멈추세요!" },
+                    { "start": "39.073","text": "다이나미타가" },
+                    { "start": "40.681","text": "소리쳤어요." },
+                    { "start": "43.276","text": "빅토르" },
+                    { "start": "44.040","text": "엘아구아까떼는" },
+                    { "start": "45.887","text": "속임수를" },
+                    { "start": "46.874","text": "쓰고" },
+                    { "start": "47.379","text": "있어요." },
+                    { "start": "49.292","text": "저" },
+                    { "start": "49.763","text": "팔을" },
+                    { "start": "50.251","text": "보세요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "Cuando los jueces se dieron cuenta de que Víctor el Aguacate estaba haciendo trampa, lo descalificaron. Dinamita sabía qué era lo que tenía que hacer, pero se sentía triste. <br><br> –Hiciste lo correcto Dinamita. Víctor estaba haciendo trampa. Debes sentirte orgulloso por haber dicho la verdad –le aseguró Estrella. <br><br> Dinamita se sintió mejor, pues se dio cuenta de que decir la verdad beneficiaba a todo el mundo.",
+                "textEN": "When the judges found out, Víctor el Aguacate was disqualified. Dinamita knew it was the right thing to do, but he couldn’t help feeling sad. <br><br> “You did the right thing, Dinamita. Víctor el Aguacate was cheating. You should be proud for telling the truth,” Estrella reassured him. <br><br> In the end, Dinamita felt better. He realized that everyone benefits from telling the truth.",
+                "textPT": "Quando os juízes viram isso, Víctor el Aguacate foi desclassificado. Dinamita sabia que era a coisa certa a fazer, mas ele não podia deixar de se sentir triste. <br><br> &#34;Você fez a coisa certa, Dinamita. Víctor el Aguacate estava trapaceando. Você deve estar orgulhoso de ter dito a verdade&#34;, assegurou-lhe Estrella. <br><br> No final, Dinamita se sentiu melhor. Ele percebeu que todo o mundo se beneficia em dizer a verdade.",
+                "textCN": "裁判发现后，维克多·阿瓜卡特被取消了比赛资格。虽然迪纳米塔知道他所做的是正确的，但仍不禁感到难过。“ 迪纳米塔，你做的是对的。维克多·阿瓜卡特作弊了。你应该为说出真相而自豪。“ 埃斯特蕾拉向他肯定地说道，迪纳米塔心里感觉好受多了。他意识到每个人都能从真相被道出中而受益。",
+                "textJP": "審判に見つかって、ビクトル・エルアグアカテは失格になりました。ディナミタは正しいことをしたとわかっていたけれど、悲しい気持ちをおさえられませんでした。「ディナミタは正しいことをしたんだよ。ビクトル・エルアグアカテはズルしてた。本当のことを言ってえらかったよ」とエストレラが力づけるようにいいました。ディナミタの気分が晴れてきました。本当のことを言うのは、みんなのためになるのだとわかったのでした。",
+                "textKR": "심판이 속임수를 알아냈고, 빅토르 엘아구아까떼는 실격 처리되었어요. 다이나미타는 자기가 옳은 일을 했다고 알았지만 슬픈 건 어쩔 수 없었어요. <br><br> &#34;다이나미타야, 너는 옳은 일을 한 거야. 빅토르 엘아구아까떼는 속임수를 쓰고 있었어. 너는 진실을 밝힌 너 자신을 자랑스럽게 생각해야 해. <br><br> &#34;에스트레야가 다이나미타에게 장담했어요. <br><br> 다이나미타는 기분이 좋아졌어요. 다이나미타는 진실을 말하면 모두에게 좋다고 깨달았어요.",
+                "wordsES": [
+                    {
+                        "start": "0.01",
+                        "text": "Cuando"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "los"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "jueces"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "se"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "dieron"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "Víctor"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "haciendo"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "trampa,"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "descalificaron."
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "sabía"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "era"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "tenía"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "que"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "hacer,"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "se"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "sentía"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "triste."
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "–Hiciste"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "correcto"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "Dinamita."
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "Víctor"
+                    },
+                    {
+                        "start": "18.3",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "haciendo"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "trampa."
+                    },
+                    {
+                        "start": "20.6",
+                        "text": "Debes"
+                    },
+                    {
+                        "start": "21.2",
+                        "text": "sentirte"
+                    },
+                    {
+                        "start": "21.6",
+                        "text": "orgulloso"
+                    },
+                    {
+                        "start": "22.4",
+                        "text": "por"
+                    },
+                    {
+                        "start": "22.7",
+                        "text": "haber"
+                    },
+                    {
+                        "start": "23.0",
+                        "text": "dicho"
+                    },
+                    {
+                        "start": "23.3",
+                        "text": "la"
+                    },
+                    {
+                        "start": "23.6",
+                        "text": "verdad"
+                    },
+                    {
+                        "start": "24.5",
+                        "text": "–le"
+                    },
+                    {
+                        "start": "24.8",
+                        "text": "aseguró"
+                    },
+                    {
+                        "start": "25.4",
+                        "text": "Estrella."
+                    },
+                    {
+                        "start": "27.3",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "27.8",
+                        "text": "se"
+                    },
+                    {
+                        "start": "28.1",
+                        "text": "sintió"
+                    },
+                    {
+                        "start": "28.4",
+                        "text": "mejor,"
+                    },
+                    {
+                        "start": "29.6",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "29.9",
+                        "text": "se"
+                    },
+                    {
+                        "start": "30.2",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "30.5",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "30.7",
+                        "text": "de"
+                    },
+                    {
+                        "start": "30.9",
+                        "text": "que"
+                    },
+                    {
+                        "start": "31.2",
+                        "text": "decir"
+                    },
+                    {
+                        "start": "31.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "31.6",
+                        "text": "verdad"
+                    },
+                    {
+                        "start": "32.3",
+                        "text": "beneficiaba"
+                    },
+                    {
+                        "start": "33.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "33.5",
+                        "text": "todo"
+                    },
+                    {
+                        "start": "33.8",
+                        "text": "el"
+                    },
+                    {
+                        "start": "34.1",
+                        "text": "mundo."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "When"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "judges"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "found"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "out,"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "Víctor"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "was"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "disqualified."
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "knew"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "it"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "was"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "right"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "thing"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "do,"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "but"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "he"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "couldn’t"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "help"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "feeling"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "sad."
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "“You"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "did"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "right"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "thing,"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "Dinamita."
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "Víctor"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "el"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "Aguacate"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "was"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "cheating."
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "You"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "should"
+                    },
+                    {
+                        "start": "16.25",
+                        "text": "be"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "proud"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "for"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "telling"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "17.5",
+                        "text": "truth,”"
+                    },
+                    {
+                        "start": "18.3",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "reassured"
+                    },
+                    {
+                        "start": "19.5",
+                        "text": "him."
+                    },
+                    {
+                        "start": "20.3",
+                        "text": "In"
+                    },
+                    {
+                        "start": "20.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "20.9",
+                        "text": "end,"
+                    },
+                    {
+                        "start": "21.5",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "21.9",
+                        "text": "felt"
+                    },
+                    {
+                        "start": "22.2",
+                        "text": "better."
+                    },
+                    {
+                        "start": "23.2",
+                        "text": "He"
+                    },
+                    {
+                        "start": "23.5",
+                        "text": "realized"
+                    },
+                    {
+                        "start": "23.8",
+                        "text": "that"
+                    },
+                    {
+                        "start": "24.3",
+                        "text": "everyone"
+                    },
+                    {
+                        "start": "25.2",
+                        "text": "benefits"
+                    },
+                    {
+                        "start": "25.8",
+                        "text": "from"
+                    },
+                    {
+                        "start": "26.1",
+                        "text": "telling"
+                    },
+                    {
+                        "start": "26.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "26.7",
+                        "text": "truth."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "심판이" },
+                    { "start": "0.881","text": "속임수를" },
+                    { "start": "1.743","text": "알아냈고," },
+                    { "start": "3.074","text": "빅토르" },
+                    { "start": "3.845","text": "엘아구아까떼는" },
+                    { "start": "5.961","text": "실격" },
+                    { "start": "6.773","text": "처리되었어요." },
+                    { "start": "9.586","text": "다이나미타는" },
+                    { "start": "11.405","text": "자기가" },
+                    { "start": "12.302","text": "옳은" },
+                    { "start": "12.883","text": "일을" },
+                    { "start": "13.364","text": "했다고" },
+                    { "start": "14.166","text": "알았지만" },
+                    { "start": "15.558","text": "슬픈" },
+                    { "start": "16.239","text": "건" },
+                    { "start": "17.271","text": "어쩔" },
+                    { "start": "17.859","text": "수" },
+                    { "start": "18.595","text": "없었어요." },
+                    { "start": "21.102","text": "다이나미타야," },
+                    { "start": "22.942","text": "너는" },
+                    { "start": "23.831","text": "옳은" },
+                    { "start": "24.318","text": "일을" },
+                    { "start": "25.254","text": "한" },
+                    { "start": "25.606","text": "거야." },
+                    { "start": "27.099","text": "빅토르" },
+                    { "start": "27.820","text": "엘아구아까떼는" },
+                    { "start": "29.758","text": "속임수를" },
+                    { "start": "30.711","text": "쓰고" },
+                    { "start": "31.199","text": "있었어." },
+                    { "start": "33.330","text": "너는" },
+                    { "start": "34.318","text": "진실을" },
+                    { "start": "35.045","text": "밝힌" },
+                    { "start": "36.238","text": "너" },
+                    { "start": "36.609","text": "자신을" },
+                    { "start": "37.721","text": "자랑스럽게" },
+                    { "start": "38.883","text": "생각해야" },
+                    { "start": "39.788","text": "해." },
+                    { "start": "41.395","text": "에스트레야가" },
+                    { "start": "43.092","text": "다이나미타에게" },
+                    { "start": "45.146","text": "장담했어요." },
+                    { "start": "47.807","text": "다이나미타는" },
+                    { "start": "49.476","text": "기분이" },
+                    { "start": "50.211","text": "좋아졌어요." },
+                    { "start": "52.741","text": "다이나미타는" },
+                    { "start": "54.581","text": "진실을" },
+                    { "start": "55.544","text": "말하면" },
+                    { "start": "56.564","text": "모두에게" },
+                    { "start": "57.855","text": "좋다고" },
+                    { "start": "59.173","text": "깨달았어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

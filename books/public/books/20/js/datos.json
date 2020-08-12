@@ -1,0 +1,2612 @@
+{
+    "book": {
+        "titleEN": "Eagle Doesn't Say Please",
+        "titleES": "¡Por favor!",
+        "titlePT": "Eagle não diz “por favor",
+        "titleCN": "老鹰不说请字",
+        "titleJP": "「おねがい」を言わないイーグル",
+        "titleKR": "부탁해!",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "Yogopolis is not always at peace. Sometimes, big problems arise and our heroes have to save the day.",
+                "textES": "En Yogópolis no todo es paz y tranquilidad. Algunas veces hay problemas mayores que nuestros héroes deben atender.",
+                "textPT": "Yogópolis nem sempre está em paz. Às vezes, surgem grandes problemas, e os nossos heróis precisam salvar a situação.",
+                "textCN": "Yogopolis并不总是风平浪静。有时也会出现大问题，必须由我们的英雄们来拯救。",
+                "textJP": "ヨゴポリスはいつもおだやかとはかぎりません。大きなもんだいがおこってヒーローにたすけてもらうこともあります。",
+                "textKR": "요고폴리스는 항상 평화롭지는 않아요. 가끔 큰 문제가 생기고 우리의 히어로들은 그 문제를 해결해야만 해요.",
+                "wordsES": [
+                    {
+                        "start": "0.181",
+                        "text": "En"
+                    },
+                    {
+                        "start": "0.465",
+                        "text": "Yogópolis"
+                    },
+                    {
+                        "start": "1.414",
+                        "text": "no"
+                    },
+                    {
+                        "start": "1.661",
+                        "text": "todo"
+                    },
+                    {
+                        "start": "1.970",
+                        "text": "es"
+                    },
+                    {
+                        "start": "2.154",
+                        "text": "paz"
+                    },
+                    {
+                        "start": "2.397",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.511",
+                        "text": "tranquilidad"
+                    },
+                    {
+                        "start": "4.101",
+                        "text": "Algunas"
+                    },
+                    {
+                        "start": "4.696",
+                        "text": "veces"
+                    },
+                    {
+                        "start": "5.282",
+                        "text": "hay"
+                    },
+                    {
+                        "start": "5.512",
+                        "text": "problemas"
+                    },
+                    {
+                        "start": "6.050",
+                        "text": "mayores"
+                    },
+                    {
+                        "start": "6.654",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.753",
+                        "text": "nuestros"
+                    },
+                    {
+                        "start": "7.153",
+                        "text": "héroes"
+                    },
+                    {
+                        "start": "7.572",
+                        "text": "deben"
+                    },
+                    {
+                        "start": "7.802",
+                        "text": "atender"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.637",
+                        "text": "Yogopolis"
+                    },
+                    {
+                        "start": "1.563",
+                        "text": "is"
+                    },
+                    {
+                        "start": "1.768",
+                        "text": "not"
+                    },
+                    {
+                        "start": "2.167",
+                        "text": "always"
+                    },
+                    {
+                        "start": "2.600",
+                        "text": "at"
+                    },
+                    {
+                        "start": "2.958",
+                        "text": "peace"
+                    },
+                    {
+                        "start": "3.944",
+                        "text": "Sometimes"
+                    },
+                    {
+                        "start": "4.944",
+                        "text": "big"
+                    },
+                    {
+                        "start": "5.285",
+                        "text": "problems"
+                    },
+                    {
+                        "start": "5.782",
+                        "text": "arise"
+                    },
+                    {
+                        "start": "6.440",
+                        "text": "and"
+                    },
+                    {
+                        "start": "6.570",
+                        "text": "our"
+                    },
+                    {
+                        "start": "6.825",
+                        "text": "heroes"
+                    },
+                    {
+                        "start": "7.358",
+                        "text": "have"
+                    },
+                    {
+                        "start": "7.565",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.731",
+                        "text": "save"
+                    },
+                    {
+                        "start": "7.970",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.101",
+                        "text": "day"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.005",
+                        "text": "요고폴리스는"
+                    },
+                    {
+                        "start": "2.044",
+                        "text": "항상"
+                    },
+                    {
+                        "start": "3.003",
+                        "text": "평화롭지는"
+                    },
+                    {
+                        "start": "4.478",
+                        "text": "않아요."
+                    },
+                    {
+                        "start": "6.271",
+                        "text": "가끔"
+                    },
+                    {
+                        "start": "7.526",
+                        "text": "큰"
+                    },
+                    {
+                        "start": "8.308",
+                        "text": "문제가"
+                    },
+                    {
+                        "start": "9.252",
+                        "text": "생기고"
+                    },
+                    {
+                        "start": "10.753",
+                        "text": "우리의"
+                    },
+                    {
+                        "start": "11.553",
+                        "text": "히어로들은"
+                    },
+                    {
+                        "start": "13.251",
+                        "text": "그"
+                    },
+                    {
+                        "start": "13.787",
+                        "text": "문제를"
+                    },
+                    {
+                        "start": "14.950",
+                        "text": "해결해야만"
+                    },
+                    {
+                        "start": "16.165",
+                        "text": "해요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "On the invasion day, the Yogotars had to act quickly. &#34;Luna! Turn on your force field!&#34;  shouted Eagle. &#34;Hey! I already did that, you don't have to yell at me,&#34;  answered Luna, mad. ",
+                "textES": "El día de la invasión, los Yogotars actuaron rápidamente. <br><br>–¡Luna! Activa tu campo de defensa –gritó Eagle. <br><br>–Oye, ya lo hice, no tienes que gritarme –dijo Luna molesta.",
+                "textPT": "No dia da invasão, os Yogotars tiveram de agir rapidamente. “Luna! Ligue o campo de força!”, gritou Eagle. “Ei! Eu já fiz isso. Você não precisa gritar comigo”, respondeu Luna, bem chateada.",
+                "textCN": "遭到入侵的那天，各位Yogotar必须迅速行动起来。<br>“鲁娜！打开你的力场！” 伊戈喊道。<br>“嘿！我已经打开了，你用不着对我大喊大叫。” 鲁娜生气地回答。",
+                "textJP": "しんりゃくしゃがやってきた日ヨゴターたちはすばやくこうどうしなければなりませんでした。「ルナ！きみのフォースフィールドをオンにしろ！」<br>イーグルがさけびました。「ちょっと！もうやったわよ。どならなくてもいいじゃない」ルナはおこってこたえました。",
+                "textKR": "공격을 받은 어느 날, 요고타들은 재빠르게 행동해야 했어요. <br>“루나야! 네 방어막을 얼른 켜!” 이글이가 소리쳤어요. <br>“야! 이미 켜 놨어. 나한테 소리를 지를 필요는 없어.” 루나가 화난 목소리로 대답했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.162",
+                        "text": "El"
+                    },
+                    {
+                        "start": "0.396",
+                        "text": "día"
+                    },
+                    {
+                        "start": "0.666",
+                        "text": "de"
+                    },
+                    {
+                        "start": "0.768",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.954",
+                        "text": "invasión"
+                    },
+                    {
+                        "start": "1.823",
+                        "text": "los"
+                    },
+                    {
+                        "start": "2.087",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "2.777",
+                        "text": "actuaron"
+                    },
+                    {
+                        "start": "3.515",
+                        "text": "rápidamente"
+                    },
+                    {
+                        "start": "5.872",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "6.831",
+                        "text": "Activa"
+                    },
+                    {
+                        "start": "7.383",
+                        "text": "tu"
+                    },
+                    {
+                        "start": "7.557",
+                        "text": "campo"
+                    },
+                    {
+                        "start": "7.887",
+                        "text": "de"
+                    },
+                    {
+                        "start": "7.983",
+                        "text": "defensa"
+                    },
+                    {
+                        "start": "9.758",
+                        "text": "gritó"
+                    },
+                    {
+                        "start": "10.496",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "12.000",
+                        "text": "Oye"
+                    },
+                    {
+                        "start": "12.691",
+                        "text": "ya"
+                    },
+                    {
+                        "start": "12.931",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "13.051",
+                        "text": "hice"
+                    },
+                    {
+                        "start": "14.071",
+                        "text": "no"
+                    },
+                    {
+                        "start": "14.376",
+                        "text": "tienes"
+                    },
+                    {
+                        "start": "14.778",
+                        "text": "que"
+                    },
+                    {
+                        "start": "14.904",
+                        "text": "gritarme"
+                    },
+                    {
+                        "start": "16.644",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "17.111",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "17.429",
+                        "text": "molesta"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.678",
+                        "text": "On"
+                    },
+                    {
+                        "start": "0.820",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.093",
+                        "text": "invasion"
+                    },
+                    {
+                        "start": "1.606",
+                        "text": "day"
+                    },
+                    {
+                        "start": "2.094",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.270",
+                        "text": "yogotars"
+                    },
+                    {
+                        "start": "2.909",
+                        "text": "had"
+                    },
+                    {
+                        "start": "3.192",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.329",
+                        "text": "act"
+                    },
+                    {
+                        "start": "3.763",
+                        "text": "quickly"
+                    },
+                    {
+                        "start": "4.984",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "5.711",
+                        "text": "Turn"
+                    },
+                    {
+                        "start": "5.974",
+                        "text": "on"
+                    },
+                    {
+                        "start": "6.165",
+                        "text": "your"
+                    },
+                    {
+                        "start": "6.477",
+                        "text": "force"
+                    },
+                    {
+                        "start": "6.804",
+                        "text": "field"
+                    },
+                    {
+                        "start": "7.590",
+                        "text": "shouted"
+                    },
+                    {
+                        "start": "7.941",
+                        "text": "eagle"
+                    },
+                    {
+                        "start": "9.064",
+                        "text": "hey"
+                    },
+                    {
+                        "start": "9.767",
+                        "text": "I"
+                    },
+                    {
+                        "start": "9.904",
+                        "text": "already"
+                    },
+                    {
+                        "start": "10.358",
+                        "text": "did"
+                    },
+                    {
+                        "start": "10.577",
+                        "text": "that"
+                    },
+                    {
+                        "start": "11.109",
+                        "text": "you"
+                    },
+                    {
+                        "start": "11.304",
+                        "text": "don't"
+                    },
+                    {
+                        "start": "11.549",
+                        "text": "have"
+                    },
+                    {
+                        "start": "11.758",
+                        "text": "to"
+                    },
+                    {
+                        "start": "11.890",
+                        "text": "yell"
+                    },
+                    {
+                        "start": "12.046",
+                        "text": "at"
+                    },
+                    {
+                        "start": "12.232",
+                        "text": "me"
+                    },
+                    {
+                        "start": "12.852",
+                        "text": "answered"
+                    },
+                    {
+                        "start": "13.247",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "13.833",
+                        "text": "mad"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.009",
+                        "text": "공격을"
+                    },
+                    {
+                        "start": "0.990",
+                        "text": "받은"
+                    },
+                    {
+                        "start": "1.738",
+                        "text": "어느"
+                    },
+                    {
+                        "start": "2.312",
+                        "text": "날,"
+                    },
+                    {
+                        "start": "3.307",
+                        "text": "요고타들은"
+                    },
+                    {
+                        "start": "5.052",
+                        "text": "재빠르게"
+                    },
+                    {
+                        "start": "6.360",
+                        "text": "행동해야"
+                    },
+                    {
+                        "start": "7.466",
+                        "text": "했어요."
+                    },
+                    {
+                        "start": "10.032",
+                        "text": "루나야!"
+                    },
+                    {
+                        "start": "11.109",
+                        "text": "네"
+                    },
+                    {
+                        "start": "11.311",
+                        "text": "방어막을"
+                    },
+                    {
+                        "start": "11.988",
+                        "text": "얼른"
+                    },
+                    {
+                        "start": "12.436",
+                        "text": "켜!"
+                    },
+                    {
+                        "start": "13.673",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "14.686",
+                        "text": "소리쳤어요."
+                    },
+                    {
+                        "start": "17.313",
+                        "text": "야!"
+                    },
+                    {
+                        "start": "18.300",
+                        "text": "이미"
+                    },
+                    {
+                        "start": "18.625",
+                        "text": "켜"
+                    },
+                    {
+                        "start": "18.775",
+                        "text": "놨어."
+                    },
+                    {
+                        "start": "20.035",
+                        "text": "나한테"
+                    },
+                    {
+                        "start": "20.838",
+                        "text": "소리를"
+                    },
+                    {
+                        "start": "21.484",
+                        "text": "지를"
+                    },
+                    {
+                        "start": "22.003",
+                        "text": "필요는"
+                    },
+                    {
+                        "start": "22.541",
+                        "text": "없어."
+                    },
+                    {
+                        "start": "24.304",
+                        "text": "루나가"
+                    },
+                    {
+                        "start": "25.663",
+                        "text": "화난"
+                    },
+                    {
+                        "start": "26.392",
+                        "text": "목소리로"
+                    },
+                    {
+                        "start": "27.600",
+                        "text": "대답했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "“Oof, jump and take down their paralyzing beam!” Eagle shouted. <br> Oof did not say anything, but there was something about his peer's attitude that made him mad.",
+                "textES": "–¡Oof, salta y derriba su rayo paralizador! –gritó Eagle. <br><br>Oof no dijo nada, pero algo en la actitud de su compañero le molestó.",
+                "textPT": "“Oof, pule e desative o raio paralisante deles!”, gritou Eagle. <br>Oof não disse nada, mas tinha alguma coisa na atitude de seu colega que o irritava.",
+                "textCN": "“奥夫，跳下去把他们使人麻痹的光束拿下来！”伊戈喊道。<br>奥夫什么也没说，但这位同伴的态度让他有些生气。",
+                "textJP": "「ウーフ、ジャンプしてやつらのビームを止めるんだ！」イーグルはさけびました。<br> ウーフはなにも言いませんでしたがイーグルのたいどにおこっていました。",
+                "textKR": "“우프, 점프해 가서 적들의 마비 광선을 치워!” 이글이가 소리쳤어요. <br> 우프는 아무 말도 하지 않았지만, 우프를 화나게 한 친구의 태도에는 문제가 있어 보였어요.",
+                "wordsES": [
+                    {
+                        "start": "0.200",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "1.189",
+                        "text": "salta"
+                    },
+                    {
+                        "start": "1.675",
+                        "text": "y"
+                    },
+                    {
+                        "start": "1.810",
+                        "text": "derriba"
+                    },
+                    {
+                        "start": "2.209",
+                        "text": "su"
+                    },
+                    {
+                        "start": "2.382",
+                        "text": "rayo"
+                    },
+                    {
+                        "start": "2.795",
+                        "text": "paralizador"
+                    },
+                    {
+                        "start": "4.691",
+                        "text": "gritó"
+                    },
+                    {
+                        "start": "5.377",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "7.182",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "7.820",
+                        "text": "no"
+                    },
+                    {
+                        "start": "7.989",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "8.302",
+                        "text": "nada"
+                    },
+                    {
+                        "start": "9.152",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "9.352",
+                        "text": "algo"
+                    },
+                    {
+                        "start": "9.690",
+                        "text": "en"
+                    },
+                    {
+                        "start": "9.808",
+                        "text": "la"
+                    },
+                    {
+                        "start": "9.864",
+                        "text": "actitud"
+                    },
+                    {
+                        "start": "10.333",
+                        "text": "de"
+                    },
+                    {
+                        "start": "10.437",
+                        "text": "su"
+                    },
+                    {
+                        "start": "10.632",
+                        "text": "compañero"
+                    },
+                    {
+                        "start": "11.366",
+                        "text": "le"
+                    },
+                    {
+                        "start": "11.504",
+                        "text": "molestó"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.530",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "1.386",
+                        "text": "jump"
+                    },
+                    {
+                        "start": "1.920",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.082",
+                        "text": "take"
+                    },
+                    {
+                        "start": "2.393",
+                        "text": "down"
+                    },
+                    {
+                        "start": "2.623",
+                        "text": "their"
+                    },
+                    {
+                        "start": "2.823",
+                        "text": "paralyzing"
+                    },
+                    {
+                        "start": "3.614",
+                        "text": "beam"
+                    },
+                    {
+                        "start": "4.355",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "4.666",
+                        "text": "shouted"
+                    },
+                    {
+                        "start": "5.991",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "6.264",
+                        "text": "did"
+                    },
+                    {
+                        "start": "6.421",
+                        "text": "not"
+                    },
+                    {
+                        "start": "6.759",
+                        "text": "say"
+                    },
+                    {
+                        "start": "7.000",
+                        "text": "anything"
+                    },
+                    {
+                        "start": "7.666",
+                        "text": "but"
+                    },
+                    {
+                        "start": "7.804",
+                        "text": "there"
+                    },
+                    {
+                        "start": "7.950",
+                        "text": "was"
+                    },
+                    {
+                        "start": "8.180",
+                        "text": "something"
+                    },
+                    {
+                        "start": "8.572",
+                        "text": "about"
+                    },
+                    {
+                        "start": "8.749",
+                        "text": "his"
+                    },
+                    {
+                        "start": "9.187",
+                        "text": "peer's"
+                    },
+                    {
+                        "start": "9.544",
+                        "text": "attitude"
+                    },
+                    {
+                        "start": "10.189",
+                        "text": "that"
+                    },
+                    {
+                        "start": "10.343",
+                        "text": "made"
+                    },
+                    {
+                        "start": "10.527",
+                        "text": "him"
+                    },
+                    {
+                        "start": "10.765",
+                        "text": "mad"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.002",
+                        "text": "우프,"
+                    },
+                    {
+                        "start": "1.032",
+                        "text": "점프해"
+                    },
+                    {
+                        "start": "1.640",
+                        "text": "가서"
+                    },
+                    {
+                        "start": "2.555",
+                        "text": "적들의"
+                    },
+                    {
+                        "start": "3.410",
+                        "text": "마비"
+                    },
+                    {
+                        "start": "3.824",
+                        "text": "광선을"
+                    },
+                    {
+                        "start": "4.490",
+                        "text": "치워!"
+                    },
+                    {
+                        "start": "6.437",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "7.551",
+                        "text": "소리쳤어요."
+                    },
+                    {
+                        "start": "9.901",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "11.247",
+                        "text": "아무"
+                    },
+                    {
+                        "start": "11.882",
+                        "text": "말도"
+                    },
+                    {
+                        "start": "12.754",
+                        "text": "하지"
+                    },
+                    {
+                        "start": "13.243",
+                        "text": "않았지만,"
+                    },
+                    {
+                        "start": "14.919",
+                        "text": "우프를"
+                    },
+                    {
+                        "start": "15.853",
+                        "text": "화나게"
+                    },
+                    {
+                        "start": "16.411",
+                        "text": "한"
+                    },
+                    {
+                        "start": "17.395",
+                        "text": "친구의"
+                    },
+                    {
+                        "start": "18.247",
+                        "text": "태도에는"
+                    },
+                    {
+                        "start": "19.685",
+                        "text": "문제가"
+                    },
+                    {
+                        "start": "20.650",
+                        "text": "있어"
+                    },
+                    {
+                        "start": "21.320",
+                        "text": "보였어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "“You are too slow Dinamita, give me that” <br> Eagle snarled as he snatched the rubber-duck shooter from Dinamita's hands. <br>Dinamita kept quiet, but he thought Eagle's manners could be better.",
+                "textES": "–Eres muy lento Dinamita, déjame eso a mí. <br><br>Eagle le arrebató el cañón de patos de hule a Dinamita, <br><br>él no dijo nada, pero los modales de Eagle no le parecieron los correctos.",
+                "textPT": "“Você é lerdo demais, Dinamita, me dê isso aqui”, disse Eagle aos berros enquanto arrancava o lançador de patos de borracha das mãos de Dinamita. Dinamita não disse nada, mas pensou que Eagle poderia tratá-lo melhor.",
+                "textCN": "“你太慢了，迪纳米特，把那个给我。” <br>伊戈从迪纳米特手中抢走了一个橡皮鸭射手，咆哮道。<br>迪纳米特什么也没说，但他认为伊戈的举止应该表现得更好一些。",
+                "textJP": "「ディナミタきみはおそすぎる、それをぼくにくれ」イーグルはどなりつけながらディナミタの手からあひるのシューターをとりあげました。<br>ディナミタはじっとだまっていましたがイーグルのマナーにはもんだいがあるとおもいました。",
+                "textKR": "“다이나미타, 너는 너무 느려. 그거 이리 내.” <br> 이글이가 으르렁거리면서 다이나미타의 손에서 고무 오리 대포를 뺏어왔어요. <br> 다이나미타는 조용히 있었지만, 이글이가 좀 더 좋은 태도를 보였으면 좋겠다고 생각했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.215",
+                        "text": "Eres"
+                    },
+                    {
+                        "start": "0.537",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "0.788",
+                        "text": "lento"
+                    },
+                    {
+                        "start": "1.354",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "2.390",
+                        "text": "déjame"
+                    },
+                    {
+                        "start": "2.892",
+                        "text": "eso"
+                    },
+                    {
+                        "start": "3.114",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.201",
+                        "text": "mi"
+                    },
+                    {
+                        "start": "4.819",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "5.619",
+                        "text": "le"
+                    },
+                    {
+                        "start": "5.730",
+                        "text": "arrebató"
+                    },
+                    {
+                        "start": "6.262",
+                        "text": "el"
+                    },
+                    {
+                        "start": "6.408",
+                        "text": "cañón"
+                    },
+                    {
+                        "start": "6.809",
+                        "text": "de"
+                    },
+                    {
+                        "start": "6.989",
+                        "text": "patos"
+                    },
+                    {
+                        "start": "7.306",
+                        "text": "de"
+                    },
+                    {
+                        "start": "7.393",
+                        "text": "hule"
+                    },
+                    {
+                        "start": "8.076",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.191",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "9.954",
+                        "text": "él"
+                    },
+                    {
+                        "start": "10.428",
+                        "text": "no"
+                    },
+                    {
+                        "start": "10.771",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "10.957",
+                        "text": "nada"
+                    },
+                    {
+                        "start": "11.945",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "12.168",
+                        "text": "los"
+                    },
+                    {
+                        "start": "12.365",
+                        "text": "modales"
+                    },
+                    {
+                        "start": "12.810",
+                        "text": "de"
+                    },
+                    {
+                        "start": "13.015",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "13.524",
+                        "text": "no"
+                    },
+                    {
+                        "start": "13.711",
+                        "text": "le"
+                    },
+                    {
+                        "start": "13.908",
+                        "text": "parecieron"
+                    },
+                    {
+                        "start": "14.532",
+                        "text": "los"
+                    },
+                    {
+                        "start": "14.729",
+                        "text": "correctos"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.679",
+                        "text": "You"
+                    },
+                    {
+                        "start": "0.911",
+                        "text": "are"
+                    },
+                    {
+                        "start": "1.196",
+                        "text": "too"
+                    },
+                    {
+                        "start": "1.411",
+                        "text": "slow"
+                    },
+                    {
+                        "start": "2.000",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "3.129",
+                        "text": "give"
+                    },
+                    {
+                        "start": "3.229",
+                        "text": "me"
+                    },
+                    {
+                        "start": "3.514",
+                        "text": "that"
+                    },
+                    {
+                        "start": "4.167",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "4.496",
+                        "text": "snarled"
+                    },
+                    {
+                        "start": "5.017",
+                        "text": "as"
+                    },
+                    {
+                        "start": "5.245",
+                        "text": "he"
+                    },
+                    {
+                        "start": "5.482",
+                        "text": "snatched"
+                    },
+                    {
+                        "start": "5.889",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.016",
+                        "text": "rubber-duck"
+                    },
+                    {
+                        "start": "6.428",
+                        "text": "shooter"
+                    },
+                    {
+                        "start": "6.928",
+                        "text": "from"
+                    },
+                    {
+                        "start": "7.094",
+                        "text": "Dinamita's"
+                    },
+                    {
+                        "start": "7.708",
+                        "text": "hands"
+                    },
+                    {
+                        "start": "9.154",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "9.750",
+                        "text": "kept"
+                    },
+                    {
+                        "start": "10.153",
+                        "text": "quiet"
+                    },
+                    {
+                        "start": "10.688",
+                        "text": "but"
+                    },
+                    {
+                        "start": "10.841",
+                        "text": "he"
+                    },
+                    {
+                        "start": "11.000",
+                        "text": "thought"
+                    },
+                    {
+                        "start": "11.205",
+                        "text": "Eagle's"
+                    },
+                    {
+                        "start": "11.555",
+                        "text": "manners"
+                    },
+                    {
+                        "start": "12.217",
+                        "text": "could"
+                    },
+                    {
+                        "start": "12.357",
+                        "text": "be"
+                    },
+                    {
+                        "start": "12.559",
+                        "text": "better"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.005",
+                        "text": "다이나미타,"
+                    },
+                    {
+                        "start": "1.291",
+                        "text": "너는"
+                    },
+                    {
+                        "start": "1.763",
+                        "text": "너무"
+                    },
+                    {
+                        "start": "2.212",
+                        "text": "느려."
+                    },
+                    {
+                        "start": "3.320",
+                        "text": "그거"
+                    },
+                    {
+                        "start": "3.892",
+                        "text": "이리"
+                    },
+                    {
+                        "start": "4.250",
+                        "text": "내."
+                    },
+                    {
+                        "start": "5.585",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "6.928",
+                        "text": "으르렁거리면서"
+                    },
+                    {
+                        "start": "9.002",
+                        "text": "다이나미타의"
+                    },
+                    {
+                        "start": "10.268",
+                        "text": "손에서"
+                    },
+                    {
+                        "start": "11.734",
+                        "text": "고무"
+                    },
+                    {
+                        "start": "12.347",
+                        "text": "오리"
+                    },
+                    {
+                        "start": "12.901",
+                        "text": "대포를"
+                    },
+                    {
+                        "start": "14.144",
+                        "text": "뺏어왔어요."
+                    },
+                    {
+                        "start": "16.896",
+                        "text": "다이나미타는"
+                    },
+                    {
+                        "start": "18.630",
+                        "text": "조용히"
+                    },
+                    {
+                        "start": "19.420",
+                        "text": "있었지만,"
+                    },
+                    {
+                        "start": "21.068",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "22.383",
+                        "text": "좀"
+                    },
+                    {
+                        "start": "22.826",
+                        "text": "더"
+                    },
+                    {
+                        "start": "23.763",
+                        "text": "좋은"
+                    },
+                    {
+                        "start": "24.361",
+                        "text": "태도를"
+                    },
+                    {
+                        "start": "25.423",
+                        "text": "보였으면"
+                    },
+                    {
+                        "start": "26.476",
+                        "text": "좋겠다고"
+                    },
+                    {
+                        "start": "27.827",
+                        "text": "생각했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "In the end, the Yogotars were able to stop the invasion of Yogopolis. Eagle seemed to be very happy, but the rest of the team wasn't. &#34;We did it! Why don't we go out to celebrate?&#34; said Eagle, excitedly. But his friends didn't follow him.",
+                "textES": "Al final, los Yogotars lograron detener la invasión a Yogópolis. Eagle parecía muy contento, pero el resto de sus compañeros no lo estaban. <br><br>–¡Lo logramos! ¿Qué les parece si celebramos? –dijo Eagle muy emocionado. <br><br>Sus compañeros no le hicieron caso.",
+                "textPT": "No final, os Yogotars conseguiram impedir a invasão de Yogópolis. Eagle parecia bem feliz, mas o resto da equipe, não. <br>“Conseguimos! Por que a gente não sai pra comemorar?”, disse Eagle todo empolgado, mas seus amigos não o seguiram",
+                "textCN": "最终，大家成功地阻止了对Yogopolis的入侵。伊戈似乎很高兴，但其他队员却不高兴。<br>“我们胜利了！为什么不出去庆祝一下呢？”伊戈兴奋地说，但他的朋友们却没有人跟他一起。",
+                "textJP": "ついにヨゴターたちはヨゴポリスのしんりゃくをふせぐことができました。イーグルはとてもうれしそうでしたが、チームのみんなはそうではありませんでした。「ぼくたちやったよ！外にでておいわいしようよ。」イーグルがウキウキして言いましたが、だれもその声にしたがいませんでした。",
+                "textKR": "결국, 요고타들은 요고폴리스를 침략하는 적들을 성공적으로 막았어요. 이글이는 굉장히 신나 보였지만, 다른 친구들은 그렇지 않아 보였어요. <br>“우리가 해냈어! 우리의 승리를 기념하러 가자.” <br>이글이가 들뜬 목소리로 말했지만, 친구들은 이글이를 따르지 않았어요.",
+                "wordsES": [
+                    {
+                        "start": "0.158",
+                        "text": "Al"
+                    },
+                    {
+                        "start": "0.352",
+                        "text": "final"
+                    },
+                    {
+                        "start": "1.176",
+                        "text": "los"
+                    },
+                    {
+                        "start": "1.516",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "2.179",
+                        "text": "lograron"
+                    },
+                    {
+                        "start": "2.828",
+                        "text": "detener"
+                    },
+                    {
+                        "start": "3.344",
+                        "text": "la"
+                    },
+                    {
+                        "start": "3.513",
+                        "text": "invasión"
+                    },
+                    {
+                        "start": "3.974",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.102",
+                        "text": "Yogópolis"
+                    },
+                    {
+                        "start": "5.480",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "6.011",
+                        "text": "parecía"
+                    },
+                    {
+                        "start": "6.524",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "6.967",
+                        "text": "contento"
+                    },
+                    {
+                        "start": "8.139",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "8.311",
+                        "text": "el"
+                    },
+                    {
+                        "start": "8.428",
+                        "text": "resto"
+                    },
+                    {
+                        "start": "8.729",
+                        "text": "de"
+                    },
+                    {
+                        "start": "8.897",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "9.135",
+                        "text": "compañeros"
+                    },
+                    {
+                        "start": "10.073",
+                        "text": "no"
+                    },
+                    {
+                        "start": "10.428",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "10.533",
+                        "text": "estaban"
+                    },
+                    {
+                        "start": "12.450",
+                        "text": "Lo"
+                    },
+                    {
+                        "start": "12.637",
+                        "text": "logramos"
+                    },
+                    {
+                        "start": "13.992",
+                        "text": "Que"
+                    },
+                    {
+                        "start": "14.139",
+                        "text": "les"
+                    },
+                    {
+                        "start": "14.289",
+                        "text": "parece"
+                    },
+                    {
+                        "start": "14.600",
+                        "text": "si"
+                    },
+                    {
+                        "start": "14.802",
+                        "text": "celebramos"
+                    },
+                    {
+                        "start": "16.553",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "17.065",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "17.765",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "18.025",
+                        "text": "emocionado"
+                    },
+                    {
+                        "start": "19.684",
+                        "text": "Sus"
+                    },
+                    {
+                        "start": "19.955",
+                        "text": "compañeros"
+                    },
+                    {
+                        "start": "20.992",
+                        "text": "no"
+                    },
+                    {
+                        "start": "21.344",
+                        "text": "le"
+                    },
+                    {
+                        "start": "21.523",
+                        "text": "hicieron"
+                    },
+                    {
+                        "start": "22.073",
+                        "text": "caso"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.576",
+                        "text": "In"
+                    },
+                    {
+                        "start": "0.729",
+                        "text": "the"
+                    },
+                    {
+                        "start": "0.841",
+                        "text": "end"
+                    },
+                    {
+                        "start": "1.382",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.534",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "2.258",
+                        "text": "were"
+                    },
+                    {
+                        "start": "2.405",
+                        "text": "able"
+                    },
+                    {
+                        "start": "2.710",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.016",
+                        "text": "stop"
+                    },
+                    {
+                        "start": "3.310",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.428",
+                        "text": "invasion"
+                    },
+                    {
+                        "start": "3.933",
+                        "text": "of"
+                    },
+                    {
+                        "start": "4.145",
+                        "text": "Yogopolis"
+                    },
+                    {
+                        "start": "5.791",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "6.238",
+                        "text": "seemed"
+                    },
+                    {
+                        "start": "6.467",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.649",
+                        "text": "be"
+                    },
+                    {
+                        "start": "6.832",
+                        "text": "very"
+                    },
+                    {
+                        "start": "7.196",
+                        "text": "happy"
+                    },
+                    {
+                        "start": "7.784",
+                        "text": "but"
+                    },
+                    {
+                        "start": "7.931",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.060",
+                        "text": "rest"
+                    },
+                    {
+                        "start": "8.313",
+                        "text": "of"
+                    },
+                    {
+                        "start": "8.460",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.672",
+                        "text": "team"
+                    },
+                    {
+                        "start": "8.936",
+                        "text": "wasn't"
+                    },
+                    {
+                        "start": "9.924",
+                        "text": "We"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "did"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "it"
+                    },
+                    {
+                        "start": "11.441",
+                        "text": "Why"
+                    },
+                    {
+                        "start": "11.647",
+                        "text": "don't"
+                    },
+                    {
+                        "start": "11.870",
+                        "text": "we"
+                    },
+                    {
+                        "start": "12.052",
+                        "text": "go"
+                    },
+                    {
+                        "start": "12.188",
+                        "text": "out"
+                    },
+                    {
+                        "start": "12.446",
+                        "text": "to"
+                    },
+                    {
+                        "start": "12.693",
+                        "text": "celebrate"
+                    },
+                    {
+                        "start": "13.596",
+                        "text": "said"
+                    },
+                    {
+                        "start": "13.893",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "14.357",
+                        "text": "excitedly"
+                    },
+                    {
+                        "start": "15.451",
+                        "text": "but"
+                    },
+                    {
+                        "start": "15.574",
+                        "text": "his"
+                    },
+                    {
+                        "start": "15.850",
+                        "text": "friends"
+                    },
+                    {
+                        "start": "16.397",
+                        "text": "didn't"
+                    },
+                    {
+                        "start": "16.809",
+                        "text": "follow"
+                    },
+                    {
+                        "start": "17.173",
+                        "text": "him"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.001",
+                        "text": "결국,"
+                    },
+                    {
+                        "start": "1.072",
+                        "text": "요고타들은"
+                    },
+                    {
+                        "start": "2.710",
+                        "text": "요고폴리스를"
+                    },
+                    {
+                        "start": "4.109",
+                        "text": "침략하는"
+                    },
+                    {
+                        "start": "5.468",
+                        "text": "적들을"
+                    },
+                    {
+                        "start": "6.719",
+                        "text": "성공적으로"
+                    },
+                    {
+                        "start": "8.005",
+                        "text": "막았어요."
+                    },
+                    {
+                        "start": "10.758",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "12.177",
+                        "text": "굉장히"
+                    },
+                    {
+                        "start": "13.150",
+                        "text": "신나"
+                    },
+                    {
+                        "start": "13.885",
+                        "text": "보였지만,"
+                    },
+                    {
+                        "start": "15.464",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "16.043",
+                        "text": "친구들은"
+                    },
+                    {
+                        "start": "17.671",
+                        "text": "그렇지"
+                    },
+                    {
+                        "start": "18.443",
+                        "text": "않아"
+                    },
+                    {
+                        "start": "19.022",
+                        "text": "보였어요."
+                    },
+                    {
+                        "start": "21.355",
+                        "text": "우리가"
+                    },
+                    {
+                        "start": "21.773",
+                        "text": "해냈어!"
+                    },
+                    {
+                        "start": "23.184",
+                        "text": "우리의"
+                    },
+                    {
+                        "start": "23.609",
+                        "text": "승리를"
+                    },
+                    {
+                        "start": "24.458",
+                        "text": "기념하러"
+                    },
+                    {
+                        "start": "25.103",
+                        "text": "가자."
+                    },
+                    {
+                        "start": "27.359",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "28.817",
+                        "text": "들뜬"
+                    },
+                    {
+                        "start": "29.669",
+                        "text": "목소리로"
+                    },
+                    {
+                        "start": "30.680",
+                        "text": "말했지만,"
+                    },
+                    {
+                        "start": "32.329",
+                        "text": "친구들은"
+                    },
+                    {
+                        "start": "33.891",
+                        "text": "이글이를"
+                    },
+                    {
+                        "start": "34.871",
+                        "text": "따르지"
+                    },
+                    {
+                        "start": "35.609",
+                        "text": "않았어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "&#34;Team?&#34;  asked Eagle. The rest of the Yogotars left Eagle by himself. Eagle was confused, he didn't know what he did wrong. <br><br>&#34;Sorry Eagle, the team is not quite happy with you,&#34;  said Luna. <br>&#34;What did I do?&#34;  asked Eagle, confused. <br>&#34;It's because of your manners, Eagle. You never said please or thank you,&#34;  answered Luna, a little angry. <br>&#34;But... I...&#34; said Eagle, embarrassed. <br>TO BE CONTINUED ",
+                "textES": "–¿Amigos? –dijo Eagle. <br><br>El resto de los Yogotars lo dejaron solo. Eagle estaba desconcertado, no sabía qué había hecho mal. <br>–Lo siento Eagle, el equipo no está muy contento contigo –dijo Luna. <br>–¿Qué fue lo que hice? –preguntó Eagle, confundido. <br>–Son tus modales, no hubo un “por favor” ni un “gracias” –respondió Luna, algo molesta. <br>–Pero… yo –dijo Eagle. <br>CONTINUARÁ...",
+                "textPT": "“Equipe?”, perguntou Eagle. O resto dos Yogotars o deixaram sozinho. Eagle ficou confuso; ele não sabia o que tinha feito de errado. “Desculpe, Eagle, mas a equipe não está muito contente com você”, disse Luna. <br>“O que foi que eu fiz?” perguntou Eagle, confuso.  <br>“É por causa do jeito de tratar a gente, Eagle. Você nunca diz por favor ou obrigado”, respondeu Luna, um pouco nervosa. <br>“Mas... eu... ” disse Eagle, envergonhado. <br>CONTINUA",
+                "textCN": "“不一起吗？”伊戈问道。其余的Yogotar都走了，留下他一个人。伊戈被弄糊涂了，他不知道自己做错了什么。“对不起，伊戈，大家对你不太满意，”鲁娜说。“我做了什么？”伊戈疑惑地问。“这是因为你的举止，伊戈。你从来都不说‘请’或‘谢谢’”，鲁娜有点生气地回答。“可是...我...”伊戈尴尬地说。未完待续",
+                "textJP": "<font size='4em'>「みんな？」イーグルはたずねました。ヨゴターたちはイーグルをひとりにしました。イーグルはじぶんがいったい何をしたのかわかっていませんでした。<br>「イーグルわるいけどチームのみんなはきみのことをあまりよくおもっていないわよ」ルナが言いました。<br>ぼくが何をしたっていうの？」イーグルはこまって たずねました。<br>「イーグル、きみのマナーのことよ。いちどもおねがいとかありがとうとか言わなかったじゃない」ルナは少しおこってこたえました。<br>「でも...ぼくは…」イーグルははずかしそうに言いました。<br>つづく</font>",
+                "textKR": "&#34;친구들아?&#34;  이글이가 물었어요. 요고타들은 이글이를 혼자 두고 떠났어요. 이글이는 자기가 뭘 잘못했는지 몰라서 그 상황을 이해할 수 없었어요.&#34; 이글아 미안하지만, 친구들이 너와 있고 싶지 않아 해.&#34;  루나가 말했어요. &#34;내가 뭘 했길래?&#34;  이글이가 혼란스러워서 물었어요. &#34;너의 태도 때문이야 이글아. 너는 '부탁해' 아니면 '고마워'라고 한 번도 말하지 않았잖아.&#34;  루나가 화난 목소리로 대답했어요. &#34;그렇지만…난&#34;  이글이는 당황한 목소리로 말했어요. <br>이야기는 계속됩니다.",
+                "wordsES": [
+                    {
+                        "start": "0.114",
+                        "text": "Amigos"
+                    },
+                    {
+                        "start": "2.554",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "3.055",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "4.766",
+                        "text": "El"
+                    },
+                    {
+                        "start": "5.062",
+                        "text": "resto"
+                    },
+                    {
+                        "start": "5.358",
+                        "text": "de"
+                    },
+                    {
+                        "start": "5.518",
+                        "text": "los"
+                    },
+                    {
+                        "start": "5.723",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "6.430",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "6.544",
+                        "text": "dejaron"
+                    },
+                    {
+                        "start": "7.091",
+                        "text": "solo"
+                    },
+                    {
+                        "start": "8.551",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "9.168",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "9.691",
+                        "text": "desconcertado"
+                    },
+                    {
+                        "start": "11.310",
+                        "text": "no"
+                    },
+                    {
+                        "start": "11.674",
+                        "text": "sabía"
+                    },
+                    {
+                        "start": "12.427",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "12.632",
+                        "text": "había"
+                    },
+                    {
+                        "start": "12.883",
+                        "text": "hecho"
+                    },
+                    {
+                        "start": "13.179",
+                        "text": "mal"
+                    },
+                    {
+                        "start": "15.300",
+                        "text": "Lo"
+                    },
+                    {
+                        "start": "15.528",
+                        "text": "siento"
+                    },
+                    {
+                        "start": "16.075",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "16.919",
+                        "text": "el"
+                    },
+                    {
+                        "start": "17.170",
+                        "text": "equipo"
+                    },
+                    {
+                        "start": "17.557",
+                        "text": "no"
+                    },
+                    {
+                        "start": "17.648",
+                        "text": "está"
+                    },
+                    {
+                        "start": "17.945",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "18.196",
+                        "text": "contento"
+                    },
+                    {
+                        "start": "18.720",
+                        "text": "contigo"
+                    },
+                    {
+                        "start": "20.635",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "21.160",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "22.665",
+                        "text": "Que"
+                    },
+                    {
+                        "start": "23.007",
+                        "text": "fue"
+                    },
+                    {
+                        "start": "23.212",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "23.349",
+                        "text": "que"
+                    },
+                    {
+                        "start": "23.600",
+                        "text": "hice"
+                    },
+                    {
+                        "start": "25.287",
+                        "text": "pregunto"
+                    },
+                    {
+                        "start": "25.925",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "26.564",
+                        "text": "confundido"
+                    },
+                    {
+                        "start": "28.297",
+                        "text": "Son"
+                    },
+                    {
+                        "start": "28.798",
+                        "text": "tus"
+                    },
+                    {
+                        "start": "29.004",
+                        "text": "modales"
+                    },
+                    {
+                        "start": "30.189",
+                        "text": "no"
+                    },
+                    {
+                        "start": "30.486",
+                        "text": "hubo"
+                    },
+                    {
+                        "start": "30.782",
+                        "text": "un"
+                    },
+                    {
+                        "start": "31.033",
+                        "text": "por"
+                    },
+                    {
+                        "start": "31.215",
+                        "text": "favor"
+                    },
+                    {
+                        "start": "31.877",
+                        "text": "ni"
+                    },
+                    {
+                        "start": "32.173",
+                        "text": "un"
+                    },
+                    {
+                        "start": "32.378",
+                        "text": "gracias"
+                    },
+                    {
+                        "start": "33.929",
+                        "text": "respondió"
+                    },
+                    {
+                        "start": "34.681",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "35.297",
+                        "text": "algo"
+                    },
+                    {
+                        "start": "35.753",
+                        "text": "molesta"
+                    },
+                    {
+                        "start": "37.714",
+                        "text": "Pero"
+                    },
+                    {
+                        "start": "38.489",
+                        "text": "yo"
+                    },
+                    {
+                        "start": "39.903",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "40.427",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "41.727",
+                        "text": "CONTINUARÁ"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.593",
+                        "text": "Team"
+                    },
+                    {
+                        "start": "1.459",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "1.756",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "2.896",
+                        "text": "The"
+                    },
+                    {
+                        "start": "3.010",
+                        "text": "rest"
+                    },
+                    {
+                        "start": "3.329",
+                        "text": "of"
+                    },
+                    {
+                        "start": "3.397",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.534",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "4.332",
+                        "text": "left"
+                    },
+                    {
+                        "start": "4.597",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "5.130",
+                        "text": "by"
+                    },
+                    {
+                        "start": "5.336",
+                        "text": "himself"
+                    },
+                    {
+                        "start": "6.544",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "6.594",
+                        "text": "was"
+                    },
+                    {
+                        "start": "7.137",
+                        "text": "confused"
+                    },
+                    {
+                        "start": "8.368",
+                        "text": "he"
+                    },
+                    {
+                        "start": "8.482",
+                        "text": "didn't"
+                    },
+                    {
+                        "start": "8.779",
+                        "text": "know"
+                    },
+                    {
+                        "start": "9.098",
+                        "text": "what"
+                    },
+                    {
+                        "start": "9.235",
+                        "text": "he"
+                    },
+                    {
+                        "start": "9.326",
+                        "text": "did"
+                    },
+                    {
+                        "start": "9.554",
+                        "text": "wrong"
+                    },
+                    {
+                        "start": "11.127",
+                        "text": "Sorry"
+                    },
+                    {
+                        "start": "11.674",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "12.495",
+                        "text": "the"
+                    },
+                    {
+                        "start": "12.655",
+                        "text": "team"
+                    },
+                    {
+                        "start": "13.020",
+                        "text": "is"
+                    },
+                    {
+                        "start": "13.453",
+                        "text": "not"
+                    },
+                    {
+                        "start": "13.863",
+                        "text": "quite"
+                    },
+                    {
+                        "start": "14.114",
+                        "text": "happy"
+                    },
+                    {
+                        "start": "14.479",
+                        "text": "with"
+                    },
+                    {
+                        "start": "14.684",
+                        "text": "you"
+                    },
+                    {
+                        "start": "15.231",
+                        "text": "said"
+                    },
+                    {
+                        "start": "15.482",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "16.394",
+                        "text": "What"
+                    },
+                    {
+                        "start": "16.600",
+                        "text": "did"
+                    },
+                    {
+                        "start": "16.782",
+                        "text": "I"
+                    },
+                    {
+                        "start": "17.010",
+                        "text": "do"
+                    },
+                    {
+                        "start": "17.694",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "18.082",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "18.720",
+                        "text": "confused"
+                    },
+                    {
+                        "start": "19.974",
+                        "text": "It's"
+                    },
+                    {
+                        "start": "20.271",
+                        "text": "because"
+                    },
+                    {
+                        "start": "20.681",
+                        "text": "of"
+                    },
+                    {
+                        "start": "20.772",
+                        "text": "your"
+                    },
+                    {
+                        "start": "20.955",
+                        "text": "manners"
+                    },
+                    {
+                        "start": "21.547",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "22.505",
+                        "text": "You"
+                    },
+                    {
+                        "start": "22.665",
+                        "text": "never"
+                    },
+                    {
+                        "start": "23.030",
+                        "text": "said"
+                    },
+                    {
+                        "start": "23.440",
+                        "text": "please"
+                    },
+                    {
+                        "start": "24.170",
+                        "text": "or"
+                    },
+                    {
+                        "start": "24.443",
+                        "text": "thank"
+                    },
+                    {
+                        "start": "24.717",
+                        "text": "you"
+                    },
+                    {
+                        "start": "25.447",
+                        "text": "answered"
+                    },
+                    {
+                        "start": "25.857",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "26.404",
+                        "text": "a"
+                    },
+                    {
+                        "start": "26.473",
+                        "text": "little"
+                    },
+                    {
+                        "start": "26.792",
+                        "text": "angry"
+                    },
+                    {
+                        "start": "27.795",
+                        "text": "But"
+                    },
+                    {
+                        "start": "28.593",
+                        "text": "I"
+                    },
+                    {
+                        "start": "29.482",
+                        "text": "said"
+                    },
+                    {
+                        "start": "29.710",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "30.372",
+                        "text": "embarrassed"
+                    },
+                    {
+                        "start": "31.808",
+                        "text": "TO"
+                    },
+                    {
+                        "start": "32.036",
+                        "text": "BE"
+                    },
+                    {
+                        "start": "32.241",
+                        "text": "CONTINUED"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.005",
+                        "text": "친구들아?"
+                    },
+                    {
+                        "start": "1.412",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "2.509",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "4.788",
+                        "text": "요고타들은"
+                    },
+                    {
+                        "start": "6.378",
+                        "text": "이글이를"
+                    },
+                    {
+                        "start": "7.312",
+                        "text": "혼자"
+                    },
+                    {
+                        "start": "8.139",
+                        "text": "두고"
+                    },
+                    {
+                        "start": "8.885",
+                        "text": "떠났어요."
+                    },
+                    {
+                        "start": "11.370",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "12.766",
+                        "text": "자기가"
+                    },
+                    {
+                        "start": "13.717",
+                        "text": "뭘"
+                    },
+                    {
+                        "start": "14.230",
+                        "text": "잘못했는지"
+                    },
+                    {
+                        "start": "15.462",
+                        "text": "몰라서"
+                    },
+                    {
+                        "start": "16.938",
+                        "text": "그"
+                    },
+                    {
+                        "start": "17.267",
+                        "text": "상황을"
+                    },
+                    {
+                        "start": "18.586",
+                        "text": "이해할"
+                    },
+                    {
+                        "start": "19.246",
+                        "text": "수"
+                    },
+                    {
+                        "start": "19.724",
+                        "text": "없었어요."
+                    },
+                    {
+                        "start": "22.887",
+                        "text": "이글아"
+                    },
+                    {
+                        "start": "24.009",
+                        "text": "미안하지만,"
+                    },
+                    {
+                        "start": "25.800",
+                        "text": "친구들이"
+                    },
+                    {
+                        "start": "26.800",
+                        "text": "너와"
+                    },
+                    {
+                        "start": "27.216",
+                        "text": "있고"
+                    },
+                    {
+                        "start": "27.842",
+                        "text": "싶지"
+                    },
+                    {
+                        "start": "28.426",
+                        "text": "않아"
+                    },
+                    {
+                        "start": "28.851",
+                        "text": "해."
+                    },
+                    {
+                        "start": "30.510",
+                        "text": "루나가"
+                    },
+                    {
+                        "start": "31.534",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "33.953",
+                        "text": "내가"
+                    },
+                    {
+                        "start": "34.337",
+                        "text": "뭘"
+                    },
+                    {
+                        "start": "34.500",
+                        "text": "했길래?"
+                    },
+                    {
+                        "start": "36.447",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "37.775",
+                        "text": "혼란스러워서"
+                    },
+                    {
+                        "start": "39.237",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "41.896",
+                        "text": "너의"
+                    },
+                    {
+                        "start": "42.351",
+                        "text": "태도"
+                    },
+                    {
+                        "start": "42.753",
+                        "text": "때문이야"
+                    },
+                    {
+                        "start": "43.400",
+                        "text": "이글아."
+                    },
+                    {
+                        "start": "44.712",
+                        "text": "너는"
+                    },
+                    {
+                        "start": "45.680",
+                        "text": "'부탁해'"
+                    },
+                    {
+                        "start": "46.978",
+                        "text": "아니면"
+                    },
+                    {
+                        "start": "48.022",
+                        "text": "'고마워'라고"
+                    },
+                    {
+                        "start": "49.568",
+                        "text": "한"
+                    },
+                    {
+                        "start": "49.811",
+                        "text": "번도"
+                    },
+                    {
+                        "start": "50.174",
+                        "text": "말하지"
+                    },
+                    {
+                        "start": "50.666",
+                        "text": "않았잖아."
+                    },
+                    {
+                        "start": "53.364",
+                        "text": "루나가"
+                    },
+                    {
+                        "start": "54.516",
+                        "text": "화난"
+                    },
+                    {
+                        "start": "55.502",
+                        "text": "목소리로"
+                    },
+                    {
+                        "start": "56.169",
+                        "text": "대답했어요."
+                    },
+                    {
+                        "start": "59.228",
+                        "text": "그렇지만..."
+                    },
+                    {
+                        "start": "60.967",
+                        "text": "난"
+                    },
+                    {
+                        "start": "62.480",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "63.667",
+                        "text": "당황한"
+                    },
+                    {
+                        "start": "64.500",
+                        "text": "목소리로"
+                    },
+                    {
+                        "start": "65.536",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "67.927",
+                        "text": "이야기는"
+                    },
+                    {
+                        "start": "68.965",
+                        "text": "계속됩니다."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

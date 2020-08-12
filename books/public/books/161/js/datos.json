@@ -1,0 +1,2117 @@
+{
+    "book": {
+        "titleES": "Un nuevo comienzo",
+        "titleEN": "A Fresh Start",
+        "titlePT": "Um novo começo",
+        "titleCN": "崭新的开始",
+        "titleJP": "新しいスタート",
+        "titleKR": "새로운 시작",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "Eagle y Luna estaban enojados. Ese día, habían discutido por quedarse con el trozo más grande de tarta. No habían hablado en toda la tarde.",
+                "textEN": "Eagle and Luna were upset. Earlier that day, the two had a fight over who had a bigger piece of pie. They didn't talk all afternoon.",
+                "textPT": "Eagle e Luna estavam chateados. Nesse dia, eles discutiram sobre quem pegou o pedaço de torta maior. Eles não se falaram durante a tarde toda.",
+                "textCN": "伊戈和露娜有点沮丧。 那天早些时候，他俩为谁吃了更大一块的馅饼吵了一架。 整个下午两人都没说话。",
+                "textJP": "イーグルとルナは怒ってた。２人は少し前に、どっちのパイの方が大きいかでケンカしたのだ。午後はずっと話さなかった。",
+                "textKR": "이글이와 루나는 화가 났어요. 몇 시간 전에 더 큰 파이 조각을 먹으려고 싸웠거든요. 둘은 오후 내내 말을 하지 않았어요.",
+                "wordsES": [
+                    {
+                        "start": "1.0",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "y"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "estaban"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "enojados."
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "Ese"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "día,"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "habían"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "discutido"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "por"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "quedarse"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "con"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "el"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "trozo"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "más"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "grande"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "tarta."
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "No"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "habían"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "hablado"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "en"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "toda"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "tarde."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "and"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "were"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "upset."
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "Earlier"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "that"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "day,"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "two"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "had"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "fight"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "over"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "who"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "had"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "bigger"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "piece"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "of"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "pie."
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "They"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "didn't"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "talk"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "all"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "afternoon."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "이글이와" },
+                    { "start": "0.733", "text": "루나는" },
+                    { "start": "1.704", "text": "화가" },
+                    { "start": "2.301", "text": "났어요." },
+                    { "start": "4.163", "text": "몇" },
+                    { "start": "4.457", "text": "시간" },
+                    { "start": "4.976", "text": "전에" },
+                    { "start": "6.047", "text": "더" },
+                    { "start": "6.431", "text": "큰" },
+                    { "start": "6.862", "text": "파이" },
+                    { "start": "7.247", "text": "조각을" },
+                    { "start": "7.917", "text": "먹으려고" },
+                    { "start": "9.061", "text": "싸웠거든요." },
+                    { "start": "11.365", "text": "둘은" },
+                    { "start": "12.310", "text": "오후" },
+                    { "start": "12.859", "text": "내내" },
+                    { "start": "13.645", "text": "말을" },
+                    { "start": "14.106", "text": "하지" },
+                    { "start": "14.545", "text": "않았어요." }
+
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "Después de unas horas, Eagle se dio cuenta de que no valía la pena pelear por eso. Recordó que un amigo suyo le había contado sobre el año nuevo judío, el Rosh Hashaná.",
+                "textEN": "After some time, Eagle realized it was a silly thing to argue about. He remembered a lesson he learned from a friend. It was about the Jewish New Year, Rosh Hashanah.",
+                "textPT": "Depois de algum tempo, Eagle percebeu que não valia a pena discutir por isso. Ele se lembrou de que um amigo tinha contado sobre o ano novo judeu, chamado Rosh Hashaná.",
+                "textCN": "一段时间过后，伊戈意识到为这点事吵架是很愚蠢的决定。 他记起了从他一位朋友那学到的东西。 那是关于犹太新年 (Rosh Hashanah) 的故事。",
+                "textJP": "少し時間がたってから、イーグルはこんなことでケンカするのは意味がないって気がついた。そして、友達におしえてもらった教訓を思い出した。ユダヤの新年「ロシュ・ハシャナ」についての教訓だった。",
+                "textKR": "시간이 지나자 이글이는 그 다툼이 아주 어리석었다고 깨달았어요. 그러면서 친구에게 배운 교훈을 떠올렸어요. 그 교훈은 유대교의 신년제인 로쉬 하샤나에 대한 것이었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.4",
+                        "text": "Después"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "unas"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "horas,"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "se"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "que"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "no"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "valía"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "la"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "pena"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "pelear"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "por"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "eso."
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "Recordó"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "que"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "un"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "suyo"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "le"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "había"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "contado"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "sobre"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "año"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "nuevo"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "judío,"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "Rosh"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "Hashaná."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.6",
+                        "text": "After"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "some"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "time,"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "realized"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "it"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "was"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "silly"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "thing"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "argue"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "about."
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "He"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "remembered"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "lesson"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "he"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "learned"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "from"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "friend."
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "It"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "was"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "about"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "Jewish"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "New"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "Year,"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "Rosh"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "Hashanah."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "시간이" },
+                    { "start": "0.674", "text": "지나자" },
+                    { "start": "1.617", "text": "이글이는" },
+                    { "start": "2.883", "text": "그" },
+                    { "start": "3.203", "text": "다툼이" },
+                    { "start": "4.213", "text": "아주" },
+                    { "start": "4.700", "text": "어리석었다고" },
+                    { "start": "5.959", "text": "깨달았어요." },
+                    { "start": "7.986", "text": "그러면서" },
+                    { "start": "9.204", "text": "친구에게" },
+                    { "start": "10.103", "text": "배운" },
+                    { "start": "10.648", "text": "교훈을" },
+                    { "start": "11.391", "text": "떠올렸어요." },
+                    { "start": "13.617", "text": "그" },
+                    { "start": "13.733", "text": "교훈은" },
+                    { "start": "14.748", "text": "유대교의" },
+                    { "start": "15.542", "text": "신년제인" },
+                    { "start": "16.913", "text": "로쉬" },
+                    { "start": "17.877", "text": "하샤나에" },
+                    { "start": "18.714", "text": "대한" },
+                    { "start": "19.202", "text": "것이었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "El Rosh Hashaná es una época de renovación y autorreflexión. Mucha gente utiliza este periodo para recuperar amistades y disculparse por cualquier mal comportamiento que pudieran haber tenido el año anterior. Eagle quería reparar su amistad con Luna.",
+                "textEN": "Rosh Hashanah is a time of renewal and self-reflection. Many people used this time to mend friendships and apologize for any bad behavior during the past year. Eagle wanted to mend his friendship with Luna.",
+                "textPT": "O Rosh Hashaná é uma época de renovação e reflexão. Muitas pessoas aproveitam esse período para recuperar amizades e pedir desculpas por qualquer comportamento ruim que tiveram no ano anterior. Eagle queria retomar sua amizade com Luna.",
+                "textCN": "犹太新年是一段辞旧迎新和自我反思的时间。 许多人用这段时间来修补友谊，并为过去一年里做得不对的事道歉。 伊戈想要修补和露娜的友谊。",
+                "textJP": "「ロシュ・ハシャナ」は反省をして、生まれ変わる時だから、たくさんの人が仲なおりしたり、去年自分がした悪い事をあやまったりする。イーグルはルナと仲なおりしたかった。",
+                "textKR": "로쉬 하샤나는 회복과 자기반성의 시간이에요. 많은 사람들이 이 시기에 우정을 회복하고 지난 일 년 동안 저지른 나쁜 행동에 대해 사과해요. 이글이는 루나와의 우정을 회복하고 싶었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.3",
+                        "text": "El"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "Rosh"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "Hashaná"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "es"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "una"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "época"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "renovación"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "y"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "autorreflexión."
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "Mucha"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "gente"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "utiliza"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "este"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "periodo"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "para"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "recuperar"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "amistades"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "disculparse"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "por"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "cualquier"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "mal"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "comportamiento"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "que"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "pudieran"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "haber"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "tenido"
+                    },
+                    {
+                        "start": "15.3",
+                        "text": "el"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "año"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "anterior."
+                    },
+                    {
+                        "start": "17.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "quería"
+                    },
+                    {
+                        "start": "18.1",
+                        "text": "reparar"
+                    },
+                    {
+                        "start": "18.6",
+                        "text": "su"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "amistad"
+                    },
+                    {
+                        "start": "19.2",
+                        "text": "con"
+                    },
+                    {
+                        "start": "19.5",
+                        "text": "Luna."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.7",
+                        "text": "Rosh"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "Hashanah"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "is"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "time"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "of"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "renewal"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "self-reflection."
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "Many"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "people"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "used"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "this"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "time"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "mend"
+                    },
+                    {
+                        "start": "7.55",
+                        "text": "friendships"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "and"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "apologize"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "for"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "any"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "bad"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "behavior"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "during"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "past"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "year."
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "wanted"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "to"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "mend"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "his"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "friendship"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "with"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "Luna."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "로쉬" },
+                    { "start": "0.658", "text": "하샤나는" },
+                    { "start": "2.076", "text": "회복과" },
+                    { "start": "3.152", "text": "자기반성의" },
+                    { "start": "4.319", "text": "시간이에요." },
+                    { "start": "6.334", "text": "많은" },
+                    { "start": "6.866", "text": "사람들이" },
+                    { "start": "8.303", "text": "이" },
+                    { "start": "8.581", "text": "시기에" },
+                    { "start": "9.615", "text": "우정을" },
+                    { "start": "10.348", "text": "회복하고" },
+                    { "start": "11.836", "text": "지난" },
+                    { "start": "12.366", "text": "일" },
+                    { "start": "12.637", "text": "년" },
+                    { "start": "13.002", "text": "동안" },
+                    { "start": "13.596", "text": "저지른" },
+                    { "start": "14.823", "text": "나쁜" },
+                    { "start": "15.498", "text": "행동에" },
+                    { "start": "16.207", "text": "대해" },
+                    { "start": "16.679", "text": "사과해요." },
+                    { "start": "18.702", "text": "이글이는" },
+                    { "start": "19.811", "text": "루나와의" },
+                    { "start": "20.667", "text": "우정을" },
+                    { "start": "21.552", "text": "회복하고" },
+                    { "start": "22.338", "text": "싶었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "En esta fiesta, las personas comen manzanas con miel como símbolo de buenos deseos para un dulce año nuevo. Además, como recordatorio de los nuevos comienzos, comen pan de Challah. Así que Eagle preparó estos platillos para su amiga, Luna.",
+                "textEN": "During the holiday, people eat apples dipped in honey to bring in well wishes for a sweet new year. Challah bread is also eaten as a reminder of new beginnings. Eagle prepared the same treats for his friend, Luna.",
+                "textPT": "Nesta festa, as pessoas comem maçãs com mel, como um símbolo de desejos positivos para um ano novo doce. E, como lembrança dos novos começos, comem pão de Challah. Eagle preparou esses pratos para sua amiga, Luna.",
+                "textCN": "节日期间，人们会吃沾了蜂蜜的苹果来为新的一年带来甜蜜的祝福。 吃掉哈拉面包也能提醒自己迎接崭新的开始。 伊戈为他的朋友准备了同样的美味佳肴。",
+                "textJP": "この祭日に、みんなはいつもリンゴとハチミツのごちそうでお祝いする。このごちそうはよい年になるようにと願うのことだ。新しい始まりを忘れないようにハッラーというパンも食べる。で、イーグルはこうしたごちそうを友達のルナのために準備した。",
+                "textKR": "사람들은 신년제가 되면 사과를 꿀에 찍어서 먹으면서 즐거운 새해를 기원해요. 찰라 빵은 새로운 시작을 떠올리게 해요. 이글이는 자기 친구인 루나를 위해서 그것들을 준비했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.3",
+                        "text": "En"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "esta"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "fiesta,"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "las"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "personas"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "comen"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "manzanas"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "con"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "miel"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "como"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "símbolo"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "de"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "buenos"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "deseos"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "para"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "un"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "dulce"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "año"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "nuevo."
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "Además,"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "como"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "recordatorio"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "de"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "los"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "nuevos"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "comienzos,"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "comen"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "pan"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "Challah."
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "Así"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "preparó"
+                    },
+                    {
+                        "start": "15.7",
+                        "text": "estos"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "platillos"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "para"
+                    },
+                    {
+                        "start": "16.9",
+                        "text": "su"
+                    },
+                    {
+                        "start": "17.2",
+                        "text": "amiga,"
+                    },
+                    {
+                        "start": "17.6",
+                        "text": "Luna."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "During"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "holiday,"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "people"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "eat"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "apples"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "dipped"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "in"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "honey"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "bring"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "in"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "well"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "wishes"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "for"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "sweet"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "new"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "year."
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "Challah"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "bread"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "is"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "also"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "eaten"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "as"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "reminder"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "of"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "new"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "beginnings."
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "prepared"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "same"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "treats"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "for"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "his"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "friend,"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "Luna."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "사람들은" },
+                    { "start": "1.051", "text": "신년제가" },
+                    { "start": "1.991", "text": "되면" },
+                    { "start": "2.959", "text": "사과를" },
+                    { "start": "3.986", "text": "꿀에" },
+                    { "start": "4.471", "text": "찍어" },
+                    { "start": "5.000", "text": "먹으면서" },
+                    { "start": "6.325", "text": "즐거운" },
+                    { "start": "7.084", "text": "새해를" },
+                    { "start": "7.855", "text": "기원해요." },
+                    { "start": "9.701", "text": "찰라" },
+                    { "start": "10.311", "text": "빵은" },
+                    { "start": "11.297", "text": "새로운" },
+                    { "start": "11.907", "text": "시작을" },
+                    { "start": "12.960", "text": "떠올리게" },
+                    { "start": "13.826", "text": "해요." },
+                    { "start": "15.398", "text": "이글이는" },
+                    { "start": "16.728", "text": "자기" },
+                    { "start": "17.272", "text": "친구인" },
+                    { "start": "18.268", "text": "루나를" },
+                    { "start": "18.978", "text": "위해서" },
+                    { "start": "20.201", "text": "그것들을" },
+                    { "start": "21.105", "text": "준비했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "Conmovida por este gesto amable, Luna le dio un fuerte abrazo a Eagle. Luego, le entregó una carta de disculpa que ella había escrito. Eagle vio la fecha en la carta y se dio cuenta de que era el inicio del Rosh Hashaná.",
+                "textEN": "Touched by his kind gesture, Luna gave Eagle a big hug. Then, she handed him an apology letter she had written earlier. Eagle looked at the date on the letter and noticed that it was the beginning of Rosh Hashanah.",
+                "textPT": "Comovida pelo gesto adorável, Luna deu um grande abraço em Eagle. Então, ela entregou para ele uma carta de desculpa que tinha escrito mais cedo. Eagle viu a data na carta e percebeu que era o início do Rosh Hashaná.",
+                "textCN": "露娜被伊戈善意的举动所感动，她给了伊戈大大的拥抱。 随后，露娜递给了伊戈一封她提前写好的道歉信。 伊戈看到了信上标注的日期，原来就是犹太新年的第一天。",
+                "textJP": "ルナはイーグルの優しさに感激して、彼にハグをした。それから、ルナは書いてあった「ごめん」の手紙をわたした。イーグルは手紙に書いてあった日にちを見て、それが「ロシュ・ハシャナ」の始まりの日だと気がついた。",
+                "textKR": "이글이의 친절한 모습에 감동을 받은 루나는 이글이를 꼭 안아주었어요. 그리고 루나는 미리 써 둔 사과 편지를 이글이에게 주었어요. 이글이는 편지가 쓰인 날짜를 보았고, 그 날이 바로 로쉬 하샤나가 시작하는 날이라고 알아챘어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Conmovida"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "por"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "este"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "gesto"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "amable,"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "le"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "un"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "fuerte"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "abrazo"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "Eagle."
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "Luego,"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "le"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "entregó"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "una"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "carta"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "disculpa"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.35",
+                        "text": "ella"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "había"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "escrito."
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "vio"
+                    },
+                    {
+                        "start": "12.25",
+                        "text": "la"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "fecha"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "en"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "carta"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "y"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "se"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "era"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "el"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "inicio"
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "del"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "Rosh"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "Hashaná."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "Touched"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "by"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "his"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "kind"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "gesture,"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "gave"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "big"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "hug."
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "Then,"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "she"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "handed"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "him"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "an"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "apology"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "letter"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "she"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "had"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "written"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "earlier."
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "looked"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "at"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "date"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "on"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "letter"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "and"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "noticed"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "that"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "it"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "was"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "beginning"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "of"
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "Rosh"
+                    },
+                    {
+                        "start": "15.3",
+                        "text": "Hashanah."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "이글이의" },
+                    { "start": "0.733", "text": "친절한" },
+                    { "start": "1.472", "text": "모습에" },
+                    { "start": "2.162", "text": "감동을" },
+                    { "start": "2.889", "text": "받은" },
+                    { "start": "3.355", "text": "루나는" },
+                    { "start": "4.381", "text": "이글이를" },
+                    { "start": "5.774", "text": "꼭" },
+                    { "start": "6.185", "text": "안아주었어요." },
+                    { "start": "8.451", "text": "그리고" },
+                    { "start": "9.088", "text": "루나는" },
+                    { "start": "10.058", "text": "미리" },
+                    { "start": "10.460", "text": "써" },
+                    { "start": "10.908", "text": "둔" },
+                    { "start": "11.565", "text": "사과" },
+                    { "start": "12.330", "text": "편지를" },
+                    { "start": "13.368", "text": "이글이에게" },
+                    { "start": "14.357", "text": "주었어요." },
+                    { "start": "16.329", "text": "이글이는" },
+                    { "start": "17.289", "text": "편지가" },
+                    { "start": "18.009", "text": "쓰인" },
+                    { "start": "18.518", "text": "날짜를" },
+                    { "start": "19.303", "text": "보았고," },
+                    { "start": "20.324", "text": "그" },
+                    { "start": "20.650", "text": "날이" },
+                    { "start": "21.022", "text": "바로" },
+                    { "start": "21.964", "text": "로쉬" },
+                    { "start": "22.688", "text": "하샤나가" },
+                    { "start": "23.619", "text": "시작하는" },
+                    { "start": "24.425", "text": "날이라고" },
+                    { "start": "25.597", "text": "알아챘어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "—¡Shanah Tovah u’metuka! —dijo Eagle. —Es una expresión en hebreo que significa “Buen y dulce año nuevo”. Y para nosotros significa un nuevo comienzo para nuestra amistad. —Los dos amigos se sentaron a disfrutar los platillos mientras comprendían el mensaje de esta celebración especial.",
+                "textEN": "“Shana tova u’metuka!” Eagle said. ”It's a traditional Hebrew expression that means to have a ‘good and sweet new year’. For us, a fresh start to our friendship.” The two friends sat and enjoyed the treats as they embraced the message of a special holiday.",
+                "textPT": "&#34;Shanah Tovah u’metuka!&#34;, disse Eagle. &#34;Essa é uma expressão em hebraico que significa 'um bom e doce ano novo'. E, para nós, o recomeço da nossa amizade.&#34; Os dois amigos se sentaram e saborearam os pratos enquanto compreendiam a mensagem desta celebração especial.",
+                "textCN": "“Shana tova u’metuka!” 伊戈说道。 “这是传统的希伯来语，用来表达‘祝你拥有美好而又甜蜜的新年’的含义。 对咱俩来说，这是我们友谊的崭新的开始。” 两个好朋友坐着享用美味佳肴，他们也在这特别的节日里体会到了特别的意义。",
+                "textJP": "「シャナ トヴァ ウメトゥカ！」イーグルが言った。「『新年明けましておめでとう』っていうヘブライ語の伝統的なあいさつだよ。僕たちの場合は、友情の新しいスタートだ。」特別な祝日のメッセージを受け入れた2人は、座ってごちそうを味わった。",
+                "textKR": "&#34;샤나 토바 우메투카!&#34; 이글이가 말했어요. &#34;이건 '즐겁고 좋은 새해'라는 뜻의 전통 히브리 표현이야. 우리는 우리의 우정을 새로 시작하는 거야.&#34; 두 친구는 앉아서 특별한 휴일의 의미를 되새기고 준비한 음식을 먹었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.3",
+                        "text": "—¡Shanah"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "Tovah"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "u’metuka!"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "—dijo"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "Eagle."
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "—Es"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "una"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "expresión"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "en"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "hebreo"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "significa"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "“Buen"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "y"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "dulce"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "año"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "nuevo”."
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "Y"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "para"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "nosotros"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "significa"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "un"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "nuevo"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "comienzo"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "para"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "nuestra"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "amistad."
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "—Los"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "dos"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "amigos"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "se"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "sentaron"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "disfrutar"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "los"
+                    },
+                    {
+                        "start": "16.9",
+                        "text": "platillos"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "mientras"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "comprendían"
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "el"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "mensaje"
+                    },
+                    {
+                        "start": "20.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "20.3",
+                        "text": "esta"
+                    },
+                    {
+                        "start": "20.7",
+                        "text": "celebración"
+                    },
+                    {
+                        "start": "21.5",
+                        "text": "especial."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "“Shana"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "tova"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "u’metuka!”"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "said."
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "”It's"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "traditional"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "Hebrew"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "expression"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "that"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "means"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "have"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "‘good"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "sweet"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "new"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "year’."
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "For"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "us,"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "fresh"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "start"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "to"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "our"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "friendship.”"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "The"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "two"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "friends"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "sat"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "and"
+                    },
+                    {
+                        "start": "16.9",
+                        "text": "enjoyed"
+                    },
+                    {
+                        "start": "17.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "17.5",
+                        "text": "treats"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "as"
+                    },
+                    {
+                        "start": "18.3",
+                        "text": "they"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "embraced"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "19.1",
+                        "text": "message"
+                    },
+                    {
+                        "start": "19.7",
+                        "text": "of"
+                    },
+                    {
+                        "start": "19.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "20.0",
+                        "text": "special"
+                    },
+                    {
+                        "start": "20.7",
+                        "text": "holiday."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "샤나" },
+                    { "start": "0.676", "text": "토바" },
+                    { "start": "1.184", "text": "우메투카!" },
+                    { "start": "2.742", "text": "이글이가" },
+                    { "start": "3.567", "text": "말했어요." },
+                    { "start": "5.456", "text": "이건" },
+                    { "start": "6.197", "text": "'즐겁고" },
+                    { "start": "6.983", "text": "좋은" },
+                    { "start": "7.414", "text": "새해'라는" },
+                    { "start": "8.297", "text": "뜻의" },
+                    { "start": "9.278", "text": "전통" },
+                    { "start": "9.927", "text": "히브리" },
+                    { "start": "10.513", "text": "표현이야." },
+                    { "start": "12.333", "text": "우리는" },
+                    { "start": "13.224", "text": "우리의" },
+                    { "start": "13.749", "text": "우정을" },
+                    { "start": "14.631", "text": "새로" },
+                    { "start": "15.196", "text": "시작하는" },
+                    { "start": "15.931", "text": "거야." },
+                    { "start": "17.524", "text": "두" },
+                    { "start": "17.813", "text": "친구는" },
+                    { "start": "18.396", "text": "앉아서" },
+                    { "start": "19.358", "text": "특별한" },
+                    { "start": "20.055", "text": "휴일의" },
+                    { "start": "20.706", "text": "의미를" },
+                    { "start": "21.386", "text": "되새기고" },
+                    { "start": "22.812", "text": "준비한" },
+                    { "start": "23.547", "text": "음식을" },
+                    { "start": "24.235", "text": "먹었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

@@ -1,0 +1,2192 @@
+{
+    "book": {
+        "titleES": "Aventura en el espacio",
+        "titleEN": "An Adventure in the Solar System",
+        "titlePT": "Aventura no espaço",
+        "titleCN": "太阳系的探险之旅",
+        "titleJP": "太陽系の冒険",
+        "titleKR": "태양계에서 한 모험",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "Eagle, Nao y Theffanie se encontraban explorando el sistema solar. Cuando aterrizaron sobre la calurosa superficie de Mercurio, unas misteriosas figuras raptaron a Nao.",
+                "textEN": "Eagle, Nao, and Theffanie were exploring the Solar System. When they landed on Mercury’s hot surface, Nao was kidnapped by some mysterious figures.",
+                "textPT": "Eagle, Nao e Theffanie estavam explorando o Sistema Solar. Quando chegaram à superfície quente de Mercúrio, Nao foi sequestrado por algumas figuras misteriosas.",
+                "textCN": "伊戈、奈绪和范妮正在探索太阳系。当他们降落在火星炎热的表面时，奈绪被一群神秘人绑架了。",
+                "textJP": "イーグル、ナオ、ティファニーは太陽系を探検していました。 3人が水星の熱い表面に上陸したとき、ナオは何者かに誘拐されました。",
+                "textKR": "이글이와 나오, 그리고 티파니는 태양계를 모험하고 있었어요. 그들이 수성의 뜨거운 표면에 착륙했을 때, 괴상한 생물체들이 나오를 납치했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "y"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "se"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "encontraban"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "explorando"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "el"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "sistema"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "solar."
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "Cuando"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "aterrizaron"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "sobre"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "la"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "calurosa"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "superficie"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "Mercurio,"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "unas"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "misteriosas"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "figuras"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "raptaron"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "Nao."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "Nao,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "and"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "were"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "exploring"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "Solar"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "System."
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "When"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "they"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "landed"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "on"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "Mercury’s"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "hot"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "surface,"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "was"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "kidnapped"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "by"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "some"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "mysterious"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "figures."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "이글이와"
+                    },
+                    {
+                        "start": "0.871",
+                        "text": "나오,"
+                    },
+                    {
+                        "start": "1.698",
+                        "text": "그리고"
+                    },
+                    {
+                        "start": "2.394",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "3.587",
+                        "text": "태양계를"
+                    },
+                    {
+                        "start": "4.489",
+                        "text": "모험하고"
+                    },
+                    {
+                        "start": "5.353",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "7.335",
+                        "text": "그들이"
+                    },
+                    {
+                        "start": "8.385",
+                        "text": "수성의"
+                    },
+                    {
+                        "start": "9.215",
+                        "text": "뜨거운"
+                    },
+                    {
+                        "start": "9.918",
+                        "text": "표면에"
+                    },
+                    {
+                        "start": "10.709",
+                        "text": "착륙했을"
+                    },
+                    {
+                        "start": "11.700",
+                        "text": "때,"
+                    },
+                    {
+                        "start": "12.507",
+                        "text": "괴상한"
+                    },
+                    {
+                        "start": "13.206",
+                        "text": "생물체들이"
+                    },
+                    {
+                        "start": "14.812",
+                        "text": "나오를"
+                    },
+                    {
+                        "start": "15.490",
+                        "text": "납치했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "Eagle y Theffanie tuvieron que dividirse para buscar a su amigo. Eagle buscó en Venus, mientras Theffanie buscaba en la Tierra. Pero no tuvieron suerte.",
+                "textEN": "Eagle and Theffanie split up to find their friend. Eagle searched on Venus, while Theffanie looked on Earth. Neither of them had any luck.",
+                "textPT": "Eagle e Theffanie se separaram para procurar seu amigo. Eagle procurou em Vênus, enquanto Theffanie procurava na Terra. Nenhum dos dois teve sorte.",
+                "textCN": "伊戈和范妮分头行动，去寻找他们的朋友。伊戈在金星上搜索，而伊戈在地球上寻找。但他们的运气都不太好，没能找到奈绪。",
+                "textJP": "イーグルとティファニーは二手に分かれてともだちを探しに行きました。イーグルは金星を、ティファニーは地球を探しましたが、どちらも見つけ出せませんでした。",
+                "textKR": "이글이와 티파니는 흩어져서 친구를 찾기로 했어요. 이글이는 금성을, 티파니는 지구를 둘러봤지만 나오는 어디에도 없었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "y"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "tuvieron"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "dividirse"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "para"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "buscar"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "su"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "amigo."
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "buscó"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "en"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "Venus,"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "mientras"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "buscaba"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "en"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "la"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "Tierra."
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "Pero"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "no"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "tuvieron"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "suerte."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "and"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "split"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "up"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "find"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "their"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "friend."
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "searched"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "on"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "Venus,"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "while"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "looked"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "on"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "Earth."
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "Neither"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "of"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "them"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "had"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "any"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "luck."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "이글이와"
+                    },
+                    {
+                        "start": "0.854",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "2.168",
+                        "text": "흩어져서"
+                    },
+                    {
+                        "start": "3.111",
+                        "text": "친구를"
+                    },
+                    {
+                        "start": "3.909",
+                        "text": "찾기로"
+                    },
+                    {
+                        "start": "4.527",
+                        "text": "했어요."
+                    },
+                    {
+                        "start": "6.255",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "7.114",
+                        "text": "금성을,"
+                    },
+                    {
+                        "start": "8.483",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "9.403",
+                        "text": "지구를"
+                    },
+                    {
+                        "start": "10.178",
+                        "text": "둘러봤지만"
+                    },
+                    {
+                        "start": "11.693",
+                        "text": "나오는"
+                    },
+                    {
+                        "start": "12.432",
+                        "text": "어디에도"
+                    },
+                    {
+                        "start": "13.081",
+                        "text": "없었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "Los Héroes continuaron su búsqueda. Esta vez, Eagle probó suerte en Marte “el planeta rojo”. Mientras que Theffanie buscó a Nao en Júpiter “el gran planeta de gas”. Pero tampoco tuvieron suerte.",
+                "textEN": "The Heroes continued their quest. This time, Eagle took a shot on Mars, &#34;the red planet&#34;. Theffanie searched for Nao on Jupiter,  &#34;the giant ball of gas&#34;. Still, they had no luck.",
+                "textPT": "Os Heróis continuaram sua busca. Dessa vez, Eagle tentou procurar em Marte, o planeta vermelho. Theffanie procurou por Nao em Júpiter, o grande gasoso. Mas eles também não tiveram sorte.",
+                "textCN": "英雄们继续他们的冒险之旅。这次，伊戈在“红色的星球” - 火星上拍了张照片。 范妮在“巨大的气球” - 木星上寻找奈绪。 不过，他们仍旧运气不佳。",
+                "textJP": "ヒーローたちは探し続けました。 今度は、イーグルは「赤い惑星」火星を、ティファニーは「巨大なガスのボール」木星でナオを探してみました。それでも見つかりませんでした。",
+                "textKR": "히어로들은 멈추지 않고 계속했어요. 이글이는 이번에 '빨간 행성'인 화성에 갔어요. 티파니는 '아주 큰 가스공'같은 목성에서 나오를 찾았어요. 둘 다 나오를 찾지 못했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Los"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "continuaron"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "su"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "búsqueda."
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "Esta"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "vez,"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "probó"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "suerte"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "en"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "Marte"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "“el"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "planeta"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "rojo”."
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "Mientras"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "buscó"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "en"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "Júpiter"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "“el"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "gran"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "planeta"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "de"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "gas"
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "Pero"
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "tampoco"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "tuvieron"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "suerte."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "continued"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "their"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "quest."
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "This"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "time,"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "took"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "shot"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "on"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "Mars,"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "red"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "planet."
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "searched"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "for"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "on"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "Jupiter,"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "giant"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "ball"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "of"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "gas"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "Still,"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "they"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "had"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "no"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "luck."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "히어로들은"
+                    },
+                    {
+                        "start": "1.366",
+                        "text": "멈추지"
+                    },
+                    {
+                        "start": "2.108",
+                        "text": "않고"
+                    },
+                    {
+                        "start": "3.058",
+                        "text": "계속했어요."
+                    },
+                    {
+                        "start": "5.168",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "5.945",
+                        "text": "이번에"
+                    },
+                    {
+                        "start": "7.215",
+                        "text": "'빨간"
+                    },
+                    {
+                        "start": "7.894",
+                        "text": "행성'인"
+                    },
+                    {
+                        "start": "9.094",
+                        "text": "화성에"
+                    },
+                    {
+                        "start": "9.839",
+                        "text": "갔어요."
+                    },
+                    {
+                        "start": "11.654",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "13.069",
+                        "text": "'아주"
+                    },
+                    {
+                        "start": "13.633",
+                        "text": "큰"
+                    },
+                    {
+                        "start": "14.198",
+                        "text": "가스공'같은"
+                    },
+                    {
+                        "start": "16.174",
+                        "text": "목성에서"
+                    },
+                    {
+                        "start": "17.530",
+                        "text": "나오를"
+                    },
+                    {
+                        "start": "18.292",
+                        "text": "찾았어요."
+                    },
+                    {
+                        "start": "20.251",
+                        "text": "둘"
+                    },
+                    {
+                        "start": "20.606",
+                        "text": "다"
+                    },
+                    {
+                        "start": "21.539",
+                        "text": "나오를"
+                    },
+                    {
+                        "start": "22.354",
+                        "text": "찾지"
+                    },
+                    {
+                        "start": "22.984",
+                        "text": "못했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "A Eagle le dijeron en Saturno que Nao había pasado por ahí, mientras que a Theffanie le dijeron en Urano que tres sombras lo llevaban en su nave.",
+                "textEN": "On Saturn, Eagle was told that Nao had been there. While on Uranus, Theffanie was told that three shadows had taken him onto their ship.",
+                "textPT": "Em Saturno, contaram para Eagle que Nao tinha passado por lá. Em Urano, falaram para Theffanie que três sombras levaram Nao em uma nave.",
+                "textCN": "在土星上，有人告诉伊戈说奈绪曾到过这里。而在天王星上，有人告诉范妮说三个神秘人把奈绪带到了他们的飞船上。",
+                "textJP": "土星で、イーグルはナオがそこにいたと聞きました。 天王星にいたとき、ティファニーは3つの影がナオを船に乗せて連れて行ったと聞きました。",
+                "textKR": "이글이는 나오가 토성에 있었다는 얘기를 들었어요. 그 시간 천왕성에 있던 티파니는 그림자 셋이 나오를 우주선으로 데려갔다는 말을 들었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "A"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "le"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "dijeron"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "Saturno"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "que"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "había"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "pasado"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "por"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "ahí,"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "mientras"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "le"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "dijeron"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "en"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "Urano"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "tres"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "sombras"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "llevaban"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "en"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "su"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "nave."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "On"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "Saturn,"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "was"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "told"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "that"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "had"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "been"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "there."
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "While"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "on"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "Uranus,"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "was"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "told"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "that"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "three"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "shadows"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "had"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "taken"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "him"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "onto"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "their"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "ship."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "1.253",
+                        "text": "나오가"
+                    },
+                    {
+                        "start": "2.314",
+                        "text": "토성에"
+                    },
+                    {
+                        "start": "3.001",
+                        "text": "있었다는"
+                    },
+                    {
+                        "start": "3.870",
+                        "text": "얘기를"
+                    },
+                    {
+                        "start": "4.473",
+                        "text": "들었어요."
+                    },
+                    {
+                        "start": "6.307",
+                        "text": "그"
+                    },
+                    {
+                        "start": "6.536",
+                        "text": "시간"
+                    },
+                    {
+                        "start": "7.610",
+                        "text": "천왕성에"
+                    },
+                    {
+                        "start": "8.508",
+                        "text": "있던"
+                    },
+                    {
+                        "start": "9.127",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "10.500",
+                        "text": "그림자"
+                    },
+                    {
+                        "start": "11.251",
+                        "text": "셋이"
+                    },
+                    {
+                        "start": "12.425",
+                        "text": "나오를"
+                    },
+                    {
+                        "start": "13.476",
+                        "text": "우주선으로"
+                    },
+                    {
+                        "start": "14.488",
+                        "text": "데려갔다는"
+                    },
+                    {
+                        "start": "15.526",
+                        "text": "말을"
+                    },
+                    {
+                        "start": "15.965",
+                        "text": "들었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "Al llegar a Neptuno, los Héroes encontraron a la pandilla Kanzó vagando en la órbita gaseosa del planeta, quienes llevaban a Nao como rehén. Eagle los distrajo, y así le dio oportunidad a Nao de escapar.",
+                "textEN": "On Neptune, the Heroes found the Kanzó Gang wandering around the planet’s gaseous orbit with Nao as their hostage. Eagle distracted them, which gave Nao the opportunity to escape.",
+                "textPT": "Ao chegar em Netuno, os Heróis encontraram a gangue Kanzó vagando ao redor da órbita gasosa do planeta, e Nao estava como refém deles. Eagle os distraiu, e Nao conseguiu escapar.",
+                "textCN": "在海王星上，英雄们发现坎组帮在这颗星球的气态轨道上转来转去，而奈绪正是他们的人质。<br> 伊戈分散了他们的注意力，给了奈绪逃脱的机会。",
+                "textJP": "海王星で、ヒーローたちは、ナオを人質にして惑星のガス状の軌道を回っているカンゾー・ギャングを見つけました。 イーグルは彼らの気を散らし、ナオに逃げるチャンスを与えました。",
+                "textKR": "히어로들은 해왕성에서 나오를 인질로 잡으면서 행성의 가스 궤도를 배회하는 칸조 패거리를 보았어요. 이글이가 주의를 딴 데로 돌리면서 나오는 탈출할 기회를 얻었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Al"
+                    },
+                    {
+                        "start": "0.2",
+                        "text": "llegar"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "Neptuno,"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "los"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "encontraron"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "la"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "pandilla"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "Kanzó"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "vagando"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "en"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "la"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "órbita"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "gaseosa"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "del"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "planeta,"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "quienes"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "llevaban"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "como"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "rehén."
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "los"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "distrajo,"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "y"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "así"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "le"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "oportunidad"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "de"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "escapar."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "On"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "Neptune,"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "found"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "Kanzó"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "Gang"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "wandering"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "around"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "planet’s"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "gaseous"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "orbit"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "with"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "as"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "their"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "hostage."
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "distracted"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "them,"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "which"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "gave"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "opportunity"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "to"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "escape."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "히어로들은"
+                    },
+                    {
+                        "start": "1.290",
+                        "text": "해왕성에서"
+                    },
+                    {
+                        "start": "2.795",
+                        "text": "나오를"
+                    },
+                    {
+                        "start": "3.442",
+                        "text": "인질로"
+                    },
+                    {
+                        "start": "4.171",
+                        "text": "잡으면서"
+                    },
+                    {
+                        "start": "5.620",
+                        "text": "행성의"
+                    },
+                    {
+                        "start": "6.351",
+                        "text": "가스"
+                    },
+                    {
+                        "start": "7.005",
+                        "text": "궤도를"
+                    },
+                    {
+                        "start": "7.595",
+                        "text": "배회하는"
+                    },
+                    {
+                        "start": "8.720",
+                        "text": "칸조"
+                    },
+                    {
+                        "start": "9.441",
+                        "text": "패거리를"
+                    },
+                    {
+                        "start": "10.310",
+                        "text": "보았어요."
+                    },
+                    {
+                        "start": "12.173",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "13.459",
+                        "text": "주의를"
+                    },
+                    {
+                        "start": "14.441",
+                        "text": "딴"
+                    },
+                    {
+                        "start": "14.812",
+                        "text": "데로"
+                    },
+                    {
+                        "start": "15.301",
+                        "text": "돌리면서"
+                    },
+                    {
+                        "start": "16.867",
+                        "text": "나오는"
+                    },
+                    {
+                        "start": "17.953",
+                        "text": "탈출할"
+                    },
+                    {
+                        "start": "18.684",
+                        "text": "기회를"
+                    },
+                    {
+                        "start": "19.178",
+                        "text": "얻었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "Nao regresó con los Héroes, les contó su travesía y que había sido raptado por órdenes de la reina Ignorantia. Ese día, los Héroes pudieron salvar a su amigo y aprendieron sobre el sistema solar. Con Nao a salvo, viajaron de regreso a su casa en la galaxia Ignós.",
+                "textEN": "Nao went back with the Heroes, recounted his journey and told them that he had been kidnapped by orders of Queen Ignorantia. That day, the Heroes were able to save their friend and learn about the Solar System. They traveled back home to the Ignós Galaxy with Nao in safety",
+                "textPT": "Com o apoio de Estrella, Luna começou a escalar a parede. Apesar de cair nas primeiras vezes, ela percebeu que era divertido resolver o quebra-cabeça enquanto subia. Assim que perdeu o medo de fracassar, Luna começou a se divertir.",
+                "textCN": "在埃斯特蕾拉的帮助下，露娜开始攀爬墙壁了。虽然在前几次尝试时她掉落了下来，但她发现在攀岩时解出难题的过程真的很有趣。当露娜克服了对掉落的恐惧后，她就能更加专注于攀岩带给她的乐趣。",
+                "textJP": "エストレラが助けてくれたおかげで、ルナは壁を登り始めました。 彼女は最初の2，3回は落ちましたが、うまくやるにつれパズルを解く楽しさに気付きました。 失敗することが怖くなくなると、ルナは楽しんで集中できるようになりました。",
+                "textKR": "에스트레야의 응원에 힘입은 루나는 벽을 오르기 시작했어요. 처음 몇 번은 떨어졌지만 계속할수록 퍼즐을 푸는 것처럼 재미있었어요. 떨어진다는 두려움이 사라지자 루나는 암벽 등반을 즐기게 되었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "regresó"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "con"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "los"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "Héroes,"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "les"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "contó"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "su"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "travesía"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "y"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "que"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "había"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "sido"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "raptado"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "por"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "órdenes"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "reina"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "Ignorantia."
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "Ese"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "día,"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "los"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "pudieron"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "salvar"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "su"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "y"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "aprendieron"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "sobre"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "el"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "sistema"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "solar."
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "Con"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "18.9",
+                        "text": "salvo,"
+                    },
+                    {
+                        "start": "19.6",
+                        "text": "viajaron"
+                    },
+                    {
+                        "start": "20.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "20.3",
+                        "text": "regreso"
+                    },
+                    {
+                        "start": "20.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "20.9",
+                        "text": "su"
+                    },
+                    {
+                        "start": "21.3",
+                        "text": "casa"
+                    },
+                    {
+                        "start": "21.6",
+                        "text": "en"
+                    },
+                    {
+                        "start": "21.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "22.2",
+                        "text": "galaxia"
+                    },
+                    {
+                        "start": "22.6",
+                        "text": "Ignós."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "went"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "back"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "with"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "Heroes,"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "recounted"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "his"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "journey"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "told"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "them"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "that"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "he"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "had"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "been"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "kidnapped"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "by"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "orders"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "of"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "Queen"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "Ignorantia."
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "That"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "day,"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "were"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "able"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "to"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "save"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "their"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "friend"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "and"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "learn"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "about"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "Solar"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "System."
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "They"
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "traveled"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "back"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "home"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "to"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "17.6",
+                        "text": "Ignós"
+                    },
+                    {
+                        "start": "17.9",
+                        "text": "Galaxy"
+                    },
+                    {
+                        "start": "18.5",
+                        "text": "with"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "19.2",
+                        "text": "in"
+                    },
+                    {
+                        "start": "19.5",
+                        "text": "safety"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.000",
+                        "text": "나오는"
+                    },
+                    {
+                        "start": "0.750",
+                        "text": "히어로들에게"
+                    },
+                    {
+                        "start": "1.888",
+                        "text": "돌아갔고,"
+                    },
+                    {
+                        "start": "3.409",
+                        "text": "잡혀갔던"
+                    },
+                    {
+                        "start": "4.385",
+                        "text": "일을"
+                    },
+                    {
+                        "start": "4.818",
+                        "text": "회상하면서"
+                    },
+                    {
+                        "start": "6.505",
+                        "text": "이그노란티아"
+                    },
+                    {
+                        "start": "7.666",
+                        "text": "여왕이"
+                    },
+                    {
+                        "start": "8.914",
+                        "text": "납치를"
+                    },
+                    {
+                        "start": "9.806",
+                        "text": "계획했다고"
+                    },
+                    {
+                        "start": "10.933",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "12.932",
+                        "text": "우리의"
+                    },
+                    {
+                        "start": "13.500",
+                        "text": "히어로들은"
+                    },
+                    {
+                        "start": "14.942",
+                        "text": "그날"
+                    },
+                    {
+                        "start": "15.824",
+                        "text": "친구도"
+                    },
+                    {
+                        "start": "16.679",
+                        "text": "구하고"
+                    },
+                    {
+                        "start": "17.986",
+                        "text": "태양계에"
+                    },
+                    {
+                        "start": "18.793",
+                        "text": "대해"
+                    },
+                    {
+                        "start": "19.272",
+                        "text": "배웠어요."
+                    },
+                    {
+                        "start": "21.368",
+                        "text": "히어로들은"
+                    },
+                    {
+                        "start": "22.792",
+                        "text": "나오를"
+                    },
+                    {
+                        "start": "23.853",
+                        "text": "안전하게"
+                    },
+                    {
+                        "start": "24.800",
+                        "text": "지키면서"
+                    },
+                    {
+                        "start": "26.386",
+                        "text": "이그노스"
+                    },
+                    {
+                        "start": "27.263",
+                        "text": "은하로"
+                    },
+                    {
+                        "start": "28.274",
+                        "text": "돌아갔어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

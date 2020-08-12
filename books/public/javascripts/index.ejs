@@ -1,0 +1,118 @@
+<!doctype html>
+
+
+<html>
+
+
+<head>
+    <script>
+    var id=<%=id%>;
+    var language=<%- JSON.stringify(language)%>;
+    var bookName='<%=titles[id-1].name%>';
+	var data=<%-bookDatas%>
+    language = language.substring(0, 2).toUpperCase();
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/javascripts/Plantilla.js"></script>
+	<title class="languageTitle"></title>
+	<meta charset="UTF-8">
+	<meta http-equiv="cache-control" content="max-age=0" />
+	<meta http-equiv="cache-control" content="no-cache" />
+    
+    <!--Dinamically Read Scripts-->
+    
+    
+	<meta name="viewport" content="width = 1050, user-scalable = no" />
+	<link rel="icon" type="image/png" href="../../pics/favicon.png" />
+	<script type="text/javascript" src="/extras/jquery.min.1.7.js"></script>
+	<script type="text/javascript" src="/extras/jquery-ui-1.8.20.custom.min.js"></script>
+	<script type="text/javascript" src="/extras/modernizr.2.5.3.min.js"></script>
+	<script type="text/javascript" src="/lib/hash.js"></script>
+	<script type="text/javascript" src="/javascripts/jquery.blast.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
+	<!--<script type="text/javascript" src="js/tracks.js"></script>-->
+    <!--<script type="text/javascript" src="js/visibleHand.js"></script>-->
+	<script type="text/javascript" src="/javascripts/audioSync.js"></script>
+	<!--ESta de manera absoluta la direccion de epic model, por la profundidad que tiene dentro del server-->
+	<!--<script type="text/javascript" src="http://play.yogome.com/js/epic/models/epicModel.js"></script>   -->
+	<script type="text/javascript" src="javascripts/mixpanel.js"></script>
+
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<meta property="og:url"				content="https://books.yogome.com/<%=id%>"/>
+	<meta property="og:type"			content="article" />
+	<meta property="og:title"			content="Interactive Books:<%=titles[id-1].name%>" />
+	<meta property="og:image"			content="https://play.yogome.com/master/posts/fbpost_<%=id%>.png" />
+
+    
+    <!--<script type="text/javascript" src="assets/javascripts/FBasync.js"></script>-->
+</head>
+
+
+
+
+<body id="zooms">
+    <!--<script type="text/javascript" src="assets/js/shareOverride.js"></script>-->
+    
+<div id="canvas">
+
+
+	<div class="magazine-viewport">
+		<div class="container">
+
+			<div class="magazine" id="magaz">
+				<!--  BOTON SIGUIENTE      -->
+				<div ignore="1" class="next-button">
+					<div id="activeNext" >
+						<div class="animation1">
+						</div>
+					</div>
+					<img src="/images/nextButton.png" id="next"  style="visibility: hidden">
+				</div>
+                
+				<!-- Previous button -->
+				<div ignore="1" class="previous-button" >
+					<img src="/images/nextButton.png" id="prev" style="visibility: hidden">
+				</div>
+				<div id="p1" depth="5" class="hard"> <div class="side"></div> </div>
+				<div depth="5" class="hard front-side"> <div class="depth"></div> </div>
+
+
+				<!--<div class='hard fixed back-side p19'><div class='depth'></div> </div>
+			   <div class='hard p20'></div>-->
+			</div>
+
+
+
+			<!-- Next button -->
+		</div>
+	</div>
+
+	<a><div id="homeButton"><img src="/images/homeButton.png" id="homes" style="visibility: hidden"/></div></a>
+    <script type="application/javascript" src="/javascripts/goBack.js"></script>
+    
+	<div class="languageButton" id="languageButtons"><img src="/images/icon-languages.png" id="languageBoton" style="visibility: hidden"></div>
+	<div class="idiomas" id="languages">
+		<div id="ButtonLanEs" class="overLanguage" style="visibility: hidden">Español</div>
+		<div id="ButtonLanEn" class="overLanguage" style="visibility: hidden">English</div>
+		<div id="ButtonLanZh" class="overLanguage" style="visibility: hidden">中國</div>
+		<div id="ButtonLanJa" class="overLanguage" style="visibility: hidden">日本語</div>
+		<div id="ButtonLanKo" class="overLanguage" style="visibility: hidden">한국어</div>
+		<div id="ButtonLanPt" class="overLanguage" style="visibility: hidden">Português</div>
+	</div>
+    
+    <script type="application/javascript" src="/javascripts/ForIndex.js"></script>
+	<div id="audiosGroup"></div>
+	<div class="bottom">
+		<div id="slider-bar" class="turnjs-slider timeline-style">
+			<div id="slider">
+			</div>
+		</div>
+	</div>
+    </div>
+	<div id="app"></div>
+	<script src="/javascripts/login.js"></script>
+</body>
+	
+</html>

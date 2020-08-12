@@ -1,0 +1,2524 @@
+{
+    "book": {
+        "titleEN": "Tomiko's Test",
+        "titleES": "El examen de Tomiko",
+        "titlePT": "Prova da Tomiko",
+        "titleCN": "富子的考试",
+        "titleJP": "トミコのテスト",
+        "titleKR": "토미코의 시험",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "It was the end of the school year and the Yogotars were taking their last test. Everybody was focused on their papers, answering as fast as they could, except for Tomiko. She wasn’t writing, she just looked at the paper. ",
+                "textES": "Era el final de cursos y los Yogotars su último examen presentaban. Todos estaban concentrados en sus hojas, unos contestaban más rápido que otros, excepto Tomiko, ella no respondía, solo observaba.",
+                "textPT": "Era o final do ano escolar e os Yogotars estavam fazendo a sua última prova. Todo mundo estava concentrado nas suas provas, respondendo o mais rápido que conseguiam, exceto Tomiko. Ela não estava escrevendo, apenas olhava para o papel.",
+                "textCN": "一学年结束了，Yogotar们正在参加期末考试。每个人的注意力都在试卷上，并尽快答题，但富子是个例外。她没有下笔，只是看着试卷出神。",
+                "textJP": "がくねんも もうすぐおわりというころ、ヨゴターたちは さいごのテストを うけていました。みんなすこしでも はやく もんだいを とこうと しんけんです。でも トミコは ちがいました。なにも かいていません。ただ かみを みつめているだけです。",
+                "textKR": "학기가 끝나가던 어느 날, 요고타들은 시험을 보고 있었어요. 모두 시험에 집중하면서 빠르게 답을 쓰고 있었어요. 토미코만 빼고요. 토미코는 그저 시험지만 보고 있으면서 답을 적지 못했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.357",
+                        "text": "Era"
+                    },
+                    {
+                        "start": "0.674",
+                        "text": "el"
+                    },
+                    {
+                        "start": "0.733",
+                        "text": "final"
+                    },
+                    {
+                        "start": "1.209",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.427",
+                        "text": "cursos"
+                    },
+                    {
+                        "start": "2.338",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.457",
+                        "text": "los"
+                    },
+                    {
+                        "start": "2.715",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "3.349",
+                        "text": "su"
+                    },
+                    {
+                        "start": "3.626",
+                        "text": "último"
+                    },
+                    {
+                        "start": "4.161",
+                        "text": "examen"
+                    },
+                    {
+                        "start": "4.815",
+                        "text": "presentaban."
+                    },
+                    {
+                        "start": "6.776",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "7.351",
+                        "text": "estaban"
+                    },
+                    {
+                        "start": "8.064",
+                        "text": "concentrados"
+                    },
+                    {
+                        "start": "9.154",
+                        "text": "en"
+                    },
+                    {
+                        "start": "9.313",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "9.590",
+                        "text": "hojas,"
+                    },
+                    {
+                        "start": "11.017",
+                        "text": "unos"
+                    },
+                    {
+                        "start": "11.651",
+                        "text": "contestaban"
+                    },
+                    {
+                        "start": "12.384",
+                        "text": "más"
+                    },
+                    {
+                        "start": "12.859",
+                        "text": "rápido"
+                    },
+                    {
+                        "start": "13.315",
+                        "text": "que"
+                    },
+                    {
+                        "start": "13.533",
+                        "text": "otros,"
+                    },
+                    {
+                        "start": "15.098",
+                        "text": "excepto"
+                    },
+                    {
+                        "start": "15.732",
+                        "text": "Tomiko,"
+                    },
+                    {
+                        "start": "17.298",
+                        "text": "ella"
+                    },
+                    {
+                        "start": "18.150",
+                        "text": "no"
+                    },
+                    {
+                        "start": "18.804",
+                        "text": "respondía,"
+                    },
+                    {
+                        "start": "20.369",
+                        "text": "solo"
+                    },
+                    {
+                        "start": "20.864",
+                        "text": "observaba."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.628",
+                        "text": "It"
+                    },
+                    {
+                        "start": "0.757",
+                        "text": "was"
+                    },
+                    {
+                        "start": "0.975",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.103",
+                        "text": "end"
+                    },
+                    {
+                        "start": "1.257",
+                        "text": "of"
+                    },
+                    {
+                        "start": "1.411",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.513",
+                        "text": "school"
+                    },
+                    {
+                        "start": "1.937",
+                        "text": "year"
+                    },
+                    {
+                        "start": "2.257",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.411",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.527",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "3.232",
+                        "text": "were"
+                    },
+                    {
+                        "start": "3.399",
+                        "text": "taking"
+                    },
+                    {
+                        "start": "3.758",
+                        "text": "their"
+                    },
+                    {
+                        "start": "3.963",
+                        "text": "last"
+                    },
+                    {
+                        "start": "4.360",
+                        "text": "test."
+                    },
+                    {
+                        "start": "5.605",
+                        "text": "Everybody"
+                    },
+                    {
+                        "start": "6.207",
+                        "text": "was"
+                    },
+                    {
+                        "start": "6.400",
+                        "text": "focused"
+                    },
+                    {
+                        "start": "6.772",
+                        "text": "on"
+                    },
+                    {
+                        "start": "6.926",
+                        "text": "their"
+                    },
+                    {
+                        "start": "7.131",
+                        "text": "papers,"
+                    },
+                    {
+                        "start": "7.862",
+                        "text": "answering"
+                    },
+                    {
+                        "start": "8.490",
+                        "text": "as"
+                    },
+                    {
+                        "start": "8.862",
+                        "text": "fast"
+                    },
+                    {
+                        "start": "9.183",
+                        "text": "as"
+                    },
+                    {
+                        "start": "9.349",
+                        "text": "they"
+                    },
+                    {
+                        "start": "9.580",
+                        "text": "could,"
+                    },
+                    {
+                        "start": "10.363",
+                        "text": "except"
+                    },
+                    {
+                        "start": "11.106",
+                        "text": "for"
+                    },
+                    {
+                        "start": "11.273",
+                        "text": "Tomiko."
+                    },
+                    {
+                        "start": "12.722",
+                        "text": "She"
+                    },
+                    {
+                        "start": "13.030",
+                        "text": "wasn’t"
+                    },
+                    {
+                        "start": "13.364",
+                        "text": "writing,"
+                    },
+                    {
+                        "start": "14.249",
+                        "text": "she"
+                    },
+                    {
+                        "start": "14.467",
+                        "text": "just"
+                    },
+                    {
+                        "start": "14.723",
+                        "text": "looked"
+                    },
+                    {
+                        "start": "15.007",
+                        "text": "at"
+                    },
+                    {
+                        "start": "15.210",
+                        "text": "the"
+                    },
+                    {
+                        "start": "15.403",
+                        "text": "paper."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "학기가"
+                    },
+                    {
+                        "start": "1.061",
+                        "text": "끝나가던"
+                    },
+                    {
+                        "start": "2.574",
+                        "text": "어느"
+                    },
+                    {
+                        "start": "3.217",
+                        "text": "날,"
+                    },
+                    {
+                        "start": "4.238",
+                        "text": "요고타들은"
+                    },
+                    {
+                        "start": "5.942",
+                        "text": "시험을"
+                    },
+                    {
+                        "start": "7.280",
+                        "text": "보고"
+                    },
+                    {
+                        "start": "7.953",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "10.203",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "11.391",
+                        "text": "시험에"
+                    },
+                    {
+                        "start": "12.332",
+                        "text": "집중하면서"
+                    },
+                    {
+                        "start": "14.168",
+                        "text": "빠르게"
+                    },
+                    {
+                        "start": "15.348",
+                        "text": "답을"
+                    },
+                    {
+                        "start": "16.033",
+                        "text": "쓰고"
+                    },
+                    {
+                        "start": "16.773",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "18.995",
+                        "text": "토미코만"
+                    },
+                    {
+                        "start": "20.417",
+                        "text": "빼고요."
+                    },
+                    {
+                        "start": "22.360",
+                        "text": "토미코는"
+                    },
+                    {
+                        "start": "23.990",
+                        "text": "그저"
+                    },
+                    {
+                        "start": "24.915",
+                        "text": "시험지만"
+                    },
+                    {
+                        "start": "26.247",
+                        "text": "보고"
+                    },
+                    {
+                        "start": "26.920",
+                        "text": "있으면서"
+                    },
+                    {
+                        "start": "28.520",
+                        "text": "답을"
+                    },
+                    {
+                        "start": "29.582",
+                        "text": "적지"
+                    },
+                    {
+                        "start": "30.378",
+                        "text": "못했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "Tomiko had studied two nights before the test, but the answers didn't seem to come to her. She watched the time go by and fiddled anxiously with her pencil until it broke in half. Sharp saw this and walked over to her.",
+                "textES": "Tomiko había estudiado dos noches seguidas, pero las respuestas parecían no llegar. Ella observaba cómo el reloj avanzaba y con su lápiz la banca golpeaba, hasta que sin querer lo rompió. Sharp desde su lugar a Tomiko observó y a ella se acercó.",
+                "textPT": "“Tomiko estudou duas noites antes do teste, mas as respostas não pareciam não vir até ela. Ela olhou o tempo passar enquanto brincava ansiosamente com seu lápis até que o quebrou no meio. Sharp viu isso e caminhou até ela.",
+                "textCN": "富子在考试之前的两个晚上一直在学习，但她似乎并没有想起答案。她看着时间一点点流逝，焦急地摆弄着铅笔，直到铅笔断成两半。夏普看到这一切，走到她跟前。",
+                "textJP": "よる二日かけて べんきょうした トミコ。せっかく がんばったのに こたえが でてこないようなのです。ただ ぼんやりして ふあんそうに えんぴつで あそんでいます。えんぴつは とうとう ふたつに われてしまいました。それを見た シャープが、トミコに ちかづいてきました。",
+                "textKR": "토미코는 시험 전에 이틀 밤이나 공부를 했지만, 답이 생각나지 않았어요. 시간이 흘러가는 걸 지켜보면서 초조하게 연필만 만지고 있었어요. 그러다 연필을 두 동강 냈어요. 샤프가 그걸 보고 토미코에게 다가갔어요.  ",
+                "wordsES": [
+                    {
+                        "start": "0.594",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "1.209",
+                        "text": "había"
+                    },
+                    {
+                        "start": "1.427",
+                        "text": "estudiado"
+                    },
+                    {
+                        "start": "2.516",
+                        "text": "dos"
+                    },
+                    {
+                        "start": "2.992",
+                        "text": "noches"
+                    },
+                    {
+                        "start": "3.467",
+                        "text": "seguidas,"
+                    },
+                    {
+                        "start": "5.112",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "5.330",
+                        "text": "las"
+                    },
+                    {
+                        "start": "5.548",
+                        "text": "respuestas"
+                    },
+                    {
+                        "start": "6.539",
+                        "text": "parecían"
+                    },
+                    {
+                        "start": "7.153",
+                        "text": "no"
+                    },
+                    {
+                        "start": "7.470",
+                        "text": "llegar."
+                    },
+                    {
+                        "start": "9.531",
+                        "text": "Ella"
+                    },
+                    {
+                        "start": "9.887",
+                        "text": "observaba"
+                    },
+                    {
+                        "start": "10.838",
+                        "text": "cómo"
+                    },
+                    {
+                        "start": "11.175",
+                        "text": "el"
+                    },
+                    {
+                        "start": "11.294",
+                        "text": "reloj"
+                    },
+                    {
+                        "start": "11.690",
+                        "text": "avanzaba"
+                    },
+                    {
+                        "start": "13.097",
+                        "text": "y"
+                    },
+                    {
+                        "start": "13.176",
+                        "text": "con"
+                    },
+                    {
+                        "start": "13.394",
+                        "text": "su"
+                    },
+                    {
+                        "start": "13.632",
+                        "text": "lápiz"
+                    },
+                    {
+                        "start": "14.246",
+                        "text": "la"
+                    },
+                    {
+                        "start": "14.464",
+                        "text": "banca"
+                    },
+                    {
+                        "start": "14.841",
+                        "text": "golpeaba,"
+                    },
+                    {
+                        "start": "16.565",
+                        "text": "hasta"
+                    },
+                    {
+                        "start": "16.961",
+                        "text": "que"
+                    },
+                    {
+                        "start": "17.080",
+                        "text": "sin"
+                    },
+                    {
+                        "start": "17.397",
+                        "text": "querer"
+                    },
+                    {
+                        "start": "18.150",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "18.328",
+                        "text": "rompió."
+                    },
+                    {
+                        "start": "20.765",
+                        "text": "Sharp"
+                    },
+                    {
+                        "start": "21.479",
+                        "text": "desde"
+                    },
+                    {
+                        "start": "21.776",
+                        "text": "su"
+                    },
+                    {
+                        "start": "21.974",
+                        "text": "lugar"
+                    },
+                    {
+                        "start": "22.336",
+                        "text": "a"
+                    },
+                    {
+                        "start": "22.494",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "22.885",
+                        "text": "observó"
+                    },
+                    {
+                        "start": "24.094",
+                        "text": "y"
+                    },
+                    {
+                        "start": "24.272",
+                        "text": "a"
+                    },
+                    {
+                        "start": "24.411",
+                        "text": "ella"
+                    },
+                    {
+                        "start": "24.688",
+                        "text": "se"
+                    },
+                    {
+                        "start": "24.827",
+                        "text": "acercó."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.641",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "1.180",
+                        "text": "had"
+                    },
+                    {
+                        "start": "1.411",
+                        "text": "studied"
+                    },
+                    {
+                        "start": "1.911",
+                        "text": "two"
+                    },
+                    {
+                        "start": "2.103",
+                        "text": "nights"
+                    },
+                    {
+                        "start": "2.424",
+                        "text": "before"
+                    },
+                    {
+                        "start": "2.732",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.886",
+                        "text": "test,"
+                    },
+                    {
+                        "start": "3.745",
+                        "text": "but"
+                    },
+                    {
+                        "start": "3.886",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.014",
+                        "text": "answers"
+                    },
+                    {
+                        "start": "4.527",
+                        "text": "didn’t"
+                    },
+                    {
+                        "start": "4.874",
+                        "text": "seem"
+                    },
+                    {
+                        "start": "5.156",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.310",
+                        "text": "come"
+                    },
+                    {
+                        "start": "5.528",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.669",
+                        "text": "her."
+                    },
+                    {
+                        "start": "6.784",
+                        "text": "She"
+                    },
+                    {
+                        "start": "6.964",
+                        "text": "watched"
+                    },
+                    {
+                        "start": "7.374",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.503",
+                        "text": "time"
+                    },
+                    {
+                        "start": "7.823",
+                        "text": "go"
+                    },
+                    {
+                        "start": "8.003",
+                        "text": "by"
+                    },
+                    {
+                        "start": "8.447",
+                        "text": "and"
+                    },
+                    {
+                        "start": "8.759",
+                        "text": "fiddled"
+                    },
+                    {
+                        "start": "9.157",
+                        "text": "anxiously"
+                    },
+                    {
+                        "start": "9.760",
+                        "text": "with"
+                    },
+                    {
+                        "start": "9.901",
+                        "text": "her"
+                    },
+                    {
+                        "start": "10.119",
+                        "text": "pencil"
+                    },
+                    {
+                        "start": "10.632",
+                        "text": "until"
+                    },
+                    {
+                        "start": "10.953",
+                        "text": "it"
+                    },
+                    {
+                        "start": "11.222",
+                        "text": "broke"
+                    },
+                    {
+                        "start": "11.568",
+                        "text": "in"
+                    },
+                    {
+                        "start": "11.761",
+                        "text": "half."
+                    },
+                    {
+                        "start": "12.979",
+                        "text": "Sharp"
+                    },
+                    {
+                        "start": "13.376",
+                        "text": "saw"
+                    },
+                    {
+                        "start": "13.736",
+                        "text": "this"
+                    },
+                    {
+                        "start": "14.095",
+                        "text": "and"
+                    },
+                    {
+                        "start": "14.236",
+                        "text": "walked"
+                    },
+                    {
+                        "start": "14.518",
+                        "text": "over"
+                    },
+                    {
+                        "start": "14.851",
+                        "text": "to"
+                    },
+                    {
+                        "start": "15.018",
+                        "text": "her."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "토미코는"
+                    },
+                    {
+                        "start": "1.570",
+                        "text": "시험"
+                    },
+                    {
+                        "start": "2.295",
+                        "text": "전에"
+                    },
+                    {
+                        "start": "3.469",
+                        "text": "이틀"
+                    },
+                    {
+                        "start": "4.243",
+                        "text": "밤이나"
+                    },
+                    {
+                        "start": "5.641",
+                        "text": "공부를"
+                    },
+                    {
+                        "start": "6.507",
+                        "text": "했지만,"
+                    },
+                    {
+                        "start": "7.960",
+                        "text": "답이"
+                    },
+                    {
+                        "start": "8.685",
+                        "text": "생각나지"
+                    },
+                    {
+                        "start": "9.808",
+                        "text": "않았어요."
+                    },
+                    {
+                        "start": "12.361",
+                        "text": "시간이"
+                    },
+                    {
+                        "start": "13.350",
+                        "text": "흘러가는"
+                    },
+                    {
+                        "start": "14.207",
+                        "text": "걸"
+                    },
+                    {
+                        "start": "15.266",
+                        "text": "지켜보면서"
+                    },
+                    {
+                        "start": "17.093",
+                        "text": "초조하게"
+                    },
+                    {
+                        "start": "17.679",
+                        "text": "연필만"
+                    },
+                    {
+                        "start": "20.034",
+                        "text": "만지고"
+                    },
+                    {
+                        "start": "20.973",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "23.323",
+                        "text": "그러다"
+                    },
+                    {
+                        "start": "24.650",
+                        "text": "연필을"
+                    },
+                    {
+                        "start": "26.065",
+                        "text": "두"
+                    },
+                    {
+                        "start": "26.603",
+                        "text": "동강"
+                    },
+                    {
+                        "start": "27.584",
+                        "text": "냈어요."
+                    },
+                    {
+                        "start": "29.603",
+                        "text": "샤프가"
+                    },
+                    {
+                        "start": "31.226",
+                        "text": "그걸"
+                    },
+                    {
+                        "start": "31.924",
+                        "text": "보고"
+                    },
+                    {
+                        "start": "33.074",
+                        "text": "토미코에게"
+                    },
+                    {
+                        "start": "34.773",
+                        "text": "다가갔어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "“What is it, dear Tomiko?” asked Sharp.<br><br>“I studied really hard, but I don't remember the answers,” replied Tomiko.<br><br>“I believe you. Let me give you some advice,” said Sharp reassuringly. “Take three deep breaths and relax. The answers will come to you more easily.”",
+                "textES": "–¿Qué pasa querida Tomiko? –dijo Sharp. <br><br>–No recuerdo las respuestas, pero estudié mucho –contestó Tomiko.<br><br> –Sí te creo. Te voy a dar un consejo, cierra los ojos y respira profundo tres veces, así las respuestas llegarán a ti –dijo Sharp, antes de darle un nuevo lápiz a Tomiko.",
+                "textPT": "“O que está acontecendo, querida Tomiko?” perguntou Sharp.<br><br>“Eu estudei muito, mas não me lembro das respostas”, respondeu Tomiko.<br><br>“Eu acredito em você. Vou te dar alguns conselhos”, disse Sharp para tranquilizá-la. “Respire fundo três vezes e relaxe. As respostas virão mais facilmente.”",
+                "textCN": "怎么了，亲爱的富子？”夏普问。<br><br>“我很努力地学习过了，但我不记得答案了，”富子回答。<br><br>“我相信你。让我给你一些建议，”夏普安慰她说。“深呼吸三次，放松一下。你就可以更容易找到答案。",
+                "textJP": "「どうしたんだい、トミコ？」シャープが たずねました。<rb><br>「いっしょうけんめい べんきょうしたんだけど、こたえを なにもおぼえてないの」トミコは こたえました。するとシャープは<br><br>「そうか。いいことを おしえてあげよう」と たのもしげに いいました。「大きく いきを 三かい すって、力をぬいてごらん。こたえが きっと 出てくるから。」",
+                "textKR": "&#34;토미코, 무슨 일이 있니?&#34;  샤프가 물었어요. <br><br>&#34;공부를 정말 열심히 했는데 답이 생각나지 않아.&#34;  토미코가 대답했어요.<br><br>&#34;너는 할 수 있어. 내가 조언을 해 줄게.&#34;  샤프가 토미코를 안심시키면서 말했어요. &#34;숨을 크게 세 번 쉬면서 진정해봐. 그러면 답을 쉽게 떠올릴 수 있어.&#34; ",
+                "wordsES": [
+                    {
+                        "start": "0.159",
+                        "text": "–¿Qué"
+                    },
+                    {
+                        "start": "0.614",
+                        "text": "pasa"
+                    },
+                    {
+                        "start": "1.149",
+                        "text": "querida"
+                    },
+                    {
+                        "start": "1.664",
+                        "text": "Tomiko?"
+                    },
+                    {
+                        "start": "3.547",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "4.002",
+                        "text": "Sharp."
+                    },
+                    {
+                        "start": "5.944",
+                        "text": "–No"
+                    },
+                    {
+                        "start": "6.281",
+                        "text": "recuerdo"
+                    },
+                    {
+                        "start": "6.895",
+                        "text": "las"
+                    },
+                    {
+                        "start": "7.133",
+                        "text": "respuestas,"
+                    },
+                    {
+                        "start": "9.035",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "9.233",
+                        "text": "estudié"
+                    },
+                    {
+                        "start": "9.867",
+                        "text": "mucho"
+                    },
+                    {
+                        "start": "11.611",
+                        "text": "–contestó"
+                    },
+                    {
+                        "start": "12.423",
+                        "text": "Tomiko."
+                    },
+                    {
+                        "start": "14.008",
+                        "text": "–Sí"
+                    },
+                    {
+                        "start": "14.464",
+                        "text": "te"
+                    },
+                    {
+                        "start": "14.643",
+                        "text": "creo."
+                    },
+                    {
+                        "start": "15.970",
+                        "text": "Te"
+                    },
+                    {
+                        "start": "16.188",
+                        "text": "voy"
+                    },
+                    {
+                        "start": "16.426",
+                        "text": "a"
+                    },
+                    {
+                        "start": "16.505",
+                        "text": "dar"
+                    },
+                    {
+                        "start": "16.703",
+                        "text": "un"
+                    },
+                    {
+                        "start": "16.981",
+                        "text": "consejo,"
+                    },
+                    {
+                        "start": "18.269",
+                        "text": "cierra"
+                    },
+                    {
+                        "start": "18.784",
+                        "text": "los"
+                    },
+                    {
+                        "start": "19.121",
+                        "text": "ojos"
+                    },
+                    {
+                        "start": "20.012",
+                        "text": "y"
+                    },
+                    {
+                        "start": "20.030",
+                        "text": "respira"
+                    },
+                    {
+                        "start": "20.963",
+                        "text": "profundo"
+                    },
+                    {
+                        "start": "21.756",
+                        "text": "tres"
+                    },
+                    {
+                        "start": "22.370",
+                        "text": "veces,"
+                    },
+                    {
+                        "start": "23.519",
+                        "text": "así"
+                    },
+                    {
+                        "start": "24.510",
+                        "text": "las"
+                    },
+                    {
+                        "start": "24.708",
+                        "text": "respuestas"
+                    },
+                    {
+                        "start": "25.362",
+                        "text": "llegarán"
+                    },
+                    {
+                        "start": "25.758",
+                        "text": "a"
+                    },
+                    {
+                        "start": "26.056",
+                        "text": "ti"
+                    },
+                    {
+                        "start": "27.859",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "28.255",
+                        "text": "Sharp,"
+                    },
+                    {
+                        "start": "29.424",
+                        "text": "antes"
+                    },
+                    {
+                        "start": "29.919",
+                        "text": "de"
+                    },
+                    {
+                        "start": "30.177",
+                        "text": "darle"
+                    },
+                    {
+                        "start": "30.593",
+                        "text": "un"
+                    },
+                    {
+                        "start": "30.831",
+                        "text": "nuevo"
+                    },
+                    {
+                        "start": "31.267",
+                        "text": "lápiz"
+                    },
+                    {
+                        "start": "31.881",
+                        "text": "a"
+                    },
+                    {
+                        "start": "32.039",
+                        "text": "Tomiko."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.693",
+                        "text": "What"
+                    },
+                    {
+                        "start": "1.077",
+                        "text": "is"
+                    },
+                    {
+                        "start": "1.257",
+                        "text": "it,"
+                    },
+                    {
+                        "start": "1.475",
+                        "text": "dear"
+                    },
+                    {
+                        "start": "1.757",
+                        "text": "Tomiko?"
+                    },
+                    {
+                        "start": "2.616",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "2.937",
+                        "text": "Sharp."
+                    },
+                    {
+                        "start": "4.040",
+                        "text": "I"
+                    },
+                    {
+                        "start": "4.296",
+                        "text": "studied"
+                    },
+                    {
+                        "start": "4.835",
+                        "text": "really"
+                    },
+                    {
+                        "start": "5.258",
+                        "text": "hard,"
+                    },
+                    {
+                        "start": "5.989",
+                        "text": "but"
+                    },
+                    {
+                        "start": "6.105",
+                        "text": "I"
+                    },
+                    {
+                        "start": "6.259",
+                        "text": "don’t"
+                    },
+                    {
+                        "start": "6.528",
+                        "text": "remember"
+                    },
+                    {
+                        "start": "7.015",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.246",
+                        "text": "answers,"
+                    },
+                    {
+                        "start": "8.298",
+                        "text": "replied"
+                    },
+                    {
+                        "start": "8.811",
+                        "text": "Tomiko."
+                    },
+                    {
+                        "start": "10.298",
+                        "text": "I"
+                    },
+                    {
+                        "start": "10.632",
+                        "text": "believe"
+                    },
+                    {
+                        "start": "11.030",
+                        "text": "you."
+                    },
+                    {
+                        "start": "11.761",
+                        "text": "Let"
+                    },
+                    {
+                        "start": "11.914",
+                        "text": "me"
+                    },
+                    {
+                        "start": "12.209",
+                        "text": "give"
+                    },
+                    {
+                        "start": "12.312",
+                        "text": "you"
+                    },
+                    {
+                        "start": "12.530",
+                        "text": "some"
+                    },
+                    {
+                        "start": "12.710",
+                        "text": "advice,"
+                    },
+                    {
+                        "start": "13.607",
+                        "text": "said"
+                    },
+                    {
+                        "start": "13.877",
+                        "text": "Sharp"
+                    },
+                    {
+                        "start": "14.338",
+                        "text": "reassuringly."
+                    },
+                    {
+                        "start": "15.852",
+                        "text": "Take"
+                    },
+                    {
+                        "start": "16.147",
+                        "text": "three"
+                    },
+                    {
+                        "start": "16.737",
+                        "text": "deep"
+                    },
+                    {
+                        "start": "17.057",
+                        "text": "breaths"
+                    },
+                    {
+                        "start": "17.852",
+                        "text": "and"
+                    },
+                    {
+                        "start": "18.006",
+                        "text": "relax."
+                    },
+                    {
+                        "start": "19.366",
+                        "text": "The"
+                    },
+                    {
+                        "start": "19.571",
+                        "text": "answers"
+                    },
+                    {
+                        "start": "20.135",
+                        "text": "will"
+                    },
+                    {
+                        "start": "20.366",
+                        "text": "come"
+                    },
+                    {
+                        "start": "20.610",
+                        "text": "to"
+                    },
+                    {
+                        "start": "20.764",
+                        "text": "you"
+                    },
+                    {
+                        "start": "20.956",
+                        "text": "more"
+                    },
+                    {
+                        "start": "21.136",
+                        "text": "easily."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "토미코,"
+                    },
+                    {
+                        "start": "1.455",
+                        "text": "무슨"
+                    },
+                    {
+                        "start": "2.132",
+                        "text": "일이"
+                    },
+                    {
+                        "start": "2.667",
+                        "text": "있니?"
+                    },
+                    {
+                        "start": "3.896",
+                        "text": "샤프가"
+                    },
+                    {
+                        "start": "4.964",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "7.267",
+                        "text": "공부를"
+                    },
+                    {
+                        "start": "8.717",
+                        "text": "정말"
+                    },
+                    {
+                        "start": "9.445",
+                        "text": "열심히"
+                    },
+                    {
+                        "start": "10.213",
+                        "text": "했는데"
+                    },
+                    {
+                        "start": "11.777",
+                        "text": "답이"
+                    },
+                    {
+                        "start": "12.500",
+                        "text": "생각나지"
+                    },
+                    {
+                        "start": "13.446",
+                        "text": "않아."
+                    },
+                    {
+                        "start": "15.463",
+                        "text": "토미코가"
+                    },
+                    {
+                        "start": "16.819",
+                        "text": "대답했어요."
+                    },
+                    {
+                        "start": "19.129",
+                        "text": "너는"
+                    },
+                    {
+                        "start": "20.217",
+                        "text": "할"
+                    },
+                    {
+                        "start": "20.600",
+                        "text": "수"
+                    },
+                    {
+                        "start": "21.036",
+                        "text": "있어."
+                    },
+                    {
+                        "start": "22.270",
+                        "text": "내가"
+                    },
+                    {
+                        "start": "23.250",
+                        "text": "조언을"
+                    },
+                    {
+                        "start": "24.000",
+                        "text": "해"
+                    },
+                    {
+                        "start": "24.381",
+                        "text": "줄게."
+                    },
+                    {
+                        "start": "26.203",
+                        "text": "샤프가"
+                    },
+                    {
+                        "start": "27.682",
+                        "text": "토미코를"
+                    },
+                    {
+                        "start": "28.945",
+                        "text": "안심시키면서"
+                    },
+                    {
+                        "start": "30.600",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "32.908",
+                        "text": "숨을"
+                    },
+                    {
+                        "start": "34.196",
+                        "text": "크게"
+                    },
+                    {
+                        "start": "34.948",
+                        "text": "세"
+                    },
+                    {
+                        "start": "35.462",
+                        "text": "번"
+                    },
+                    {
+                        "start": "36.008",
+                        "text": "쉬면서"
+                    },
+                    {
+                        "start": "37.457",
+                        "text": "진정해봐."
+                    },
+                    {
+                        "start": "39.214",
+                        "text": "그러면"
+                    },
+                    {
+                        "start": "40.500",
+                        "text": "답을"
+                    },
+                    {
+                        "start": "41.553",
+                        "text": "쉽게"
+                    },
+                    {
+                        "start": "42.444",
+                        "text": "떠올릴"
+                    },
+                    {
+                        "start": "43.034",
+                        "text": "수"
+                    },
+                    {
+                        "start": "43.608",
+                        "text": "있어."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "Tomiko closed her eyes, calmly inhaling and exhaling repeatedly. Each time she did this, she began to remember the answers.",
+                "textES": "Tomiko cerró los ojos, inhaló y exhaló en repetidas ocasiones y cada que lo hacía una respuesta nueva aparecía.  ",
+                "textPT": "Tomiko fechou seus olhos, calmamente inspirou e expirou repetidamente. Cada vez que fez isso, começou a se lembrar das respostas.",
+                "textCN": "富子闭上眼睛，平静地反复吸气并呼气。每次她吸气并呼气时，她都能记起一些答案。",
+                "textJP": "トミコは 目をとじ、すって、はいて、しずかに しんこきゅうを くりかえしました。すると、そのたびに すこしずつ こたえが うかんでくるでは ありませんか。",
+                "textKR": "토미코는 눈을 감고 차분하게 숨을 쉬었어요. 숨을 쉴 때마다 정답이 서서히 떠올랐어요.",
+                "wordsES": [
+                    {
+                        "start": "0.396",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "1.129",
+                        "text": "cerró"
+                    },
+                    {
+                        "start": "1.645",
+                        "text": "los"
+                    },
+                    {
+                        "start": "1.942",
+                        "text": "ojos,"
+                    },
+                    {
+                        "start": "3.230",
+                        "text": "inhaló"
+                    },
+                    {
+                        "start": "4.260",
+                        "text": "y"
+                    },
+                    {
+                        "start": "4.419",
+                        "text": "exhaló"
+                    },
+                    {
+                        "start": "5.667",
+                        "text": "en"
+                    },
+                    {
+                        "start": "5.905",
+                        "text": "repetidas"
+                    },
+                    {
+                        "start": "6.677",
+                        "text": "ocasiones"
+                    },
+                    {
+                        "start": "8.223",
+                        "text": "y"
+                    },
+                    {
+                        "start": "8.441",
+                        "text": "cada"
+                    },
+                    {
+                        "start": "8.817",
+                        "text": "que"
+                    },
+                    {
+                        "start": "8.996",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "9.134",
+                        "text": "hacía"
+                    },
+                    {
+                        "start": "10.145",
+                        "text": "una"
+                    },
+                    {
+                        "start": "10.462",
+                        "text": "respuesta"
+                    },
+                    {
+                        "start": "11.175",
+                        "text": "nueva"
+                    },
+                    {
+                        "start": "11.928",
+                        "text": "aparecía."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.693",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "1.282",
+                        "text": "closed"
+                    },
+                    {
+                        "start": "1.629",
+                        "text": "her"
+                    },
+                    {
+                        "start": "1.834",
+                        "text": "eyes,"
+                    },
+                    {
+                        "start": "2.552",
+                        "text": "calmly"
+                    },
+                    {
+                        "start": "2.963",
+                        "text": "inhaling"
+                    },
+                    {
+                        "start": "3.591",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.771",
+                        "text": "exhaling"
+                    },
+                    {
+                        "start": "4.450",
+                        "text": "repeatedly."
+                    },
+                    {
+                        "start": "6.130",
+                        "text": "Each"
+                    },
+                    {
+                        "start": "6.412",
+                        "text": "time"
+                    },
+                    {
+                        "start": "6.720",
+                        "text": "she"
+                    },
+                    {
+                        "start": "6.913",
+                        "text": "did"
+                    },
+                    {
+                        "start": "7.131",
+                        "text": "this,"
+                    },
+                    {
+                        "start": "7.785",
+                        "text": "she"
+                    },
+                    {
+                        "start": "7.990",
+                        "text": "began"
+                    },
+                    {
+                        "start": "8.439",
+                        "text": "to"
+                    },
+                    {
+                        "start": "8.516",
+                        "text": "remember"
+                    },
+                    {
+                        "start": "9.067",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.247",
+                        "text": "answers."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "토미코는"
+                    },
+                    {
+                        "start": "1.600",
+                        "text": "눈을"
+                    },
+                    {
+                        "start": "2.396",
+                        "text": "감고"
+                    },
+                    {
+                        "start": "3.573",
+                        "text": "차분하게"
+                    },
+                    {
+                        "start": "5.165",
+                        "text": "숨을"
+                    },
+                    {
+                        "start": "5.981",
+                        "text": "쉬었어요."
+                    },
+                    {
+                        "start": "8.181",
+                        "text": "숨을"
+                    },
+                    {
+                        "start": "8.988",
+                        "text": "쉴"
+                    },
+                    {
+                        "start": "9.553",
+                        "text": "때마다"
+                    },
+                    {
+                        "start": "10.863",
+                        "text": "정답이"
+                    },
+                    {
+                        "start": "12.342",
+                        "text": "서서히"
+                    },
+                    {
+                        "start": "13.814",
+                        "text": "떠올랐어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "Tomiko was relaxed and felt confident. She started writing her answers on her paper. When time was up, Tomiko delivered her test.",
+                "textES": "Tomiko se relajó y comenzó a escribir en su hoja con confianza y rapidez. El tiempo acabó y la hoja entregó.",
+                "textPT": "Tomiko ficou relaxada e se sentiu confiante. Ela começou a escrever suas respostas no papel. Quando o tempo acabou, Tomiko entregou sua prova.",
+                "textCN": "富子放松下来，感觉有信心了。她开始答卷了。时间到了，富子交卷。",
+                "textJP": "きが らくになって じしんが わいてきたトミコは、こたえを かみに かきはじめました。そして テストがおわり、ようしを だしました。",
+                "textKR": "토미코는 진정하고 자신감을 되찾았어요. 토미코는 정답을 쓰기 시작했어요. 다행히 시간 안에 시험을 끝내었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.079",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "0.654",
+                        "text": "se"
+                    },
+                    {
+                        "start": "0.852",
+                        "text": "relajó"
+                    },
+                    {
+                        "start": "2.021",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.180",
+                        "text": "comenzó"
+                    },
+                    {
+                        "start": "2.695",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.794",
+                        "text": "escribir"
+                    },
+                    {
+                        "start": "3.349",
+                        "text": "en"
+                    },
+                    {
+                        "start": "3.467",
+                        "text": "su"
+                    },
+                    {
+                        "start": "3.745",
+                        "text": "hoja"
+                    },
+                    {
+                        "start": "4.379",
+                        "text": "con"
+                    },
+                    {
+                        "start": "4.637",
+                        "text": "confianza"
+                    },
+                    {
+                        "start": "5.489",
+                        "text": "y"
+                    },
+                    {
+                        "start": "5.627",
+                        "text": "rapidez."
+                    },
+                    {
+                        "start": "7.628",
+                        "text": "El"
+                    },
+                    {
+                        "start": "7.945",
+                        "text": "tiempo"
+                    },
+                    {
+                        "start": "8.342",
+                        "text": "acabó"
+                    },
+                    {
+                        "start": "9.630",
+                        "text": "y"
+                    },
+                    {
+                        "start": "9.768",
+                        "text": "la"
+                    },
+                    {
+                        "start": "9.967",
+                        "text": "hoja"
+                    },
+                    {
+                        "start": "10.422",
+                        "text": "entregó."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.577",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "1.129",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.321",
+                        "text": "relaxed"
+                    },
+                    {
+                        "start": "2.090",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.360",
+                        "text": "felt"
+                    },
+                    {
+                        "start": "2.719",
+                        "text": "confident."
+                    },
+                    {
+                        "start": "3.848",
+                        "text": "She"
+                    },
+                    {
+                        "start": "3.976",
+                        "text": "started"
+                    },
+                    {
+                        "start": "4.463",
+                        "text": "writing"
+                    },
+                    {
+                        "start": "4.732",
+                        "text": "her"
+                    },
+                    {
+                        "start": "4.912",
+                        "text": "answers"
+                    },
+                    {
+                        "start": "5.399",
+                        "text": "on"
+                    },
+                    {
+                        "start": "5.592",
+                        "text": "her"
+                    },
+                    {
+                        "start": "5.771",
+                        "text": "paper."
+                    },
+                    {
+                        "start": "7.131",
+                        "text": "When"
+                    },
+                    {
+                        "start": "7.349",
+                        "text": "time"
+                    },
+                    {
+                        "start": "7.605",
+                        "text": "was"
+                    },
+                    {
+                        "start": "7.785",
+                        "text": "up,"
+                    },
+                    {
+                        "start": "8.234",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "8.862",
+                        "text": "delivered"
+                    },
+                    {
+                        "start": "9.260",
+                        "text": "her"
+                    },
+                    {
+                        "start": "9.516",
+                        "text": "test."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "토미코는"
+                    },
+                    {
+                        "start": "1.464",
+                        "text": "진정하고"
+                    },
+                    {
+                        "start": "3.126",
+                        "text": "자신감을"
+                    },
+                    {
+                        "start": "4.538",
+                        "text": "되찾았어요."
+                    },
+                    {
+                        "start": "6.946",
+                        "text": "토미코는"
+                    },
+                    {
+                        "start": "8.370",
+                        "text": "정답을"
+                    },
+                    {
+                        "start": "9.529",
+                        "text": "쓰기."
+                    },
+                    {
+                        "start": "10.277",
+                        "text": "시작했어요."
+                    },
+                    {
+                        "start": "12.612",
+                        "text": "다행히"
+                    },
+                    {
+                        "start": "13.786",
+                        "text": "시간"
+                    },
+                    {
+                        "start": "14.494",
+                        "text": "안에"
+                    },
+                    {
+                        "start": "15.472",
+                        "text": "시험을"
+                    },
+                    {
+                        "start": "16.422",
+                        "text": "끝내었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "The Yogotars were waiting inside the classroom for the results when Sharp came in and announced:<br><br>“Everybody obtained good grades, except for one person.” Tomiko was scared, but Sharp continued:<br><br>“Congratulations Tomiko, your grade is excellent.”<br><br>All the Yogotars congratulated her and celebrated her hard work. ",
+                "textES": "En el aula estaban todos los Yogotars esperando los resultados, cuando entró Sharp y dijo: &#34;Todos han aprobado con buena calificación, excepto uno de ustedes.”<br><br>Tomiko se asustó, pero Sharp continuó: “Tomiko, felicidades, tu calificación ha sido excelente.” <br><br>Todos los Yogotars a Tomiko felicitaron y su diez celebraron. ",
+                "textPT": "Os Yogotars estavam esperando dentro da sala de aula pelos resultados quando Sharp entrou e anunciou:<br><br>“Todos receberam boas notas, exceto por uma pessoa.” Tomiko ficou nervosa e Sharp continuou:<br><br>“Parabéns Tomiko, a sua nota foi excelente.”<br><br>Todos os Yogotars a cumprimentaram e comemoraram seu trabalho duro. ",
+                "textCN": "Yogotar们正在教室里等待考试成绩，夏普走了进来并宣布：<br><br>“你们每个人都取得了不错的成绩，但有一个人除外。”富子吓了一跳，但夏普继续道：<br><br>“恭喜富子，你的成绩是优秀。”<br><br>所有Yogotar都来向她表示祝贺，庆祝她努力学习取得了好成绩。 ",
+                "textJP": "ヨゴターたちは きょうしつで テストのけっかを まっていました。そこへ シャープが入ってきて はっぴょうしました。<br><br>テストは みんな よくできていたよ。ただ一人だけをのぞいて...」トミコは こわくなりました。でも、シャープは つづけます。<br><br>「おめでとう、トミコ。きみの せいせきは すばらしかったよ。」<br><br>ヨゴターたちは みんな よろこび、トミコの　がんばりを たたえました。 ",
+                "textKR": "요고타들은 교실에서 샤프가 시험 결과를 말해주길 기다리고 있었어요. &#34;모두 좋은 점수를 받았어. 한 명만 빼고.&#34; 토미코는 초조했어요. 샤프는 말을 이어갔어요. &#34;축하해 토미코. 너는 아주 좋은 점수를 받았어.&#34; 모든 요고타들이 열심히 공부해서 좋은 점수를 받은 토미코를 축하했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.317",
+                        "text": "En"
+                    },
+                    {
+                        "start": "0.594",
+                        "text": "el"
+                    },
+                    {
+                        "start": "0.753",
+                        "text": "aula"
+                    },
+                    {
+                        "start": "1.347",
+                        "text": "estaban"
+                    },
+                    {
+                        "start": "2.120",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "2.635",
+                        "text": "los"
+                    },
+                    {
+                        "start": "2.932",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "3.705",
+                        "text": "esperando"
+                    },
+                    {
+                        "start": "4.260",
+                        "text": "los"
+                    },
+                    {
+                        "start": "4.518",
+                        "text": "resultados,"
+                    },
+                    {
+                        "start": "6.440",
+                        "text": "cuando"
+                    },
+                    {
+                        "start": "6.717",
+                        "text": "entró"
+                    },
+                    {
+                        "start": "7.232",
+                        "text": "Sharp"
+                    },
+                    {
+                        "start": "7.906",
+                        "text": "y"
+                    },
+                    {
+                        "start": "8.025",
+                        "text": "dijo:"
+                    },
+                    {
+                        "start": "10.125",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "10.838",
+                        "text": "han"
+                    },
+                    {
+                        "start": "11.008",
+                        "text": "aprobado"
+                    },
+                    {
+                        "start": "11.908",
+                        "text": "con"
+                    },
+                    {
+                        "start": "12.146",
+                        "text": "buena"
+                    },
+                    {
+                        "start": "12.641",
+                        "text": "calificación"
+                    },
+                    {
+                        "start": "14.484",
+                        "text": "excepto"
+                    },
+                    {
+                        "start": "15.673",
+                        "text": "uno"
+                    },
+                    {
+                        "start": "16.208",
+                        "text": "de"
+                    },
+                    {
+                        "start": "16.406",
+                        "text": "ustedes."
+                    },
+                    {
+                        "start": "18.903",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "19.447",
+                        "text": "se"
+                    },
+                    {
+                        "start": "19.636",
+                        "text": "asustó,"
+                    },
+                    {
+                        "start": "21.102",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "21.379",
+                        "text": "Sharp"
+                    },
+                    {
+                        "start": "21.875",
+                        "text": "continuó:"
+                    },
+                    {
+                        "start": "23.718",
+                        "text": "Tomiko,"
+                    },
+                    {
+                        "start": "25.005",
+                        "text": "felicidades,"
+                    },
+                    {
+                        "start": "26.531",
+                        "text": "tu"
+                    },
+                    {
+                        "start": "26.670",
+                        "text": "calificación"
+                    },
+                    {
+                        "start": "27.720",
+                        "text": "ha"
+                    },
+                    {
+                        "start": "27.978",
+                        "text": "sido"
+                    },
+                    {
+                        "start": "28.552",
+                        "text": "excelente."
+                    },
+                    {
+                        "start": "31.663",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "32.000",
+                        "text": "los"
+                    },
+                    {
+                        "start": "32.198",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "33.090",
+                        "text": "a"
+                    },
+                    {
+                        "start": "33.268",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "33.744",
+                        "text": "felicitaron"
+                    },
+                    {
+                        "start": "35.249",
+                        "text": "y"
+                    },
+                    {
+                        "start": "35.348",
+                        "text": "su"
+                    },
+                    {
+                        "start": "35.606",
+                        "text": "diez"
+                    },
+                    {
+                        "start": "36.121",
+                        "text": "celebraron."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.694",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.782",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "1.501",
+                        "text": "were"
+                    },
+                    {
+                        "start": "1.693",
+                        "text": "waiting"
+                    },
+                    {
+                        "start": "2.065",
+                        "text": "inside"
+                    },
+                    {
+                        "start": "2.437",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.578",
+                        "text": "classroom"
+                    },
+                    {
+                        "start": "3.155",
+                        "text": "for"
+                    },
+                    {
+                        "start": "3.258",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.347",
+                        "text": "results"
+                    },
+                    {
+                        "start": "4.207",
+                        "text": "when"
+                    },
+                    {
+                        "start": "4.425",
+                        "text": "Sharp"
+                    },
+                    {
+                        "start": "4.822",
+                        "text": "came"
+                    },
+                    {
+                        "start": "5.066",
+                        "text": "in"
+                    },
+                    {
+                        "start": "5.322",
+                        "text": "and"
+                    },
+                    {
+                        "start": "5.425",
+                        "text": "announced:"
+                    },
+                    {
+                        "start": "6.502",
+                        "text": "“Everybody"
+                    },
+                    {
+                        "start": "7.105",
+                        "text": "obtained"
+                    },
+                    {
+                        "start": "7.657",
+                        "text": "good"
+                    },
+                    {
+                        "start": "7.913",
+                        "text": "grades,"
+                    },
+                    {
+                        "start": "8.618",
+                        "text": "except"
+                    },
+                    {
+                        "start": "9.196",
+                        "text": "for"
+                    },
+                    {
+                        "start": "9.349",
+                        "text": "one"
+                    },
+                    {
+                        "start": "9.888",
+                        "text": "person."
+                    },
+                    {
+                        "start": "11.196",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "11.741",
+                        "text": "was"
+                    },
+                    {
+                        "start": "11.921",
+                        "text": "scared,"
+                    },
+                    {
+                        "start": "12.729",
+                        "text": "but"
+                    },
+                    {
+                        "start": "12.870",
+                        "text": "Sharp"
+                    },
+                    {
+                        "start": "13.364",
+                        "text": "continued:"
+                    },
+                    {
+                        "start": "14.473",
+                        "text": "Congratulations"
+                    },
+                    {
+                        "start": "15.621",
+                        "text": "Tomiko,"
+                    },
+                    {
+                        "start": "16.467",
+                        "text": "your"
+                    },
+                    {
+                        "start": "16.852",
+                        "text": "grade"
+                    },
+                    {
+                        "start": "17.262",
+                        "text": "is"
+                    },
+                    {
+                        "start": "17.692",
+                        "text": "excellent."
+                    },
+                    {
+                        "start": "19.064",
+                        "text": "All"
+                    },
+                    {
+                        "start": "19.276",
+                        "text": "the"
+                    },
+                    {
+                        "start": "19.417",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "20.199",
+                        "text": "congratulated"
+                    },
+                    {
+                        "start": "21.059",
+                        "text": "her"
+                    },
+                    {
+                        "start": "21.405",
+                        "text": "and"
+                    },
+                    {
+                        "start": "21.661",
+                        "text": "celebrated"
+                    },
+                    {
+                        "start": "22.399",
+                        "text": "her"
+                    },
+                    {
+                        "start": "22.720",
+                        "text": "hard"
+                    },
+                    {
+                        "start": "22.976",
+                        "text": "work."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "요고타들은"
+                    },
+                    {
+                        "start": "1.609",
+                        "text": "교실에서"
+                    },
+                    {
+                        "start": "3.108",
+                        "text": "샤프가"
+                    },
+                    {
+                        "start": "4.650",
+                        "text": "시험"
+                    },
+                    {
+                        "start": "5.361",
+                        "text": "결과를"
+                    },
+                    {
+                        "start": "6.495",
+                        "text": "말해주길"
+                    },
+                    {
+                        "start": "8.097",
+                        "text": "기다리고"
+                    },
+                    {
+                        "start": "9.393",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "11.650",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "12.735",
+                        "text": "좋은"
+                    },
+                    {
+                        "start": "13.348",
+                        "text": "점수를"
+                    },
+                    {
+                        "start": "14.220",
+                        "text": "받았어."
+                    },
+                    {
+                        "start": "15.887",
+                        "text": "한"
+                    },
+                    {
+                        "start": "16.339",
+                        "text": "명만"
+                    },
+                    {
+                        "start": "17.131",
+                        "text": "빼고."
+                    },
+                    {
+                        "start": "18.840",
+                        "text": "토미코는"
+                    },
+                    {
+                        "start": "20.340",
+                        "text": "초조했어요."
+                    },
+                    {
+                        "start": "23.040",
+                        "text": "샤프는"
+                    },
+                    {
+                        "start": "24.345",
+                        "text": "말을"
+                    },
+                    {
+                        "start": "25.062",
+                        "text": "이어갔어요."
+                    },
+                    {
+                        "start": "27.788",
+                        "text": "축하해"
+                    },
+                    {
+                        "start": "28.615",
+                        "text": "토미코."
+                    },
+                    {
+                        "start": "29.931",
+                        "text": "너는"
+                    },
+                    {
+                        "start": "30.862",
+                        "text": "아주"
+                    },
+                    {
+                        "start": "31.728",
+                        "text": "좋은"
+                    },
+                    {
+                        "start": "32.403",
+                        "text": "점수를"
+                    },
+                    {
+                        "start": "33.188",
+                        "text": "받았어."
+                    },
+                    {
+                        "start": "35.333",
+                        "text": "모든"
+                    },
+                    {
+                        "start": "36.032",
+                        "text": "요고타들이"
+                    },
+                    {
+                        "start": "37.773",
+                        "text": "열심히"
+                    },
+                    {
+                        "start": "38.734",
+                        "text": "공부해서"
+                    },
+                    {
+                        "start": "40.165",
+                        "text": "좋은"
+                    },
+                    {
+                        "start": "40.896",
+                        "text": "점수를"
+                    },
+                    {
+                        "start": "41.808",
+                        "text": "받은"
+                    },
+                    {
+                        "start": "43.062",
+                        "text": "토미코를"
+                    },
+                    {
+                        "start": "44.408",
+                        "text": "축하했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

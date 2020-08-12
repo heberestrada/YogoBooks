@@ -1,0 +1,1804 @@
+{
+    "book": {
+        "titleEN": "Nao's Diploma",
+        "titleES": "El diploma de Nao",
+        "titlePT": "O diploma de Nao",
+        "titleCN": "奈绪的奖状",
+        "titleJP": "ナオの しょうじょう",
+        "titleKR": "나오의 졸업장",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "The results of the Great Knowledge test had arrived and everybody was excited except for Nao. He hadn’t studied for the test. ",
+                "textES": "Los resultados de la gran prueba de conocimiento habían llegado y todos estaban emocionados, excepto Nao porque no había estudiado para la prueba.",
+                "textPT": "Os resultados do Provão de Conhecimentos tinham saído, e todo mundo estava empolgado, menos Nao. Ele não tinha estudado para a prova.",
+                "textCN": "大知识测验的成绩出来了，大家都很兴奋，但奈绪不太高兴。他并没有好好备考。",
+                "textJP": "ちしきテストの けっかが とどきました。みんなは わくわく していましたが、テストの べんきょうを していなかった ナオは きょうみが ありません。",
+                "textKR": "졸업 시험 결과가 나오는 날, 다들 신나 있었어요. 나오만 빼고요. 나오는 시험공부를 하지 않았었기 때문에 좋은 결과를 기대하지 않았어요.",
+                "wordsES": [
+                    {
+                        "start": "0.050",
+                        "text": "Los"
+                    },
+                    {
+                        "start": "0.301",
+                        "text": "resultados"
+                    },
+                    {
+                        "start": "1.098",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.206",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.407",
+                        "text": "gran"
+                    },
+                    {
+                        "start": "1.766",
+                        "text": "prueba"
+                    },
+                    {
+                        "start": "2.089",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.254",
+                        "text": "conocimiento"
+                    },
+                    {
+                        "start": "3.287",
+                        "text": "habían"
+                    },
+                    {
+                        "start": "3.818",
+                        "text": "llegado"
+                    },
+                    {
+                        "start": "4.895",
+                        "text": "y"
+                    },
+                    {
+                        "start": "5.096",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "5.663",
+                        "text": "estaban"
+                    },
+                    {
+                        "start": "6.208",
+                        "text": "emocionados,"
+                    },
+                    {
+                        "start": "8.032",
+                        "text": "excepto"
+                    },
+                    {
+                        "start": "8.670",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "9.697",
+                        "text": "porque"
+                    },
+                    {
+                        "start": "9.998",
+                        "text": "no"
+                    },
+                    {
+                        "start": "10.214",
+                        "text": "había"
+                    },
+                    {
+                        "start": "10.472",
+                        "text": "estudiado"
+                    },
+                    {
+                        "start": "11.180",
+                        "text": "para"
+                    },
+                    {
+                        "start": "11.391",
+                        "text": "la"
+                    },
+                    {
+                        "start": "11.627",
+                        "text": "prueba."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.638",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.743",
+                        "text": "results"
+                    },
+                    {
+                        "start": "1.213",
+                        "text": "of"
+                    },
+                    {
+                        "start": "1.353",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.521",
+                        "text": "Great"
+                    },
+                    {
+                        "start": "1.816",
+                        "text": "Knowledge"
+                    },
+                    {
+                        "start": "2.306",
+                        "text": "test"
+                    },
+                    {
+                        "start": "2.587",
+                        "text": "had"
+                    },
+                    {
+                        "start": "2.741",
+                        "text": "arrived"
+                    },
+                    {
+                        "start": "3.540",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.779",
+                        "text": "everybody"
+                    },
+                    {
+                        "start": "4.347",
+                        "text": "was"
+                    },
+                    {
+                        "start": "4.480",
+                        "text": "excited"
+                    },
+                    {
+                        "start": "5.202",
+                        "text": "except"
+                    },
+                    {
+                        "start": "5.777",
+                        "text": "for"
+                    },
+                    {
+                        "start": "6.008",
+                        "text": "Nao."
+                    },
+                    {
+                        "start": "6.814",
+                        "text": "He"
+                    },
+                    {
+                        "start": "7.010",
+                        "text": "hadn’t"
+                    },
+                    {
+                        "start": "7.333",
+                        "text": "studied"
+                    },
+                    {
+                        "start": "7.852",
+                        "text": "for"
+                    },
+                    {
+                        "start": "7.950",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.062",
+                        "text": "test."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "졸업"
+                    },
+                    {
+                        "start": "0.709",
+                        "text": "시험"
+                    },
+                    {
+                        "start": "1.617",
+                        "text": "결과가"
+                    },
+                    {
+                        "start": "3.169",
+                        "text": "나오는"
+                    },
+                    {
+                        "start": "4.014",
+                        "text": "날,"
+                    },
+                    {
+                        "start": "4.933",
+                        "text": "다들"
+                    },
+                    {
+                        "start": "6.065",
+                        "text": "신나"
+                    },
+                    {
+                        "start": "6.840",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "8.908",
+                        "text": "나오만"
+                    },
+                    {
+                        "start": "10.024",
+                        "text": "빼고요."
+                    },
+                    {
+                        "start": "11.712",
+                        "text": "나오는"
+                    },
+                    {
+                        "start": "13.087",
+                        "text": "시험공부를"
+                    },
+                    {
+                        "start": "14.883",
+                        "text": "하지"
+                    },
+                    {
+                        "start": "15.613",
+                        "text": "않았었기"
+                    },
+                    {
+                        "start": "16.769",
+                        "text": "때문에"
+                    },
+                    {
+                        "start": "18.326",
+                        "text": "좋은"
+                    },
+                    {
+                        "start": "18.968",
+                        "text": "결과를"
+                    },
+                    {
+                        "start": "20.301",
+                        "text": "기대하지"
+                    },
+                    {
+                        "start": "21.286",
+                        "text": "않았어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "When the Yogotars got their results, it turned out Nao had obtained the highest score. Everybody was admiring his hard work, but he could barely believe his eyes. ",
+                "textES": "Les entregaron los resultados y Nao había obtenido la nota más alta. Todos lo admiraron, pero él apenas podía creerlo.  ",
+                "textPT": "Quando os Yogotars pegaram seus resultados, acabou que Nao tinha tirado a melhor nota. Todo mundo ficou admirado com o ótimo trabalho dele, mas ele mal podia acreditar no que estava vendo. ",
+                "textCN": "Yogotar们的成绩公布了，结果奈绪获得了最高分。每个人都赞叹他刻苦学习的精神，但他几乎不敢相信他的眼睛。 ",
+                "textJP": "みんなが けっかを うけとると、テストで さいこうてんを とったのは ナオでした。みんなに すごい といわれても、ナオは ぜんぜん しんじられませんでした。",
+                "textKR": "모두 시험 결과를 받았고, 나오가 가장 높은 점수를 받았어요. 모두 나오를 축하해 주었지만, 나오는 결과를 믿을 수 없었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.079",
+                        "text": "Les"
+                    },
+                    {
+                        "start": "0.438",
+                        "text": "entregaron"
+                    },
+                    {
+                        "start": "1.077",
+                        "text": "los"
+                    },
+                    {
+                        "start": "1.227",
+                        "text": "resultados"
+                    },
+                    {
+                        "start": "2.498",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.727",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "3.172",
+                        "text": "había"
+                    },
+                    {
+                        "start": "3.560",
+                        "text": "obtenido"
+                    },
+                    {
+                        "start": "4.163",
+                        "text": "la"
+                    },
+                    {
+                        "start": "4.314",
+                        "text": "nota"
+                    },
+                    {
+                        "start": "4.845",
+                        "text": "más"
+                    },
+                    {
+                        "start": "5.311",
+                        "text": "alta."
+                    },
+                    {
+                        "start": "6.725",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "7.242",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "7.278",
+                        "text": "admiraron,"
+                    },
+                    {
+                        "start": "8.455",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "8.771",
+                        "text": "él"
+                    },
+                    {
+                        "start": "9.173",
+                        "text": "apenas"
+                    },
+                    {
+                        "start": "9.998",
+                        "text": "podía"
+                    },
+                    {
+                        "start": "10.465",
+                        "text": "creerlo."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.673",
+                        "text": "When"
+                    },
+                    {
+                        "start": "0.785",
+                        "text": "the"
+                    },
+                    {
+                        "start": "0.960",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "1.640",
+                        "text": "got"
+                    },
+                    {
+                        "start": "1.879",
+                        "text": "their"
+                    },
+                    {
+                        "start": "1.998",
+                        "text": "results,"
+                    },
+                    {
+                        "start": "2.916",
+                        "text": "it"
+                    },
+                    {
+                        "start": "3.092",
+                        "text": "turned"
+                    },
+                    {
+                        "start": "3.421",
+                        "text": "out"
+                    },
+                    {
+                        "start": "3.758",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "4.318",
+                        "text": "had"
+                    },
+                    {
+                        "start": "4.438",
+                        "text": "obtained"
+                    },
+                    {
+                        "start": "4.991",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.139",
+                        "text": "highest"
+                    },
+                    {
+                        "start": "5.784",
+                        "text": "score."
+                    },
+                    {
+                        "start": "7.214",
+                        "text": "Everybody"
+                    },
+                    {
+                        "start": "7.768",
+                        "text": "was"
+                    },
+                    {
+                        "start": "7.908",
+                        "text": "admiring"
+                    },
+                    {
+                        "start": "8.560",
+                        "text": "his"
+                    },
+                    {
+                        "start": "8.826",
+                        "text": "hard"
+                    },
+                    {
+                        "start": "9.221",
+                        "text": "work,"
+                    },
+                    {
+                        "start": "9.955",
+                        "text": "but"
+                    },
+                    {
+                        "start": "10.081",
+                        "text": "he"
+                    },
+                    {
+                        "start": "10.235",
+                        "text": "could"
+                    },
+                    {
+                        "start": "10.516",
+                        "text": "barely"
+                    },
+                    {
+                        "start": "10.943",
+                        "text": "believe"
+                    },
+                    {
+                        "start": "11.336",
+                        "text": "his"
+                    },
+                    {
+                        "start": "11.546",
+                        "text": "eyes."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "1.169",
+                        "text": "시험"
+                    },
+                    {
+                        "start": "2.001",
+                        "text": "결과를"
+                    },
+                    {
+                        "start": "2.930",
+                        "text": "받았고,"
+                    },
+                    {
+                        "start": "4.277",
+                        "text": "나오가"
+                    },
+                    {
+                        "start": "5.611",
+                        "text": "가장"
+                    },
+                    {
+                        "start": "6.738",
+                        "text": "높은"
+                    },
+                    {
+                        "start": "7.626",
+                        "text": "점수를"
+                    },
+                    {
+                        "start": "8.820",
+                        "text": "받았어요."
+                    },
+                    {
+                        "start": "11.118",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "12.280",
+                        "text": "나오를"
+                    },
+                    {
+                        "start": "13.546",
+                        "text": "축하해"
+                    },
+                    {
+                        "start": "14.416",
+                        "text": "주었지만,"
+                    },
+                    {
+                        "start": "15.924",
+                        "text": "나오는"
+                    },
+                    {
+                        "start": "17.288",
+                        "text": "결과를"
+                    },
+                    {
+                        "start": "18.545",
+                        "text": "믿을"
+                    },
+                    {
+                        "start": "19.039",
+                        "text": "수"
+                    },
+                    {
+                        "start": "19.801",
+                        "text": "없었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "Then, Nao remembered that on the day of the test, he and Luna had accidentally exchanged their papers before writing their names on them.",
+                "textES": "Entonces Nao recordó que el día que entregaron el examen, Luna y él habían cambiado de hoja por accidente antes de escribir sus nombres. ",
+                "textPT": "Daí, Nao lembrou que, no dia da prova, ele e Luna trocaram suas provas sem querer antes de escreverem seus nomes. ",
+                "textCN": "然后，奈绪想起考试那天，他和鲁娜不小心交换了考卷，而且他们在交换试卷之后才写上了自己的名字。 ",
+                "textJP": "そのとき、ナオは テストの日に なまえを かくまえに ルナと テストようしを まちがって こうかん してしまったことを おもいだしました。 ",
+                "textKR": "그리고 나오는 시험을 보던 날이 떠올랐어요. 시험지에 이름을 적어서 내기 전에 실수로 루나와 시험지가 바뀌었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.057",
+                        "text": "Entonces"
+                    },
+                    {
+                        "start": "0.890",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.306",
+                        "text": "recordó"
+                    },
+                    {
+                        "start": "2.189",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.304",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.440",
+                        "text": "día"
+                    },
+                    {
+                        "start": "2.713",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.792",
+                        "text": "entregaron"
+                    },
+                    {
+                        "start": "3.359",
+                        "text": "el"
+                    },
+                    {
+                        "start": "3.574",
+                        "text": "examen,"
+                    },
+                    {
+                        "start": "4.522",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "5.161",
+                        "text": "y"
+                    },
+                    {
+                        "start": "5.362",
+                        "text": "él"
+                    },
+                    {
+                        "start": "5.835",
+                        "text": "habían"
+                    },
+                    {
+                        "start": "6.323",
+                        "text": "cambiado"
+                    },
+                    {
+                        "start": "6.862",
+                        "text": "de"
+                    },
+                    {
+                        "start": "6.948",
+                        "text": "hoja"
+                    },
+                    {
+                        "start": "7.314",
+                        "text": "por"
+                    },
+                    {
+                        "start": "7.421",
+                        "text": "accidente"
+                    },
+                    {
+                        "start": "8.441",
+                        "text": "antes"
+                    },
+                    {
+                        "start": "8.972",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.029",
+                        "text": "escribir"
+                    },
+                    {
+                        "start": "9.639",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "10.056",
+                        "text": "nombres."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.806",
+                        "text": "Then,"
+                    },
+                    {
+                        "start": "1.465",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.907",
+                        "text": "remembered"
+                    },
+                    {
+                        "start": "2.608",
+                        "text": "that"
+                    },
+                    {
+                        "start": "2.713",
+                        "text": "on"
+                    },
+                    {
+                        "start": "2.853",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.993",
+                        "text": "day"
+                    },
+                    {
+                        "start": "3.155",
+                        "text": "of"
+                    },
+                    {
+                        "start": "3.295",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.477",
+                        "text": "test,"
+                    },
+                    {
+                        "start": "4.340",
+                        "text": "he"
+                    },
+                    {
+                        "start": "4.585",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.725",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "5.195",
+                        "text": "had"
+                    },
+                    {
+                        "start": "5.426",
+                        "text": "accidentally"
+                    },
+                    {
+                        "start": "6.436",
+                        "text": "exchanged"
+                    },
+                    {
+                        "start": "6.954",
+                        "text": "their"
+                    },
+                    {
+                        "start": "7.172",
+                        "text": "papers"
+                    },
+                    {
+                        "start": "7.592",
+                        "text": "before"
+                    },
+                    {
+                        "start": "7.915",
+                        "text": "writing"
+                    },
+                    {
+                        "start": "8.195",
+                        "text": "their"
+                    },
+                    {
+                        "start": "8.427",
+                        "text": "names"
+                    },
+                    {
+                        "start": "8.714",
+                        "text": "on"
+                    },
+                    {
+                        "start": "8.889",
+                        "text": "them."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "그리고"
+                    },
+                    {
+                        "start": "0.863",
+                        "text": "나오는"
+                    },
+                    {
+                        "start": "2.218",
+                        "text": "시험을"
+                    },
+                    {
+                        "start": "3.450",
+                        "text": "보던"
+                    },
+                    {
+                        "start": "4.260",
+                        "text": "날이"
+                    },
+                    {
+                        "start": "5.104",
+                        "text": "떠올랐어요."
+                    },
+                    {
+                        "start": "7.490",
+                        "text": "시험지에"
+                    },
+                    {
+                        "start": "9.157",
+                        "text": "이름을"
+                    },
+                    {
+                        "start": "9.955",
+                        "text": "적어서"
+                    },
+                    {
+                        "start": "11.150",
+                        "text": "내기"
+                    },
+                    {
+                        "start": "11.876",
+                        "text": "전에"
+                    },
+                    {
+                        "start": "13.071",
+                        "text": "실수로"
+                    },
+                    {
+                        "start": "14.428",
+                        "text": "루나와"
+                    },
+                    {
+                        "start": "15.776",
+                        "text": "시험지가"
+                    },
+                    {
+                        "start": "17.175",
+                        "text": "바뀌었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "Due to his excellent results, Nao was asked to receive a diploma in the auditorium in front of the whole academy. ",
+                "textES": "La alta calificación de Nao le había valido un diploma, mismo que sería entregado frente a toda la academia en el auditorio.",
+                "textPT": "Por causa de seus excelentes resultados, convidaram Nao para receber um diploma no auditório, na frente da academia inteira. ",
+                "textCN": "由于他的优异成绩，奈绪要在礼堂当着全体学生的面领取一张奖状。 ",
+                "textJP": "ナオは がっこうじゅうの みんなの まえで しょうじょうを うけとることに なりました。 ",
+                "textKR": "시험 점수가 가장 좋은 나오가 아카데미 식구들이 모두 모인 강당에서 대표로 졸업장을 받게 되었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.072",
+                        "text": "La"
+                    },
+                    {
+                        "start": "0.251",
+                        "text": "alta"
+                    },
+                    {
+                        "start": "0.675",
+                        "text": "calificación"
+                    },
+                    {
+                        "start": "1.529",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.651",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "2.483",
+                        "text": "le"
+                    },
+                    {
+                        "start": "2.605",
+                        "text": "había"
+                    },
+                    {
+                        "start": "2.993",
+                        "text": "valido"
+                    },
+                    {
+                        "start": "3.603",
+                        "text": "un"
+                    },
+                    {
+                        "start": "3.926",
+                        "text": "diploma,"
+                    },
+                    {
+                        "start": "5.211",
+                        "text": "mismo"
+                    },
+                    {
+                        "start": "5.778",
+                        "text": "que"
+                    },
+                    {
+                        "start": "5.936",
+                        "text": "sería"
+                    },
+                    {
+                        "start": "6.237",
+                        "text": "entregado"
+                    },
+                    {
+                        "start": "7.098",
+                        "text": "frente"
+                    },
+                    {
+                        "start": "7.436",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.637",
+                        "text": "toda"
+                    },
+                    {
+                        "start": "8.139",
+                        "text": "la"
+                    },
+                    {
+                        "start": "8.211",
+                        "text": "academia"
+                    },
+                    {
+                        "start": "9.065",
+                        "text": "en"
+                    },
+                    {
+                        "start": "9.288",
+                        "text": "el"
+                    },
+                    {
+                        "start": "9.381",
+                        "text": "auditorio."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.694",
+                        "text": "Due"
+                    },
+                    {
+                        "start": "0.904",
+                        "text": "to"
+                    },
+                    {
+                        "start": "1.087",
+                        "text": "his"
+                    },
+                    {
+                        "start": "1.388",
+                        "text": "excellent"
+                    },
+                    {
+                        "start": "1.914",
+                        "text": "results,"
+                    },
+                    {
+                        "start": "2.783",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "3.239",
+                        "text": "was"
+                    },
+                    {
+                        "start": "3.758",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "3.849",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.241",
+                        "text": "receive"
+                    },
+                    {
+                        "start": "4.340",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.463",
+                        "text": "diploma"
+                    },
+                    {
+                        "start": "5.020",
+                        "text": "in"
+                    },
+                    {
+                        "start": "5.146",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.251",
+                        "text": "auditorium"
+                    },
+                    {
+                        "start": "6.352",
+                        "text": "in"
+                    },
+                    {
+                        "start": "6.548",
+                        "text": "front"
+                    },
+                    {
+                        "start": "6.751",
+                        "text": "of"
+                    },
+                    {
+                        "start": "6.912",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.039",
+                        "text": "whole"
+                    },
+                    {
+                        "start": "7.256",
+                        "text": "academy."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "시험"
+                    },
+                    {
+                        "start": "0.810",
+                        "text": "점수가"
+                    },
+                    {
+                        "start": "2.358",
+                        "text": "가장"
+                    },
+                    {
+                        "start": "3.155",
+                        "text": "좋은"
+                    },
+                    {
+                        "start": "3.819",
+                        "text": "나오가"
+                    },
+                    {
+                        "start": "5.107",
+                        "text": "아카데미"
+                    },
+                    {
+                        "start": "6.150",
+                        "text": "식구들이"
+                    },
+                    {
+                        "start": "7.750",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "8.500",
+                        "text": "모인"
+                    },
+                    {
+                        "start": "9.322",
+                        "text": "강당에서"
+                    },
+                    {
+                        "start": "11.097",
+                        "text": "대표로"
+                    },
+                    {
+                        "start": "12.351",
+                        "text": "졸업장을"
+                    },
+                    {
+                        "start": "13.778",
+                        "text": "받게"
+                    },
+                    {
+                        "start": "14.606",
+                        "text": "되었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "With the diploma in his hands, Nao decided to speak:<br><br>“This diploma doesn’t belong to me,” Nao started. The audience was surprised.<br><br>“There has been a mistake.”",
+                "textES": "Al recibir el diploma, Nao habló:<br><br>–Ese diploma no es mío –dijo Nao ante la sorpresa de todos. <br><br>–Ha habido un error.",
+                "textPT": "Com o diploma em mãos, Nao resolveu dizer:<br><br>“Este diploma não pertence a mim.” A plateia ficou surpresa.<br><br>“Houve um engano.”",
+                "textCN": "拿着奖状，奈绪决定坦白：<br><br>“这张奖状不属于我，”奈绪开始说。观众们都很惊讶。<br><br>“我们搞错了试卷。”",
+                "textJP": "しょうじょうを もらったナオは ほんとうのことを はなすことに しました。<br><br>「この しょうじょうは ぼくのもの じゃない」ナオが いうと みんなは おどろきました。「まちがいが あったんだ。」",
+                "textKR": "졸업장을 손에 든 나오는 솔직하게 말하기로 했어요.&#34;이 졸업장은 제가 받아선 안 돼요.&#34; 다들 놀랐어요. &#34;시험을 볼 때 실수가 있었어요.&#34; ",
+                "wordsES": [
+                    {
+                        "start": "0.057",
+                        "text": "Al"
+                    },
+                    {
+                        "start": "0.201",
+                        "text": "recibir"
+                    },
+                    {
+                        "start": "0.825",
+                        "text": "el"
+                    },
+                    {
+                        "start": "1.026",
+                        "text": "diploma,"
+                    },
+                    {
+                        "start": "2.074",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "2.641",
+                        "text": "habló:"
+                    },
+                    {
+                        "start": "4.550",
+                        "text": "–Ese"
+                    },
+                    {
+                        "start": "4.924",
+                        "text": "diploma"
+                    },
+                    {
+                        "start": "5.663",
+                        "text": "no"
+                    },
+                    {
+                        "start": "5.929",
+                        "text": "es"
+                    },
+                    {
+                        "start": "6.130",
+                        "text": "mío"
+                    },
+                    {
+                        "start": "7.730",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "8.182",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "8.929",
+                        "text": "ante"
+                    },
+                    {
+                        "start": "9.316",
+                        "text": "la"
+                    },
+                    {
+                        "start": "9.402",
+                        "text": "sorpresa"
+                    },
+                    {
+                        "start": "10.264",
+                        "text": "de"
+                    },
+                    {
+                        "start": "10.479",
+                        "text": "todos."
+                    },
+                    {
+                        "start": "11.764",
+                        "text": "–Ha"
+                    },
+                    {
+                        "start": "11.943",
+                        "text": "habido"
+                    },
+                    {
+                        "start": "12.647",
+                        "text": "un"
+                    },
+                    {
+                        "start": "12.919",
+                        "text": "error."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.764",
+                        "text": "With"
+                    },
+                    {
+                        "start": "0.925",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.045",
+                        "text": "diploma"
+                    },
+                    {
+                        "start": "1.718",
+                        "text": "in"
+                    },
+                    {
+                        "start": "1.977",
+                        "text": "his"
+                    },
+                    {
+                        "start": "2.215",
+                        "text": "hands,"
+                    },
+                    {
+                        "start": "2.916",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "3.386",
+                        "text": "decided"
+                    },
+                    {
+                        "start": "4.010",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.122",
+                        "text": "speak:"
+                    },
+                    {
+                        "start": "5.181",
+                        "text": "“This"
+                    },
+                    {
+                        "start": "5.468",
+                        "text": "diploma"
+                    },
+                    {
+                        "start": "6.113",
+                        "text": "doesn’t"
+                    },
+                    {
+                        "start": "6.534",
+                        "text": "belong"
+                    },
+                    {
+                        "start": "6.961",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.144",
+                        "text": "me,”"
+                    },
+                    {
+                        "start": "7.676",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "8.041",
+                        "text": "started."
+                    },
+                    {
+                        "start": "8.910",
+                        "text": "The"
+                    },
+                    {
+                        "start": "9.044",
+                        "text": "audience"
+                    },
+                    {
+                        "start": "9.548",
+                        "text": "was"
+                    },
+                    {
+                        "start": "9.689",
+                        "text": "surprised."
+                    },
+                    {
+                        "start": "11.182",
+                        "text": "“There"
+                    },
+                    {
+                        "start": "11.266",
+                        "text": "has"
+                    },
+                    {
+                        "start": "11.483",
+                        "text": "been"
+                    },
+                    {
+                        "start": "11.630",
+                        "text": "a"
+                    },
+                    {
+                        "start": "11.757",
+                        "text": "mistake.”"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "졸업장을"
+                    },
+                    {
+                        "start": "1.174",
+                        "text": "손에"
+                    },
+                    {
+                        "start": "1.898",
+                        "text": "든"
+                    },
+                    {
+                        "start": "2.848",
+                        "text": "나오는"
+                    },
+                    {
+                        "start": "4.126",
+                        "text": "솔직하게"
+                    },
+                    {
+                        "start": "5.607",
+                        "text": "말하기로"
+                    },
+                    {
+                        "start": "6.615",
+                        "text": "했어요."
+                    },
+                    {
+                        "start": "8.550",
+                        "text": "이"
+                    },
+                    {
+                        "start": "8.925",
+                        "text": "졸업장은"
+                    },
+                    {
+                        "start": "10.322",
+                        "text": "제가"
+                    },
+                    {
+                        "start": "10.968",
+                        "text": "받아선"
+                    },
+                    {
+                        "start": "11.952",
+                        "text": "안"
+                    },
+                    {
+                        "start": "12.279",
+                        "text": "돼요."
+                    },
+                    {
+                        "start": "14.000",
+                        "text": "다들"
+                    },
+                    {
+                        "start": "14.874",
+                        "text": "놀랐어요."
+                    },
+                    {
+                        "start": "17.186",
+                        "text": "시험을"
+                    },
+                    {
+                        "start": "18.061",
+                        "text": "볼"
+                    },
+                    {
+                        "start": "18.400",
+                        "text": "때"
+                    },
+                    {
+                        "start": "19.102",
+                        "text": "실수가"
+                    },
+                    {
+                        "start": "19.988",
+                        "text": "있었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "Once he explained what had happened, two diplomas were given. One to Luna for her high score and another to Nao for having the courage to tell the truth. ",
+                "textES": "Una vez que explicó la situación se entregaron dos diplomas, uno a Luna, por su alta calificación y otro a Nao, por decir la verdad.",
+                "textPT": "Depois que ele explicou o que aconteceu, dois diplomas foram entregues. Um para Luna por sua ótima nota e outro para Nao por ter a coragem de contar a verdade. ",
+                "textCN": "奈绪解释了那天发生的事情，然后他们二人分别获得了一张奖状。鲁娜得奖状，是因为她取得了高分；而奈绪得奖状，是因为他拥有说出真相的勇气。",
+                "textJP": "「ナオが ほんとうのことを はなすと、ふたつの しょうじょうが おくられることに なりました。ひとつは さいこうてんを とった ルナに、もうひとつは しょうじきに はなす ゆうきを だした ナオに。 ",
+                "textKR": "우프가 시험날 있던 일을 설명했고, 두 명이 졸업장을 받게 되었어요. 시험 결과가 가장 좋은 루나가 하나를 받고, 진실을 말할 용기가 있던 나오가 다른 하나를 받았어요.",
+                "wordsES": [
+                    {
+                        "start": "0.086",
+                        "text": "Una"
+                    },
+                    {
+                        "start": "0.481",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "0.825",
+                        "text": "que"
+                    },
+                    {
+                        "start": "0.868",
+                        "text": "explicó"
+                    },
+                    {
+                        "start": "1.479",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.615",
+                        "text": "situación"
+                    },
+                    {
+                        "start": "2.770",
+                        "text": "se"
+                    },
+                    {
+                        "start": "2.878",
+                        "text": "entregaron"
+                    },
+                    {
+                        "start": "3.854",
+                        "text": "dos"
+                    },
+                    {
+                        "start": "4.184",
+                        "text": "diplomas,"
+                    },
+                    {
+                        "start": "5.728",
+                        "text": "uno"
+                    },
+                    {
+                        "start": "6.043",
+                        "text": "a"
+                    },
+                    {
+                        "start": "6.108",
+                        "text": "Luna,"
+                    },
+                    {
+                        "start": "6.783",
+                        "text": "por"
+                    },
+                    {
+                        "start": "6.955",
+                        "text": "su"
+                    },
+                    {
+                        "start": "7.192",
+                        "text": "alta"
+                    },
+                    {
+                        "start": "7.644",
+                        "text": "calificación"
+                    },
+                    {
+                        "start": "9.230",
+                        "text": "y"
+                    },
+                    {
+                        "start": "9.489",
+                        "text": "otro"
+                    },
+                    {
+                        "start": "9.768",
+                        "text": "a"
+                    },
+                    {
+                        "start": "9.876",
+                        "text": "Nao,"
+                    },
+                    {
+                        "start": "10.658",
+                        "text": "por"
+                    },
+                    {
+                        "start": "10.895",
+                        "text": "decir"
+                    },
+                    {
+                        "start": "11.419",
+                        "text": "la"
+                    },
+                    {
+                        "start": "11.541",
+                        "text": "verdad."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.708",
+                        "text": "Once"
+                    },
+                    {
+                        "start": "0.981",
+                        "text": "he"
+                    },
+                    {
+                        "start": "1.052",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "1.570",
+                        "text": "what"
+                    },
+                    {
+                        "start": "1.732",
+                        "text": "had"
+                    },
+                    {
+                        "start": "1.893",
+                        "text": "happened,"
+                    },
+                    {
+                        "start": "2.846",
+                        "text": "two"
+                    },
+                    {
+                        "start": "3.134",
+                        "text": "diplomas"
+                    },
+                    {
+                        "start": "3.688",
+                        "text": "were"
+                    },
+                    {
+                        "start": "3.856",
+                        "text": "given."
+                    },
+                    {
+                        "start": "4.893",
+                        "text": "One"
+                    },
+                    {
+                        "start": "5.153",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.335",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "5.714",
+                        "text": "for"
+                    },
+                    {
+                        "start": "5.854",
+                        "text": "her"
+                    },
+                    {
+                        "start": "6.043",
+                        "text": "high"
+                    },
+                    {
+                        "start": "6.253",
+                        "text": "score"
+                    },
+                    {
+                        "start": "7.221",
+                        "text": "and"
+                    },
+                    {
+                        "start": "7.368",
+                        "text": "another"
+                    },
+                    {
+                        "start": "7.838",
+                        "text": "to"
+                    },
+                    {
+                        "start": "8.160",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "8.588",
+                        "text": "for"
+                    },
+                    {
+                        "start": "8.735",
+                        "text": "having"
+                    },
+                    {
+                        "start": "9.065",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.296",
+                        "text": "courage"
+                    },
+                    {
+                        "start": "9.759",
+                        "text": "to"
+                    },
+                    {
+                        "start": "9.934",
+                        "text": "tell"
+                    },
+                    {
+                        "start": "10.305",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.418",
+                        "text": "truth. "
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "우프가"
+                    },
+                    {
+                        "start": "1.401",
+                        "text": "시험날"
+                    },
+                    {
+                        "start": "2.494",
+                        "text": "있던"
+                    },
+                    {
+                        "start": "3.311",
+                        "text": "일을"
+                    },
+                    {
+                        "start": "3.850",
+                        "text": "설명했고,"
+                    },
+                    {
+                        "start": "5.662",
+                        "text": "두"
+                    },
+                    {
+                        "start": "6.100",
+                        "text": "명이"
+                    },
+                    {
+                        "start": "7.185",
+                        "text": "졸업장을"
+                    },
+                    {
+                        "start": "8.494",
+                        "text": "받게"
+                    },
+                    {
+                        "start": "9.298",
+                        "text": "되었어요."
+                    },
+                    {
+                        "start": "11.603",
+                        "text": "시험"
+                    },
+                    {
+                        "start": "12.357",
+                        "text": "결과가"
+                    },
+                    {
+                        "start": "13.909",
+                        "text": "가장"
+                    },
+                    {
+                        "start": "14.722",
+                        "text": "좋은"
+                    },
+                    {
+                        "start": "15.713",
+                        "text": "루나가"
+                    },
+                    {
+                        "start": "17.015",
+                        "text": "하나를"
+                    },
+                    {
+                        "start": "17.936",
+                        "text": "받고,"
+                    },
+                    {
+                        "start": "19.309",
+                        "text": "진실을"
+                    },
+                    {
+                        "start": "20.362",
+                        "text": "말할"
+                    },
+                    {
+                        "start": "21.018",
+                        "text": "용기가"
+                    },
+                    {
+                        "start": "21.932",
+                        "text": "있던"
+                    },
+                    {
+                        "start": "23.064",
+                        "text": "나오가"
+                    },
+                    {
+                        "start": "24.450",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "25.054",
+                        "text": "하나를"
+                    },
+                    {
+                        "start": "26.327",
+                        "text": "받았어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

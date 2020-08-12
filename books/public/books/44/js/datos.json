@@ -1,0 +1,2156 @@
+{
+    "book": {
+        "titleEN": "Oof's Philosophy",
+        "titleES": "La filosofía de Oof",
+        "titlePT": "A filosofia de Oof",
+        "titleCN": "奥夫的人生观",
+        "titleJP": "ウーフのてつがく",
+        "titleKR": "우프의 철학",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "One day, Theffanie and Oof were wandering through the gardens of the academy. <br><br>&#34;I feel like I've made a lot of mistakes in my missions, lately,&#34; said Oof, a little disappointed.",
+                "textES": "Theffanie y Oof se encontraban en los jardines de la academia.<br><br>–Siento que últimamente he cometido muchos errores en las misiones –dijo Oof con voz triste.",
+                "textPT": "Certo dia, Theffanie e Oof estavam caminhando pelos jardins da academia. <br><br>“Estou com a impressão de que cometi vários erros em minhas missões ultimamente”, disse Oof, um pouco decepcionado. ",
+                "textCN": "有一天，范妮和奥夫在学院的花园里闲逛。<br><br>“我觉得我最近在任务中犯了很多错误。”奥夫有点失望地说。",
+                "textJP": "ある日、ティファニーと ウーフは アカデミーの にわを あるいて いました。<br><br>「さいきん しっぱいばかり している きが するんだ」ウーフが すこし おちこんで いいました。",
+                "textKR": "어느 날, 티파니와 우프는 아카데미 정원을 돌아다니고 있었어요. <br><br>&#34;내가 요즘에 미션에서 많은 실수를 저지른 거 같아.&#34; 우프가 조금 속상한 목소리로 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.433",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "1.187",
+                        "text": "y"
+                    },
+                    {
+                        "start": "1.404",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "1.941",
+                        "text": "se"
+                    },
+                    {
+                        "start": "2.139",
+                        "text": "encontraban"
+                    },
+                    {
+                        "start": "2.732",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.807",
+                        "text": "los"
+                    },
+                    {
+                        "start": "3.062",
+                        "text": "jardines"
+                    },
+                    {
+                        "start": "3.589",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.693",
+                        "text": "la"
+                    },
+                    {
+                        "start": "3.787",
+                        "text": "academia."
+                    },
+                    {
+                        "start": "6.039",
+                        "text": "–Siento"
+                    },
+                    {
+                        "start": "6.623",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.821",
+                        "text": "últimamente"
+                    },
+                    {
+                        "start": "7.951",
+                        "text": "he"
+                    },
+                    {
+                        "start": "8.140",
+                        "text": "cometido"
+                    },
+                    {
+                        "start": "8.761",
+                        "text": "muchos"
+                    },
+                    {
+                        "start": "9.392",
+                        "text": "errores"
+                    },
+                    {
+                        "start": "9.892",
+                        "text": "en"
+                    },
+                    {
+                        "start": "9.977",
+                        "text": "las"
+                    },
+                    {
+                        "start": "10.231",
+                        "text": "misiones"
+                    },
+                    {
+                        "start": "12.049",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "12.558",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "13.349",
+                        "text": "con"
+                    },
+                    {
+                        "start": "13.566",
+                        "text": "voz"
+                    },
+                    {
+                        "start": "13.924",
+                        "text": "triste."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.661",
+                        "text": "One"
+                    },
+                    {
+                        "start": "0.991",
+                        "text": "day,"
+                    },
+                    {
+                        "start": "1.785",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "2.226",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.446",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "2.808",
+                        "text": "were"
+                    },
+                    {
+                        "start": "2.989",
+                        "text": "wandering"
+                    },
+                    {
+                        "start": "3.610",
+                        "text": "through"
+                    },
+                    {
+                        "start": "3.736",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.877",
+                        "text": "gardens"
+                    },
+                    {
+                        "start": "4.325",
+                        "text": "of"
+                    },
+                    {
+                        "start": "4.475",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.664",
+                        "text": "academy."
+                    },
+                    {
+                        "start": "5.859",
+                        "text": "I"
+                    },
+                    {
+                        "start": "6.040",
+                        "text": "feel"
+                    },
+                    {
+                        "start": "6.174",
+                        "text": "like"
+                    },
+                    {
+                        "start": "6.355",
+                        "text": "I've"
+                    },
+                    {
+                        "start": "6.606",
+                        "text": "made"
+                    },
+                    {
+                        "start": "6.779",
+                        "text": "a"
+                    },
+                    {
+                        "start": "6.834",
+                        "text": "lot"
+                    },
+                    {
+                        "start": "7.070",
+                        "text": "of"
+                    },
+                    {
+                        "start": "7.267",
+                        "text": "mistakes"
+                    },
+                    {
+                        "start": "7.778",
+                        "text": "in"
+                    },
+                    {
+                        "start": "7.959",
+                        "text": "my"
+                    },
+                    {
+                        "start": "8.203",
+                        "text": "missions,"
+                    },
+                    {
+                        "start": "8.627",
+                        "text": "lately,"
+                    },
+                    {
+                        "start": "9.555",
+                        "text": "said"
+                    },
+                    {
+                        "start": "9.870",
+                        "text": "Oof,"
+                    },
+                    {
+                        "start": "10.405",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.546",
+                        "text": "little"
+                    },
+                    {
+                        "start": "10.814",
+                        "text": "disappointed."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "어느"
+                    },
+                    {
+                        "start": "0.550",
+                        "text": "날,"
+                    },
+                    {
+                        "start": "1.456",
+                        "text": "티파니와"
+                    },
+                    {
+                        "start": "2.632",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "3.910",
+                        "text": "아카데미"
+                    },
+                    {
+                        "start": "4.985",
+                        "text": "정원을"
+                    },
+                    {
+                        "start": "6.267",
+                        "text": "돌아다니고"
+                    },
+                    {
+                        "start": "7.389",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "9.500",
+                        "text": "내가"
+                    },
+                    {
+                        "start": "10.127",
+                        "text": "요즘에"
+                    },
+                    {
+                        "start": "11.512",
+                        "text": "미션에서"
+                    },
+                    {
+                        "start": "13.036",
+                        "text": "많은"
+                    },
+                    {
+                        "start": "13.670",
+                        "text": "실수를"
+                    },
+                    {
+                        "start": "15.183",
+                        "text": "저지른"
+                    },
+                    {
+                        "start": "15.918",
+                        "text": "거"
+                    },
+                    {
+                        "start": "16.324",
+                        "text": "같아."
+                    },
+                    {
+                        "start": "18.026",
+                        "text": "우프가"
+                    },
+                    {
+                        "start": "19.366",
+                        "text": "조금"
+                    },
+                    {
+                        "start": "20.162",
+                        "text": "속상한"
+                    },
+                    {
+                        "start": "21.318",
+                        "text": "목소리로"
+                    },
+                    {
+                        "start": "22.600",
+                        "text": "말했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "Theffanie told him not to worry about it, and that maybe what he needed to do was to get his philosophy of life right. <br><br>Oof looked at her with confusion in his face, he couldn't understand what she meant.",
+                "textES": "Theffanie lo consoló y le dijo que no se preocupara, que tal vez tenía que aclarar su filosofía de vida. Oof la observó confundido pues no entendía lo que su compañera quería decirle.",
+                "textPT": "Theffanie lhe disse para não se preocupar e que talvez ele precisasse corrigir sua filosofia de vida. <br><br>Oof olhou para ela com cara de confuso, pois não entendeu o que ela quis dizer.",
+                "textCN": "范妮告诉他不要担心，也许他需要做的是树立正确的人生观。 <br><br>奥夫满脸困惑地看着她，他不明白她是什么意思。",
+                "textJP": "ティファニーは しんぱい いらないと ウーフに いいました。そして ウーフにひつようなのは 人生の てつがくを ちゃんと りかい すること だといいました。 <br><br>ウーフは いわれたことの いみが よく わかりません でした。",
+                "textKR": "티파니는 우프를 위로했어요. 그리고 티파니는 우프에게 인생 철학을 제대로 잡는 게 필요하다고 말했어요.<br><br>우프는 아주 혼란스러운 얼굴로 티파니를 바라보았어요. 우프는 티파니가 한 말을 이해할 수 없었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.462",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "0.933",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "1.140",
+                        "text": "consoló"
+                    },
+                    {
+                        "start": "2.261",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.374",
+                        "text": "le"
+                    },
+                    {
+                        "start": "2.572",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "2.996",
+                        "text": "que"
+                    },
+                    {
+                        "start": "3.147",
+                        "text": "no"
+                    },
+                    {
+                        "start": "3.363",
+                        "text": "se"
+                    },
+                    {
+                        "start": "3.589",
+                        "text": "preocupara,"
+                    },
+                    {
+                        "start": "4.899",
+                        "text": "que"
+                    },
+                    {
+                        "start": "5.068",
+                        "text": "tal"
+                    },
+                    {
+                        "start": "5.351",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "5.803",
+                        "text": "tenía"
+                    },
+                    {
+                        "start": "6.095",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.189",
+                        "text": "aclarar"
+                    },
+                    {
+                        "start": "6.990",
+                        "text": "su"
+                    },
+                    {
+                        "start": "7.141",
+                        "text": "filosofía"
+                    },
+                    {
+                        "start": "8.008",
+                        "text": "de"
+                    },
+                    {
+                        "start": "8.130",
+                        "text": "vida."
+                    },
+                    {
+                        "start": "9.816",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "10.287",
+                        "text": "la"
+                    },
+                    {
+                        "start": "10.446",
+                        "text": "observó"
+                    },
+                    {
+                        "start": "11.107",
+                        "text": "confundido"
+                    },
+                    {
+                        "start": "12.351",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "12.567",
+                        "text": "no"
+                    },
+                    {
+                        "start": "12.756",
+                        "text": "entendía"
+                    },
+                    {
+                        "start": "13.406",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "13.575",
+                        "text": "que"
+                    },
+                    {
+                        "start": "13.670",
+                        "text": "su"
+                    },
+                    {
+                        "start": "13.858",
+                        "text": "compañera"
+                    },
+                    {
+                        "start": "14.630",
+                        "text": "quería"
+                    },
+                    {
+                        "start": "15.054",
+                        "text": "decirle."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.668",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "1.125",
+                        "text": "told"
+                    },
+                    {
+                        "start": "1.392",
+                        "text": "him"
+                    },
+                    {
+                        "start": "1.683",
+                        "text": "not"
+                    },
+                    {
+                        "start": "1.966",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.163",
+                        "text": "worry"
+                    },
+                    {
+                        "start": "2.509",
+                        "text": "about"
+                    },
+                    {
+                        "start": "2.776",
+                        "text": "it,"
+                    },
+                    {
+                        "start": "3.295",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.429",
+                        "text": "that"
+                    },
+                    {
+                        "start": "3.641",
+                        "text": "maybe"
+                    },
+                    {
+                        "start": "4.129",
+                        "text": "what"
+                    },
+                    {
+                        "start": "4.294",
+                        "text": "he"
+                    },
+                    {
+                        "start": "4.569",
+                        "text": "needed"
+                    },
+                    {
+                        "start": "4.813",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.994",
+                        "text": "do"
+                    },
+                    {
+                        "start": "5.670",
+                        "text": "was"
+                    },
+                    {
+                        "start": "5.898",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.064",
+                        "text": "get"
+                    },
+                    {
+                        "start": "6.299",
+                        "text": "his"
+                    },
+                    {
+                        "start": "6.567",
+                        "text": "philosophy"
+                    },
+                    {
+                        "start": "7.196",
+                        "text": "of"
+                    },
+                    {
+                        "start": "7.377",
+                        "text": "life"
+                    },
+                    {
+                        "start": "7.699",
+                        "text": "right."
+                    },
+                    {
+                        "start": "8.895",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "9.201",
+                        "text": "looked"
+                    },
+                    {
+                        "start": "9.398",
+                        "text": "at"
+                    },
+                    {
+                        "start": "9.555",
+                        "text": "her"
+                    },
+                    {
+                        "start": "9.697",
+                        "text": "with"
+                    },
+                    {
+                        "start": "9.917",
+                        "text": "confusion"
+                    },
+                    {
+                        "start": "10.609",
+                        "text": "in"
+                    },
+                    {
+                        "start": "10.822",
+                        "text": "his"
+                    },
+                    {
+                        "start": "11.058",
+                        "text": "face,"
+                    },
+                    {
+                        "start": "12.069",
+                        "text": "he"
+                    },
+                    {
+                        "start": "12.229",
+                        "text": "couldn't"
+                    },
+                    {
+                        "start": "12.473",
+                        "text": "understand"
+                    },
+                    {
+                        "start": "13.307",
+                        "text": "what"
+                    },
+                    {
+                        "start": "13.448",
+                        "text": "she"
+                    },
+                    {
+                        "start": "13.700",
+                        "text": "meant."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "1.404",
+                        "text": "우프를"
+                    },
+                    {
+                        "start": "2.625",
+                        "text": "위로했어요."
+                    },
+                    {
+                        "start": "4.954",
+                        "text": "그리고"
+                    },
+                    {
+                        "start": "5.825",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "7.227",
+                        "text": "우프에게"
+                    },
+                    {
+                        "start": "8.821",
+                        "text": "인생"
+                    },
+                    {
+                        "start": "9.655",
+                        "text": "철학을"
+                    },
+                    {
+                        "start": "10.933",
+                        "text": "제대로"
+                    },
+                    {
+                        "start": "11.858",
+                        "text": "잡는"
+                    },
+                    {
+                        "start": "12.503",
+                        "text": "게"
+                    },
+                    {
+                        "start": "13.379",
+                        "text": "필요하다고"
+                    },
+                    {
+                        "start": "14.819",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "17.193",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "18.489",
+                        "text": "아주"
+                    },
+                    {
+                        "start": "19.618",
+                        "text": "혼란스러운"
+                    },
+                    {
+                        "start": "20.824",
+                        "text": "얼굴로"
+                    },
+                    {
+                        "start": "22.180",
+                        "text": "티파니를"
+                    },
+                    {
+                        "start": "23.291",
+                        "text": "바라보았어요."
+                    },
+                    {
+                        "start": "25.950",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "27.211",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "28.631",
+                        "text": "한"
+                    },
+                    {
+                        "start": "29.237",
+                        "text": "말을"
+                    },
+                    {
+                        "start": "30.338",
+                        "text": "이해할"
+                    },
+                    {
+                        "start": "31.021",
+                        "text": "수"
+                    },
+                    {
+                        "start": "31.792",
+                        "text": "없었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "&#34;Philoso.... what?&#34; asked Oof, intrigued. &#34;Is that a new type of food?&#34; <br><br>&#34;Philosophy!&#34; exclaimed Theffanie, laughing. &#34;And no, I'm not talking about food&#34;.",
+                "textES": "¿Filoso…qué? ¿Eso se puede comer? –preguntó Oof. <br><br>–Filosofía -dijo Theffanie entre risas. Y no, no estoy hablando de comida.",
+                "textPT": "“Filoso.... o quê?”, perguntou Oof, intrigado. “É algum tipo novo de comida?&#34;<br><br>“Filosofia!”, exclamou Theffanie, dando risada. “E, não, eu não estou falando de comida.&#34;",
+                "textCN": "“人参....什么？”奥夫好奇地问道，“那是一种新的食物吗？”<br><br>“就是人生观！”范妮笑着叫道，“我不是在说食物。”",
+                "textJP": "「てつが・・・なにそれ？」ウーフは きょうみしんしんで たずねました。「あたらしい たべもの？」<br><br>「てつがくよ！」ティファニーは わらいながら こたえました。「たべるもの じゃないわ。」",
+                "textKR": "&#34;철… 뭐라고?&#34; 우프가 흥미 있다는 듯이 물었어요. &#34;그건 새로운 음식이야?&#34;<br><br>&#34;철학!&#34; 티파니가 웃으면서 말했어요. &#34;철학은 음식이 아니야.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.349",
+                        "text": "¿Filoso…qué?"
+                    },
+                    {
+                        "start": "2.836",
+                        "text": "Eso"
+                    },
+                    {
+                        "start": "3.156",
+                        "text": "se"
+                    },
+                    {
+                        "start": "3.429",
+                        "text": "puede"
+                    },
+                    {
+                        "start": "3.759",
+                        "text": "comer?"
+                    },
+                    {
+                        "start": "5.408",
+                        "text": "–preguntó"
+                    },
+                    {
+                        "start": "6.152",
+                        "text": "Oof."
+                    },
+                    {
+                        "start": "8.243",
+                        "text": "–Filosofía"
+                    },
+                    {
+                        "start": "10.419",
+                        "text": "-dijo"
+                    },
+                    {
+                        "start": "10.872",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "11.588",
+                        "text": "entre"
+                    },
+                    {
+                        "start": "11.993",
+                        "text": "risas."
+                    },
+                    {
+                        "start": "13.858",
+                        "text": "Y"
+                    },
+                    {
+                        "start": "14.122",
+                        "text": "no,"
+                    },
+                    {
+                        "start": "15.224",
+                        "text": "no"
+                    },
+                    {
+                        "start": "15.573",
+                        "text": "estoy"
+                    },
+                    {
+                        "start": "16.006",
+                        "text": "hablando"
+                    },
+                    {
+                        "start": "16.373",
+                        "text": "de"
+                    },
+                    {
+                        "start": "16.543",
+                        "text": "comida."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.700",
+                        "text": "Philoso...."
+                    },
+                    {
+                        "start": "1.164",
+                        "text": "what?"
+                    },
+                    {
+                        "start": "1.840",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "2.226",
+                        "text": "Oof,"
+                    },
+                    {
+                        "start": "2.776",
+                        "text": "intrigued."
+                    },
+                    {
+                        "start": "4.011",
+                        "text": "Is"
+                    },
+                    {
+                        "start": "4.160",
+                        "text": "that"
+                    },
+                    {
+                        "start": "4.310",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.742",
+                        "text": "new"
+                    },
+                    {
+                        "start": "4.750",
+                        "text": "type"
+                    },
+                    {
+                        "start": "4.923",
+                        "text": "of"
+                    },
+                    {
+                        "start": "5.151",
+                        "text": "food?"
+                    },
+                    {
+                        "start": "6.252",
+                        "text": "Philosophy!"
+                    },
+                    {
+                        "start": "7.739",
+                        "text": "exclaimed"
+                    },
+                    {
+                        "start": "8.478",
+                        "text": "Theffanie,"
+                    },
+                    {
+                        "start": "9.123",
+                        "text": "laughing."
+                    },
+                    {
+                        "start": "10.365",
+                        "text": "And"
+                    },
+                    {
+                        "start": "10.373",
+                        "text": "no,"
+                    },
+                    {
+                        "start": "10.900",
+                        "text": "I'm"
+                    },
+                    {
+                        "start": "11.002",
+                        "text": "not"
+                    },
+                    {
+                        "start": "11.356",
+                        "text": "talking"
+                    },
+                    {
+                        "start": "11.765",
+                        "text": "about"
+                    },
+                    {
+                        "start": "12.308",
+                        "text": "food"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "철..."
+                    },
+                    {
+                        "start": "0.883",
+                        "text": "뭐라고?"
+                    },
+                    {
+                        "start": "2.295",
+                        "text": "우프가"
+                    },
+                    {
+                        "start": "3.563",
+                        "text": "흥미"
+                    },
+                    {
+                        "start": "4.253",
+                        "text": "있다는"
+                    },
+                    {
+                        "start": "5.144",
+                        "text": "듯이"
+                    },
+                    {
+                        "start": "6.112",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "8.057",
+                        "text": "그건"
+                    },
+                    {
+                        "start": "8.750",
+                        "text": "새로운"
+                    },
+                    {
+                        "start": "9.426",
+                        "text": "음식이야?"
+                    },
+                    {
+                        "start": "11.520",
+                        "text": "철학!"
+                    },
+                    {
+                        "start": "13.707",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "15.041",
+                        "text": "웃으면서"
+                    },
+                    {
+                        "start": "16.157",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "18.095",
+                        "text": "철학은"
+                    },
+                    {
+                        "start": "19.417",
+                        "text": "음식이"
+                    },
+                    {
+                        "start": "20.513",
+                        "text": "아니야."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "Theffanie explained to Oof that each person's philosophy of life shapes the way they think. It's what makes everyone unique and defines our actions.",
+                "textES": "Theffanie le explicó a Oof que la filosofía de vida es la forma de pensar de cada persona, es aquello que hace que alguien sea único y es lo que define sus acciones.",
+                "textPT": "Theffanie explicou para Oof que a filosofia de vida de uma pessoa molda sua forma de pensar. É o que torna cada um único e define nossas ações.",
+                "textCN": "范妮向奥夫解释说，每个人的人生观决定了他们的思维方式。正是人生观使每个人都独一无二，并决定了我们的行动。",
+                "textJP": "ティファニーは ウーフに、人は それぞれ 人生の てつがくを もっていて、それが その人の かんがえかたを きめるものだと せつめいしました。みんなの こせい や、どんな こうどうを するかを きめるものです。",
+                "textKR": "티파니는 개인의 인생 철학이 그 사람이 생각하는 방법을 만든다고 설명했어요. 철학은 다른 사람들과 나를 구분하고, 내 행동을 정하는 것이에요.",
+                "wordsES": [
+                    {
+                        "start": "0.509",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "1.055",
+                        "text": "le"
+                    },
+                    {
+                        "start": "1.187",
+                        "text": "explicó"
+                    },
+                    {
+                        "start": "1.686",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.931",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "2.572",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.685",
+                        "text": "la"
+                    },
+                    {
+                        "start": "2.854",
+                        "text": "filosofía"
+                    },
+                    {
+                        "start": "3.580",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.731",
+                        "text": "vida"
+                    },
+                    {
+                        "start": "4.305",
+                        "text": "es"
+                    },
+                    {
+                        "start": "4.447",
+                        "text": "la"
+                    },
+                    {
+                        "start": "4.673",
+                        "text": "forma"
+                    },
+                    {
+                        "start": "5.068",
+                        "text": "de"
+                    },
+                    {
+                        "start": "5.219",
+                        "text": "pensar"
+                    },
+                    {
+                        "start": "5.737",
+                        "text": "de"
+                    },
+                    {
+                        "start": "5.916",
+                        "text": "cada"
+                    },
+                    {
+                        "start": "6.246",
+                        "text": "persona,"
+                    },
+                    {
+                        "start": "7.687",
+                        "text": "es"
+                    },
+                    {
+                        "start": "7.942",
+                        "text": "aquello"
+                    },
+                    {
+                        "start": "8.799",
+                        "text": "que"
+                    },
+                    {
+                        "start": "8.969",
+                        "text": "hace"
+                    },
+                    {
+                        "start": "9.232",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.421",
+                        "text": "alguien"
+                    },
+                    {
+                        "start": "9.920",
+                        "text": "sea"
+                    },
+                    {
+                        "start": "10.259",
+                        "text": "único"
+                    },
+                    {
+                        "start": "11.380",
+                        "text": "y"
+                    },
+                    {
+                        "start": "11.550",
+                        "text": "es"
+                    },
+                    {
+                        "start": "11.748",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "11.861",
+                        "text": "que"
+                    },
+                    {
+                        "start": "12.011",
+                        "text": "define"
+                    },
+                    {
+                        "start": "12.633",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "12.869",
+                        "text": "acciones."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.716",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "1.109",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "1.762",
+                        "text": "to"
+                    },
+                    {
+                        "start": "1.958",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "2.226",
+                        "text": "that"
+                    },
+                    {
+                        "start": "2.501",
+                        "text": "each"
+                    },
+                    {
+                        "start": "2.878",
+                        "text": "person's"
+                    },
+                    {
+                        "start": "3.453",
+                        "text": "philosophy"
+                    },
+                    {
+                        "start": "4.200",
+                        "text": "of"
+                    },
+                    {
+                        "start": "4.341",
+                        "text": "life"
+                    },
+                    {
+                        "start": "5.025",
+                        "text": "shapes"
+                    },
+                    {
+                        "start": "5.458",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.607",
+                        "text": "way"
+                    },
+                    {
+                        "start": "5.812",
+                        "text": "they"
+                    },
+                    {
+                        "start": "6.048",
+                        "text": "think."
+                    },
+                    {
+                        "start": "7.070",
+                        "text": "It's"
+                    },
+                    {
+                        "start": "7.275",
+                        "text": "what"
+                    },
+                    {
+                        "start": "7.424",
+                        "text": "makes"
+                    },
+                    {
+                        "start": "7.747",
+                        "text": "everyone"
+                    },
+                    {
+                        "start": "8.391",
+                        "text": "unique"
+                    },
+                    {
+                        "start": "9.178",
+                        "text": "and"
+                    },
+                    {
+                        "start": "9.776",
+                        "text": "defines"
+                    },
+                    {
+                        "start": "10.287",
+                        "text": "our"
+                    },
+                    {
+                        "start": "10.546",
+                        "text": "actions."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "1.458",
+                        "text": "개인의"
+                    },
+                    {
+                        "start": "2.680",
+                        "text": "인생"
+                    },
+                    {
+                        "start": "3.468",
+                        "text": "철학이"
+                    },
+                    {
+                        "start": "4.908",
+                        "text": "그"
+                    },
+                    {
+                        "start": "5.257",
+                        "text": "사람이"
+                    },
+                    {
+                        "start": "6.594",
+                        "text": "생각하는"
+                    },
+                    {
+                        "start": "7.814",
+                        "text": "방법을"
+                    },
+                    {
+                        "start": "9.257",
+                        "text": "만든다고"
+                    },
+                    {
+                        "start": "10.375",
+                        "text": "설명했어요."
+                    },
+                    {
+                        "start": "12.516",
+                        "text": "철학은"
+                    },
+                    {
+                        "start": "13.898",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "14.500",
+                        "text": "사람들과"
+                    },
+                    {
+                        "start": "16.093",
+                        "text": "나를"
+                    },
+                    {
+                        "start": "16.859",
+                        "text": "구분하고"
+                    },
+                    {
+                        "start": "18.488",
+                        "text": "내"
+                    },
+                    {
+                        "start": "18.929",
+                        "text": "행동을"
+                    },
+                    {
+                        "start": "20.250",
+                        "text": "정하는"
+                    },
+                    {
+                        "start": "21.153",
+                        "text": "것이에요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "&#34;When you realized how strong you were, you started bragging about it, and you felt like you were better than us. This made you lose focus and that's why you made those mistakes,&#34; Theffanie explained.  ",
+                "textES": "–Cuando te diste cuenta lo fuerte que eres, comenzaste a presumir y sentirte mejor que los demás. Eso hizo que perdieras la concentración y cometieras algunos errores –explicó Theffanie a Oof.",
+                "textPT": "“Quando você percebeu como era forte, começou a contar vantagem e a achar que era melhor do que a gente. Isso fez você perder o foco, e foi por isso que cometeu aqueles erros”, explicou Theffanie.",
+                "textCN": "“当你意识到自己有多强大时，你就开始自我吹嘘，觉得自己比我们更优秀。这让你不能专注于任务，所以你才犯下了这些错误。”范妮解释道。  ",
+                "textJP": "「ウーフは じぶんが つよいことを しって、じまん しはじめたでしょ。そして みんなよりも えらいんだって おもいはじめた。それで だいじなことに しゅうちゅう できなくなって、しっぱい したのよ。」ティファニーは いいました。  ",
+                "textKR": "&#34;네가얼마나 힘이 센지 알았을 때 너는 그걸 신나게 자랑하고 다녔잖아. 게다가 너는 다른 사람들보다 네가 더 나은 존재라고 느꼈어. 그 생각 때문에 너는 집중을 할 수 없었고 그러면서 많은 실수를 저지르게 된 거야.&#34; 티파니가 설명했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.518",
+                        "text": "–Cuando"
+                    },
+                    {
+                        "start": "0.933",
+                        "text": "te"
+                    },
+                    {
+                        "start": "1.083",
+                        "text": "diste"
+                    },
+                    {
+                        "start": "1.536",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "1.875",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "2.101",
+                        "text": "fuerte"
+                    },
+                    {
+                        "start": "2.562",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.817",
+                        "text": "eres,"
+                    },
+                    {
+                        "start": "3.702",
+                        "text": "comenzaste"
+                    },
+                    {
+                        "start": "4.371",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.428",
+                        "text": "presumir"
+                    },
+                    {
+                        "start": "5.219",
+                        "text": "y"
+                    },
+                    {
+                        "start": "5.294",
+                        "text": "sentirte"
+                    },
+                    {
+                        "start": "5.916",
+                        "text": "mejor"
+                    },
+                    {
+                        "start": "6.302",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.491",
+                        "text": "los"
+                    },
+                    {
+                        "start": "6.670",
+                        "text": "demás."
+                    },
+                    {
+                        "start": "8.215",
+                        "text": "Eso"
+                    },
+                    {
+                        "start": "8.611",
+                        "text": "hizo"
+                    },
+                    {
+                        "start": "9.298",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.487",
+                        "text": "perdieras"
+                    },
+                    {
+                        "start": "10.052",
+                        "text": "la"
+                    },
+                    {
+                        "start": "10.184",
+                        "text": "concentración"
+                    },
+                    {
+                        "start": "11.559",
+                        "text": "y"
+                    },
+                    {
+                        "start": "11.719",
+                        "text": "cometieras"
+                    },
+                    {
+                        "start": "12.388",
+                        "text": "algunos"
+                    },
+                    {
+                        "start": "13.010",
+                        "text": "errores"
+                    },
+                    {
+                        "start": "14.913",
+                        "text": "–explicó"
+                    },
+                    {
+                        "start": "15.667",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "16.515",
+                        "text": "a"
+                    },
+                    {
+                        "start": "16.750",
+                        "text": "Oof."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.739",
+                        "text": "When"
+                    },
+                    {
+                        "start": "0.873",
+                        "text": "you"
+                    },
+                    {
+                        "start": "1.054",
+                        "text": "realized"
+                    },
+                    {
+                        "start": "1.581",
+                        "text": "how"
+                    },
+                    {
+                        "start": "1.738",
+                        "text": "strong"
+                    },
+                    {
+                        "start": "2.186",
+                        "text": "you"
+                    },
+                    {
+                        "start": "2.359",
+                        "text": "were,"
+                    },
+                    {
+                        "start": "3.091",
+                        "text": "you"
+                    },
+                    {
+                        "start": "3.169",
+                        "text": "started"
+                    },
+                    {
+                        "start": "3.673",
+                        "text": "bragging"
+                    },
+                    {
+                        "start": "4.105",
+                        "text": "about"
+                    },
+                    {
+                        "start": "4.396",
+                        "text": "it,"
+                    },
+                    {
+                        "start": "5.214",
+                        "text": "and"
+                    },
+                    {
+                        "start": "5.324",
+                        "text": "you"
+                    },
+                    {
+                        "start": "5.513",
+                        "text": "felt"
+                    },
+                    {
+                        "start": "5.749",
+                        "text": "like"
+                    },
+                    {
+                        "start": "6.024",
+                        "text": "you"
+                    },
+                    {
+                        "start": "6.111",
+                        "text": "were"
+                    },
+                    {
+                        "start": "6.292",
+                        "text": "better"
+                    },
+                    {
+                        "start": "6.575",
+                        "text": "than"
+                    },
+                    {
+                        "start": "6.732",
+                        "text": "us."
+                    },
+                    {
+                        "start": "7.880",
+                        "text": "This"
+                    },
+                    {
+                        "start": "8.195",
+                        "text": "made"
+                    },
+                    {
+                        "start": "8.462",
+                        "text": "you"
+                    },
+                    {
+                        "start": "8.627",
+                        "text": "lose"
+                    },
+                    {
+                        "start": "8.958",
+                        "text": "focus"
+                    },
+                    {
+                        "start": "9.689",
+                        "text": "and"
+                    },
+                    {
+                        "start": "9.870",
+                        "text": "that's"
+                    },
+                    {
+                        "start": "10.153",
+                        "text": "why"
+                    },
+                    {
+                        "start": "10.365",
+                        "text": "you"
+                    },
+                    {
+                        "start": "10.523",
+                        "text": "made"
+                    },
+                    {
+                        "start": "10.704",
+                        "text": "those"
+                    },
+                    {
+                        "start": "10.908",
+                        "text": "mistakes,"
+                    },
+                    {
+                        "start": "11.990",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "12.473",
+                        "text": "explained."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "얼마나"
+                    },
+                    {
+                        "start": "1.985",
+                        "text": "힘이"
+                    },
+                    {
+                        "start": "2.540",
+                        "text": "센지"
+                    },
+                    {
+                        "start": "3.278",
+                        "text": "알았을"
+                    },
+                    {
+                        "start": "4.076",
+                        "text": "때"
+                    },
+                    {
+                        "start": "4.886",
+                        "text": "너는"
+                    },
+                    {
+                        "start": "5.557",
+                        "text": "그걸"
+                    },
+                    {
+                        "start": "6.656",
+                        "text": "신나게"
+                    },
+                    {
+                        "start": "7.570",
+                        "text": "자랑하고"
+                    },
+                    {
+                        "start": "8.561",
+                        "text": "다녔잖아."
+                    },
+                    {
+                        "start": "10.712",
+                        "text": "게다가"
+                    },
+                    {
+                        "start": "11.572",
+                        "text": "너는"
+                    },
+                    {
+                        "start": "12.736",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "13.245",
+                        "text": "사람들보다"
+                    },
+                    {
+                        "start": "15.043",
+                        "text": "네가"
+                    },
+                    {
+                        "start": "16.251",
+                        "text": "더"
+                    },
+                    {
+                        "start": "17.080",
+                        "text": "나은"
+                    },
+                    {
+                        "start": "17.771",
+                        "text": "존재라고"
+                    },
+                    {
+                        "start": "19.100",
+                        "text": "느꼈어."
+                    },
+                    {
+                        "start": "21.144",
+                        "text": "그"
+                    },
+                    {
+                        "start": "21.569",
+                        "text": "생각"
+                    },
+                    {
+                        "start": "22.227",
+                        "text": "때문에"
+                    },
+                    {
+                        "start": "23.492",
+                        "text": "너는"
+                    },
+                    {
+                        "start": "24.534",
+                        "text": "집중을"
+                    },
+                    {
+                        "start": "25.734",
+                        "text": "할"
+                    },
+                    {
+                        "start": "26.052",
+                        "text": "수"
+                    },
+                    {
+                        "start": "26.564",
+                        "text": "없었고"
+                    },
+                    {
+                        "start": "28.158",
+                        "text": "그러면서"
+                    },
+                    {
+                        "start": "29.652",
+                        "text": "많은"
+                    },
+                    {
+                        "start": "30.263",
+                        "text": "실수를"
+                    },
+                    {
+                        "start": "31.547",
+                        "text": "저지르게"
+                    },
+                    {
+                        "start": "31.597",
+                        "text": "된"
+                    },
+                    {
+                        "start": "32.953",
+                        "text": "거야."
+                    },
+                    {
+                        "start": "34.435",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "35.684",
+                        "text": "설명했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "Suddenly, Oof understood that it is better to use one's talent to help others and not to brag. He thanked Theffanie and gave her a big hug.",
+                "textES": "Gracias a Theffanie, Oof entendió que es mejor utilizar su talento para ayudar a los demás y no para presumir. Agradecido por la explicación, abrazó a Theffanie.",
+                "textPT": "De repente, Oof entendeu que é melhor usar nossos talentos para ajudar os outros, não para contar vantagem. Ele agradeceu a Theffanie e lhe deu um forte abraço.",
+                "textCN": "突然，奥夫明白了，利用自己的才能去帮助别人，这才是更好的处事方式，而不是到处吹牛说大话。他对范妮表示了感谢，并给了她一个大大的拥抱。",
+                "textJP": "とつぜん ウーフは、じぶんのつよさを じまん するのではなく、みんなを たすけるために つかったほうがいいと わかりました。ウーフは ティファニーに おれいを いいました。",
+                "textKR": "그때야 우프는 자기의 능력을 자랑하는 것보다 다른 사람을 돕는데 쓰는 게 더 낫다고 깨달았어요. 우프는 티파니에게 고맙다고 말하면서 따뜻하게 안아주었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.339",
+                        "text": "Gracias"
+                    },
+                    {
+                        "start": "0.848",
+                        "text": "a"
+                    },
+                    {
+                        "start": "0.989",
+                        "text": "Theffanie,"
+                    },
+                    {
+                        "start": "2.204",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "2.600",
+                        "text": "entendió"
+                    },
+                    {
+                        "start": "3.391",
+                        "text": "que"
+                    },
+                    {
+                        "start": "3.552",
+                        "text": "es"
+                    },
+                    {
+                        "start": "3.721",
+                        "text": "mejor"
+                    },
+                    {
+                        "start": "4.371",
+                        "text": "utilizar"
+                    },
+                    {
+                        "start": "5.078",
+                        "text": "su"
+                    },
+                    {
+                        "start": "5.294",
+                        "text": "talento"
+                    },
+                    {
+                        "start": "6.123",
+                        "text": "para"
+                    },
+                    {
+                        "start": "6.246",
+                        "text": "ayudar"
+                    },
+                    {
+                        "start": "6.689",
+                        "text": "a"
+                    },
+                    {
+                        "start": "6.774",
+                        "text": "los"
+                    },
+                    {
+                        "start": "6.981",
+                        "text": "demás"
+                    },
+                    {
+                        "start": "7.904",
+                        "text": "y"
+                    },
+                    {
+                        "start": "8.064",
+                        "text": "no"
+                    },
+                    {
+                        "start": "8.281",
+                        "text": "para"
+                    },
+                    {
+                        "start": "8.507",
+                        "text": "presumir."
+                    },
+                    {
+                        "start": "10.240",
+                        "text": "Agradecido"
+                    },
+                    {
+                        "start": "11.079",
+                        "text": "por"
+                    },
+                    {
+                        "start": "11.230",
+                        "text": "la"
+                    },
+                    {
+                        "start": "11.286",
+                        "text": "explicación,"
+                    },
+                    {
+                        "start": "12.614",
+                        "text": "abrazó"
+                    },
+                    {
+                        "start": "13.189",
+                        "text": "a"
+                    },
+                    {
+                        "start": "13.368",
+                        "text": "Theffanie."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.716",
+                        "text": "Suddenly,"
+                    },
+                    {
+                        "start": "1.416",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "1.620",
+                        "text": "understood"
+                    },
+                    {
+                        "start": "2.949",
+                        "text": "but"
+                    },
+                    {
+                        "start": "3.036",
+                        "text": "it"
+                    },
+                    {
+                        "start": "3.169",
+                        "text": "is"
+                    },
+                    {
+                        "start": "3.397",
+                        "text": "better"
+                    },
+                    {
+                        "start": "3.712",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.917",
+                        "text": "use"
+                    },
+                    {
+                        "start": "4.129",
+                        "text": "one's"
+                    },
+                    {
+                        "start": "4.373",
+                        "text": "talent"
+                    },
+                    {
+                        "start": "4.876",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.025",
+                        "text": "help"
+                    },
+                    {
+                        "start": "5.293",
+                        "text": "others"
+                    },
+                    {
+                        "start": "6.229",
+                        "text": "and"
+                    },
+                    {
+                        "start": "6.488",
+                        "text": "not"
+                    },
+                    {
+                        "start": "6.811",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.984",
+                        "text": "brag."
+                    },
+                    {
+                        "start": "8.242",
+                        "text": "He"
+                    },
+                    {
+                        "start": "8.431",
+                        "text": "thanked"
+                    },
+                    {
+                        "start": "8.832",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "9.461",
+                        "text": "and"
+                    },
+                    {
+                        "start": "9.681",
+                        "text": "gave"
+                    },
+                    {
+                        "start": "9.933",
+                        "text": "her"
+                    },
+                    {
+                        "start": "10.082",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.436",
+                        "text": "big"
+                    },
+                    {
+                        "start": "10.727",
+                        "text": "hug."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "그때야"
+                    },
+                    {
+                        "start": "0.933",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "2.224",
+                        "text": "자기의"
+                    },
+                    {
+                        "start": "3.094",
+                        "text": "능력을"
+                    },
+                    {
+                        "start": "4.452",
+                        "text": "자랑하는"
+                    },
+                    {
+                        "start": "5.428",
+                        "text": "것보다"
+                    },
+                    {
+                        "start": "6.778",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "7.430",
+                        "text": "사람을"
+                    },
+                    {
+                        "start": "8.807",
+                        "text": "돕는데"
+                    },
+                    {
+                        "start": "9.743",
+                        "text": "쓰는"
+                    },
+                    {
+                        "start": "10.341",
+                        "text": "게"
+                    },
+                    {
+                        "start": "11.290",
+                        "text": "더"
+                    },
+                    {
+                        "start": "11.749",
+                        "text": "낫다고"
+                    },
+                    {
+                        "start": "12.792",
+                        "text": "깨달았어요."
+                    },
+                    {
+                        "start": "15.043",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "16.265",
+                        "text": "티파니에게"
+                    },
+                    {
+                        "start": "17.948",
+                        "text": "고맙다고"
+                    },
+                    {
+                        "start": "19.029",
+                        "text": "말하면서"
+                    },
+                    {
+                        "start": "20.366",
+                        "text": "따뜻하게"
+                    },
+                    {
+                        "start": "21.424",
+                        "text": "안아주었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

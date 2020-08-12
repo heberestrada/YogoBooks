@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+ 
+<html lang="en" style="touch-action: manipulation;">
+
+<head>
+	
+	<script>
+		
+	</script>
+    <meta charset="UTF-8">
+
+   
+ <!-- ****** favicons ****** -->
+    <link rel="shortcut icon" href="https://yogome.com/assets/favicon/favicon.ico">
+    <link rel="icon" sizes="16x16 32x32 64x64" href="https://yogome.com/assets/favicon/favicon.ico">
+    <link rel="icon" type="image/png" sizes="196x196" href="https://yogome.com/assets/favicon/favicon-192.png">
+    <link rel="icon" type="image/png" sizes="160x160" href="https://yogome.com/assets/favicon/favicon-160.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://yogome.com/assets/favicon/favicon-96.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="https://yogome.com/assets/favicon/favicon-64.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://yogome.com/assets/favicon/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://yogome.com/assets/favicon/favicon-16.png">
+    <link rel="apple-touch-icon" href="https://yogome.com/assets/favicon/favicon-57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://yogome.com/assets/favicon/favicon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://yogome.com/assets/favicon/favicon-72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://yogome.com/assets/favicon/favicon-144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://yogome.com/assets/favicon/favicon-60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://yogome.com/assets/favicon/favicon-120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://yogome.com/assets/favicon/favicon-76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://yogome.com/assets/favicon/favicon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://yogome.com/assets/favicon/favicon-180.png">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="https://yogome.com/assets/favicon/favicon-144.png">
+    <meta name="msapplication-config" content="https://yogome.com/assets/favicon/browserconfig.xml">
+	
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<meta property="og:url"				content="https://books.yogome.com/"/>
+	<meta property="og:type"			content="article" />
+	<meta property="og:title"			content="Yogome Books" />
+	<meta property="og:image"			content="https://books.yogome.com/books/posts/banner_books.png" />
+	<meta property="og:description" content="Encourage your child to learn while they have fun! Browse more than 2,000 activities in 8 fundamental subjects including educational apps, videos, games, and books. With the Yogome Learning Platform, your child will have the tools they need to succeed. Only 20 minutes a day can help improve your child’s social, emotional, and academic development. Start today!" />   
+	
+    
+    <!-- ****** favicons ****** -->    
+    
+    <title class="text3">Books</title>
+    <!-- Bootstrap CSS CDN -->
+<!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
+	<link rel="stylesheet" href="/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/modal.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/jquery-responsiveGallery.css">
+
+    <!-- Our Custom CSS -->
+    <link rel="stylesheet" href="/assets/css/play.css">
+    <link rel="stylesheet" href="/assets/css/books.css">
+
+<script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" type="application/javascript" ></script>
+	<script type="text/javascript" src="/assets/js/jquery.responsiveGallery.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>  
+    <script src="assets/js/detectlanguage.js"></script>
+	<script type="text/javascript">
+//		$(function () {
+//$('.responsiveGallery-wrapper').responsiveGallery({
+//	animatDuration: 400, 
+//	$btn_prev: $('.responsiveGallery-btn_prev'),
+//	$btn_next: $('.responsiveGallery-btn_next')
+//});
+//		});
+        
+        var detectOrigins;   
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;  
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+		
+	</script>
+   
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-64907347-1"></script>
+<script>
+    
+
+    
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'UA-64907347-1');
+</script>    
+		  
+</head>
+
+<body id="bodys" onLoad="if ('Navigator' == navigator.appName)
+document.forms[0].reset();">
+    <audio preload="auto" id="pop"  src="assets/sounds/pop.mp3"></audio>
+    <audio preload="auto" id="flipcard"  src="assets/sounds/flipcard.mp3"></audio>
+    <audio preload="auto" id="magic" src="assets/sounds/magic.mp3"></audio>
+    
+     <div id="loadder" align="center"><img src="assets/images/Preloader.gif" alt="loading"></div>
+<script>
+    var showing=true;
+    
+    function ShowHideBar(){
+        showing=!showing;
+        if(!showing){
+            $('#sidebar').addClass('active');
+        }else{
+            $('#sidebar').removeClass('active');
+        }
+        
+    }
+    
+</script>
+   
+    <div id="books" class="wrapper">
+<!-- MENU WEBPAGE -->
+        <nav id="sidebar" tabindex="0" style="/*overflow: hidden*/; outline: none;">
+        <div id="dismiss" onclick="ShowHideBar()">
+            <i class="glyphicon glyphicon-arrow-left"></i>
+        </div>
+
+        <div class="sidebar-header">
+            <div id="navbar-logo-container homeButton">
+                <img style="width:80%;" class="img img-responsive " src="assets/images/logo-yogome.png" alt="Logo Yogome">
+            </div>
+        </div>
+
+        <ul class="list-unstyled components">
+            <li class="active">
+                <ul class="list-unstyled" id="homeSubmenu">
+                    <li><a class="play-colors-orange webisodesSec"><div class="text0 menu1" style="cursor: pointer;">Videos</div></a></li>
+                    <!--                          <li><a class="play-colors-bluesea yogodexSec" href="yogodex.html">Yogodex</a></li>-->
+                    <li><a class="play-colors-blue html5Games"><div class="text2 menu2" style="cursor: pointer;">Juegos</div></a></li>
+                    <!--                          <li><a class="play-colors-purple resourcesSec" href="yogofun.html">Resources</a></li>-->
+                    <li><a class="play-colors-green"><div class="text3 menu3" style="cursor: pointer;">Libros</div></a></li>
+                    <li class="dropdown">
+                        <a id="navbarLanguage" class="dropdown-toggle dropdown-memberships-lang text5" data-toggle="dropdown" href="#">Idiomas</a>
+                        <ul class="dropdown-menu">
+                            <li  class="botonLang0" number="0"><a class="language-switch">ESPAÑOL</a></li>
+                            <li  class="botonLang1" number="1"><a class="language-switch">ENGLISH</a></li>
+                            <li  onclick="changePT()" class="botonLang2" number="2"><a class="language-switch">Portugues</a></li>
+                            <li  onclick="changeZH()" class="botonLang3" number="3"><a class="language-switch">中國</a></li>
+                            <li  onclick="changeJA()" class="botonLang4" number="4"><a class="language-switch">日本語</a></li>
+                            <li  onclick="changeKO()" class="botonLang5" number="5"><a class="language-switch">한국어</a></li>
+                        </ul>
+                    </li>
+<!--
+                    <li class="accesButtonsMovil">
+                        <button type="button" id="devicelogInButton" class="navbar-btn ">
+                            <span><div class="text6">Iniciar sesión</div></span>
+                        </button>
+                        <button type="button" id="register-btn-sm" class="navbar-btn hidden btn-mixpanel-payments mixpanel-call">
+                            <span><div class="text4">Registro</div></span>
+                        </button>
+                    </li>
+-->
+
+                    <li id="menuUserMovil">
+
+                        <div class="loginAccessMovil">
+                            <span id="id_userMovil">ID_USER</span>
+                        </div>
+                        <button id="buttonLogOutMovil" class="logoutMovil">
+                            <img src="assets/images/logouticon.png">
+                            <p>Log Out</p>
+                        </button>
+                    </li>
+
+                </ul>
+
+
+
+
+            </li>
+        </ul>
+    </nav>
+
+
+            <div id="content">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                      <div class="menu-desktop">
+                            <div class="navbar-header col-xs-12 col-sm-2">
+                              <div class="col-xs-4 display-inline">
+                                <button type="button" id="sidebarCollapse" class="btn-burger-menu hidden-sm hidden-md hidden-lg" onclick="ShowHideBar()">
+                                      <i class="glyphicon glyphicon-menu-hamburger"></i>
+                                      <span></span>
+                                </button>
+                              </div>
+                              <div class="col-xs-4 col-sm-12 display-inline">
+                                <a class="navbar-logo">
+                                  <div id="navbar-logo-container">
+                                    <img class="img img-responsive" src="assets/images/logo-yogome.png" alt="Logo Yogome">
+                                  </div>
+                                </a>
+                              </div>
+                            </div>
+
+                            <div class="collapse navbar-collapse col-sm-6" id="bs-navbar-collapse-1">
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a class="play-colors-orange webisodesSec"><div class="text0 menu1">Webisodes</div></a></li>
+    <!--                          <li><a class="play-colors-bluesea yogodexSec" href="yogodex.html">Yogodex</a></li>-->
+                                    <li><a class="play-colors-blue html5Games" ><div class="text2 menu2">Games</div></a></li>
+    <!--                          <li><a class="play-colors-purple resourcesSec" href="yogofun.html">Resources</a></li>-->
+                                    <li><a class="play-colors-green"><div class="text3 menu3">Books</div></a></li>
+                                    <li class="dropdown">
+                                       <a id="navbarLanguage" class="dropdown-toggle dropdown-memberships-lang" data-toggle="dropdown" href="#"><span class="text5">Language</span> <span class="caret"></span></a>
+                                       <ul onclick="changeES()" class="dropdown-menu">
+                                           <li  class="botonLang0"><a class="language-switch">ESPAÑOL</a></li>
+                                           <li  class="botonLang1"><a class="language-switch">ENGLISH</a></li>
+                                           <li  class="botonLang2"><a onclick="changePT()" class="language-switch">Portugues</a></li>
+                                           <li  class="botonLang3"><a onclick="changeZH()" class="language-switch">中國</a></li>
+                                           <li  class="botonLang4"><a onclick="changeJA()" class="language-switch">日本語</a></li>
+                                           <li  class="botonLang5"><a onclick="changeKO()" class="language-switch">한국어</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="accesButtons">   
+<!--
+                                       <button type="button" id="logInButton" class="navbar-btn ">
+                                           <span><div class="text6">Log In</div></span>
+                                        </button>       
+                                        <button type="button" id="register-btn-lg" class="navbar-btn btn-mixpanel-payments mixpanel-call">
+                                          <span><div class="text4">Registrer</div></span>
+                                        </button>       
+-->
+                                        
+                                    </li>  
+                                    <li id="menuUser">
+                                           
+                                              <div class="loginAccess">
+                                                  <span id="id_user">ID_USER</span>
+                                              </div> 
+                                        <div id="buttonLogOut" class="logout">
+                                                <img src="assets/images/logouticon.png" />
+                                                <p>Log Out</p>
+                                            </div> 
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>      
+                    </div>
+                  
+                    
+                    
+                </nav>
+             
+                <!--END MENU WEBPAGE -->
+            <section id="bookContainer" class="section-main container">
+               
+ <div class="w-gallery">
+	
+  <section id="responsiveGallery-container" class="responsiveGallery-container">
+	  
+   
+    <ul id="container-books" class="responsiveGallery-wrapper container">
+    </ul>
+	   
+  </section>
+</div>            
+                <div class="row panel-player">
+                    <div onclick="flipcard.play()" id="prevButton" ontouchstart="" class="responsiveGallery-btn_prev">
+                        <img class="img-responsive" src="assets/images/books/BotonBooksBack.png">
+                        </div>
+                        
+                        <div class="panelContainer">
+                        <img id="panelBooks" class="img-responsive"  style="transform: translate(2%);"> <!-- src="assets/images/books/Panel.png"/> -->
+                        </div>
+                        
+                        <div onclick="flipcard.play()" id="nextButton" ontouchstart="" class="responsiveGallery-btn_next">
+                        <img  class="img-responsive" style="transform: translateX(0px)" src="assets/images/books/BotonBooksNext.png">
+                        </div>
+                    </div>                
+                
+            </section> 
+            <section class="container yogotars">
+                        <div class="col-xs-6">
+                            <img src="assets/images/books/Eagle.png"/>
+                        </div>
+                        <div class="col-xs-6">
+                            <img src="assets/images/books/Luna.png"/>
+                        </div>
+                    
+            </section> 
+                
+        </div>
+    
+    
+         <footer>
+                <div class="container">
+                    <div class="col-xs-12 col-xs-24 play-footer">
+                        <img class="img img-responsive footer-logo" src="assets/images/logo-yogome.png" alt="Logo Yogome">
+                        <img class="img img-responsive footer-logo" src="assets/images/logo-student-safe.png" alt="Logo Student Safe">
+                        <p><span class="text47">Read our </span>
+                            <a href="https://yogome.com/en/privacy/" class="mixpanel-call text48" target="_blank">Privacy policy </a>
+                            <span class="text49"> and </span>
+                            <a href="https://yogome.com/en/privacy/" class="mixpanel-call text50" target="_blank"> Terms of service.</a></p>
+                    </div>
+                </div>
+            </footer>
+        
+         </div>  
+    <div id="app">
+      <!--  <div>
+            <div id="signIn" class="lgmodal">
+                <div class="lgmodal-content container-login">
+                    <div class="navigation">
+                        <button class="closelgmodal close"></button>
+                    </div>
+                    <div class="lgmodal-header">
+                    <div class="topImg">
+                        <div class="topImg">
+                            <img class="particule" src="images/particle-03.png">
+                            <img class="logo" src="images/yogome-logo.png">
+                            <img class="particule" src="images/particle-04.png">
+                        </div>
+                    </div>
+                    <h2>
+                        <div style="font-size: 3vh;">- Inicia sesión en Yogome -</div>
+                    </h2>
+                    </div>
+                    <div class="lgmodal-body">
+                        <input type="text" id="username" class="inputText" placeholder="Sobrenombre" name="Username">
+                        <br>
+                        <button type="submit" id="login" class="loginBtn bgBlue" style="margin-bottom: 2vh;">INICIAR SESIÓN</button>
+                        <div id="loadSpace" class="loader" style="display: none;"></div>
+                        <br>
+                        <div id="onError" class="fontOpenSans" style="display: none; color: red;">
+                        </div>
+                        <hr><button type="submit" id="firstLogin" class="loginBtn bgOrange">Primer inicio de sesión</button>
+                        <br>
+                        <button type="submit" id="createAccount" class="loginBtn bgGreen">Crear Nueva Cuenta</button>
+                        <br><button class="recoverBtn" id="recoverPass">Olvidé mi contraseña.</button><br>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+    </div>
+<!--MODAL-->
+
+    <script src="js/epic.js"></script>
+    <script src="js/languages.js"></script>
+    <script src="js/login.js"></script>
+    <script src="assets/js/yogobooks/book.js"></script>
+    <script id="loaders" type="javascript" src="assets/js/yogobooks/book.json"></script>
+    <script src="assets/js/menuButtons.js"></script>
+
+    <script>
+    
+
+    /*SCRIPT APP or PLAY YOGOME*/
+
+
+    //console.log(window.innerHeight,window.innerWidth);
+        
+        if(detectOrigins=="true"){
+            $(".navbar").hide();
+            //console.log($(document).zoom)
+            $(".col-xs-12").hide();
+            //$(".bg-zip").addClass("newBg-zip");
+        }else if(detectOrigins=="false"){
+            $(".webPageSection2").show();
+            $("nav").show();
+        }
+
+    
+    
+    </script>
+
+    <!-- jQuery Nicescroll CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.nicescroll/3.6.8-fix/jquery.nicescroll.min.js"></script>
+
+    
+    <script src="js/mixpanel/mixpanel.js"></script>
+    <script src="js/mixpanel/yogobooks.js"></script>
+    <script>
+    $("#panelBooks").attr("src","assets/images/books/Panel" + language + ".png");
+    </script>
+    <script src="assets/js/language.js"></script>
+	<div id="ascrail2000" class="nicescroll-rails nicescroll-rails-vr" style="width: 4px; z-index: 999; cursor: default; position: fixed; top: 0px; left: 246px; height: 172px; display: block; opacity: 0;">
+		<div class="nicescroll-cursors" style="position: relative; top: 16px; float: right; width: 4px; height: 63px; background-color: rgb(83, 97, 157); border: none; background-clip: padding-box; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;"></div>
+	</div>
+	<div id="ascrail2000-hr" class="nicescroll-rails nicescroll-rails-hr" style="height: 4px; z-index: 999; top: 168px; left: 0px; position: fixed; cursor: default; display: none; width: 246px; opacity: 0;">
+		<div class="nicescroll-cursors" style="position: absolute; top: 0px; height: 4px; width: 250px; background-color: rgb(83, 97, 157); border: none; background-clip: padding-box; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;"></div>
+	</div>
+</body>
+	
+</html>

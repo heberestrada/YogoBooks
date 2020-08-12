@@ -1,0 +1,5 @@
+.idea/
+nodejs/exampleproject/node_modules/.bin/acorn
+node_modules/
+.DS_STORE
+package-lock.json

@@ -1,0 +1,280 @@
+{
+    "book": {
+        "titleES": "Los colores de México",
+        "titleEN": "The Colors of Mexico",
+        "titlePT": "As cores do Mexico",
+        "titleCN": "墨西哥的颜色",
+        "titleJP": "メキシコのいろ",
+        "titleKR": "멕시코의 색 The Colors of Mexico",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "El trompo es rojo.",
+                "textEN": "The whipping top is red.",
+                "textPT": "O pião é vermelho.",
+                "textCN": "鞭抽陀螺是红色的。",
+                "textJP": "こまは あかいろ",
+                "textKR": "팽이는 빨간색이에요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "El" },
+                    { "start": "0.4", "text": "trompo" },
+                    { "start": "0.8", "text": "es" },
+                    { "start": "1.1", "text": "rojo." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "The" },
+                    { "start": "0.4", "text": "whipping" },
+                    { "start": "0.8", "text": "top" },
+                    { "start": "1.2", "text": "is" },
+                    { "start": "1.5", "text": "red." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "팽이는" },
+                    { "start": "1.605","text": "빨간색이에요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "La máscara de luchador es plateada.",
+                "textEN": "The wrestler’s mask is silver.",
+                "textPT": "A máscara do lutador é prateada.",
+                "textCN": "摔跤手的面具是银色的。",
+                "textJP": "レスラーのマスクは ぎんいろ",
+                "textKR": "레슬링 선수의 마스크는 은색이에요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "La" },
+                    { "start": "0.4", "text": "máscara" },
+                    { "start": "0.8", "text": "de" },
+                    { "start": "1.1", "text": "luchador" },
+                    { "start": "1.7", "text": "es" },
+                    { "start": "2.2", "text": "plateada." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "The" },
+                    { "start": "0.7", "text": "wrestler’s" },
+                    { "start": "1.0", "text": "mask" },
+                    { "start": "1.3", "text": "is" },
+                    { "start": "1.9", "text": "silver." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "레슬링" },
+                    { "start": "1.270","text": "선수의" },
+                    { "start": "2.550","text": "마스크는" },
+                    { "start": "4.402","text": "은색이에요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "El sombrero es negro.",
+                "textEN": "The sombrero is black.",
+                "textPT": "O sombrero é preto.",
+                "textCN": "墨西哥帽是黑色的。",
+                "textJP": "ぼうしは くろいろ",
+                "textKR": "솜브레로는 검은색이에요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "El" },
+                    { "start": "0.4", "text": "sombrero" },
+                    { "start": "0.8", "text": "es" },
+                    { "start": "1.1", "text": "negro." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "The" },
+                    { "start": "0.4", "text": "sombrero" },
+                    { "start": "1.0", "text": "is" },
+                    { "start": "1.4", "text": "black." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "솜브레로는" },
+                    { "start": "2.112","text": "검은색이에요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "El nopal es verde.",
+                "textEN": "The prickly pear is green.",
+                "textPT": "O figo da Índia é verde.",
+                "textCN": "仙人掌是绿色的。",
+                "textJP": "さぼてんは みどりいろ",
+                "textKR": "선인장은 초록색이에요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "El" },
+                    { "start": "0.4", "text": "nopal" },
+                    { "start": "0.9", "text": "es" },
+                    { "start": "1.7", "text": "verde." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "The" },
+                    { "start": "0.4", "text": "prickly" },
+                    { "start": "0.8", "text": "pear" },
+                    { "start": "1.2", "text": "is" },
+                    { "start": "1.6", "text": "green." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "선인장은" },
+                    { "start": "1.857","text": "초록색이에요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "El rebozo es rosa.",
+                "textEN": "The rebozo is pink.",
+                "textPT": "O rebozo é rosado.",
+                "textCN": "长围巾是粉红色的。",
+                "textJP": "スカーフは ピンクいろ",
+                "textKR": "스카프인 레보조는 분홍색이에요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "El" },
+                    { "start": "0.4", "text": "rebozo" },
+                    { "start": "0.9", "text": "es" },
+                    { "start": "1.5", "text": "rosa." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "The" },
+                    { "start": "0.4", "text": "rebozo" },
+                    { "start": "1.2", "text": "is" },
+                    { "start": "1.6", "text": "pink." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "스카프인" },
+                    { "start": "1.544","text": "레보조는" },
+                    { "start": "3.208","text": "분홍색이에요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "México es multicolor.",
+                "textEN": "Mexico is multicolor.",
+                "textPT": "O México é multicolor.",
+                "textCN": "墨西哥是彩色的。",
+                "textJP": "いろとりどりの メキシコ",
+                "textKR": "멕시코에는 다양한 색이 있어요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "México" },
+                    { "start": "0.7", "text": "es" },
+                    { "start": "1.1", "text": "multicolor." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "Mexico" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.2", "text": "multicolor." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "멕시코에는" },
+                    { "start": "2.078","text": "다양한" },
+                    { "start": "4.090","text": "색이" },
+                    { "start": "5.297","text": "있어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

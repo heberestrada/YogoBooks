@@ -1,0 +1,1789 @@
+{
+    "book": {
+        "titleES": "Oof crea su color favorito",
+        "titleEN": "Oof Makes His Favorite Color",
+        "titlePT": "Oof cria sua cor favorita",
+        "titleCN": "奥夫调出他最喜欢的颜色",
+        "titleJP": "ウーフ、好きな色を作る",
+        "titleKR": "우프가 가장 좋아하는 색을 만들어요",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "Era fin de semana y Oof estaba emocionado. Iba a pasar su día pintando y relajándose.",
+                "textEN": "It was the weekend and Oof was excited. He was going to spend his day painting and relaxing.",
+                "textPT": "Era final de semana, e Oof estava animado. Ele ia passar o dia pintando e relaxando.",
+                "textCN": "这一天是周末，奥夫非常开心。他准备花一天的时间来画画和休息。",
+                "textJP": "ウーフは週末をとても楽しみにしていました。ゆっくり絵を描いて過ごすつもりだったのです。",
+                "textKR": "주말이 되어서 우프는 신이 났어요. 우프는 주말 동안 그림을 그리면서 쉬기로 했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Era"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "fin"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "semana"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "emocionado."
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "Iba"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "pasar"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "su"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "día"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "pintando"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "relajándose."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "It"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "weekend"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "was"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "excited."
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "He"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "was"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "going"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "spend"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "his"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "day"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "painting"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "relaxing."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "주말이" },
+                    { "start": "0.629", "text": "되어서" },
+                    { "start": "1.750", "text": "우프는" },
+                    { "start": "2.728", "text": "신이" },
+                    { "start": "3.241", "text": "났어요." },
+                    { "start": "5.091", "text": "우프는" },
+                    { "start": "6.234", "text": "주말" },
+                    { "start": "6.825", "text": "동안" },
+                    { "start": "7.744", "text": "그림을" },
+                    { "start": "8.324", "text": "그리면서" },
+                    { "start": "9.482", "text": "쉬기로" },
+                    { "start": "10.142", "text": "했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "Oof tomó sus materiales y los llevó hacia el estudio. Tomó todos los objetos que pudo pues estaba emocionado. En un descuido, derramó su pintura morada favorita en el piso. “Oh no! ¿Qué hice?”, exclamó.",
+                "textEN": "Oof collected his supplies and carried them outside. In his excitement, he tried to carry too many things at once and accidentally spilled all his favorite purple paint onto the floor. “Oh no! What have I done?” he exclaimed.",
+                "textPT": "Oof pegou seus materiais e os levou para o estúdio. No meio da empolgação, ele acabou carregando muitas coisas ao mesmo tempo e derramou sua tinta roxa favorita no chão. <br> &#34;Ah, não! O que eu fiz?&#34;, ele disse.",
+                "textCN": "奥夫整理好了画画用品并把它们拿到了屋外。由于太过兴奋，他一次拿了太多东西，结果不小心把他最喜欢的紫色颜料洒到了地上。 <br> “噢！不！我都做了些什么？“他大叫道。",
+                "textJP": "ウーフは道具を揃えて外に持って出ました。ところがウキウキして一度にいろいろ運びすぎて紫の絵の具をうっかり床にこぼしてしまいました。ウーフは叫びました「しまった! やっちゃった!」",
+                "textKR": "우프는 미술용품을 들고 밖으로 나갔어요. 신이 난 우프는 한꺼번에 너무 많은 물건을 옮기려고 하다가 실수로 가장 좋아하는 보라색 물감을 바닥에 쏟았어요. <br> &#34;아이 이런! 내가 어쩌다 이런 거지?&#34; 우프가 소리쳤어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "tomó"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "materiales"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "los"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "llevó"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "hacia"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "el"
+                    },
+                    {
+                        "start": "3.5 ",
+                        "text": "estudio."
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "Tomó"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "los"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "objetos"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "pudo"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "emocionado."
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "En"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "un"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "descuido,"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "derramó"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "su"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "pintura"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "morada"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "favorita"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "en"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "el"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "piso."
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "“Oh"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "no!"
+                    },
+                    {
+                        "start": "17.1",
+                        "text": "¿Qué"
+                    },
+                    {
+                        "start": "17.5",
+                        "text": "hice?”,"
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "exclamó."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "collected"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "his"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "supplies"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "carried"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "them"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "outside."
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "In"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "his"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "excitement,"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "he"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "tried"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "carry"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "too"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "many"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "things"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "at"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "once"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "accidentally"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "spilled"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "all"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "his"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "favorite"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "purple"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "paint"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "onto"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "floor."
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "“Oh"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "no!"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "What"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "have"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "I"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "done?”"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "he"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "exclaimed."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "우프는" },
+                    { "start": "1.150", "text": "미술용품을" },
+                    { "start": "2.244", "text": "들고" },
+                    { "start": "3.151", "text": "밖으로" },
+                    { "start": "3.872", "text": "나갔어요." },
+                    { "start": "5.883", "text": "신이" },
+                    { "start": "6.332", "text": "난" },
+                    { "start": "6.720", "text": "우프는" },
+                    { "start": "7.892", "text": "한꺼번에" },
+                    { "start": "9.155", "text": "너무" },
+                    { "start": "9.654", "text": "많은" },
+                    { "start": "10.092", "text": "물건을" },
+                    { "start": "10.688", "text": "옮기려고" },
+                    { "start": "11.450", "text": "하다가" },
+                    { "start": "12.777", "text": "실수로" },
+                    { "start": "13.977", "text": "가장" },
+                    { "start": "14.586", "text": "좋아하는" },
+                    { "start": "15.544", "text": "보라색" },
+                    { "start": "16.253", "text": "물감을" },
+                    { "start": "17.510", "text": "바닥에" },
+                    { "start": "18.180", "text": "쏟았어요." },
+                    { "start": "20.324", "text": "아이" },
+                    { "start": "20.705", "text": "이런!" },
+                    { "start": "21.724", "text": "내가" },
+                    { "start": "22.229", "text": "어쩌다" },
+                    { "start": "22.910", "text": "이런" },
+                    { "start": "23.361", "text": "거지?" },
+                    { "start": "24.752", "text": "우프가" },
+                    { "start": "25.462", "text": "소리쳤어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "Al principio, Oof estaba muy enojado. Respiró profundamente para calmarse. Después de aclarar su mente, pensó sobre lo que podía hacer al respecto.",
+                "textEN": "At first, Oof was very angry with himself. But he took a deep breath to calm down. With a clear mind, he thought about what he could do next.",
+                "textPT": "No início, Oof ficou muito bravo com ele mesmo. Mas respirou fundo para se acalmar. Com a mente mais tranquila, ele pensou no que podia fazer em seguida.",
+                "textCN": "起初，奥夫非常生自己的气。但他深吸一口气，冷静了下来。头脑变清醒了，他想了想接下来该怎么做。",
+                "textJP": "最初ウーフは自分にとても腹を立てました。でも落ち着こうと深呼吸してみました。そして気持ちが落ち着いたところでどうすればいいか考えました。",
+                "textKR": "우프는 처음에 자기 자신에게 화가 났어요. 하지만 숨을 크게 쉬면서 진정했어요. 우프는 맑은 정신으로 이제 무엇을 할지 생각했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.05",
+                        "text": "Al"
+                    },
+                    {
+                        "start": "0.35",
+                        "text": "principio,"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "enojado."
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "Respiró"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "profundamente"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "para"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "calmarse."
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "Después"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "aclarar"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "su"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "mente,"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "pensó"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "sobre"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "podía"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "hacer"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "al"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "respecto."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "At"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "first,"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "very"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "angry"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "with"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "himself."
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "But"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "he"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "took"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "deep"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "breath"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "calm"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "down."
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "With"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "clear"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "mind,"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "he"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "thought"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "about"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "what"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "he"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "could"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "do"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "next."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "우프는" },
+                    { "start": "1.116", "text": "처음에" },
+                    { "start": "2.120", "text": "자기" },
+                    { "start": "2.687", "text": "자신에게" },
+                    { "start": "3.668", "text": "화가" },
+                    { "start": "4.140", "text": "났어요." },
+                    { "start": "5.942", "text": "하지만" },
+                    { "start": "7.089", "text": "숨을" },
+                    { "start": "8.249", "text": "크게" },
+                    { "start": "8.989", "text": "쉬면서" },
+                    { "start": "10.181", "text": "진정했어요." },
+                    { "start": "12.356", "text": "우프는" },
+                    { "start": "13.531", "text": "맑은" },
+                    { "start": "14.220", "text": "정신으로" },
+                    { "start": "15.509", "text": "이제" },
+                    { "start": "16.136", "text": "무엇을" },
+                    { "start": "16.815", "text": "할지" },
+                    { "start": "17.476", "text": "생각했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "Oof recordó que el morado era un color secundario y que los colores secundarios pueden crearse al mezclar dos colores primarios. ¡Sabía qué par de colores necesitaba usar y puso manos a la obra!",
+                "textEN": "Oof remembered that purple was a secondary color and secondary colors could be created by mixing two primary colors together. He knew just the two colors he needed to use! Oof quickly got to work.",
+                "textPT": "Oof se lembrou de que o roxo era uma cor secundária, e as cores secundárias podem ser criadas através da mistura de duas cores primárias. Ele sabia exatamente as duas cores que precisava usar! E foi ao trabalho logo em seguida.",
+                "textCN": "奥夫记得紫色是二次色，他可以把两种原色混合从而调配出二次色。而他正好知道他需要使用哪两种颜色！奥夫立马就开始动手。",
+                "textJP": "ウーフは色を混ぜれば紫ができることを思い出しました。2つの原色の絵の具を混ぜ合わせれば紫が作れるのです。そしてウーフは何色と何色を混ぜればいいのか知っていました! さっそくやってみます。",
+                "textKR": "우프는 보라색이 등화색이라고 기억했어요. 등화색은 원색 두 가지를 섞으면 나오는 색이에요. 우프는 어떤 두 색을 써야 할지 알았어요. 우프는 재빠르게 색을 찾으러 갔어요.",
+                "wordsES": [
+                    {
+                        "start": "0.05",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "0.35",
+                        "text": "recordó"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "que"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "morado"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "era"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "un"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "color"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "secundario"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "que"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "los"
+                    },
+                    {
+                        "start": "5.5 ",
+                        "text": "colores"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "secundarios"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "pueden"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "crearse"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "al"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "mezclar"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "dos"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "colores"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "primarios."
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "¡Sabía"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "par"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "colores"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "necesitaba"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "usar"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "y"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "puso"
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "manos"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "la"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "obra!"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "remembered"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "that"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "purple"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "was"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "secondary"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "color"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "secondary"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "colors"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "could"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "be"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "created"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "by"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "mixing"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "two"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "primary"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "colors"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "together."
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "He"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "knew"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "just"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "two"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "colors"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "he"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "needed"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "use!"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "quickly"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "got"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "to"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "work."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "우프는" },
+                    { "start": "1.161", "text": "보라색이" },
+                    { "start": "2.440", "text": "등화색이라고" },
+                    { "start": "4.000", "text": "기억했어요." },
+                    { "start": "6.318", "text": "등화색은" },
+                    { "start": "7.741", "text": "원색" },
+                    { "start": "8.620", "text": "두" },
+                    { "start": "9.002", "text": "가지를" },
+                    { "start": "9.641", "text": "섞으면" },
+                    { "start": "10.768", "text": "나오는" },
+                    { "start": "11.500", "text": "색이에요." },
+                    { "start": "13.510", "text": "우프는" },
+                    { "start": "14.677", "text": "어떤" },
+                    { "start": "15.438", "text": "두" },
+                    { "start": "15.800", "text": "색을" },
+                    { "start": "16.373", "text": "써야" },
+                    { "start": "17.017", "text": "할지" },
+                    { "start": "18.019", "text": "알았어요." },
+                    { "start": "20.109", "text": "우프는" },
+                    { "start": "21.148", "text": "재빠르게" },
+                    { "start": "22.284", "text": "색을" },
+                    { "start": "22.855", "text": "찾으러" },
+                    { "start": "23.609", "text": "갔어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "Abrió el bote de pintura roja y colocó unas cuantas gotas en su paleta. Luego, abrió el bote de pintura azul y colocó otro par de gotas en la misma paleta. Al mezclar ambos colores, obtuvo una pintura de color morado intenso.",
+                "textEN": "He opened the red paint bottle and added a few drops to his palette. Then he opened the blue paint bottle and added a few drops to the same palette. As he mixed the two colors, the paint turned a vibrant purple.",
+                "textPT": "Ele abriu a lata de tinta vermelha e colocou algumas gotas em sua paleta. Depois, ele abriu a lata de tinta azul e colocou mais algumas gotas na mesma paleta. Ao misturar as duas cores, ele formou uma tinta de cor roxa intensa.",
+                "textCN": "他打开了红色的颜料瓶，滴了几滴到他的调色盘上。然后打开了蓝色的颜料瓶，并滴了几滴颜料到同一个调色盘上。然后当他把两种颜色混合在一起时，颜料变成了鲜艳的紫色。",
+                "textJP": "赤い絵の具のボトルを開けてパレットに何滴か出しました。次に青のボトルを開けて同じところに何滴か垂らしました。2つの色を混ぜると鮮やかな紫色ができました。",
+                "textKR": "우프는 빨간색 물감통을 열어서 팔레트에 물감을 몇 방울 떨어뜨렸어요. 그리고 파란색 물감통을 열어서 똑같은 팔레트에 물감을 몇 방울 떨어뜨렸어요. 두 색을 섞자 물감은 선명한 보라색을 띠기 시작했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.0",
+                        "text": "Abrió"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "el"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "bote"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "pintura"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "roja"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "colocó"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "unas"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "cuantas"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "gotas"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "en"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "su"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "paleta."
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "Luego,"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "abrió"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "el"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "bote"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "pintura"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "azul"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "y"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "colocó"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "otro"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "par"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "gotas"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "en"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "la"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "misma"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "paleta."
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "Al"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "mezclar"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "ambos"
+                    },
+                    {
+                        "start": "17.5",
+                        "text": "colores,"
+                    },
+                    {
+                        "start": "18.5",
+                        "text": "obtuvo"
+                    },
+                    {
+                        "start": "19.1",
+                        "text": "una"
+                    },
+                    {
+                        "start": "19.6",
+                        "text": "pintura"
+                    },
+                    {
+                        "start": "20.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "20.3",
+                        "text": "color"
+                    },
+                    {
+                        "start": "20.8",
+                        "text": "morado"
+                    },
+                    {
+                        "start": "21.4",
+                        "text": "intenso."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "He"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "opened"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "red"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "paint"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "bottle"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "added"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "few"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "drops"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "his"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "palette."
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "Then"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "he"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "opened"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "blue"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "paint"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "bottle"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "and"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "added"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "few"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "drops"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "same"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "palette."
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "As"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "he"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "mixed"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "two"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "colors,"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "paint"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "turned"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "vibrant"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "purple."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "우프는" },
+                    { "start": "1.119", "text": "빨간색" },
+                    { "start": "1.975", "text": "물감통을" },
+                    { "start": "2.850", "text": "열어서" },
+                    { "start": "3.984", "text": "팔레트에" },
+                    { "start": "4.870", "text": "물감을" },
+                    { "start": "6.119", "text": "몇" },
+                    { "start": "6.529", "text": "방울" },
+                    { "start": "7.385", "text": "떨어뜨렸어요." },
+                    { "start": "9.657", "text": "그리고" },
+                    { "start": "10.753", "text": "파란색" },
+                    { "start": "11.638", "text": "물감통을" },
+                    { "start": "12.511", "text": "열어서" },
+                    { "start": "13.658", "text": "똑같은" },
+                    { "start": "14.476", "text": "팔레트에" },
+                    { "start": "15.730", "text": "물감을" },
+                    { "start": "16.832", "text": "몇" },
+                    { "start": "17.274", "text": "방울" },
+                    { "start": "17.852", "text": "떨어뜨렸어요." },
+                    { "start": "20.204", "text": "두" },
+                    { "start": "20.506", "text": "색을" },
+                    { "start": "20.994", "text": "섞자" },
+                    { "start": "22.117", "text": "물감은" },
+                    { "start": "23.185", "text": "선명한" },
+                    { "start": "24.045", "text": "보라색을" },
+                    { "start": "24.996", "text": "띠기" },
+                    { "start": "25.480", "text": "시작했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "¡La mezcla fue un éxito! Oof olvidó por completo la pintura que se había caído. Ahora, podía crear toda la pintura morada que necesitara.",
+                "textEN": "The mixture was a success! Oof forgot all about the paint he dropped earlier. Now, he could create all the purple paint he will ever need!",
+                "textPT": "A mistura foi um sucesso! Oof se esqueceu totalmente da tinta que tinha derrubado anteriormente. Agora, ele sempre poderá criar toda a tinta roxa que precisar!",
+                "textCN": "颜料混合成功了！奥夫完全忘记了他之前洒落的颜料。现在，他可以调配出他需要的所有紫色颜料！",
+                "textJP": "成功です! ウーフは絵の具をこぼしたことなどすっかり忘れてしまいました。これからはどんな紫色だって作れます! ",
+                "textKR": "색의 혼합은 성공적이었어요! 우프는 자기가 물감을 쏟았다는 사실도 잊었어요. 이제 우프는 언제라도 보라색을 만들어낼 수 있어요!",
+                "wordsES": [
+                    {
+                        "start": "0.4",
+                        "text": "¡La"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "mezcla"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "fue"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "un"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "éxito!"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "olvidó"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "por"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "completo"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "la"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "pintura"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "se"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "había"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "caído."
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "Ahora,"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "podía"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "crear"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "toda"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "la"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "pintura"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "morada"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "que"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "necesitara."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "mixture"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "success!"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "forgot"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "all"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "about"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "paint"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "he"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "dropped"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "earlier."
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "Now,"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "he"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "could"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "create"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "all"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "purple"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "paint"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "he"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "will"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "ever"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "need!"
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "색의" },
+                    { "start": "0.571", "text": "혼합은" },
+                    { "start": "1.654", "text": "성공적이었어요!" },
+                    { "start": "4.360", "text": "우프는" },
+                    { "start": "5.509", "text": "자기가" },
+                    { "start": "6.506", "text": "물감을" },
+                    { "start": "7.184", "text": "쏟았다는" },
+                    { "start": "8.076", "text": "사실도" },
+                    { "start": "8.816", "text": "잊었어요." },
+                    { "start": "10.795", "text": "이제" },
+                    { "start": "11.284", "text": "우프는" },
+                    { "start": "12.403", "text": "언제라도" },
+                    { "start": "13.671", "text": "보라색을" },
+                    { "start": "14.674", "text": "만들어낼" },
+                    { "start": "15.600", "text": "수" },
+                    { "start": "16.337", "text": "있어요!" }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

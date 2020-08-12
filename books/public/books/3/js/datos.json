@@ -1,0 +1,792 @@
+{
+    "book": {
+        "titleEN": "Don't Be Afraid",
+        "titleES": "No tengas miedo de",
+        "titlePT": "Não tenha medo",
+        "titleCN": "别害怕",
+        "titleJP": "こわくないさ",
+        "titleKR": "무서워 하지 마",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "&#34;Theffanie, can you hear that? Do you think it's a ghost?&#34; asked Arthurius.</br></br>&#34;No, Arthurius,&#34; replied Theffanie, &#34;it's just the animals in the woods.&#34; ",
+                "textES": "–Theffanie ¿Escuchas eso? ¿Será un fantasma? –dice Arthurius.</br></br>–No Arthurius, son los animales del bosque –dice Theffanie.",
+                "textPT": "“Theffanie, você ouviu isso? Você acha que é um fantasma?”, perguntou Arthurius.</br></br>“Não, Arthurius”, respondeu Theffanie, “são só os animais na floresta.” ",
+                "textCN": "“范妮，你听到了吗？你觉得有鬼吗？”亚瑟鲁问道。</br></br>“不，亚瑟鲁，”范妮回答，“只是树林里的动物。” ",
+                "textJP": "「ティファニー、いまの きこえた？おばけかな？」アーサリウスが ききました。</br></br>「ちがうわ、もりにいる どうぶつたちよ。」ティファニーが こたえました。 ",
+                "textKR": "&#34;티파니야, 저 소리 들려? 아무래도 귀신 소리 같지 않아?&#34; 알투리우스가 물었어요.</br></br>&#34;아니야, 알투리우스.&#34; 티파니가 대답했어요. &#34;저 소리는 숲에 사는 동물들이 내는 소리야.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.350",
+                        "text": " –Theffanie"
+                    },
+                    {
+                        "start": "1.713",
+                        "text": "¿Escuchas"
+                    },
+                    {
+                        "start": "2.744",
+                        "text": "eso?"
+                    },
+                    {
+                        "start": "4.055",
+                        "text": "¿Será"
+                    },
+                    {
+                        "start": "4.439",
+                        "text": "un"
+                    },
+                    {
+                        "start": "4.649",
+                        "text": "fantasma?"
+                    },
+                    {
+                        "start": "7.375",
+                        "text": "–dice"
+                    },
+                    {
+                        "start": "7.812",
+                        "text": "Arthurius."
+                    },
+                    {
+                        "start": "10.242",
+                        "text": "–No"
+                    },
+                    {
+                        "start": "10.556",
+                        "text": "Arthurius,"
+                    },
+                    {
+                        "start": "11.797",
+                        "text": "son"
+                    },
+                    {
+                        "start": "12.147",
+                        "text": "los"
+                    },
+                    {
+                        "start": "12.339",
+                        "text": "animales"
+                    },
+                    {
+                        "start": "12.986",
+                        "text": "del"
+                    },
+                    {
+                        "start": "13.248",
+                        "text": "bosque"
+                    },
+                    {
+                        "start": "15.415",
+                        "text": "–dice"
+                    },
+                    {
+                        "start": "15.957",
+                        "text": "Theffanie."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.572",
+                        "text": "Theffanie,"
+                    },
+                    {
+                        "start": "1.230",
+                        "text": "can"
+                    },
+                    {
+                        "start": "1.340",
+                        "text": "you"
+                    },
+                    {
+                        "start": "1.559",
+                        "text": "hear"
+                    },
+                    {
+                        "start": "1.778",
+                        "text": "that?"
+                    },
+                    {
+                        "start": "2.752",
+                        "text": "Do"
+                    },
+                    {
+                        "start": "2.935",
+                        "text": "you"
+                    },
+                    {
+                        "start": "3.166",
+                        "text": "think"
+                    },
+                    {
+                        "start": "3.507",
+                        "text": "it's"
+                    },
+                    {
+                        "start": "3.739",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.946",
+                        "text": "ghost?"
+                    },
+                    {
+                        "start": "4.725",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "5.042",
+                        "text": "Arthurius."
+                    },
+                    {
+                        "start": "6.600",
+                        "text": "No,"
+                    },
+                    {
+                        "start": "6.941",
+                        "text": "Arthurius,"
+                    },
+                    {
+                        "start": "8.074",
+                        "text": "replied"
+                    },
+                    {
+                        "start": "8.561",
+                        "text": "Theffanie,"
+                    },
+                    {
+                        "start": "9.511",
+                        "text": "it's"
+                    },
+                    {
+                        "start": "9.730",
+                        "text": "just"
+                    },
+                    {
+                        "start": "9.962",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.083",
+                        "text": "animals"
+                    },
+                    {
+                        "start": "10.522",
+                        "text": "in"
+                    },
+                    {
+                        "start": "10.656",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.765",
+                        "text": "woods."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "티파니야,"
+                    },
+                    {
+                        "start": "1.618",
+                        "text": "저"
+                    },
+                    {
+                        "start": "2.237",
+                        "text": "소리"
+                    },
+                    {
+                        "start": "3.119",
+                        "text": "들려?"
+                    },
+                    {
+                        "start": "4.352",
+                        "text": "아무래도"
+                    },
+                    {
+                        "start": "5.787",
+                        "text": "귀신"
+                    },
+                    {
+                        "start": "6.580",
+                        "text": "소리"
+                    },
+                    {
+                        "start": "7.243",
+                        "text": "같지"
+                    },
+                    {
+                        "start": "7.900",
+                        "text": "않아?"
+                    },
+                    {
+                        "start": "9.325",
+                        "text": "알투리우스가"
+                    },
+                    {
+                        "start": "11.294",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "14.317",
+                        "text": "아니야,"
+                    },
+                    {
+                        "start": "15.338",
+                        "text": "알투리우스."
+                    },
+                    {
+                        "start": "17.548",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "19.082",
+                        "text": "대답했어요."
+                    },
+                    {
+                        "start": "22.128",
+                        "text": "저"
+                    },
+                    {
+                        "start": "22.626",
+                        "text": "소리는"
+                    },
+                    {
+                        "start": "24.081",
+                        "text": "숲에"
+                    },
+                    {
+                        "start": "24.911",
+                        "text": "사는"
+                    },
+                    {
+                        "start": "26.222",
+                        "text": "동물들이"
+                    },
+                    {
+                        "start": "27.703",
+                        "text": "내는"
+                    },
+                    {
+                        "start": "28.344",
+                        "text": "소리야."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "&#34;That one right there is an owl.&#34;",
+                "textES": "Eso de ahí es un búho.",
+                "textPT": "“Aquela ali é uma coruja.”",
+                "textCN": "“右边那个是一只猫头鹰。”",
+                "textJP": "「あそこにいるのは フクロウ。」",
+                "textKR": "&#34;오른쪽에 있는 저 동물은 올빼미.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.210",
+                        "text": "Eso"
+                    },
+                    {
+                        "start": "0.577",
+                        "text": "de"
+                    },
+                    {
+                        "start": "0.699",
+                        "text": "ahí"
+                    },
+                    {
+                        "start": "1.521",
+                        "text": "es"
+                    },
+                    {
+                        "start": "1.870",
+                        "text": "un"
+                    },
+                    {
+                        "start": "2.010",
+                        "text": "búho."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.621",
+                        "text": "That"
+                    },
+                    {
+                        "start": "0.792",
+                        "text": "one"
+                    },
+                    {
+                        "start": "0.999",
+                        "text": "right"
+                    },
+                    {
+                        "start": "1.254",
+                        "text": "there"
+                    },
+                    {
+                        "start": "1.729",
+                        "text": "is"
+                    },
+                    {
+                        "start": "1.875",
+                        "text": "an"
+                    },
+                    {
+                        "start": "1.973",
+                        "text": "owl."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "오른쪽에"
+                    },
+                    {
+                        "start": "1.187",
+                        "text": "있는"
+                    },
+                    {
+                        "start": "2.303",
+                        "text": "저"
+                    },
+                    {
+                        "start": "2.858",
+                        "text": "동물은"
+                    },
+                    {
+                        "start": "4.169",
+                        "text": "올빼미."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "&#34;That's a squirrel.&#34;",
+                "textES": "Eso, es una ardilla.",
+                "textPT": "“Aquele é um esquilo.”",
+                "textCN": "“那是松鼠。”",
+                "textJP": "「あれは リス。」",
+                "textKR": "&#34;저기 다람쥐도 있네.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.227",
+                        "text": "Eso,"
+                    },
+                    {
+                        "start": "0.996",
+                        "text": "es"
+                    },
+                    {
+                        "start": "1.293",
+                        "text": "una"
+                    },
+                    {
+                        "start": "1.555",
+                        "text": "ardilla."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.633",
+                        "text": "That's"
+                    },
+                    {
+                        "start": "0.840",
+                        "text": "a"
+                    },
+                    {
+                        "start": "0.986",
+                        "text": "squirrel."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "저기"
+                    },
+                    {
+                        "start": "0.903",
+                        "text": "다람쥐도"
+                    },
+                    {
+                        "start": "1.983",
+                        "text": "있네."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "&#34;And that one over there is a woodpecker.&#34;",
+                "textES": "–Y ese otro, es un pájaro carpintero.",
+                "textPT": "“E aquele lá é um pica-pau.”",
+                "textCN": "“那边那个是啄木鸟。”",
+                "textJP": "「あっちにいるのは キツツキだよ。」",
+                "textKR": "&#34;저 위에는 딱따구리.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.052",
+                        "text": "Y"
+                    },
+                    {
+                        "start": "0.227",
+                        "text": "ese"
+                    },
+                    {
+                        "start": "0.647",
+                        "text": "otro,"
+                    },
+                    {
+                        "start": "1.486",
+                        "text": "es"
+                    },
+                    {
+                        "start": "1.730",
+                        "text": "un"
+                    },
+                    {
+                        "start": "2.010",
+                        "text": "pájaro"
+                    },
+                    {
+                        "start": "2.447",
+                        "text": "carpintero."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.597",
+                        "text": "And"
+                    },
+                    {
+                        "start": "0.694",
+                        "text": "that"
+                    },
+                    {
+                        "start": "0.926",
+                        "text": "one"
+                    },
+                    {
+                        "start": "1.120",
+                        "text": "over"
+                    },
+                    {
+                        "start": "1.388",
+                        "text": "there"
+                    },
+                    {
+                        "start": "1.839",
+                        "text": "is"
+                    },
+                    {
+                        "start": "1.973",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.034",
+                        "text": "woodpecker."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "저"
+                    },
+                    {
+                        "start": "0.480",
+                        "text": "위에는"
+                    },
+                    {
+                        "start": "1.714",
+                        "text": "딱따구리."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "&#34;Don't forget the toad.&#34;",
+                "textES": "No olvidemos al sapo.",
+                "textPT": "“Não se esqueça do sapo.”",
+                "textCN": "“还有癞蛤蟆。”",
+                "textJP": "「カエルも いるよ。」",
+                "textKR": "&#34;두꺼비도 빼먹지 말고.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.105",
+                        "text": "No"
+                    },
+                    {
+                        "start": "0.419",
+                        "text": "olvidemos"
+                    },
+                    {
+                        "start": "1.119",
+                        "text": "al"
+                    },
+                    {
+                        "start": "1.293",
+                        "text": "sapo."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.609",
+                        "text": "Don't"
+                    },
+                    {
+                        "start": "0.889",
+                        "text": "forget"
+                    },
+                    {
+                        "start": "1.206",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.327",
+                        "text": "toad."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.101",
+                        "text": "두꺼비도"
+                    },
+                    {
+                        "start": "1.515",
+                        "text": "빼먹지"
+                    },
+                    {
+                        "start": "2.408",
+                        "text": "말고."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "&#34;See? We shouldn't be afraid of the dark!&#34;",
+                "textES": "¿Ves por qué no hay que tener miedo a la oscuridad?",
+                "textPT": "“Viu? Não precisamos ter medo do escuro!”",
+                "textCN": "“明白了吧？我们不应该怕黑！”",
+                "textJP": "「ほら、くらやみだって こわくないさ！」",
+                "textKR": "&#34;봐, 우리는 어둠을 무서워하지 않아도 돼.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.035",
+                        "text": "¿Ves"
+                    },
+                    {
+                        "start": "0.385",
+                        "text": "por"
+                    },
+                    {
+                        "start": "0.682",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "0.926",
+                        "text": "no"
+                    },
+                    {
+                        "start": "1.101",
+                        "text": "hay"
+                    },
+                    {
+                        "start": "1.276",
+                        "text": "que"
+                    },
+                    {
+                        "start": "1.433",
+                        "text": "tener"
+                    },
+                    {
+                        "start": "1.853",
+                        "text": "miedo"
+                    },
+                    {
+                        "start": "2.125",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.220",
+                        "text": "la"
+                    },
+                    {
+                        "start": "2.342",
+                        "text": "oscuridad?"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.609",
+                        "text": "See?"
+                    },
+                    {
+                        "start": "1.425",
+                        "text": "We"
+                    },
+                    {
+                        "start": "1.571",
+                        "text": "shouldn't"
+                    },
+                    {
+                        "start": "2.009",
+                        "text": "be"
+                    },
+                    {
+                        "start": "2.119",
+                        "text": "afraid"
+                    },
+                    {
+                        "start": "2.509",
+                        "text": "of"
+                    },
+                    {
+                        "start": "2.655",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.777",
+                        "text": "dark!"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "봐,"
+                    },
+                    {
+                        "start": "1.340",
+                        "text": "우리는"
+                    },
+                    {
+                        "start": "2.665",
+                        "text": "어둠을"
+                    },
+                    {
+                        "start": "4.020",
+                        "text": "무서워하지"
+                    },
+                    {
+                        "start": "5.818",
+                        "text": "않아도"
+                    },
+                    {
+                        "start": "6.832",
+                        "text": "돼."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

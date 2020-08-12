@@ -1,0 +1,2174 @@
+{
+    "book": {
+        "titleES": "El primer partido de Nao",
+        "titleEN": "Nao's First Soccer Match",
+        "titlePT": "A primeira partida de futebol de Nao",
+        "titleCN": "奈绪的第一场足球赛",
+        "titleJP": "ナオの初めてのサッカー",
+        "titleKR": "나오의 첫 축구 시합",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "Era un soleado domingo en Yogópolis y las calles estaban vacías. Todos parecían estar en el estadio de la ciudad viendo un partido de fútbol. Entre la multitud se encontraban Estrella y Nao.",
+                "textEN": "It was a sunny Sunday in Yogopolis, and the streets were empty. Everyone was at the City Stadium, ready to watch the soccer match. Among those in the crowd were Estrella and Nao.",
+                "textPT": "Era um domingo ensolarado em Yogopolis, e as ruas estavam vazias. Todos estavam no Estádio da Cidade, prontos para assistir ao jogo de futebol. No meio da torcida estavam Estrella e Nao.",
+                "textCN": "这是Yogo都市里一个阳光明媚的星期天，街上空无一人。大家都来到城市体育场，准备观看足球赛。埃斯特蕾拉和奈绪也在人群中。",
+                "textJP": "ある晴れた日曜日のヨゴポリスでした。通りには誰もいません。みんな街のスタジアムへ出かけ、サッカーの試合を待っていました。その人混みの中にエストレラとナオがいました。",
+                "textKR": "화창한 요고폴리스의 어느 일요일에 거리는 텅 비어 있었어요. 모두 축구 경기를 관람하러 시립 경기장에 갔거든요. 관중들 사이에는 에스트레야와 나오도 있었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Era"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "un"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "soleado"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "domingo"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "Yogópolis"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "las"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "calles"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "estaban"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "vacías."
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "parecían"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "estar"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "en"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "el"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "estadio"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "de"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "la"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "ciudad"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "viendo"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "un"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "partido"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "de"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "fútbol."
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "Entre"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "la"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "multitud"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "se"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "encontraban"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "y"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "Nao."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "It"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "was"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "sunny"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "Sunday"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "in"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "Yogopolis,"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "streets"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "were"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "empty."
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "Everyone"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "was"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "at"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "City"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "Stadium,"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "ready"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "watch"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "soccer"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "match."
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "Among"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "those"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "in"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "crowd"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "were"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "and"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "Nao."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "화창한" },
+                    { "start": "0.952", "text": "요고폴리스의" },
+                    { "start": "2.246", "text": "어느" },
+                    { "start": "2.888", "text": "일요일에" },
+                    { "start": "4.263", "text": "거리는" },
+                    { "start": "5.553", "text": "텅" },
+                    { "start": "6.128", "text": "비어" },
+                    { "start": "6.685", "text": "있었어요." },
+                    { "start": "8.863", "text": "모두" },
+                    { "start": "9.959", "text": "축구" },
+                    { "start": "10.672", "text": "경기를" },
+                    { "start": "11.753", "text": "관람하러" },
+                    { "start": "13.244", "text": "시립" },
+                    { "start": "13.926", "text": "경기장에" },
+                    { "start": "14.948", "text": "갔거든요." },
+                    { "start": "17.111", "text": "관중들" },
+                    { "start": "17.898", "text": "사이에는" },
+                    { "start": "19.256", "text": "에스트레야와" },
+                    { "start": "20.962", "text": "나오도" },
+                    { "start": "21.803", "text": "있었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "Estrella estaba más emocionada que Nao pues él no sabía mucho sobre fútbol. Era la primera vez que asistía a un partido. Todos los colores y sonidos del estadio eran una experiencia nueva para él.",
+                "textEN": "Estrella was more excited than Nao because Nao didn't know much about the game. It was his first time at a soccer match. All the colors and sounds of the stadium were new experiences for him.",
+                "textPT": "Estrella estava mais animada do que Nao, pois Nao sabia pouco sobre o jogo. Era a primeira vez que ele assistia a um jogo de futebol. Todas as cores e os sons do estádio eram experiências novas para ele.",
+                "textCN": "埃斯特蕾拉比奈绪更兴奋，因为奈绪对比赛了解不多。这是他第一次观看足球赛。体育场里的所有色彩和声音对他来说都是全新的体验。",
+                "textJP": "エストレラはナオより興奮していました。ナオはあまりサッカーのことを知りませんでした。サッカーの試合を観るのは初めてだったのです。スタジアムの色も音も全部がナオには初めての体験でした。",
+                "textKR": "축구를 잘 모르는 나오보다 에스트레야가 훨씬 더 신이 나 있었어요. 나오는 이번에 처음으로 축구 경기를 보러 왔어요. 경기장을 가득 채우는 다양한 색깔과 소리 모두 나오는 처음 경험했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "más"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "emocionada"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "él"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "no"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "sabía"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "mucho"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "sobre"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "fútbol."
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "Era"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "la"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "primera"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "asistía"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "un"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "partido."
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "los"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "colores"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "y"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "sonidos"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "del"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "estadio"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "eran"
+                    },
+                    {
+                        "start": "15.7",
+                        "text": "una"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "experiencia"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "nueva"
+                    },
+                    {
+                        "start": "16.9",
+                        "text": "para"
+                    },
+                    {
+                        "start": "17.2",
+                        "text": "él."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "more"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "excited"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "than"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "because"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "didn't"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "know"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "much"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "about"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "game."
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "It"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "was"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "his"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "first"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "time"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "at"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "soccer"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "match."
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "All"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "colors"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "and"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "sounds"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "of"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "stadium"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "were"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "new"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "experiences"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "for"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "him."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "축구를" },
+                    { "start": "0.784", "text": "잘" },
+                    { "start": "1.290", "text": "모르는" },
+                    { "start": "2.004", "text": "나오보다" },
+                    { "start": "3.455", "text": "에스트레야가" },
+                    { "start": "5.295", "text": "훨씬" },
+                    { "start": "5.983", "text": "더" },
+                    { "start": "6.765", "text": "신이" },
+                    { "start": "7.433", "text": "나" },
+                    { "start": "7.773", "text": "있었어요." },
+                    { "start": "10.017", "text": "나오는" },
+                    { "start": "10.754", "text": "이번에" },
+                    { "start": "11.807", "text": "처음으로" },
+                    { "start": "13.254", "text": "축구" },
+                    { "start": "13.917", "text": "경기를" },
+                    { "start": "14.735", "text": "보러" },
+                    { "start": "15.254", "text": "왔어요." },
+                    { "start": "17.246", "text": "경기장을" },
+                    { "start": "18.269", "text": "가득" },
+                    { "start": "18.807", "text": "채우는" },
+                    { "start": "20.151", "text": "다양한" },
+                    { "start": "20.877", "text": "색깔과" },
+                    { "start": "21.746", "text": "소리" },
+                    { "start": "22.358", "text": "모두" },
+                    { "start": "23.430", "text": "나오는" },
+                    { "start": "24.535", "text": "처음" },
+                    { "start": "25.200", "text": "경험했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "De repente, Nao observó cómo Estrella, emocionada, se levantó de su asiento. La persona que estaba sentada a su lado hizo lo mismo y después, el resto de la gente. Nao estaba impactado, pues aquello parecía una enorme ola humana.",
+                "textEN": "Nao watched as Estrella stood up from her seat in excitement. The person next to her did, too. Then, the whole crowd stood up. Nao was shocked. The crowd completed a huge human wave.",
+                "textPT": "Nao viu Estrella se levantar da cadeira toda animada. A pessoa ao lado dela também fez o mesmo. Então, toda a torcida se levantou. Nao ficou maravilhado. A torcida fez uma enorme onda humana chamada &#34;ola&#34;.",
+                "textCN": "奈绪看到埃斯特蕾拉兴奋地从座位上站了起来。她旁边的人也是。然后，所有的人都站了起来。奈绪感到很震撼。人群形成了巨大的人浪。",
+                "textJP": "ナオはエストレラが興奮して椅子から立ち上がるのを見ていました。ナオの隣の人もそうしていました。やがて、観客全員が立ち上がりました。ナオはとても驚きました。観客が大きな人間の波を作っていたのです。",
+                "textKR": "나오는 신이 나서 자리에 앉지 않고 서 있는 에스트레야를 바라보았어요. 에스트레야 옆에 있던 사람도 서 있었어요. 그러더니 모든 관중들이 자리에서 일어났어요. 나오는 깜짝 놀랐어요. 많은 사람이 모두 같이 파도타기를 했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "De"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "repente,"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "observó"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "cómo"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "Estrella,"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "emocionada,"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "se"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "levantó"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "su"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "asiento."
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "La"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "persona"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "sentada"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "su"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "lado"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "hizo"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "mismo"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "y"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "después,"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "el"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "resto"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "la"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "gente."
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "impactado,"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "18.7",
+                        "text": "aquello"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "parecía"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "una"
+                    },
+                    {
+                        "start": "20.1",
+                        "text": "enorme"
+                    },
+                    {
+                        "start": "20.8",
+                        "text": "ola"
+                    },
+                    {
+                        "start": "21.1",
+                        "text": "humana."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "watched"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "as"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "stood"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "up"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "from"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "her"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "seat"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "in"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "excitement."
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "The"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "person"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "next"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "her"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "did,"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "too."
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "Then,"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "whole"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "crowd"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "stood"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "up."
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "was"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "shocked."
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "The"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "crowd"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "completed"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "huge"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "human"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "wave."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "나오는" },
+                    { "start": "1.131", "text": "신이" },
+                    { "start": "1.655", "text": "나서" },
+                    { "start": "2.758", "text": "자리에" },
+                    { "start": "3.439", "text": "앉지" },
+                    { "start": "4.051", "text": "않고" },
+                    { "start": "5.146", "text": "서" },
+                    { "start": "5.501", "text": "있는" },
+                    { "start": "6.431", "text": "에스트레야를" },
+                    { "start": "7.776", "text": "바라보았어요." },
+                    { "start": "10.304", "text": "에스트레야" },
+                    { "start": "11.420", "text": "옆에" },
+                    { "start": "12.042", "text": "있던" },
+                    { "start": "12.704", "text": "사람도" },
+                    { "start": "13.895", "text": "서" },
+                    { "start": "14.337", "text": "있었어요." },
+                    { "start": "16.562", "text": "그러더니" },
+                    { "start": "17.787", "text": "모든" },
+                    { "start": "18.452", "text": "관중들이" },
+                    { "start": "19.887", "text": "자리에서" },
+                    { "start": "20.802", "text": "일어났어요." },
+                    { "start": "23.109", "text": "나오는" },
+                    { "start": "24.166", "text": "깜짝" },
+                    { "start": "24.855", "text": "놀랐어요." },
+                    { "start": "27.261", "text": "많은" },
+                    { "start": "27.750", "text": "사람이" },
+                    { "start": "29.016", "text": "모두" },
+                    { "start": "29.684", "text": "같이" },
+                    { "start": "30.696", "text": "파도타기를" },
+                    { "start": "31.744", "text": "했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "Nao preguntó a su amiga por qué hacían eso. Estrella le explicó que era una tradición iniciada durante el mundial de México en 1986 para expresar la euforia del público al estar presente en un juego.",
+                "textEN": "Nao asked Estrella why they did this. Estrella explained that the wave was a tradition of the World Cup that started in Mexico in 1986. This was meant to show the crowd's excitement during the soccer match.",
+                "textPT": "Nao perguntou para Estrella por que eles faziam aquilo. Estrella explicou que a &#34;ola&#34; era uma tradição da Copa do Mundo e que começou no México, em 1986. O objetivo dela é mostrar a animação da torcida durante o jogo de futebol.",
+                "textCN": "奈绪问埃斯特蕾拉他们为什么要这么做。埃斯特蕾拉解释说，人浪是起源于1986年墨西哥世界杯的一项世界杯传统。此举是为了表现观众在足球比赛期间的兴奋之情。",
+                "textJP": "ナオはエストレラになぜこんなことをするのかたずねました。エストレラはウェーブは1986年にメキシコで始まったワールドカップの伝統だということを説明しました。これはサッカーの試合で観客の高まる気持ちを示す意味があるのです。",
+                "textKR": "나오는 에스트레야에게 왜 파도타기를 했냐고 물어봤어요. 파도타기는 1986년 멕시코에서 시작된 월드컵의 전통이라고 에스트레야가 설명했어요. 파도타기는 관중들이 경기를 보면서 신나는 감정을 표현하는 방법이에요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "preguntó"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "su"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "amiga"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "por"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "hacían"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "eso."
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "le"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "explicó"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "era"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "una"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "tradición"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "iniciada"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "durante"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "mundial"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "de"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "México"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "en"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "1986"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "para"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "expresar"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "euforia"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "del"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "público"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "al"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "estar"
+                    },
+                    {
+                        "start": "17.1",
+                        "text": "presente"
+                    },
+                    {
+                        "start": "17.6",
+                        "text": "en"
+                    },
+                    {
+                        "start": "17.9",
+                        "text": "un"
+                    },
+                    {
+                        "start": "18.2",
+                        "text": "juego."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "why"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "they"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "did"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "this."
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "that"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "wave"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "was"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "tradition"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "of"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "World"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "Cup"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "that"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "started"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "in"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "Mexico"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "in"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "1986."
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "This"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "was"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "meant"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "to"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "show"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "crowd's"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "excitement"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "during"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "soccer"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "match."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "나오는" },
+                    { "start": "1.208", "text": "에스트레야에게" },
+                    { "start": "2.908", "text": "왜" },
+                    { "start": "3.368", "text": "파도타기를" },
+                    { "start": "4.432", "text": "했냐고" },
+                    { "start": "5.269", "text": "물어봤어요." },
+                    { "start": "7.634", "text": "파도타기는" },
+                    { "start": "9.172", "text": "1986년" },
+                    { "start": "11.856", "text": "멕시코에서" },
+                    { "start": "12.986", "text": "시작된" },
+                    { "start": "14.170", "text": "월드컵의" },
+                    { "start": "15.283", "text": "전통이라고" },
+                    { "start": "17.070", "text": "에스트레야가" },
+                    { "start": "18.544", "text": "설명했어요." },
+                    { "start": "20.889", "text": "파도타기는" },
+                    { "start": "22.455", "text": "관중들이" },
+                    { "start": "23.668", "text": "경기를" },
+                    { "start": "24.480", "text": "보면서" },
+                    { "start": "25.743", "text": "신나는" },
+                    { "start": "26.628", "text": "감정을" },
+                    { "start": "27.458", "text": "표현하는" },
+                    { "start": "28.627", "text": "방법이에요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "Nao, curioso, preguntó sobre otras costumbres en los estadios. Estrella le explicó que era común que las personas se pintaran el rostro con los colores de su equipo favorito. También se acostumbra tocar tambores y trompetas en las gradas.",
+                "textEN": "Filled with curiosity, Nao asked about other traditions that were performed in the stadium. Estrella explained that it was common to see people's faces painted with the colors of their favorite team. Music was also played from the bleachers with drums and trumpets.",
+                "textPT": "Cheio de curiosidade, Nao quis saber as outras tradições que aconteciam no estádio. Estrella explicou que era comum ver o rosto das pessoas pintado com as cores de seus times favoritos. Elas também tocavam músicas com tambores e cornetas nas arquibancadas.",
+                "textCN": "出于好奇，奈绪询问了体育场上的其他传统。埃斯特蕾拉解释说，人们在自己脸上涂抹他们最喜欢的球队颜色也很常见。另外人们还会在看台上用鼓和喇叭演奏音乐。",
+                "textJP": "不思議な気持ちでナオはスタジアムのその他の伝統のことをたずねました。エストレラは観客の顔に好きなチームの色が塗られているのはよくあると説明しました。ドラムやトランペットを使った音楽も客席で演奏されていました。",
+                "textKR": "호기심이 생긴 나오는 다른 경기장 전통이 있는지 물어봤어요. 에스트레야는 가장 좋아하는 팀 색깔에 맞춰 페이스 페인팅을 하는 것도 있다고 말해주었어요. 관중석에서 북과 나팔로 음악을 연주하는 것도 있어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Nao,"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "curioso,"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "preguntó"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "sobre"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "otras"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "costumbres"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "en"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "los"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "estadios."
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "le"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "explicó"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "era"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "común"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "que"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "las"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "personas"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "se"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "pintaran"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "el"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "rostro"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "con"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "los"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "colores"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "su"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "equipo"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "favorito."
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "También"
+                    },
+                    {
+                        "start": "17.1",
+                        "text": "se"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "acostumbra"
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "tocar"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "tambores"
+                    },
+                    {
+                        "start": "19.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "19.7",
+                        "text": "trompetas"
+                    },
+                    {
+                        "start": "20.3",
+                        "text": "en"
+                    },
+                    {
+                        "start": "20.6",
+                        "text": "las"
+                    },
+                    {
+                        "start": "20.9",
+                        "text": "gradas."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Filled"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "with"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "curiosity,"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "about"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "other"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "traditions"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "that"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "were"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "performed"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "in"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "stadium."
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "that"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "it"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "was"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "common"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "see"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "people's"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "faces"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "painted"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "with"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "colors"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "of"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "their"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "favorite"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "team."
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "Music"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "was"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "also"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "played"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "from"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "bleachers"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "with"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "drums"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "trumpets."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "호기심이" },
+                    { "start": "0.843", "text": "생긴" },
+                    { "start": "1.490", "text": "나오는" },
+                    { "start": "2.736", "text": "다른" },
+                    { "start": "3.354", "text": "경기장" },
+                    { "start": "4.240", "text": "전통이" },
+                    { "start": "5.097", "text": "있는지" },
+                    { "start": "6.216", "text": "물어봤어요." },
+                    { "start": "8.549", "text": "에스트레야는" },
+                    { "start": "10.318", "text": "가장" },
+                    { "start": "11.024", "text": "좋아하는" },
+                    { "start": "11.867", "text": "팀" },
+                    { "start": "12.207", "text": "색깔에" },
+                    { "start": "12.963", "text": "맞춰" },
+                    { "start": "14.144", "text": "페이스" },
+                    { "start": "14.936", "text": "페인팅을" },
+                    { "start": "16.143", "text": "하는" },
+                    { "start": "16.723", "text": "것도" },
+                    { "start": "17.416", "text": "있다고" },
+                    { "start": "18.698", "text": "말해주었어요." },
+                    { "start": "21.193", "text": "관중석에서" },
+                    { "start": "22.905", "text": "북과" },
+                    { "start": "23.691", "text": "나팔로" },
+                    { "start": "24.912", "text": "음악을" },
+                    { "start": "25.687", "text": "연주하는" },
+                    { "start": "26.595", "text": "것도" },
+                    { "start": "27.608", "text": "있어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "Estrella sabía que a Nao aún le faltaba vivir la mejor experiencia en un estadio. Cuando su equipo metió gol, Nao se contagió con la euforia de los demás y gritó: ¡GOOL! con tanta emoción que nunca olvidó su primera vez en un partido de fútbol.",
+                "textEN": "Estrella knew that Nao was still missing the best experience at the stadium. When their team scored, Nao was caught by the passion of the crowd and joined in to yell, &#34;GOOOAAAALLLL!&#34; He never forgot his first soccer match.",
+                "textPT": "Estrella sabia que Nao ainda não tinha sentido a melhor experiência no estádio. Quando o time deles marcou o gol, Nao foi envolvido pela paixão da torcida e também gritou &#34;GOOOOOLLL!&#34; Ele jamais se esqueceu da sua primeira partida de futebol.",
+                "textCN": "埃斯特蕾拉知道奈绪还没有享受到体育场中最美妙的体验。当他们的球队进球时，奈绪被观众的热情所感染，也加入其中一起大喊：“进球了！！！” 他永远不会忘记他的第一场足球赛。",
+                "textJP": "エストレラはナオがスタジアムで一番大切なことをまだ知らないことに気がつきました。自分のチームが得点した時、ナオは観客の情熱に包まれ、一緒に「ゴーーーーーール」と叫んでいました。初めてのサッカーの試合は忘れられないものになりました。",
+                "textKR": "에스트레야는 나오가 아직도 경기장에서 가장 재미있는 부분을 놓치고 있다고 생각했어요. 응원하는 팀이 골을 넣으면 다른 관중들과 함께 소리를 지르면서 경기를 즐겼어요. &#34;골~&#34; 나오는 처음으로 본 축구 경기를 절대 잊지 못할 거예요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "sabía"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "aún"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "le"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "faltaba"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "vivir"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "mejor"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "experiencia"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "en"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "un"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "estadio."
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "Cuando"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "su"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "equipo"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "metió"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "gol,"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "se"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "contagió"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "con"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "la"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "euforia"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "los"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "demás"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "y"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "gritó:"
+                    },
+                    {
+                        "start": "15.7",
+                        "text": "¡GOOL!"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "con"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "tanta"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "emoción"
+                    },
+                    {
+                        "start": "17.6",
+                        "text": "que"
+                    },
+                    {
+                        "start": "18.2",
+                        "text": "nunca"
+                    },
+                    {
+                        "start": "18.6",
+                        "text": "olvidó"
+                    },
+                    {
+                        "start": "18.9",
+                        "text": "su"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "primera"
+                    },
+                    {
+                        "start": "19.6",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "19.9",
+                        "text": "en"
+                    },
+                    {
+                        "start": "20.2",
+                        "text": "un"
+                    },
+                    {
+                        "start": "20.8",
+                        "text": "partido"
+                    },
+                    {
+                        "start": "21.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "21.4",
+                        "text": "fútbol."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "knew"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "that"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "still"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "missing"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "best"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "experience"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "at"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "stadium."
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "When"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "their"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "team"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "scored,"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "was"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "caught"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "by"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "passion"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "of"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "crowd"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "and"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "joined"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "in"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "to"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "yell,"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "GOOOAAAALLLL!"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "He"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "never"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "forgot"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "his"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "first"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "soccer"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "match."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "에스트레야는" },
+                    { "start": "1.676", "text": "나오가" },
+                    { "start": "2.722", "text": "아직도" },
+                    { "start": "4.042", "text": "경기장에서" },
+                    { "start": "5.227", "text": "가장" },
+                    { "start": "5.902", "text": "재미있는" },
+                    { "start": "6.812", "text": "부분을" },
+                    { "start": "7.828", "text": "놓치고" },
+                    { "start": "8.668", "text": "있다고" },
+                    { "start": "9.521", "text": "생각했어요." },
+                    { "start": "11.946", "text": "나오는" },
+                    { "start": "13.211", "text": "응원하는" },
+                    { "start": "14.088", "text": "팀이" },
+                    { "start": "14.708", "text": "골을" },
+                    { "start": "15.255", "text": "넣으면" },
+                    { "start": "16.374", "text": "다른" },
+                    { "start": "17.003", "text": "관중들과" },
+                    { "start": "18.016", "text": "함께" },
+                    { "start": "19.153", "text": "소리를" },
+                    { "start": "19.874", "text": "지르면서" },
+                    { "start": "21.251", "text": "경기를" },
+                    { "start": "22.129", "text": "즐겼어요." },
+                    { "start": "24.369", "text": "골~" },
+                    { "start": "26.673", "text": "나오는" },
+                    { "start": "27.876", "text": "처음으로" },
+                    { "start": "28.745", "text": "본" },
+                    { "start": "29.579", "text": "축구" },
+                    { "start": "30.305", "text": "경기를" },
+                    { "start": "31.482", "text": "절대" },
+                    { "start": "32.786", "text": "잊지" },
+                    { "start": "33.492", "text": "못할" },
+                    { "start": "34.182", "text": "거예요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

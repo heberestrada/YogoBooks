@@ -1,0 +1,1868 @@
+{
+    "book": {
+        "titleEN": "Oona and the Talent Show",
+        "titleES": "Oona y el concurso de talentos",
+        "titlePT": "Oona e o show de talentos",
+        "titleCN": "奥娜和才艺秀",
+        "titleJP": "ウーナのはっぴょうかい",
+        "titleKR": "우나와장기자랑",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "It was talent show day at the Yogotar academy. Everybody was excited and ready: <br><br>Nao would do a magic show, while Estrella and Dinamita would put on an acrobatics performance. ",
+                "textES": "La gran noche del concurso de talentos había llegado a la academia Yogotar, todos estaban listos. Nao presentaría un show de magia; Estrella y Dinamita, uno de acrobacia.",
+                "textPT": "Era dia de show de talentos na Academia Yogotar. Todos estavam empolgados e prontos: <br><br>Nao faria um show de mágica, ao passo que Estrella e Dinamita apresentariam um número de acrobacia. ",
+                "textCN": "这是Yogotar学院的才艺表演日。每个人都很兴奋，也准备好了节目：<br><br>奈绪会表演魔术，埃斯特雷拉和迪纳米塔会表演杂技。 ",
+                "textJP": "きょうは ヨゴターアカデミーの はっぴょうかいのひ です。みんな わくわくして このひを まっていました。<br><br>ナオは マジックショー、エストレラと ディナミタは たいそうのショーをします。 ",
+                "textKR": "요고타 아카데미에서 장기자랑이 열리는 날이에요. 모두 신나 있었고 장기자랑 준비에 한창이었어요. <br><br>나오는 마술을, 에스트레야와 다이나미타는 곡예 공연을 준비했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.266",
+                        "text": "La"
+                    },
+                    {
+                        "start": "0.597",
+                        "text": "gran"
+                    },
+                    {
+                        "start": "0.945",
+                        "text": "noche"
+                    },
+                    {
+                        "start": "1.349",
+                        "text": "del"
+                    },
+                    {
+                        "start": "1.560",
+                        "text": "concurso"
+                    },
+                    {
+                        "start": "2.212",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.377",
+                        "text": "talentos"
+                    },
+                    {
+                        "start": "3.369",
+                        "text": "había"
+                    },
+                    {
+                        "start": "3.910",
+                        "text": "llegado"
+                    },
+                    {
+                        "start": "4.369",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.479",
+                        "text": "la"
+                    },
+                    {
+                        "start": "4.571",
+                        "text": "academia"
+                    },
+                    {
+                        "start": "5.342",
+                        "text": "Yogotar,"
+                    },
+                    {
+                        "start": "7.058",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "7.582",
+                        "text": "estaban"
+                    },
+                    {
+                        "start": "8.288",
+                        "text": "listos."
+                    },
+                    {
+                        "start": "10.363",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "10.941",
+                        "text": "presentaría"
+                    },
+                    {
+                        "start": "11.740",
+                        "text": "un"
+                    },
+                    {
+                        "start": "11.850",
+                        "text": "show"
+                    },
+                    {
+                        "start": "12.116",
+                        "text": "de"
+                    },
+                    {
+                        "start": "12.288",
+                        "text": "magia;"
+                    },
+                    {
+                        "start": "13.649",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "14.255",
+                        "text": "y"
+                    },
+                    {
+                        "start": "14.328",
+                        "text": "Dinamita,"
+                    },
+                    {
+                        "start": "15.475",
+                        "text": "uno"
+                    },
+                    {
+                        "start": "15.861",
+                        "text": "de"
+                    },
+                    {
+                        "start": "15.943",
+                        "text": "acrobacia."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.576",
+                        "text": "It"
+                    },
+                    {
+                        "start": "0.747",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.039",
+                        "text": "talent"
+                    },
+                    {
+                        "start": "1.436",
+                        "text": "show"
+                    },
+                    {
+                        "start": "1.753",
+                        "text": "day"
+                    },
+                    {
+                        "start": "2.102",
+                        "text": "at"
+                    },
+                    {
+                        "start": "2.272",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.394",
+                        "text": "Yogotar"
+                    },
+                    {
+                        "start": "3.002",
+                        "text": "academy."
+                    },
+                    {
+                        "start": "4.155",
+                        "text": "Everybody"
+                    },
+                    {
+                        "start": "4.820",
+                        "text": "was"
+                    },
+                    {
+                        "start": "4.982",
+                        "text": "excited"
+                    },
+                    {
+                        "start": "5.794",
+                        "text": "and"
+                    },
+                    {
+                        "start": "6.062",
+                        "text": "ready:"
+                    },
+                    {
+                        "start": "7.328",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "7.904",
+                        "text": "would"
+                    },
+                    {
+                        "start": "8.058",
+                        "text": "do"
+                    },
+                    {
+                        "start": "8.228",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.439",
+                        "text": "magic"
+                    },
+                    {
+                        "start": "8.796",
+                        "text": "show,"
+                    },
+                    {
+                        "start": "9.729",
+                        "text": "while"
+                    },
+                    {
+                        "start": "9.957",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "10.658",
+                        "text": "and"
+                    },
+                    {
+                        "start": "10.857",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "11.612",
+                        "text": "would"
+                    },
+                    {
+                        "start": "11.872",
+                        "text": "put"
+                    },
+                    {
+                        "start": "11.993",
+                        "text": "on"
+                    },
+                    {
+                        "start": "12.204",
+                        "text": "an"
+                    },
+                    {
+                        "start": "12.456",
+                        "text": "acrobatics"
+                    },
+                    {
+                        "start": "13.227",
+                        "text": "performance."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "요고타"
+                    },
+                    {
+                        "start": "0.937",
+                        "text": "아카데미에서"
+                    },
+                    {
+                        "start": "2.803",
+                        "text": "장기자랑이"
+                    },
+                    {
+                        "start": "4.536",
+                        "text": "열리는"
+                    },
+                    {
+                        "start": "5.465",
+                        "text": "날이에요."
+                    },
+                    {
+                        "start": "7.337",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "8.550",
+                        "text": "신나"
+                    },
+                    {
+                        "start": "9.300",
+                        "text": "있었고"
+                    },
+                    {
+                        "start": "10.645",
+                        "text": "장기자랑"
+                    },
+                    {
+                        "start": "11.731",
+                        "text": "준비에"
+                    },
+                    {
+                        "start": "12.919",
+                        "text": "한창이었어요."
+                    },
+                    {
+                        "start": "15.368",
+                        "text": "나오는"
+                    },
+                    {
+                        "start": "16.285",
+                        "text": "마술을,"
+                    },
+                    {
+                        "start": "17.600",
+                        "text": "에스트레야와"
+                    },
+                    {
+                        "start": "18.979",
+                        "text": "다이나미타는"
+                    },
+                    {
+                        "start": "20.921",
+                        "text": "곡예"
+                    },
+                    {
+                        "start": "21.543",
+                        "text": "공연을"
+                    },
+                    {
+                        "start": "22.650",
+                        "text": "준비했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "However, Oona was worried because she didn't think she was talented enough. <br><br>With the help of her gem, Theffanie knew something was bothering Oona. ",
+                "textES": "Oona era la más preocupada de todos, pues sentía que su talento no era suficiente. Theffanie, con su gema, sintió la preocupación de Oona. ",
+                "textPT": "Mas Oona estava preocupada porque achava que não tinha talento o suficiente. <br><br>Com a ajuda de sua joia, Theffanie sabia que alguma coisa incomodava Oona. ",
+                "textCN": "然而，奥娜很担心，因为她认为自己没什么才艺。<br><br>在宝石的帮助下，范妮发现奥娜被心事困扰。 ",
+                "textJP": "でも ウーナは じぶんの さいのうに じしんがないので しんぱいでした。<br><br>ティファニーは ほうせきのちからを つかって ウーナが なにかに なやんでいることに きがつきました。 ",
+                "textKR": "하지만, 우나는 걱정이 되었어요. 우나는 자기가 아무런 재능이 없다고 생각했거든요. <br><br>티파니는 보석을 써서 우나에게 문제가 있다는 걸 알아냈어요.",
+                "wordsES": [
+                    {
+                        "start": "0.514",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "1.303",
+                        "text": "era"
+                    },
+                    {
+                        "start": "1.579",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.845",
+                        "text": "más"
+                    },
+                    {
+                        "start": "2.359",
+                        "text": "preocupada"
+                    },
+                    {
+                        "start": "3.157",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.277",
+                        "text": "todos,"
+                    },
+                    {
+                        "start": "4.791",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "4.975",
+                        "text": "sentía"
+                    },
+                    {
+                        "start": "5.645",
+                        "text": "que"
+                    },
+                    {
+                        "start": "5.746",
+                        "text": "su"
+                    },
+                    {
+                        "start": "5.966",
+                        "text": "talento"
+                    },
+                    {
+                        "start": "6.930",
+                        "text": "no"
+                    },
+                    {
+                        "start": "7.325",
+                        "text": "era"
+                    },
+                    {
+                        "start": "7.508",
+                        "text": "suficiente."
+                    },
+                    {
+                        "start": "10.115",
+                        "text": "Theffanie,"
+                    },
+                    {
+                        "start": "10.675",
+                        "text": "con"
+                    },
+                    {
+                        "start": "10.858",
+                        "text": "su"
+                    },
+                    {
+                        "start": "11.115",
+                        "text": "gema,"
+                    },
+                    {
+                        "start": "11.896",
+                        "text": "sintio"
+                    },
+                    {
+                        "start": "12.630",
+                        "text": "la"
+                    },
+                    {
+                        "start": "12.823",
+                        "text": "preocupación"
+                    },
+                    {
+                        "start": "13.704",
+                        "text": "de"
+                    },
+                    {
+                        "start": "13.906",
+                        "text": "Oona."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.698",
+                        "text": "However,"
+                    },
+                    {
+                        "start": "1.639",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "1.988",
+                        "text": "was"
+                    },
+                    {
+                        "start": "2.248",
+                        "text": "worried"
+                    },
+                    {
+                        "start": "2.775",
+                        "text": "because"
+                    },
+                    {
+                        "start": "3.092",
+                        "text": "she"
+                    },
+                    {
+                        "start": "3.368",
+                        "text": "didn't"
+                    },
+                    {
+                        "start": "3.733",
+                        "text": "think"
+                    },
+                    {
+                        "start": "3.919",
+                        "text": "she"
+                    },
+                    {
+                        "start": "4.122",
+                        "text": "was"
+                    },
+                    {
+                        "start": "4.382",
+                        "text": "talented"
+                    },
+                    {
+                        "start": "4.812",
+                        "text": "enough."
+                    },
+                    {
+                        "start": "5.899",
+                        "text": "With"
+                    },
+                    {
+                        "start": "5.989",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.159",
+                        "text": "help"
+                    },
+                    {
+                        "start": "6.386",
+                        "text": "of"
+                    },
+                    {
+                        "start": "6.549",
+                        "text": "her"
+                    },
+                    {
+                        "start": "6.751",
+                        "text": "gem,"
+                    },
+                    {
+                        "start": "7.571",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "8.042",
+                        "text": "knew"
+                    },
+                    {
+                        "start": "8.358",
+                        "text": "something"
+                    },
+                    {
+                        "start": "8.804",
+                        "text": "was"
+                    },
+                    {
+                        "start": "9.056",
+                        "text": "bothering"
+                    },
+                    {
+                        "start": "9.618",
+                        "text": "Oona."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "하지만,"
+                    },
+                    {
+                        "start": "1.225",
+                        "text": "우나는"
+                    },
+                    {
+                        "start": "2.427",
+                        "text": "걱정이"
+                    },
+                    {
+                        "start": "3.274",
+                        "text": "되었어요."
+                    },
+                    {
+                        "start": "5.182",
+                        "text": "우나는"
+                    },
+                    {
+                        "start": "6.435",
+                        "text": "자기가"
+                    },
+                    {
+                        "start": "7.780",
+                        "text": "아무런"
+                    },
+                    {
+                        "start": "8.716",
+                        "text": "재능이"
+                    },
+                    {
+                        "start": "9.557",
+                        "text": "없다고"
+                    },
+                    {
+                        "start": "10.627",
+                        "text": "생각했거든요."
+                    },
+                    {
+                        "start": "12.965",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "14.516",
+                        "text": "보석을"
+                    },
+                    {
+                        "start": "15.291",
+                        "text": "써서"
+                    },
+                    {
+                        "start": "16.438",
+                        "text": "우나에게"
+                    },
+                    {
+                        "start": "17.911",
+                        "text": "문제가"
+                    },
+                    {
+                        "start": "18.970",
+                        "text": "있다는"
+                    },
+                    {
+                        "start": "19.725",
+                        "text": "걸"
+                    },
+                    {
+                        "start": "20.425",
+                        "text": "알아냈어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "&#34;What is it Oona?&#34; asked Theffanie, concerned.<br><br>&#34;I'm not as talented as the other Yogotars,&#34; replied Oona in a sad voice.",
+                "textES": "–¿Qué pasa Oona? –preguntó Theffanie. <br><br>–Siento que yo no soy tan buena como ellos –dijo Oona con tristeza.",
+                "textPT": "“O que foi, Oona?”, perguntou Theffanie, preocupada.<br><br>“Eu não tenho tanto talento como os outros Yogotars”, respondeu Oona com uma voz triste.",
+                "textCN": "“怎么了，奥娜？”范妮关切地问。<br><br>“我不像其他Yogotar那样富有才艺，”奥娜悲伤地回答。",
+                "textJP": "「ウーナ、どうしたの？」ティファニーは しんぱいそうに ききました。<br><br>「わたし、ほかのヨゴターたち みたいな さいのうが ないわ」ウーナは かなしそうなこえで こたえました。",
+                "textKR": "&#34;우나야, 무슨 일이야? &#34;티파니가 걱정되어서 물었어요. <br><br>&#34;나는 다른 요고타들처럼 재능이 있지 않은걸. &#34;우나가 아주 슬픈 목소리로 대답했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.156",
+                        "text": "–¿Qué"
+                    },
+                    {
+                        "start": "0.486",
+                        "text": "pasa"
+                    },
+                    {
+                        "start": "1.046",
+                        "text": "Oona?"
+                    },
+                    {
+                        "start": "2.689",
+                        "text": "–preguntó"
+                    },
+                    {
+                        "start": "3.506",
+                        "text": "Theffanie."
+                    },
+                    {
+                        "start": "5.746",
+                        "text": "–Siento"
+                    },
+                    {
+                        "start": "6.373",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.434",
+                        "text": "yo"
+                    },
+                    {
+                        "start": "6.544",
+                        "text": "no"
+                    },
+                    {
+                        "start": "6.985",
+                        "text": "soy"
+                    },
+                    {
+                        "start": "7.371",
+                        "text": "tan"
+                    },
+                    {
+                        "start": "7.637",
+                        "text": "buena"
+                    },
+                    {
+                        "start": "8.050",
+                        "text": "como"
+                    },
+                    {
+                        "start": "8.518",
+                        "text": "ellos"
+                    },
+                    {
+                        "start": "10.106",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "10.583",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "10.914",
+                        "text": "con"
+                    },
+                    {
+                        "start": "11.143",
+                        "text": "tristeza."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.639",
+                        "text": "What"
+                    },
+                    {
+                        "start": "0.755",
+                        "text": "is"
+                    },
+                    {
+                        "start": "0.975",
+                        "text": "it"
+                    },
+                    {
+                        "start": "1.138",
+                        "text": "Oona?"
+                    },
+                    {
+                        "start": "1.846",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "2.206",
+                        "text": "Theffanie,"
+                    },
+                    {
+                        "start": "2.879",
+                        "text": "concerned."
+                    },
+                    {
+                        "start": "4.412",
+                        "text": "I'm"
+                    },
+                    {
+                        "start": "4.586",
+                        "text": "not"
+                    },
+                    {
+                        "start": "4.807",
+                        "text": "as"
+                    },
+                    {
+                        "start": "4.992",
+                        "text": "talented"
+                    },
+                    {
+                        "start": "5.550",
+                        "text": "as"
+                    },
+                    {
+                        "start": "5.770",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.898",
+                        "text": "other"
+                    },
+                    {
+                        "start": "6.200",
+                        "text": "Yogotars,"
+                    },
+                    {
+                        "start": "7.512",
+                        "text": "replied"
+                    },
+                    {
+                        "start": "8.057",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "8.510",
+                        "text": "in"
+                    },
+                    {
+                        "start": "8.603",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.777",
+                        "text": "sad"
+                    },
+                    {
+                        "start": "9.265",
+                        "text": "voice."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "우나야,"
+                    },
+                    {
+                        "start": "1.350",
+                        "text": "무슨"
+                    },
+                    {
+                        "start": "1.850",
+                        "text": "일이야?"
+                    },
+                    {
+                        "start": "3.277",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "4.723",
+                        "text": "걱정되어서"
+                    },
+                    {
+                        "start": "6.154",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "8.643",
+                        "text": "나는"
+                    },
+                    {
+                        "start": "9.754",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "10.371",
+                        "text": "요고타들처럼"
+                    },
+                    {
+                        "start": "12.469",
+                        "text": "재능이"
+                    },
+                    {
+                        "start": "13.400",
+                        "text": "있지"
+                    },
+                    {
+                        "start": "14.000",
+                        "text": "않을걸."
+                    },
+                    {
+                        "start": "15.841",
+                        "text": "우나가"
+                    },
+                    {
+                        "start": "17.143",
+                        "text": "아주"
+                    },
+                    {
+                        "start": "17.940",
+                        "text": "슬픈"
+                    },
+                    {
+                        "start": "18.716",
+                        "text": "목소리로"
+                    },
+                    {
+                        "start": "20.041",
+                        "text": "대답했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "&#34;You should be calm, Oona&#34; said Theffanie, &#34;just breathe deeply three times, and let go of yourself. You will feel the talent coming out of you.&#34;",
+                "textES": "–Debes estar tranquila Oona. Te daré un consejo: respira profundamente tres veces y relájate. Siente fluir tu talento –dijo Theffanie. ",
+                "textPT": "“Fique calma, Oona”, disse Theffanie, “respire fundo três vezes e relaxe. Você vai sentir o talento saindo de dentro de você.”",
+                "textCN": "“你应该镇定点，奥娜。”范妮说，“深呼吸三次，然后放松。你就会发现自己的才艺。”",
+                "textJP": "「おちついて、ウーナ」ティファニーはいいました。「大きく ３かい しんこきゅう してみて。しんぱい いらないわ。あなたには さいのうが あるはずよ。」",
+                "textKR": "&#34;진정해 우나야. &#34;티파니가 말했어요. &#34;숨을 깊게 세 번 쉬어봐. 그리고 너무 신경 쓰지마. 그러면 네 안에서 나오는 재능을 느낄 수 있을거야.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.174",
+                        "text": "–Debes"
+                    },
+                    {
+                        "start": "0.615",
+                        "text": "estar"
+                    },
+                    {
+                        "start": "1.101",
+                        "text": "tranquila"
+                    },
+                    {
+                        "start": "1.817",
+                        "text": "Oona."
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "Te"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "daré"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "un"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "consejo:"
+                    },
+                    {
+                        "start": "5.241",
+                        "text": "respira"
+                    },
+                    {
+                        "start": "6.012",
+                        "text": "profundamente"
+                    },
+                    {
+                        "start": "7.471",
+                        "text": "tres"
+                    },
+                    {
+                        "start": "7.857",
+                        "text": "veces"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "relájate."
+                    },
+                    {
+                        "start": "10.868",
+                        "text": "Siente"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "fluir"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "tu"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "talento"
+                    },
+                    {
+                        "start": "14.631",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "15.099",
+                        "text": "Theffanie."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.4",
+                        "text": "You"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "should"
+                    },
+                    {
+                        "start": "1.149",
+                        "text": "be"
+                    },
+                    {
+                        "start": "1.463",
+                        "text": "calm,"
+                    },
+                    {
+                        "start": "2.009",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "2.763",
+                        "text": "said"
+                    },
+                    {
+                        "start": "3.030",
+                        "text": "Theffanie,"
+                    },
+                    {
+                        "start": "4.272",
+                        "text": "just"
+                    },
+                    {
+                        "start": "4.632",
+                        "text": "breathe"
+                    },
+                    {
+                        "start": "4.992",
+                        "text": "deeply"
+                    },
+                    {
+                        "start": "5.654",
+                        "text": "three"
+                    },
+                    {
+                        "start": "5.944",
+                        "text": "times,"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "and"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "let"
+                    },
+                    {
+                        "start": "7.256",
+                        "text": "go"
+                    },
+                    {
+                        "start": "7.45",
+                        "text": "of"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "yourself."
+                    },
+                    {
+                        "start": "8.893",
+                        "text": "You"
+                    },
+                    {
+                        "start": "9.067",
+                        "text": "will"
+                    },
+                    {
+                        "start": "9.323",
+                        "text": "feel"
+                    },
+                    {
+                        "start": "9.532",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.694",
+                        "text": "talent"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "coming"
+                    },
+                    {
+                        "start": "10.26",
+                        "text": "out"
+                    },
+                    {
+                        "start": "10.52",
+                        "text": "of"
+                    },
+                    {
+                        "start": "10.78 ",
+                        "text": "you."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "진정해"
+                    },
+                    {
+                        "start": "0.943",
+                        "text": "우나야."
+                    },
+                    {
+                        "start": "2.681",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "3.873",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "6.030",
+                        "text": "숨을"
+                    },
+                    {
+                        "start": "7.273",
+                        "text": "깊게"
+                    },
+                    {
+                        "start": "8.424",
+                        "text": "세"
+                    },
+                    {
+                        "start": "8.881",
+                        "text": "번"
+                    },
+                    {
+                        "start": "9.538",
+                        "text": "쉬어봐."
+                    },
+                    {
+                        "start": "11.470",
+                        "text": "그리고"
+                    },
+                    {
+                        "start": "12.627",
+                        "text": "너무"
+                    },
+                    {
+                        "start": "13.658",
+                        "text": "신경"
+                    },
+                    {
+                        "start": "14.318",
+                        "text": "쓰지마."
+                    },
+                    {
+                        "start": "15.933",
+                        "text": "그러면"
+                    },
+                    {
+                        "start": "17.163",
+                        "text": "네"
+                    },
+                    {
+                        "start": "17.500",
+                        "text": "안에서"
+                    },
+                    {
+                        "start": "18.408",
+                        "text": "나오는"
+                    },
+                    {
+                        "start": "19.526",
+                        "text": "재능을"
+                    },
+                    {
+                        "start": "20.918",
+                        "text": "느낄"
+                    },
+                    {
+                        "start": "21.430",
+                        "text": "수"
+                    },
+                    {
+                        "start": "21.996",
+                        "text": "있을거야."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "Oona's turn came and she stood on the stage, in front of the crowd. She took three deep breaths as Theffanie had advised her and started singing. <br><br>The most beautiful voice came out of her mouth.",
+                "textES": "Era el turno de Oona, se paró frente a todos en el escenario, respiró como le había dicho Theffanie y comenzó a cantar. Todos parecían sorprendidos.",
+                "textPT": "Chegou a vez de Oona, e ela subiu ao palco, diante da plateia. Ela respirou fundo três vezes como Theffanie a aconselhou e começou a cantar. <br><br>Ela cantou com uma voz extremamente bonita.",
+                "textCN": "轮到奥娜了，她站在舞台上，站在人群前面。她照范妮的建议，深呼吸三次，然后开始唱起了歌。<br><br>她嘴里发出了最动听的歌声。",
+                "textJP": "ウーナのばんが やってきました。おおぜいの 人のまえで ステージに たちます。ウーナは ティファニーに いわれたとおりに 大きく ３かい しんこきゅうしてから、うたいはじめました。<br><br>ウーナの うつくしい うたごえが ひびきわたりました。",
+                "textKR": "이제 우나의 차례가 되었고, 우나는 무대 위로 올라갔어요. 바로 앞에는 관중들이 있었어요. 우나는 티파니가 말해준 대로 숨을 깊게 세 번 쉬고 노래를 시작했어요. 세상에서 가장 아름다운 목소리가 우나의 입에서 흘러나왔어요.",
+                "wordsES": [
+                    {
+                        "start": "0.275",
+                        "text": "Era"
+                    },
+                    {
+                        "start": "0.799",
+                        "text": "el"
+                    },
+                    {
+                        "start": "1.120",
+                        "text": "turno"
+                    },
+                    {
+                        "start": "1.625",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.891",
+                        "text": "Oona,"
+                    },
+                    {
+                        "start": "3.029",
+                        "text": "se"
+                    },
+                    {
+                        "start": "3.286",
+                        "text": "paró"
+                    },
+                    {
+                        "start": "3.681",
+                        "text": "frente"
+                    },
+                    {
+                        "start": "4.039",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.241",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "4.672",
+                        "text": "en"
+                    },
+                    {
+                        "start": "4.791",
+                        "text": "el"
+                    },
+                    {
+                        "start": "4.947",
+                        "text": "escenario,"
+                    },
+                    {
+                        "start": "6.306",
+                        "text": "respiró"
+                    },
+                    {
+                        "start": "7.040",
+                        "text": "como"
+                    },
+                    {
+                        "start": "7.224",
+                        "text": "le"
+                    },
+                    {
+                        "start": "7.352",
+                        "text": "había"
+                    },
+                    {
+                        "start": "7.765",
+                        "text": "dicho"
+                    },
+                    {
+                        "start": "8.114",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "9.206",
+                        "text": "y"
+                    },
+                    {
+                        "start": "9.371",
+                        "text": "comenzó"
+                    },
+                    {
+                        "start": "10.124",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.243",
+                        "text": "cantar."
+                    },
+                    {
+                        "start": "12.070",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "12.676",
+                        "text": "parecían"
+                    },
+                    {
+                        "start": "13.484",
+                        "text": "sorprendidos."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.662",
+                        "text": "Oona's"
+                    },
+                    {
+                        "start": "1.103",
+                        "text": "turn"
+                    },
+                    {
+                        "start": "1.463",
+                        "text": "came"
+                    },
+                    {
+                        "start": "2.020",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.223",
+                        "text": "she"
+                    },
+                    {
+                        "start": "2.410",
+                        "text": "stood"
+                    },
+                    {
+                        "start": "2.653",
+                        "text": "on"
+                    },
+                    {
+                        "start": "2.759",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.929",
+                        "text": "stage,"
+                    },
+                    {
+                        "start": "3.595",
+                        "text": "in"
+                    },
+                    {
+                        "start": "3.773",
+                        "text": "front"
+                    },
+                    {
+                        "start": "4.033",
+                        "text": "of"
+                    },
+                    {
+                        "start": "4.147",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.317",
+                        "text": "crowd."
+                    },
+                    {
+                        "start": "5.494",
+                        "text": "She"
+                    },
+                    {
+                        "start": "5.729",
+                        "text": "took"
+                    },
+                    {
+                        "start": "6.118",
+                        "text": "three"
+                    },
+                    {
+                        "start": "6.703",
+                        "text": "deep"
+                    },
+                    {
+                        "start": "7.125",
+                        "text": "breaths"
+                    },
+                    {
+                        "start": "7.539",
+                        "text": "as"
+                    },
+                    {
+                        "start": "7.790",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "8.204",
+                        "text": "had"
+                    },
+                    {
+                        "start": "8.342",
+                        "text": "advised"
+                    },
+                    {
+                        "start": "8.902",
+                        "text": "her"
+                    },
+                    {
+                        "start": "9.510",
+                        "text": "and"
+                    },
+                    {
+                        "start": "9.697",
+                        "text": "started"
+                    },
+                    {
+                        "start": "10.143",
+                        "text": "singing."
+                    },
+                    {
+                        "start": "11.474",
+                        "text": "The"
+                    },
+                    {
+                        "start": "11.612",
+                        "text": "most"
+                    },
+                    {
+                        "start": "12.083",
+                        "text": "beautiful"
+                    },
+                    {
+                        "start": "12.894",
+                        "text": "voice"
+                    },
+                    {
+                        "start": "13.487",
+                        "text": "came"
+                    },
+                    {
+                        "start": "13.738",
+                        "text": "out"
+                    },
+                    {
+                        "start": "13.852",
+                        "text": "of"
+                    },
+                    {
+                        "start": "13.957",
+                        "text": "her"
+                    },
+                    {
+                        "start": "14.160",
+                        "text": "mouth."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "이제"
+                    },
+                    {
+                        "start": "1.060",
+                        "text": "우나의"
+                    },
+                    {
+                        "start": "1.850",
+                        "text": "차례가"
+                    },
+                    {
+                        "start": "2.720",
+                        "text": "되었고,"
+                    },
+                    {
+                        "start": "4.067",
+                        "text": "우나는"
+                    },
+                    {
+                        "start": "5.250",
+                        "text": "무대"
+                    },
+                    {
+                        "start": "5.885",
+                        "text": "위로"
+                    },
+                    {
+                        "start": "6.669",
+                        "text": "올라갔어요."
+                    },
+                    {
+                        "start": "8.933",
+                        "text": "바로"
+                    },
+                    {
+                        "start": "9.512",
+                        "text": "앞에는"
+                    },
+                    {
+                        "start": "10.703",
+                        "text": "관중들이"
+                    },
+                    {
+                        "start": "11.850",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "14.253",
+                        "text": "우나는"
+                    },
+                    {
+                        "start": "15.398",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "16.538",
+                        "text": "말해준"
+                    },
+                    {
+                        "start": "17.350",
+                        "text": "대로"
+                    },
+                    {
+                        "start": "18.394",
+                        "text": "숨을"
+                    },
+                    {
+                        "start": "19.614",
+                        "text": "깊게"
+                    },
+                    {
+                        "start": "20.668",
+                        "text": "세"
+                    },
+                    {
+                        "start": "21.213",
+                        "text": "번"
+                    },
+                    {
+                        "start": "21.816",
+                        "text": "쉬고"
+                    },
+                    {
+                        "start": "22.876",
+                        "text": "노래를"
+                    },
+                    {
+                        "start": "24.018",
+                        "text": "시작했어요."
+                    },
+                    {
+                        "start": "26.350",
+                        "text": "세상에서"
+                    },
+                    {
+                        "start": "27.800",
+                        "text": "가장"
+                    },
+                    {
+                        "start": "28.589",
+                        "text": "아름다운"
+                    },
+                    {
+                        "start": "29.508",
+                        "text": "목소리가"
+                    },
+                    {
+                        "start": "31.128",
+                        "text": "우나의"
+                    },
+                    {
+                        "start": "31.836",
+                        "text": "입에서"
+                    },
+                    {
+                        "start": "32.984",
+                        "text": "흘러나왔어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "Oona received a standing ovation, the audience was so mesmerized with her extraordinary voice. <br><br>She won first place in the talent show. ",
+                "textES": "Impresionados, con la hermosa voz de Oona todos se levantaron y aplaudieron, dándole a ella el premio del concurso de talentos.",
+                "textPT": "Oona foi aplaudida de pé, de tão impressionada que a plateia ficou com sua voz extraordinária. <br><br>Ela venceu o show de talentos em primeiro lugar. ",
+                "textCN": "观众们纷纷站起来，为奥娜鼓掌喝彩，他们都陶醉在她迷人的歌声之中。<br><br>最后，她在才艺表演中获得了第一名。 ",
+                "textJP": "きいていた人は みんな ウーナの すばらしいこえに うっとりして、おおきなはくしゅを おくりました。<br><br>ウーナは はっぴょうかいで いちばんの しょうを もらいました。 ",
+                "textKR": "우나의 특별한 목소리는 관중들의 마음을 사로잡았고, 관중들은 우나에게 기립박수를 보냈어요. <br><br>우나는 장기자랑에서 일등을 했답니다.",
+                "wordsES": [
+                    {
+                        "start": "0.202",
+                        "text": "Impresionados,"
+                    },
+                    {
+                        "start": "1.606",
+                        "text": "con"
+                    },
+                    {
+                        "start": "1.744",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.900",
+                        "text": "hermosa"
+                    },
+                    {
+                        "start": "2.497",
+                        "text": "voz"
+                    },
+                    {
+                        "start": "2.790",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.047",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "4.222",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "4.488",
+                        "text": "se"
+                    },
+                    {
+                        "start": "4.745",
+                        "text": "levantaron"
+                    },
+                    {
+                        "start": "5.654",
+                        "text": "y"
+                    },
+                    {
+                        "start": "5.810",
+                        "text": "aplaudieron,"
+                    },
+                    {
+                        "start": "7.361",
+                        "text": "dándole"
+                    },
+                    {
+                        "start": "7.894",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.068",
+                        "text": "ella"
+                    },
+                    {
+                        "start": "8.683",
+                        "text": "el"
+                    },
+                    {
+                        "start": "8.977",
+                        "text": "premio"
+                    },
+                    {
+                        "start": "9.472",
+                        "text": "del"
+                    },
+                    {
+                        "start": "9.720",
+                        "text": "concurso"
+                    },
+                    {
+                        "start": "10.400",
+                        "text": "de"
+                    },
+                    {
+                        "start": "10.556",
+                        "text": "talentos."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.649",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "0.982",
+                        "text": "received"
+                    },
+                    {
+                        "start": "1.461",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.631",
+                        "text": "standing"
+                    },
+                    {
+                        "start": "2.232",
+                        "text": "ovation,"
+                    },
+                    {
+                        "start": "3.416",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.611",
+                        "text": "audience"
+                    },
+                    {
+                        "start": "4.155",
+                        "text": "was"
+                    },
+                    {
+                        "start": "4.301",
+                        "text": "so"
+                    },
+                    {
+                        "start": "4.861",
+                        "text": "mesmerized"
+                    },
+                    {
+                        "start": "5.583",
+                        "text": "with"
+                    },
+                    {
+                        "start": "5.802",
+                        "text": "her"
+                    },
+                    {
+                        "start": "6.070",
+                        "text": "extraordinary"
+                    },
+                    {
+                        "start": "7.108",
+                        "text": "voice."
+                    },
+                    {
+                        "start": "8.309",
+                        "text": "She"
+                    },
+                    {
+                        "start": "8.618",
+                        "text": "won"
+                    },
+                    {
+                        "start": "9.007",
+                        "text": "first"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "place"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "in"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "talent"
+                    },
+                    {
+                        "start": "10.508",
+                        "text": "show."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "우나의"
+                    },
+                    {
+                        "start": "0.818",
+                        "text": "특별한"
+                    },
+                    {
+                        "start": "1.720",
+                        "text": "목소리는"
+                    },
+                    {
+                        "start": "3.277",
+                        "text": "관중들의"
+                    },
+                    {
+                        "start": "4.408",
+                        "text": "마음을"
+                    },
+                    {
+                        "start": "5.556",
+                        "text": "사로잡았고,"
+                    },
+                    {
+                        "start": "7.273",
+                        "text": "관중들은"
+                    },
+                    {
+                        "start": "8.730",
+                        "text": "우나에게"
+                    },
+                    {
+                        "start": "9.988",
+                        "text": "기립박수를"
+                    },
+                    {
+                        "start": "11.207",
+                        "text": "보냈어요."
+                    },
+                    {
+                        "start": "14.035",
+                        "text": "우나는"
+                    },
+                    {
+                        "start": "15.137",
+                        "text": "장기자랑에서"
+                    },
+                    {
+                        "start": "17.040",
+                        "text": "일등을"
+                    },
+                    {
+                        "start": "18.042",
+                        "text": "했답니다."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

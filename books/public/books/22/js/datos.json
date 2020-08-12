@@ -1,0 +1,2761 @@
+{
+    "book": {
+        "titleEN": "The Creature",
+        "titleES": "La Criatura",
+        "titlePT": "O monstro",
+        "titleCN": "怪物",
+        "titleJP": "モンスター",
+        "titleKR": "특별한 친구",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "Far away from Yogopolis, there was an old, abandoned castle with a dark lake where a special creature lived.",
+                "textES": "A varios kilómetros de Yogópolis se encuentra un viejo castillo deshabitado, con un enorme y oscuro lago donde vive una criatura muy especial.",
+                "textPT": "Bem longe de Yogópolis, havia um antigo castelo abandonado com um lago escuro onde vivia uma criatura especial.",
+                "textCN": "在离Yogopolis很远的地方有一座古老的废弃城堡，那里有一个黑暗的湖泊，里面生活着一只特殊的生物。",
+                "textJP": "ヨゴポリスからずっとはなれたところにふるくてだれもいないおしろがありました。そこにはかわったいきものがすんでいるみずうみがあります。",
+                "textKR": "요고폴리스에서 아주 멀리 떨어진 곳에, 아무도 살지 않는 오래된 성이 있었어요. 그 성 안에는 검은 호수가 있었고 그 호수 안에는 특별한 생물이 살고 있었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "A"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "varios"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "kilómetros"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "Yogópolis"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "se"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "encuentra"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "un"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "viejo"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "castillo"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "deshabitado,"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "con"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "un"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "enorme"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "y"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "oscuro"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "lago"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "donde"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "vive"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "una"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "criatura"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "especial."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Far"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "away"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "from"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "Yogopolis,"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "there"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "was"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "an"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "old,"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "abandoned"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "castle"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "with"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "dark"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "lake"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "where"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "special"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "creature"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "lived."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.069",
+                        "text": "요고폴리스에서"
+                    },
+                    {
+                        "start": "1.888",
+                        "text": "아주"
+                    },
+                    {
+                        "start": "2.579",
+                        "text": "멀리"
+                    },
+                    {
+                        "start": "3.325",
+                        "text": "떨어진"
+                    },
+                    {
+                        "start": "3.879",
+                        "text": "곳에,"
+                    },
+                    {
+                        "start": "5.309",
+                        "text": "아무도"
+                    },
+                    {
+                        "start": "6.127",
+                        "text": "살지"
+                    },
+                    {
+                        "start": "6.862",
+                        "text": "않는"
+                    },
+                    {
+                        "start": "7.988",
+                        "text": "오래된"
+                    },
+                    {
+                        "start": "8.813",
+                        "text": "성이"
+                    },
+                    {
+                        "start": "9.550",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "11.563",
+                        "text": "그"
+                    },
+                    {
+                        "start": "11.969",
+                        "text": "성"
+                    },
+                    {
+                        "start": "12.448",
+                        "text": "안에는"
+                    },
+                    {
+                        "start": "13.900",
+                        "text": "검은"
+                    },
+                    {
+                        "start": "14.682",
+                        "text": "호수가"
+                    },
+                    {
+                        "start": "15.768",
+                        "text": "있었고"
+                    },
+                    {
+                        "start": "17.360",
+                        "text": "그"
+                    },
+                    {
+                        "start": "17.790",
+                        "text": "호수"
+                    },
+                    {
+                        "start": "18.418",
+                        "text": "안에는"
+                    },
+                    {
+                        "start": "19.781",
+                        "text": "특별한"
+                    },
+                    {
+                        "start": "20.750",
+                        "text": "생물이"
+                    },
+                    {
+                        "start": "22.012",
+                        "text": "살고"
+                    },
+                    {
+                        "start": "22.826",
+                        "text": "있었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "Although no one had seen it during the daylight, people were afraid of the creature.  Many told horrible stories about the creature in the lake.",
+                "textES": "Aunque nadie la ha visto a la luz del día, saben de su existencia. La gente de los alrededores le teme y muchos otros cuentan relatos terribles sobre la criatura marina.",
+                "textPT": "Embora ninguém a tivesse visto durante o dia, as pessoas tinham medo da criatura. Muitos contavam histórias horríveis sobre a criatura no lago.",
+                "textCN": "虽然没有人在白天见过它，但人们还是很害怕它。很多人都在讲关于湖里怪物的可怕故事。",
+                "textJP": "それをみた人はいませんがみんなとてもおそれていました。みんなはみずうみにすむそのいきもののおそろしいはなしばかりをします。",
+                "textKR": "해가 떠 있을 때 아무도 그 생물을 본 적이 없지만, 모두 그 생물을 두려워했어요. 많은 사람들이 호수에 사는 생물에 대한 무시무시한 이야기를 나누었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Aunque"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "nadie"
+                    },
+                    {
+                        "start": "0.65",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "ha"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "visto"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "luz"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "del"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "día,"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "saben"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "su"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "existencia."
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "La"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "gente"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "de"
+                    },
+                    {
+                        "start": "6.75",
+                        "text": "los"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "alrededores"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "le"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "teme"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "y"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "muchos"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "otros"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "cuentan"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "relatos"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "terribles"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "sobre"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "la"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "criatura"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "marina."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Although"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "no"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "one"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "had"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "seen"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "it"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "during"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "daylight,"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "people"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "were"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "afraid"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "of"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "creature."
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "Many"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "told"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "horrible"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "stories"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "about"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "creature"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "in"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "lake."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.008",
+                        "text": "해가"
+                    },
+                    {
+                        "start": "1.195",
+                        "text": "떠"
+                    },
+                    {
+                        "start": "1.490",
+                        "text": "있을"
+                    },
+                    {
+                        "start": "2.033",
+                        "text": "때"
+                    },
+                    {
+                        "start": "2.888",
+                        "text": "아무도"
+                    },
+                    {
+                        "start": "3.835",
+                        "text": "그"
+                    },
+                    {
+                        "start": "4.224",
+                        "text": "생물을"
+                    },
+                    {
+                        "start": "5.492",
+                        "text": "본"
+                    },
+                    {
+                        "start": "5.782",
+                        "text": "적이"
+                    },
+                    {
+                        "start": "6.395",
+                        "text": "없지만,"
+                    },
+                    {
+                        "start": "8.021",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "9.128",
+                        "text": "그"
+                    },
+                    {
+                        "start": "9.591",
+                        "text": "생물을"
+                    },
+                    {
+                        "start": "10.528",
+                        "text": "두려워했어요."
+                    },
+                    {
+                        "start": "13.052",
+                        "text": "많은"
+                    },
+                    {
+                        "start": "13.836",
+                        "text": "사람들이"
+                    },
+                    {
+                        "start": "15.334",
+                        "text": "호수에"
+                    },
+                    {
+                        "start": "16.221",
+                        "text": "사는"
+                    },
+                    {
+                        "start": "16.952",
+                        "text": "생물에"
+                    },
+                    {
+                        "start": "17.919",
+                        "text": "대한"
+                    },
+                    {
+                        "start": "19.178",
+                        "text": "무시무시한"
+                    },
+                    {
+                        "start": "20.609",
+                        "text": "이야기를"
+                    },
+                    {
+                        "start": "21.884",
+                        "text": "나누었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "“We should make that horrible creature leave,” said a Bean. “Yes!” another screamed. “Why do you want it to leave? Has it done something to you?” Theffanie interrupted.",
+                "textES": "-Deberíamos correr a esa horrible criatura -dijo un Bean.</br> -¡Sí! -gritó otro.<br> -¿Por qué la van a correr? ¿Les ha hecho algo? -interrumpió Theffanie.",
+                "textPT": "“A gente devia expulsar aquela criatura horrível”, disse um Bean. “Isso mesmo!”, gritou outro. “Por que vocês querem que ela vá embora? Ela fez alguma coisa para você?” Theffanie interrompeu.",
+                "textCN": "“我们应该让那个可怕的怪物离开。”一个豆子说。“就是！”另一个尖叫着说。“你为什么要它离开？它对你做什么了吗？”范妮插话了。",
+                "textJP": "「そのおそろしいいきものをおいださなくては」ビーンがいいました。「そうだ！」もうひとりがさけびました。「どうしておいだしたいの？そのいきものはきみになにかしたの？」ティファニーがいいました。",
+                "textKR": "\"우리는 그 무서운 생물을 내쫓아야 해. \"빈이가 말했어요. \"맞아!\" 다른 빈이가 소리쳤어요. \"왜 그 생물을 내쫓아야 해? 우리에게 아무런 잘못도 하지 않았는걸?\" 티파니가 중간에 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "-Deberíamos"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "correr"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "esa"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "horrible"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "criatura"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "-dijo"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "un"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "Bean."
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "-¡Sí!"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "-gritó"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "otro."
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "-¿Por"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "van"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "correr?"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "¿Les"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "ha"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "hecho"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "algo?"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "-interrumpió"
+                    },
+                    {
+                        "start": "17.5",
+                        "text": "Theffanie."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "“We"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "should"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "make"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "that"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "horrible"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "creature"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "leave,”"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "said"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "Bean."
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "“Yes!”"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "another"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "screamed."
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "“Why"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "do"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "you"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "want"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "it"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "to"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "leave?"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "Has"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "it"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "done"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "something"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "to"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "you?”"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "interrupted."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.015",
+                        "text": "우리는"
+                    },
+                    {
+                        "start": "1.168",
+                        "text": "그"
+                    },
+                    {
+                        "start": "1.557",
+                        "text": "무서운"
+                    },
+                    {
+                        "start": "2.165",
+                        "text": "생물을"
+                    },
+                    {
+                        "start": "2.924",
+                        "text": "내쫓아야"
+                    },
+                    {
+                        "start": "3.850",
+                        "text": "해."
+                    },
+                    {
+                        "start": "5.095",
+                        "text": "빈이가"
+                    },
+                    {
+                        "start": "5.994",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "8.317",
+                        "text": "맞아!"
+                    },
+                    {
+                        "start": "9.804",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "10.430",
+                        "text": "빈이가"
+                    },
+                    {
+                        "start": "11.427",
+                        "text": "소리쳤어요."
+                    },
+                    {
+                        "start": "13.818",
+                        "text": "왜"
+                    },
+                    {
+                        "start": "14.206",
+                        "text": "그"
+                    },
+                    {
+                        "start": "14.517",
+                        "text": "생물을"
+                    },
+                    {
+                        "start": "15.273",
+                        "text": "내쫓아야"
+                    },
+                    {
+                        "start": "16.157",
+                        "text": "해?"
+                    },
+                    {
+                        "start": "17.190",
+                        "text": "우리에게"
+                    },
+                    {
+                        "start": "18.106",
+                        "text": "아무런"
+                    },
+                    {
+                        "start": "18.819",
+                        "text": "잘못도"
+                    },
+                    {
+                        "start": "19.617",
+                        "text": "하지"
+                    },
+                    {
+                        "start": "20.270",
+                        "text": "않았는걸?"
+                    },
+                    {
+                        "start": "21.865",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "23.155",
+                        "text": "중간에"
+                    },
+                    {
+                        "start": "24.020",
+                        "text": "말했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "&#34;They say it's horrible!&#34;  said a Bean. &#34;They say it scares people that pass by the lake at night!&#34;  screamed another Bean. &#34;Do any of you know the creature?&#34;  said Theffanie. They looked at each other, but nobody answered. No one really knew the creature. &#34;Don't you think it's unfair to talk about someone you don't know?&#34;  asked Theffanie.",
+                "textES": "–¡Dicen que es horrible!  –dijo un Bean.<br><br>–Y dicen que por las noches espanta a la gente que camina cerca del lago –gritó otro.<br><br>–¿Alguno de ustedes lo conoce? –dijo Theffanie <br><br>Todos se vieron entre sí pero nadie respondió; nadie lo conocía realmente.<br><br>–¿No creen que es algo injusto hablar mal de alguien que no conocen? –preguntó Theffanie.",
+                "textPT": "“Dizem que ela é horrível!”, disse um Bean. “Dizem que ela assusta as pessoas que passam pelo lago à noite”, gritou outro Bean. “Alguém de vocês conhece a criatura?”, disse Theffanie. Eles olharam um para o outro, mas ninguém respondeu. Ninguém conhecia a criatura de verdade. “Vocês não acham que é injusto falar de alguém que não conhecem?” perguntou Theffanie.",
+                "textCN": "“别人说它太可怕了！”豆子说。“他们说晚上经过湖边的人会害怕。”另一个豆子尖叫道。“你们中有谁见过这个怪物吗？”范妮说。他们面面相觑，但没有人回答。没有人真正见过这个怪物。“你不觉得谈论一个你不认识的人不公平吗？” 范妮问。",
+                "textJP": "「みんながひどいやつだっていうんだ！」ビーンがいいました。「よるにみずうみにちかづくひとびとをおどかしているそうだよ。」もう一人のビーンがさけびました。「あなたたちのなかでそのいきものをみた人はいるの？」ティファニーがいいました。みんなはおたがいにかおをみあわせましたがだれもこたえませんでした。だれもそのいきものをみたことがなかったのです。「しらないひとのことをあれこれいうのはふこうへいだとおもわない？」ティファニーが たずねました。",
+                "textKR": "\"그 동물은 너무 무섭다고 했어.\" 빈이가 말했어요. \"그 동물이 밤에 호수를 지나가는 사람들을 놀래킨다고 들었어.\" 다른 빈이가 소리쳤어요. \"너희 중 누구라고 그 생물을 아는 사람이 있니?\" 티파니가 물었어요. 모두들 서로를 쳐다보기만 하고 대답을 하지 못했어요. 아무도 그 생물을 직접 알지 못했거든요. \"알지도 못하는 사람에 대해서 말을 하는 건 불공평하지 않아?\" 티파니가 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "–¡Dicen"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "que"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "es"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "horrible!"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "un"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "Bean."
+                    },
+                    { "start": "5.0", "text": "-Y" },
+                    {
+                        "start": "5.5",
+                        "text": "dicen"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "por"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "las"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "noches"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "espanta"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "gente"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "que"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "camina"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "cerca"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "del"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "lago"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "–gritó"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "otro."
+                    },
+                    { "start": "14.9", "text": "Alguno" },
+                    {
+                        "start": "15.2",
+                        "text": "de"
+                    },
+                    {
+                        "start": "15.3",
+                        "text": "ustedes"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "conoce?"
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "20",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "20.5",
+                        "text": "se"
+                    },
+                    {
+                        "start": "20.8",
+                        "text": "vieron"
+                    },
+                    {
+                        "start": "21.2",
+                        "text": "entre"
+                    },
+                    {
+                        "start": "21.5",
+                        "text": "sí"
+                    },
+                    {
+                        "start": "21.7",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "22.2",
+                        "text": "nadie"
+                    },
+                    {
+                        "start": "22.5",
+                        "text": "respondió;"
+                    },
+                    {
+                        "start": "24.7",
+                        "text": "nadie"
+                    },
+                    {
+                        "start": "25.1",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "25.3",
+                        "text": "conocía"
+                    },
+                    {
+                        "start": "25.7",
+                        "text": "realmente."
+                    },
+                    { "start": "28.0", "text": "No" },
+                    {
+                        "start": "28.5",
+                        "text": "creen"
+                    },
+                    {
+                        "start": "29.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "29.4",
+                        "text": "es"
+                    },
+                    {
+                        "start": "29.5",
+                        "text": "algo"
+                    },
+                    {
+                        "start": "29.6",
+                        "text": "injusto"
+                    },
+                    {
+                        "start": "29.8",
+                        "text": "hablar"
+                    },
+                    {
+                        "start": "30.3",
+                        "text": "mal"
+                    },
+                    {
+                        "start": "30.4",
+                        "text": "de"
+                    },
+                    {
+                        "start": "30.8",
+                        "text": "alguien"
+                    },
+                    {
+                        "start": "31.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "31.3",
+                        "text": "no"
+                    },
+                    {
+                        "start": "31.5",
+                        "text": "conocen?"
+                    },
+                    {
+                        "start": "33.0",
+                        "text": "–preguntó"
+                    },
+                    {
+                        "start": "33.6",
+                        "text": "Theffanie."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "They"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "say"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "it's"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "horrible!"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "said"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "Bean."
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "They"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "say"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "it"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "scares"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "people"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "that"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "pass"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "by"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "lake"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "at"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "night!"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "screamed"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "another"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "Bean."
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "Do"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "any"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "of"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "you"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "know"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "creature?"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "said"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "Theffanie."
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "They"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "looked"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "at"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "each"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "other,"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "but"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "nobody"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "answered."
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "No"
+                    },
+                    {
+                        "start": "17.2",
+                        "text": "one"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "really"
+                    },
+                    {
+                        "start": "17.9",
+                        "text": "knew"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "18.9",
+                        "text": "creature."
+                    },
+                    {
+                        "start": "19.1",
+                        "text": "&#34;Don't"
+                    },
+                    {
+                        "start": "19.4",
+                        "text": "you"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "think"
+                    },
+                    {
+                        "start": "20.3",
+                        "text": "it's"
+                    },
+                    {
+                        "start": "20.7",
+                        "text": "unfair"
+                    },
+                    {
+                        "start": "20.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "21.2",
+                        "text": "talk"
+                    },
+                    {
+                        "start": "21.5",
+                        "text": "about"
+                    },
+                    {
+                        "start": "21.8",
+                        "text": "someone"
+                    },
+                    {
+                        "start": "22.1",
+                        "text": "you"
+                    },
+                    {
+                        "start": "22.9",
+                        "text": "don't"
+                    },
+                    {
+                        "start": "23.2",
+                        "text": "know?;"
+                    },
+                    {
+                        "start": "23.5",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "23.8",
+                        "text": "Theffanie."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.014",
+                        "text": "그"
+                    },
+                    {
+                        "start": "0.356",
+                        "text": "동물은"
+                    },
+                    {
+                        "start": "1.470",
+                        "text": "너무"
+                    },
+                    {
+                        "start": "2.144",
+                        "text": "무섭다고"
+                    },
+                    {
+                        "start": "2.857",
+                        "text": "했어."
+                    },
+                    {
+                        "start": "4.522",
+                        "text": "빈이가"
+                    },
+                    {
+                        "start": "5.414",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "8.069",
+                        "text": "그"
+                    },
+                    {
+                        "start": "8.421",
+                        "text": "동물이"
+                    },
+                    {
+                        "start": "9.625",
+                        "text": "밤에"
+                    },
+                    {
+                        "start": "10.361",
+                        "text": "호수를"
+                    },
+                    {
+                        "start": "11.068",
+                        "text": "지나가는"
+                    },
+                    {
+                        "start": "11.921",
+                        "text": "사람들을"
+                    },
+                    {
+                        "start": "13.197",
+                        "text": "놀래킨다고"
+                    },
+                    {
+                        "start": "14.457",
+                        "text": "들었어."
+                    },
+                    {
+                        "start": "16.483",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "17.090",
+                        "text": "빈이가"
+                    },
+                    {
+                        "start": "18.116",
+                        "text": "소리쳤어요."
+                    },
+                    {
+                        "start": "20.501",
+                        "text": "너희"
+                    },
+                    {
+                        "start": "20.961",
+                        "text": "중"
+                    },
+                    {
+                        "start": "21.464",
+                        "text": "누구라도"
+                    },
+                    {
+                        "start": "22.380",
+                        "text": "그"
+                    },
+                    {
+                        "start": "22.709",
+                        "text": "생물을"
+                    },
+                    {
+                        "start": "23.442",
+                        "text": "아는"
+                    },
+                    {
+                        "start": "23.785",
+                        "text": "사람이"
+                    },
+                    {
+                        "start": "24.500",
+                        "text": "있니?"
+                    },
+                    {
+                        "start": "25.771",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "26.877",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "28.672",
+                        "text": "모두들"
+                    },
+                    {
+                        "start": "29.483",
+                        "text": "서로를"
+                    },
+                    {
+                        "start": "30.341",
+                        "text": "쳐다보기만"
+                    },
+                    {
+                        "start": "31.515",
+                        "text": "하고"
+                    },
+                    {
+                        "start": "32.562",
+                        "text": "대답을"
+                    },
+                    {
+                        "start": "33.422",
+                        "text": "하지"
+                    },
+                    {
+                        "start": "34.384",
+                        "text": "못했어요."
+                    },
+                    {
+                        "start": "35.975",
+                        "text": "아무도"
+                    },
+                    {
+                        "start": "37.304",
+                        "text": "그"
+                    },
+                    {
+                        "start": "37.626",
+                        "text": "생물을"
+                    },
+                    {
+                        "start": "38.600",
+                        "text": "직접"
+                    },
+                    {
+                        "start": "39.335",
+                        "text": "알지"
+                    },
+                    {
+                        "start": "40.213",
+                        "text": "못했거든요."
+                    },
+                    {
+                        "start": "42.520",
+                        "text": "알지도"
+                    },
+                    {
+                        "start": "43.311",
+                        "text": "못하는"
+                    },
+                    {
+                        "start": "44.075",
+                        "text": "사람에"
+                    },
+                    {
+                        "start": "44.739",
+                        "text": "대해서"
+                    },
+                    {
+                        "start": "45.510",
+                        "text": "말을"
+                    },
+                    {
+                        "start": "45.974",
+                        "text": "하는"
+                    },
+                    {
+                        "start": "46.381",
+                        "text": "건"
+                    },
+                    {
+                        "start": "46.963",
+                        "text": "불공평하지"
+                    },
+                    {
+                        "start": "48.150",
+                        "text": "않아?"
+                    },
+                    {
+                        "start": "49.266",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "50.531",
+                        "text": "말했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "&#34;Look! There it is,&#34; said one of the Beans. Everybody turned to see the creature in the lake. &#34;It doesn't look as scary and horrible as I was told,&#34; said a Bean. &#34;Hi! My name is Arthurius,&#34; said Arthurius. &#34;I'm Theffanie,&#34; said Theffanie. &#34;I'm Aji,&#34; said the creature.  ",
+                "textES": "–¡Miren! Ahí está –dijo uno de los Beans.<br><br>Todos voltearon a ver a la criatura marina.<br><br>–No se ve tan horrible y espantoso como me lo habían contado –dijo otro Bean.<br> –Hola, mi nombre es Arthurius. <br>–Yo soy Theffanie.<br><br> –Yo soy Aji –respondió la criatura marina.",
+                "textPT": "“Vejam! Aí está ela”, disse um dos Beans. Todos se viraram para ver a criatura no lago. “Não parece tão assustadora e horrível como disseram”, disse um Bean. “Olá! Meu nome é Arthurius”, disse Arthurius. “Eu sou Theffanie”, disse Theffanie. “Eu sou Aji”, disse a criatura.",
+                "textCN": "“看！就在那里。”其中一个豆子说。大家都转过头去看湖里的怪物。“它看起来并不像我听说的那样恐怖和可怕。”一个豆子说。“嗨！我的名字叫亚瑟鲁。”亚瑟鲁说。“我叫范妮。”范妮说。“我叫阿吉。”那个怪物说道。",
+                "textJP": "「みて！そこにいる。」ビーンのひとりがいいました。みんなはみずうみにいるいきものをみようとふりかえりました。「きいていたほどこわくもおそろしくもなさそうだ」ビーンのひとりがいいました。「やあ！ぼくのなまえはアーサリウス。」アーサリウスが いいました。「わたしはティファニー。」ティファニーが いいました。「ぼくはアジ。」そのいきものがこたえました。",
+                "textKR": "\"저길 봐! 저기 있다.\" 한 빈이가 말했어요. 모두들 고개를 돌려서 호수에 산다는 생물을 보았어요. \"내 생각하고는 전혀 다르게 무섭지도 않고 못생기지도 않았네.\" 한 빈이가 말했어요. \"안녕! 나는 알투리우스야.\" 알투리우스가 말했어요. \"나는 티파니야.\" 티파니가 말했어요. \"나는 아히라고 해.\" 생물이 자기 소개를 했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "–¡Miren!"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "Ahí"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "está"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "uno"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "de"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "los"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "Beans."
+                    },
+                    { "start": "6.0", "text": "Todos" },
+                    {
+                        "start": "6.4",
+                        "text": "voltearon"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "criatura"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "marina."
+                    },
+                    { "start": "10.0", "text": "No" },
+                    {
+                        "start": "10.3",
+                        "text": "se"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "ve"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "tan"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "horrible"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "y"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "espantoso"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "como"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "me"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "habían"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "contado"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "otro"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "Bean."
+                    },
+                    {
+                        "start": "17.7",
+                        "text": "–Hola,"
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "mi"
+                    },
+                    {
+                        "start": "18.5",
+                        "text": "nombre"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "es"
+                    },
+                    {
+                        "start": "19.7",
+                        "text": "Arthurius."
+                    },
+                    {
+                        "start": "22.0",
+                        "text": "–Yo"
+                    },
+                    {
+                        "start": "22.4",
+                        "text": "soy"
+                    },
+                    {
+                        "start": "22.7",
+                        "text": "Theffanie."
+                    },
+                    {
+                        "start": "24.9",
+                        "text": "–Yo"
+                    },
+                    {
+                        "start": "25.2",
+                        "text": "soy"
+                    },
+                    {
+                        "start": "25.5",
+                        "text": "Aji"
+                    },
+                    {
+                        "start": "28",
+                        "text": "–respondió"
+                    },
+                    {
+                        "start": "28.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "28.6",
+                        "text": "criatura"
+                    },
+                    {
+                        "start": "29",
+                        "text": "marina."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Look!"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "There"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "it"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "is,"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "said"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "one"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "of"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "Beans."
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "Everybody"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "turned"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "see"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "creature"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "in"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "lake."
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "It"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "doesn't"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "look"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "as"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "scary"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "and"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "horrible"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "as"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "I"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "was"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "told,"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "said"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "Bean."
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "Hi!"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "My"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "name"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "is"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "Arthurius,"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "said"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "Arthurius."
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "I'm"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "Theffanie,"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "said"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "Theffanie."
+                    },
+                    {
+                        "start": "18.5",
+                        "text": "I'm"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "Aji,"
+                    },
+                    {
+                        "start": "19.5",
+                        "text": "said"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "20.1",
+                        "text": "creature."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.054",
+                        "text": "저길"
+                    },
+                    {
+                        "start": "0.532",
+                        "text": "봐!"
+                    },
+                    {
+                        "start": "1.417",
+                        "text": "저기"
+                    },
+                    {
+                        "start": "1.890",
+                        "text": "있다."
+                    },
+                    {
+                        "start": "3.371",
+                        "text": "한"
+                    },
+                    {
+                        "start": "3.859",
+                        "text": "빈이가"
+                    },
+                    {
+                        "start": "4.660",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "6.250",
+                        "text": "모두들"
+                    },
+                    {
+                        "start": "7.419",
+                        "text": "고개를"
+                    },
+                    {
+                        "start": "8.190",
+                        "text": "돌려서"
+                    },
+                    {
+                        "start": "9.446",
+                        "text": "호수에"
+                    },
+                    {
+                        "start": "10.216",
+                        "text": "산다는"
+                    },
+                    {
+                        "start": "11.335",
+                        "text": "생물을"
+                    },
+                    {
+                        "start": "12.227",
+                        "text": "보았어요."
+                    },
+                    {
+                        "start": "14.221",
+                        "text": "내"
+                    },
+                    {
+                        "start": "14.581",
+                        "text": "생각하고는"
+                    },
+                    {
+                        "start": "15.922",
+                        "text": "전혀"
+                    },
+                    {
+                        "start": "16.401",
+                        "text": "다르게"
+                    },
+                    {
+                        "start": "17.577",
+                        "text": "무섭지도"
+                    },
+                    {
+                        "start": "18.375",
+                        "text": "않고"
+                    },
+                    {
+                        "start": "19.191",
+                        "text": "못생기지도"
+                    },
+                    {
+                        "start": "20.190",
+                        "text": "않았네."
+                    },
+                    {
+                        "start": "21.940",
+                        "text": "한"
+                    },
+                    {
+                        "start": "22.399",
+                        "text": "빈이가"
+                    },
+                    {
+                        "start": "23.337",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "25.126",
+                        "text": "안녕!"
+                    },
+                    {
+                        "start": "26.261",
+                        "text": "나는"
+                    },
+                    {
+                        "start": "26.890",
+                        "text": "알투리우스야."
+                    },
+                    {
+                        "start": "29.277",
+                        "text": "알투리우스가"
+                    },
+                    {
+                        "start": "31.143",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "33.454",
+                        "text": "나는"
+                    },
+                    {
+                        "start": "34.401",
+                        "text": "티파니야."
+                    },
+                    {
+                        "start": "36.132",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "37.396",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "39.713",
+                        "text": "나는"
+                    },
+                    {
+                        "start": "40.897",
+                        "text": "아히라고"
+                    },
+                    {
+                        "start": "41.900",
+                        "text": "해."
+                    },
+                    {
+                        "start": "43.186",
+                        "text": "생물이"
+                    },
+                    {
+                        "start": "44.453",
+                        "text": "자기"
+                    },
+                    {
+                        "start": "45.050",
+                        "text": "소개를"
+                    },
+                    {
+                        "start": "45.838",
+                        "text": "했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "That night, everyone shared ideas and stories. They realized little Aji was only a shy, lonely creature. From that day on, the Beans learned not to judge others by their looks or trust everything people say.",
+                "textES": "Durante esa noche todos intercambiaron ideas e historias, se presentaron  y descubrieron que el pequeño Aji sólo era una criatura tímida y sin amigos. Desde ese día los Beans aprendieron a no juzgar por las apariencias, ni a fiarse de los relatos de terceras personas.",
+                "textPT": "Naquela noite, todos compartilharam ideias e contaram histórias. Eles perceberam que a pequena Aji só era uma criatura tímida e solitária. A partir daquele dia, os Beans aprenderam a não julgar outros pela aparência nem confiar em tudo que as pessoas falam.",
+                "textCN": "那天晚上，每个人都分享了他们的想法和故事。他们意识到小阿吉只是一个害羞、孤独的生物。从那一天起，豆子们学会了不应以貌取人，也不应相信道听途说的一切。",
+                "textJP": "そのよる、みんなはじぶんたちのかんがえやストーリーをはなしあいました。そしてみんなはアジははずかしがりやでさびしいいきものだったことにきづきました。ビーンたちはだれかをみためではんだんしたりうわさをしんじたりしてはいけないということがわかりました。",
+                "textKR": "그날 밤, 모두들 자기의 생각과 이야기를 나누었어요. 다들 작은 아히는 그저 수줍고 외로운 친구라는 걸 알게 되었어요. 그날 이후로, 빈이들은  절대 다른 사람의 외모를 보고 평가하거나 다른 사람들이 하는 얘기를 모두 믿지 않기로 결심했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Durante"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "esa"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "noche"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "intercambiaron"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "ideas"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "e"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "historias,"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "se"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "presentaron"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "y"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "descubrieron"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "el"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "pequeño"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "Aji"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "sólo"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "era"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "una"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "criatura"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "tímida"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "sin"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "amigos."
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "Desde"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "ese"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "día"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "los"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "Beans"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "aprendieron"
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "a"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "no"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "juzgar"
+                    },
+                    {
+                        "start": "17.1",
+                        "text": "por"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "las"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "apariencias,"
+                    },
+                    {
+                        "start": "19.4",
+                        "text": "ni"
+                    },
+                    {
+                        "start": "19.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "19.9",
+                        "text": "fiarse"
+                    },
+                    {
+                        "start": "20.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "20.1",
+                        "text": "los"
+                    },
+                    {
+                        "start": "20.8",
+                        "text": "relatos"
+                    },
+                    {
+                        "start": "20.9",
+                        "text": "de"
+                    },
+                    {
+                        "start": "21.6",
+                        "text": "terceras"
+                    },
+                    {
+                        "start": "21.7",
+                        "text": "personas."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "That"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "night,"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "everyone"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "shared"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "ideas"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "stories."
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "They"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "realized"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "little"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "Aji"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "was"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "only"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "shy,"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "lonely"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "creature."
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "From"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "that"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "day"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "on,"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "Beans"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "learned"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "not"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "to"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "judge"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "others"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "by"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "their"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "looks"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "or"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "trust"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "everything"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "people"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "say."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.028",
+                        "text": "그날"
+                    },
+                    {
+                        "start": "0.543",
+                        "text": "밤,"
+                    },
+                    {
+                        "start": "1.405",
+                        "text": "모두들"
+                    },
+                    {
+                        "start": "2.604",
+                        "text": "자기의"
+                    },
+                    {
+                        "start": "3.395",
+                        "text": "생각과"
+                    },
+                    {
+                        "start": "4.458",
+                        "text": "이야기를"
+                    },
+                    {
+                        "start": "5.460",
+                        "text": "나누었어요."
+                    },
+                    {
+                        "start": "7.476",
+                        "text": "다들"
+                    },
+                    {
+                        "start": "8.690",
+                        "text": "작은"
+                    },
+                    {
+                        "start": "9.389",
+                        "text": "아히는"
+                    },
+                    {
+                        "start": "10.777",
+                        "text": "그저"
+                    },
+                    {
+                        "start": "11.423",
+                        "text": "수줍고"
+                    },
+                    {
+                        "start": "12.430",
+                        "text": "외로운"
+                    },
+                    {
+                        "start": "13.285",
+                        "text": "친구라는"
+                    },
+                    {
+                        "start": "14.172",
+                        "text": "걸"
+                    },
+                    {
+                        "start": "14.767",
+                        "text": "알게"
+                    },
+                    {
+                        "start": "15.375",
+                        "text": "되었어요."
+                    },
+                    {
+                        "start": "17.574",
+                        "text": "그날"
+                    },
+                    {
+                        "start": "18.191",
+                        "text": "이후로,"
+                    },
+                    {
+                        "start": "19.416",
+                        "text": "빈이들은"
+                    },
+                    {
+                        "start": "20.775",
+                        "text": "절대"
+                    },
+                    {
+                        "start": "22.087",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "22.586",
+                        "text": "사람의"
+                    },
+                    {
+                        "start": "23.566",
+                        "text": "외모를"
+                    },
+                    {
+                        "start": "24.392",
+                        "text": "보고"
+                    },
+                    {
+                        "start": "25.004",
+                        "text": "평가하거나"
+                    },
+                    {
+                        "start": "26.695",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "27.150",
+                        "text": "사람들이"
+                    },
+                    {
+                        "start": "28.510",
+                        "text": "하는"
+                    },
+                    {
+                        "start": "29.107",
+                        "text": "얘기를"
+                    },
+                    {
+                        "start": "30.276",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "30.924",
+                        "text": "믿지"
+                    },
+                    {
+                        "start": "31.550",
+                        "text": "않기로"
+                    },
+                    {
+                        "start": "32.534",
+                        "text": "결심했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

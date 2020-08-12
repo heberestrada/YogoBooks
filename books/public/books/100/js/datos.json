@@ -1,0 +1,671 @@
+{
+    "book": {
+        "titleES": "Los colores de la playa",
+        "titleEN": "The Colors of the Beach",
+        "titlePT": "As cores da praia",
+        "titleCN": "海滩的颜色",
+        "titleJP": "ビーチのいろ",
+        "titleKR": "해변의 여러가지 색깔",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "En la playa, el sol es dorado y brillante.",
+                "textEN": "At the beach, the Sun is golden and bright.",
+                "textPT": "Na praia, o Sol é dourado e brilhante.",
+                "textCN": "在海滩上，太阳是金色和明亮的。",
+                "textJP": "ビーチでは、たいようはあかるいきんいろです。",
+                "textKR": "해변에서 태양은 황금색으로 빛나요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "En"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "playa,"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "sol"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "es"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "dorado"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "brillante."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "At"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "beach,"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "Sun"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "is"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "golden"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "bright."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "해변에서" },
+                    { "start": "1.728", "text": "태양은" },
+                    { "start": "3.088", "text": "황금색으로" },
+                    { "start": "4.559", "text": "빛나요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "En la playa, la arena es café y cálida.",
+                "textEN": "At the beach, the sand is brown and warm.",
+                "textPT": "Na praia, a areia é marrom e quente.",
+                "textCN": "在海滩上，沙子是棕色和温暖的。",
+                "textJP": "ビーチでは、すなはちゃいろであたたかいです。",
+                "textKR": "해변의 모래는 갈색이고 따뜻해요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "En"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "playa,"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "arena"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "es"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "café"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "cálida."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "At"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "beach,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "sand"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "is"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "brown"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "warm."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "해변의" },
+                    { "start": "0.957", "text": "모래는" },
+                    { "start": "2.222", "text": "갈색이고" },
+                    { "start": "4.124", "text": "따뜻해요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "En la playa, el mar es azul y refrescante.",
+                "textEN": "At the beach, the sea is blue and refreshing.",
+                "textPT": "Na praia, o mar é azul e refrescante.",
+                "textCN": "在海滩上，大海是蓝色和清新的。",
+                "textJP": "ビーチでは、うみはあおくさわやかです。",
+                "textKR": "해변에서 보는 바다는 파란색이고 상쾌해 보여요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "En"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "playa,"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "el"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "mar"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "es"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "azul"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "refrescante."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "At"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "beach,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "sea"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "is"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "blue"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "refreshing."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "해변에서" },
+                    { "start": "1.225", "text": "보는" },
+                    { "start": "1.97", "text": "바다는" },
+                    { "start": "3.330", "text": "파란색이고" },
+                    { "start": "5.153", "text": "상쾌해" },
+                    { "start": "6.320", "text": "보여요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "En la playa, la pelota es verde y redonda.",
+                "textEN": "At the beach, the ball is green and round.",
+                "textPT": "Na praia, a bola é verde e redonda.",
+                "textCN": "在海滩上，球是绿色和圆圆的。",
+                "textJP": "ビーチでは、ボールはみどりでまるいです。",
+                "textKR": "해변에 있는 공은 초록색이고 동그란 모양이에요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "En"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "playa,"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "pelota"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "es"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "verde"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "redonda."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "At"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "beach,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "ball"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "is"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "green"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "round."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "해변에" },
+                    { "start": "0.829", "text": "있는" },
+                    { "start": "1.692", "text": "공은" },
+                    { "start": "2.823", "text": "초록색이고" },
+                    { "start": "4.692", "text": "동그란" },
+                    { "start": "5.866", "text": "모양이에요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "En la playa, la toalla es morada y suave.",
+                "textEN": "At the beach, the towel is purple and soft.",
+                "textPT": "Na praia, a toalha é roxa e macia.",
+                "textCN": "在海滩上，毛巾是紫色和柔软的。",
+                "textJP": "ビーチでは、タオルはむらさきでやわらかいです。",
+                "textKR": "해변에 있는 수건은 보라색이고 부드러워요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "En"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "playa,"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "toalla"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "es"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "morada"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "suave."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "At"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "beach,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "towel"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "is"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "purple"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "soft."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "해변에" },
+                    { "start": "0.840", "text": "있는" },
+                    { "start": "1.522", "text": "수건은" },
+                    { "start": "2.978", "text": "보라색이고" },
+                    { "start": "4.989", "text": "부드러워요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "En la playa, todo es color y diversión.",
+                "textEN": "At the beach, everything is colorful and fun.",
+                "textPT": "Na praia, tudo é colorido e divertido.",
+                "textCN": "在海滩上，一切都是多彩和有趣的。",
+                "textJP": "ビーチでは、すべてがカラフルでたのしいです。",
+                "textKR": "해변에 있는 모든 것들이 여러 가지 색깔을 갖고 있고 재미있어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "En"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "playa,"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "todo"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "es"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "color"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "diversión."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "At"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "beach,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "everything"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "is"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "colorful"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "fun."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "해변에" },
+                    { "start": "0.800", "text": "있는" },
+                    { "start": "2.040", "text": "모든" },
+                    { "start": "3.024", "text": "것들이" },
+                    { "start": "4.419", "text": "여러" },
+                    { "start": "5.132", "text": "가지" },
+                    { "start": "6.341", "text": "색깔을" },
+                    { "start": "7.427", "text": "갖고" },
+                    { "start": "8.418", "text": "있고" },
+                    { "start": "9.784", "text": "재미있어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

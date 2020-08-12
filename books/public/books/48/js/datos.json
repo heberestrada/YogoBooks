@@ -1,0 +1,2288 @@
+{
+    "book": {
+        "titleEN": "The Monster in the Closet",
+        "titleES": "El monstruo en el armario",
+        "titlePT": "O monstro no guarda-roupa",
+        "titleCN": "壁橱里的怪物",
+        "titleJP": "おしいれのモンスター",
+        "titleKR": "옷장 괴물",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "Eagle woke up in the middle of the night. He heard three knocks coming from inside his closet.",
+                "textES": "Eagle despertó en medio de la noche. Tres golpes se escucharon dentro del armario.",
+                "textPT": "Eagle acordou no meio da noite. Ele ouviu três batidas vindo de dentro do guarda-roupa.",
+                "textCN": "伊戈半夜醒来。他听到壁橱里传来三声敲击声。",
+                "textJP": "イーグルは まよなかに めが さめました。おしいれの なかから「とん とん とん」と おとが しました。",
+                "textKR": "이글이는 한밤중에 누군가 옷장 안에서 문을 세 번 두드리는 소리를 듣고 깨어났어요.",
+                "wordsES": [
+                    {
+                        "start": "0.312",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "1.040",
+                        "text": "despertó"
+                    },
+                    {
+                        "start": "1.884",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.104",
+                        "text": "medio"
+                    },
+                    {
+                        "start": "2.520",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.647",
+                        "text": "la"
+                    },
+                    {
+                        "start": "2.832",
+                        "text": "noche."
+                    },
+                    {
+                        "start": "4.311",
+                        "text": "Tres"
+                    },
+                    {
+                        "start": "4.774",
+                        "text": "golpes"
+                    },
+                    {
+                        "start": "5.294",
+                        "text": "se"
+                    },
+                    {
+                        "start": "5.444",
+                        "text": "escucharon"
+                    },
+                    {
+                        "start": "6.253",
+                        "text": "dentro"
+                    },
+                    {
+                        "start": "6.681",
+                        "text": "del"
+                    },
+                    {
+                        "start": "6.843",
+                        "text": "armario."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.631",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "1.105",
+                        "text": "woke"
+                    },
+                    {
+                        "start": "1.331",
+                        "text": "up"
+                    },
+                    {
+                        "start": "1.588",
+                        "text": "in"
+                    },
+                    {
+                        "start": "1.686",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.913",
+                        "text": "middle"
+                    },
+                    {
+                        "start": "2.120",
+                        "text": "of"
+                    },
+                    {
+                        "start": "2.318",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.456",
+                        "text": "night."
+                    },
+                    {
+                        "start": "3.501",
+                        "text": "He"
+                    },
+                    {
+                        "start": "3.649",
+                        "text": "heard"
+                    },
+                    {
+                        "start": "4.043",
+                        "text": "three"
+                    },
+                    {
+                        "start": "4.487",
+                        "text": "knocks"
+                    },
+                    {
+                        "start": "5.109",
+                        "text": "coming"
+                    },
+                    {
+                        "start": "5.473",
+                        "text": "from"
+                    },
+                    {
+                        "start": "5.779",
+                        "text": "inside"
+                    },
+                    {
+                        "start": "6.381",
+                        "text": "his"
+                    },
+                    {
+                        "start": "6.686",
+                        "text": "closet."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "1.570",
+                        "text": "한밤중에"
+                    },
+                    {
+                        "start": "3.203",
+                        "text": "누군가"
+                    },
+                    {
+                        "start": "4.707",
+                        "text": "옷장"
+                    },
+                    {
+                        "start": "5.572",
+                        "text": "안에서"
+                    },
+                    {
+                        "start": "6.892",
+                        "text": "문을"
+                    },
+                    {
+                        "start": "8.094",
+                        "text": "세"
+                    },
+                    {
+                        "start": "8.648",
+                        "text": "번"
+                    },
+                    {
+                        "start": "9.466",
+                        "text": "두드리는"
+                    },
+                    {
+                        "start": "10.491",
+                        "text": "소리를"
+                    },
+                    {
+                        "start": "11.507",
+                        "text": "듣고"
+                    },
+                    {
+                        "start": "12.690",
+                        "text": "깨어났어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "Eagle was so scared that he started screaming. Luna came running to see what was happening to her friend. &#34;It's the third night I've heard noises in my closet,&#34; said Eagle, his voice trembling.  ",
+                "textES": "Asustado, Eagle gritó. Luna llegó corriendo para preguntarle qué le sucedía. A lo que él respondió: <br><br>–Es la tercera noche que escucho ese ruido –dijo Eagle con voz temblorosa.",
+                "textPT": "Eagle ficou tão assustado que começou a gritar. Luna veio correndo ver o que estava acontecendo com seu amigo. “É a terceira noite que eu ouço barulhos no meu guarda-roupa”, disse Eagle, com a voz trêmula.  ",
+                "textCN": "伊戈吓得尖叫起来。鲁娜跑过来看她的朋友发生了什么事。“这是我第三晚听到壁橱里有动静了，”伊戈说道，声音有些颤抖。  ",
+                "textJP": "イーグルは こわくなって さけびました。しんぱいした ルナが はしってきました。「これで みっかめだ、おしいれの なかから おとが したんだ」イーグルは ふるえたこえで いいました。",
+                "textKR": "이글이는 너무 무서워서 소리를 질렀어요. 루나가 걱정되어서 달려왔어요. &#34;옷장 안에서 소리가 났어. 이번이 벌써 세 번째 밤이야.&#34;  이글이의 목소리가 떨렸어요.",
+                "wordsES": [
+                    {
+                        "start": "0.509",
+                        "text": "Asustado,"
+                    },
+                    {
+                        "start": "2.069",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "2.555",
+                        "text": "gritó."
+                    },
+                    {
+                        "start": "4.335",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "4.924",
+                        "text": "llegó"
+                    },
+                    {
+                        "start": "5.317",
+                        "text": "corriendo"
+                    },
+                    {
+                        "start": "6.219",
+                        "text": "para"
+                    },
+                    {
+                        "start": "6.485",
+                        "text": "preguntarle"
+                    },
+                    {
+                        "start": "7.259",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "7.421",
+                        "text": "le"
+                    },
+                    {
+                        "start": "7.602",
+                        "text": "sucedía."
+                    },
+                    {
+                        "start": "9.143",
+                        "text": "A"
+                    },
+                    {
+                        "start": "9.282",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "9.421",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.617",
+                        "text": "él"
+                    },
+                    {
+                        "start": "9.871",
+                        "text": "respondió:"
+                    },
+                    {
+                        "start": "12.796",
+                        "text": "–Es"
+                    },
+                    {
+                        "start": "13.397",
+                        "text": "la"
+                    },
+                    {
+                        "start": "13.628",
+                        "text": "tercera"
+                    },
+                    {
+                        "start": "14.333",
+                        "text": "noche"
+                    },
+                    {
+                        "start": "14.865",
+                        "text": "que"
+                    },
+                    {
+                        "start": "14.992",
+                        "text": "escucho"
+                    },
+                    {
+                        "start": "15.651",
+                        "text": "ese"
+                    },
+                    {
+                        "start": "15.998",
+                        "text": "ruido"
+                    },
+                    {
+                        "start": "18.275",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "18.876",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "19.488",
+                        "text": "con"
+                    },
+                    {
+                        "start": "19.708",
+                        "text": "voz"
+                    },
+                    {
+                        "start": "20.043",
+                        "text": "temblorosa."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.631",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.917",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.203",
+                        "text": "so"
+                    },
+                    {
+                        "start": "1.519",
+                        "text": "scared"
+                    },
+                    {
+                        "start": "2.308",
+                        "text": "that"
+                    },
+                    {
+                        "start": "2.406",
+                        "text": "he"
+                    },
+                    {
+                        "start": "2.544",
+                        "text": "started"
+                    },
+                    {
+                        "start": "2.988",
+                        "text": "screaming."
+                    },
+                    {
+                        "start": "4.586",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "5.010",
+                        "text": "came"
+                    },
+                    {
+                        "start": "5.286",
+                        "text": "running"
+                    },
+                    {
+                        "start": "5.661",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.828",
+                        "text": "see"
+                    },
+                    {
+                        "start": "5.976",
+                        "text": "what"
+                    },
+                    {
+                        "start": "6.164",
+                        "text": "was"
+                    },
+                    {
+                        "start": "6.272",
+                        "text": "happening"
+                    },
+                    {
+                        "start": "6.795",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.953",
+                        "text": "her"
+                    },
+                    {
+                        "start": "7.170",
+                        "text": "friend."
+                    },
+                    {
+                        "start": "8.235",
+                        "text": "It's"
+                    },
+                    {
+                        "start": "8.540",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.787",
+                        "text": "third"
+                    },
+                    {
+                        "start": "9.152",
+                        "text": "night"
+                    },
+                    {
+                        "start": "9.606",
+                        "text": "I've"
+                    },
+                    {
+                        "start": "9.882",
+                        "text": "heard"
+                    },
+                    {
+                        "start": "10.118",
+                        "text": "noises"
+                    },
+                    {
+                        "start": "10.838",
+                        "text": "in"
+                    },
+                    {
+                        "start": "10.996",
+                        "text": "my"
+                    },
+                    {
+                        "start": "11.183",
+                        "text": "closet,"
+                    },
+                    {
+                        "start": "12.229",
+                        "text": "said"
+                    },
+                    {
+                        "start": "12.613",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "13.314",
+                        "text": "his"
+                    },
+                    {
+                        "start": "13.558",
+                        "text": "voice"
+                    },
+                    {
+                        "start": "14.034",
+                        "text": "trembling."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "1.500",
+                        "text": "너무"
+                    },
+                    {
+                        "start": "2.293",
+                        "text": "무서워서"
+                    },
+                    {
+                        "start": "3.735",
+                        "text": "소리를"
+                    },
+                    {
+                        "start": "4.708",
+                        "text": "질렀어요."
+                    },
+                    {
+                        "start": "7.000",
+                        "text": "루나가"
+                    },
+                    {
+                        "start": "8.500",
+                        "text": "걱정되어서"
+                    },
+                    {
+                        "start": "10.256",
+                        "text": "달려왔어요."
+                    },
+                    {
+                        "start": "12.662",
+                        "text": "옷장"
+                    },
+                    {
+                        "start": "13.317",
+                        "text": "안에서"
+                    },
+                    {
+                        "start": "14.608",
+                        "text": "소리가"
+                    },
+                    {
+                        "start": "15.482",
+                        "text": "났어."
+                    },
+                    {
+                        "start": "17.189",
+                        "text": "이번이"
+                    },
+                    {
+                        "start": "18.153",
+                        "text": "벌써"
+                    },
+                    {
+                        "start": "19.259",
+                        "text": "세"
+                    },
+                    {
+                        "start": "19.715",
+                        "text": "번째"
+                    },
+                    {
+                        "start": "20.450",
+                        "text": "밤이야."
+                    },
+                    {
+                        "start": "22.387",
+                        "text": "이글이의"
+                    },
+                    {
+                        "start": "23.397",
+                        "text": "목소리가"
+                    },
+                    {
+                        "start": "24.741",
+                        "text": "떨렸어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "Luna walked to the closet and opened the door to find a monstrous figure hiding in the shadows. Luna and Eagle were really scared. The creature slowly came out. In the lights, he didn't seem as horrible as they first imagined. ",
+                "textES": "Luna caminó hasta el armario y abrió la puerta. Una forma monstruosa se escondía entre las sombras y los dos se asustaron. La criatura salió y no parecía tan horrible como se habían imaginado.",
+                "textPT": "Luna foi até o guarda-roupa, abriu a porta e encontrou uma criatura monstruosa se escondendo nas sombras. Luna e Eagle ficaram com muito medo. A criatura saiu bem devagar. Debaixo da luz, ela não parecia tão horrível quanto eles imaginavam. ",
+                "textCN": "鲁娜走到壁橱前，打开门，发现一个怪物躲在暗处。鲁娜和伊戈害怕极了。那怪物慢慢地走了出来。在灯光下，他看起来并不像他们最初想象的那么可怕。 ",
+                "textJP": "ルナが おしいれの と をあけると、モンスターの かげが みえました。ふたりは ほんとうに こわくなりました。ゆっくりと でてきた モンスターは ひかりに てらされると、ふたりが おもったほど こわく みえませんでした。 ",
+                "textKR": "루나는 옷장 문을 열고 어둠 속에 숨어있는 괴물을 찾아보았어요. 루나와 이글이는 너무 무서웠어요. 누군가 옷장 안에서 서서히 나왔어요. 밝은 곳으로 나온 그 괴물은 전혀 무섭지 않았어요.",
+                "wordsES": [
+                    {
+                        "start": "0.497",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "1.040",
+                        "text": "caminó"
+                    },
+                    {
+                        "start": "1.491",
+                        "text": "hasta"
+                    },
+                    {
+                        "start": "1.803",
+                        "text": "el"
+                    },
+                    {
+                        "start": "1.907",
+                        "text": "armario"
+                    },
+                    {
+                        "start": "2.867",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.005",
+                        "text": "abrió"
+                    },
+                    {
+                        "start": "3.433",
+                        "text": "la"
+                    },
+                    {
+                        "start": "3.641",
+                        "text": "puerta."
+                    },
+                    {
+                        "start": "5.606",
+                        "text": "Una"
+                    },
+                    {
+                        "start": "6.045",
+                        "text": "forma"
+                    },
+                    {
+                        "start": "6.716",
+                        "text": "monstruosa"
+                    },
+                    {
+                        "start": "7.602",
+                        "text": "se"
+                    },
+                    {
+                        "start": "7.710",
+                        "text": "escondía"
+                    },
+                    {
+                        "start": "8.403",
+                        "text": "entre"
+                    },
+                    {
+                        "start": "8.658",
+                        "text": "las"
+                    },
+                    {
+                        "start": "8.820",
+                        "text": "sombras"
+                    },
+                    {
+                        "start": "10.195",
+                        "text": "y"
+                    },
+                    {
+                        "start": "10.334",
+                        "text": "los"
+                    },
+                    {
+                        "start": "10.623",
+                        "text": "dos"
+                    },
+                    {
+                        "start": "10.946",
+                        "text": "se"
+                    },
+                    {
+                        "start": "11.097",
+                        "text": "asustaron."
+                    },
+                    {
+                        "start": "12.946",
+                        "text": "La"
+                    },
+                    {
+                        "start": "13.212",
+                        "text": "criatura"
+                    },
+                    {
+                        "start": "13.825",
+                        "text": "salió"
+                    },
+                    {
+                        "start": "15.119",
+                        "text": "y"
+                    },
+                    {
+                        "start": "15.512",
+                        "text": "no"
+                    },
+                    {
+                        "start": "15.824",
+                        "text": "parecía"
+                    },
+                    {
+                        "start": "16.437",
+                        "text": "tan"
+                    },
+                    {
+                        "start": "16.576",
+                        "text": "horrible"
+                    },
+                    {
+                        "start": "17.258",
+                        "text": "como"
+                    },
+                    {
+                        "start": "17.442",
+                        "text": "se"
+                    },
+                    {
+                        "start": "17.581",
+                        "text": "habían"
+                    },
+                    {
+                        "start": "17.893",
+                        "text": "imaginado."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.671",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "1.075",
+                        "text": "walked"
+                    },
+                    {
+                        "start": "1.529",
+                        "text": "to"
+                    },
+                    {
+                        "start": "1.657",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.864",
+                        "text": "closet"
+                    },
+                    {
+                        "start": "2.584",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.781",
+                        "text": "opened"
+                    },
+                    {
+                        "start": "3.225",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.373",
+                        "text": "door"
+                    },
+                    {
+                        "start": "3.994",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.172",
+                        "text": "find"
+                    },
+                    {
+                        "start": "4.398",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.615",
+                        "text": "monstrous"
+                    },
+                    {
+                        "start": "5.276",
+                        "text": "figure"
+                    },
+                    {
+                        "start": "5.759",
+                        "text": "hiding"
+                    },
+                    {
+                        "start": "6.174",
+                        "text": "in"
+                    },
+                    {
+                        "start": "6.252",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.391",
+                        "text": "shadows."
+                    },
+                    {
+                        "start": "7.899",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "8.304",
+                        "text": "and"
+                    },
+                    {
+                        "start": "8.570",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "8.955",
+                        "text": "were"
+                    },
+                    {
+                        "start": "9.329",
+                        "text": "really"
+                    },
+                    {
+                        "start": "9.684",
+                        "text": "scared."
+                    },
+                    {
+                        "start": "10.947",
+                        "text": "The"
+                    },
+                    {
+                        "start": "11.134",
+                        "text": "creature"
+                    },
+                    {
+                        "start": "11.637",
+                        "text": "slowly"
+                    },
+                    {
+                        "start": "12.170",
+                        "text": "came"
+                    },
+                    {
+                        "start": "12.466",
+                        "text": "out."
+                    },
+                    {
+                        "start": "13.688",
+                        "text": "In"
+                    },
+                    {
+                        "start": "13.817",
+                        "text": "the"
+                    },
+                    {
+                        "start": "13.974",
+                        "text": "lights,"
+                    },
+                    {
+                        "start": "14.744",
+                        "text": "he"
+                    },
+                    {
+                        "start": "14.842",
+                        "text": "didn't"
+                    },
+                    {
+                        "start": "15.040",
+                        "text": "seem"
+                    },
+                    {
+                        "start": "15.375",
+                        "text": "as"
+                    },
+                    {
+                        "start": "15.641",
+                        "text": "horrible"
+                    },
+                    {
+                        "start": "16.105",
+                        "text": "as"
+                    },
+                    {
+                        "start": "16.322",
+                        "text": "they"
+                    },
+                    {
+                        "start": "16.568",
+                        "text": "first"
+                    },
+                    {
+                        "start": "16.854",
+                        "text": "imagined."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "루나는"
+                    },
+                    {
+                        "start": "1.400",
+                        "text": "옷장"
+                    },
+                    {
+                        "start": "2.300",
+                        "text": "문을"
+                    },
+                    {
+                        "start": "2.907",
+                        "text": "열고"
+                    },
+                    {
+                        "start": "4.085",
+                        "text": "어둠"
+                    },
+                    {
+                        "start": "3.713",
+                        "text": "속에"
+                    },
+                    {
+                        "start": "5.829",
+                        "text": "숨어있는"
+                    },
+                    {
+                        "start": "7.251",
+                        "text": "괴물을"
+                    },
+                    {
+                        "start": "8.159",
+                        "text": "찾아보았어요."
+                    },
+                    {
+                        "start": "10.917",
+                        "text": "루나와"
+                    },
+                    {
+                        "start": "11.807",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "13.369",
+                        "text": "너무"
+                    },
+                    {
+                        "start": "14.100",
+                        "text": "무서웠어요."
+                    },
+                    {
+                        "start": "16.714",
+                        "text": "누군가"
+                    },
+                    {
+                        "start": "18.194",
+                        "text": "옷장"
+                    },
+                    {
+                        "start": "18.948",
+                        "text": "안에서"
+                    },
+                    {
+                        "start": "20.142",
+                        "text": "서서히"
+                    },
+                    {
+                        "start": "21.202",
+                        "text": "나왔어요."
+                    },
+                    {
+                        "start": "23.466",
+                        "text": "밝은"
+                    },
+                    {
+                        "start": "24.275",
+                        "text": "곳으로"
+                    },
+                    {
+                        "start": "25.141",
+                        "text": "나온"
+                    },
+                    {
+                        "start": "26.376",
+                        "text": "그"
+                    },
+                    {
+                        "start": "26.825",
+                        "text": "괴물은"
+                    },
+                    {
+                        "start": "28.163",
+                        "text": "전혀"
+                    },
+                    {
+                        "start": "29.237",
+                        "text": "무섭지"
+                    },
+                    {
+                        "start": "30.135",
+                        "text": "않았어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "The monster was as scared as the Yogotars.  <br><br>&#34;You aren't going to hurt me, are you?&#34; asked the creature. <br><br>&#34;Of course not!&#34; said Eagle, relieved.",
+                "textES": "Al igual que los Yogotars, el monstruo temblaba al verlos. <br><br>–No me van a hacer daño ¿verdad? –dijo la criatura. <br><br>–Claro que no –respondió Eagle con alegría.",
+                "textPT": "O monstro estava tão assustado quanto os Yogotars. <br><br>“Vocês não vão me machucar, vão?”, perguntou a criatura. <br><br>“É claro que não!”, disse Eagle, aliviado.",
+                "textCN": "怪物和Yogotar们一样害怕。 <br><br>“你不会伤害我吧？”怪物问。 <br><br>“当然不会！”伊戈说，松了一口气。",
+                "textJP": "そのモンスターも おなじくらい こわがっていたのです。 <br><br>「ぼくのこと、きず つけたり しないよね？」モンスターが たずねました。 <br><br>「もちろん しないよ！」イーグルは ほっとして いいました。",
+                "textKR": "그 괴물도 요고타들만큼 겁을 먹었어요. <br><br>&#34;나를 해치지 않을 거야?&#34;  괴물이 물었어요. <br><br>&#34;그럼. 절대 해치지 않을게.&#34;  이글이가 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.601",
+                        "text": "Al"
+                    },
+                    {
+                        "start": "0.763",
+                        "text": "igual"
+                    },
+                    {
+                        "start": "1.191",
+                        "text": "que"
+                    },
+                    {
+                        "start": "1.341",
+                        "text": "los"
+                    },
+                    {
+                        "start": "1.526",
+                        "text": "Yogotars,"
+                    },
+                    {
+                        "start": "2.624",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.948",
+                        "text": "monstruo"
+                    },
+                    {
+                        "start": "3.710",
+                        "text": "temblaba"
+                    },
+                    {
+                        "start": "4.242",
+                        "text": "al"
+                    },
+                    {
+                        "start": "4.496",
+                        "text": "verlos."
+                    },
+                    {
+                        "start": "7.120",
+                        "text": "–No"
+                    },
+                    {
+                        "start": "7.502",
+                        "text": "me"
+                    },
+                    {
+                        "start": "7.710",
+                        "text": "van"
+                    },
+                    {
+                        "start": "7.964",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.057",
+                        "text": "hacer"
+                    },
+                    {
+                        "start": "8.496",
+                        "text": "daño"
+                    },
+                    {
+                        "start": "8.993",
+                        "text": "¿verdad?"
+                    },
+                    {
+                        "start": "10.935",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "11.374",
+                        "text": "la"
+                    },
+                    {
+                        "start": "11.559",
+                        "text": "criatura."
+                    },
+                    {
+                        "start": "13.963",
+                        "text": "–Claro"
+                    },
+                    {
+                        "start": "14.507",
+                        "text": "que"
+                    },
+                    {
+                        "start": "14.749",
+                        "text": "no"
+                    },
+                    {
+                        "start": "16.518",
+                        "text": "–respondió"
+                    },
+                    {
+                        "start": "17.327",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "18.009",
+                        "text": "con"
+                    },
+                    {
+                        "start": "18.159",
+                        "text": "alegría."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.621",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.740",
+                        "text": "monster"
+                    },
+                    {
+                        "start": "1.252",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.469",
+                        "text": "as"
+                    },
+                    {
+                        "start": "1.568",
+                        "text": "scared"
+                    },
+                    {
+                        "start": "2.071",
+                        "text": "as"
+                    },
+                    {
+                        "start": "2.189",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.347",
+                        "text": "Yogotars."
+                    },
+                    {
+                        "start": "3.955",
+                        "text": "You"
+                    },
+                    {
+                        "start": "4.152",
+                        "text": "aren't"
+                    },
+                    {
+                        "start": "4.497",
+                        "text": "going"
+                    },
+                    {
+                        "start": "4.813",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.128",
+                        "text": "hurt"
+                    },
+                    {
+                        "start": "5.355",
+                        "text": "me,"
+                    },
+                    {
+                        "start": "6.193",
+                        "text": "are"
+                    },
+                    {
+                        "start": "6.529",
+                        "text": "you?"
+                    },
+                    {
+                        "start": "7.337",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "7.680",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.870",
+                        "text": "creature."
+                    },
+                    {
+                        "start": "9.014",
+                        "text": "Of"
+                    },
+                    {
+                        "start": "9.260",
+                        "text": "course"
+                    },
+                    {
+                        "start": "9.625",
+                        "text": "not!"
+                    },
+                    {
+                        "start": "10.345",
+                        "text": "said"
+                    },
+                    {
+                        "start": "10.700",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "11.262",
+                        "text": "relieved."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "그"
+                    },
+                    {
+                        "start": "0.465",
+                        "text": "괴물도"
+                    },
+                    {
+                        "start": "1.927",
+                        "text": "요고타들만큼"
+                    },
+                    {
+                        "start": "4.051",
+                        "text": "겁을"
+                    },
+                    {
+                        "start": "4.748",
+                        "text": "먹었어요."
+                    },
+                    {
+                        "start": "6.903",
+                        "text": "나를"
+                    },
+                    {
+                        "start": "7.934",
+                        "text": "해치지"
+                    },
+                    {
+                        "start": "8.969",
+                        "text": "않을"
+                    },
+                    {
+                        "start": "9.618",
+                        "text": "거야?"
+                    },
+                    {
+                        "start": "10.991",
+                        "text": "괴물이"
+                    },
+                    {
+                        "start": "12.059",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "14.457",
+                        "text": "그럼."
+                    },
+                    {
+                        "start": "15.566",
+                        "text": "절대"
+                    },
+                    {
+                        "start": "16.559",
+                        "text": "해치지"
+                    },
+                    {
+                        "start": "17.373",
+                        "text": "않을게."
+                    },
+                    {
+                        "start": "19.542",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "20.784",
+                        "text": "말했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "The monster told the Yogotars that three days ago his father asked him to go to the city to do him a favor, but when he arrived, he became afraid of the cars and the noise. He saw that the door to Eagle's bedroom was open and decided to take shelter there.",
+                "textES": "El monstruo explicó a los Yogotars que hace más de tres días había llegado a la ciudad para realizar una tarea solicitada por su padre, pero al llegar se asustó por los autos y el ruido, y al encontrar la puerta de la casa de Eagle abierta, decidió refugiarse en ella.",
+                "textPT": "O monstro disse aos Yogotars que, três dias atrás, seu pai pediu para ele fazer um favor na cidade. Mas, ao chegar lá, ele ficou com medo dos carros e do barulho. Ele viu que a porta do quarto de Eagle estava aberta e resolveu se esconder lá.  ",
+                "textCN": "怪物告诉Yogotar们，三天前他的父亲让他去城里帮个忙。但是，当来到城里时，他发现自己很害怕这里的汽车和噪音。他看到伊戈卧室的门开着，就决定在那里避难。",
+                "textJP": "モンスターは、みっかまえに おとうさんに たのまれて まちへ おつかいに やってきました。でも、くるまや さわがしい おとが こわくなって しまい、イーグルの へやの ドアが あいているのに きづいたので、ここで しばらく かくれていることに したのでした。  ",
+                "textKR": "삼 일 전, 괴물의 아빠가 괴물을 시내로 심부름을 보내셨어요. 괴물이 시내에 도착했을 때 자동차와 소음에 놀라서 겁을 먹었어요. 그때, 이글이의 방을 발견해서 그 안에 숨기로 했던 거였어요.",
+                "wordsES": [
+                    {
+                        "start": "0.254",
+                        "text": "El"
+                    },
+                    {
+                        "start": "0.532",
+                        "text": "monstruo"
+                    },
+                    {
+                        "start": "1.052",
+                        "text": "explicó"
+                    },
+                    {
+                        "start": "1.468",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.607",
+                        "text": "los"
+                    },
+                    {
+                        "start": "1.838",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "2.751",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.832",
+                        "text": "hace"
+                    },
+                    {
+                        "start": "3.225",
+                        "text": "más"
+                    },
+                    {
+                        "start": "3.676",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.838",
+                        "text": "tres"
+                    },
+                    {
+                        "start": "4.161",
+                        "text": "días"
+                    },
+                    {
+                        "start": "4.797",
+                        "text": "había"
+                    },
+                    {
+                        "start": "5.178",
+                        "text": "llegado"
+                    },
+                    {
+                        "start": "5.629",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.699",
+                        "text": "la"
+                    },
+                    {
+                        "start": "5.803",
+                        "text": "ciudad"
+                    },
+                    {
+                        "start": "6.415",
+                        "text": "para"
+                    },
+                    {
+                        "start": "6.554",
+                        "text": "realizar"
+                    },
+                    {
+                        "start": "7.155",
+                        "text": "una"
+                    },
+                    {
+                        "start": "7.398",
+                        "text": "tarea"
+                    },
+                    {
+                        "start": "7.825",
+                        "text": "solicitada"
+                    },
+                    {
+                        "start": "8.611",
+                        "text": "por"
+                    },
+                    {
+                        "start": "8.750",
+                        "text": "su"
+                    },
+                    {
+                        "start": "8.970",
+                        "text": "padre,"
+                    },
+                    {
+                        "start": "10.657",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "10.981",
+                        "text": "al"
+                    },
+                    {
+                        "start": "11.108",
+                        "text": "llegar"
+                    },
+                    {
+                        "start": "11.651",
+                        "text": "se"
+                    },
+                    {
+                        "start": "11.813",
+                        "text": "asustó"
+                    },
+                    {
+                        "start": "12.322",
+                        "text": "por"
+                    },
+                    {
+                        "start": "12.449",
+                        "text": "los"
+                    },
+                    {
+                        "start": "12.715",
+                        "text": "autos"
+                    },
+                    {
+                        "start": "13.258",
+                        "text": "y"
+                    },
+                    {
+                        "start": "13.339",
+                        "text": "el"
+                    },
+                    {
+                        "start": "13.466",
+                        "text": "ruido,"
+                    },
+                    {
+                        "start": "14.934",
+                        "text": "y"
+                    },
+                    {
+                        "start": "15.061",
+                        "text": "al"
+                    },
+                    {
+                        "start": "15.165",
+                        "text": "encontrar"
+                    },
+                    {
+                        "start": "15.870",
+                        "text": "la"
+                    },
+                    {
+                        "start": "16.079",
+                        "text": "puerta"
+                    },
+                    {
+                        "start": "16.414",
+                        "text": "de"
+                    },
+                    {
+                        "start": "16.518",
+                        "text": "la"
+                    },
+                    {
+                        "start": "16.703",
+                        "text": "casa"
+                    },
+                    {
+                        "start": "17.049",
+                        "text": "de"
+                    },
+                    {
+                        "start": "17.211",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "17.593",
+                        "text": "abierta,"
+                    },
+                    {
+                        "start": "18.564",
+                        "text": "decidió"
+                    },
+                    {
+                        "start": "19.246",
+                        "text": "refugiarse"
+                    },
+                    {
+                        "start": "20.078",
+                        "text": "en"
+                    },
+                    {
+                        "start": "20.217",
+                        "text": "ella."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.651",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.769",
+                        "text": "monster"
+                    },
+                    {
+                        "start": "1.292",
+                        "text": "told"
+                    },
+                    {
+                        "start": "1.637",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.775",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "2.623",
+                        "text": "that"
+                    },
+                    {
+                        "start": "2.959",
+                        "text": "three"
+                    },
+                    {
+                        "start": "3.195",
+                        "text": "days"
+                    },
+                    {
+                        "start": "3.471",
+                        "text": "ago"
+                    },
+                    {
+                        "start": "4.191",
+                        "text": "his"
+                    },
+                    {
+                        "start": "4.398",
+                        "text": "father"
+                    },
+                    {
+                        "start": "4.744",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "5.069",
+                        "text": "him"
+                    },
+                    {
+                        "start": "5.355",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.513",
+                        "text": "go"
+                    },
+                    {
+                        "start": "5.680",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.838",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.026",
+                        "text": "city"
+                    },
+                    {
+                        "start": "6.391",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.598",
+                        "text": "do"
+                    },
+                    {
+                        "start": "6.746",
+                        "text": "him"
+                    },
+                    {
+                        "start": "6.894",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.081",
+                        "text": "favor,"
+                    },
+                    {
+                        "start": "8.146",
+                        "text": "but"
+                    },
+                    {
+                        "start": "8.274",
+                        "text": "when"
+                    },
+                    {
+                        "start": "8.471",
+                        "text": "he"
+                    },
+                    {
+                        "start": "8.610",
+                        "text": "arrived,"
+                    },
+                    {
+                        "start": "9.556",
+                        "text": "he"
+                    },
+                    {
+                        "start": "9.645",
+                        "text": "became"
+                    },
+                    {
+                        "start": "10.089",
+                        "text": "afraid"
+                    },
+                    {
+                        "start": "10.533",
+                        "text": "of"
+                    },
+                    {
+                        "start": "10.690",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.907",
+                        "text": "cars"
+                    },
+                    {
+                        "start": "11.371",
+                        "text": "and"
+                    },
+                    {
+                        "start": "11.470",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.657",
+                        "text": "noise."
+                    },
+                    {
+                        "start": "12.870",
+                        "text": "He"
+                    },
+                    {
+                        "start": "13.008",
+                        "text": "saw"
+                    },
+                    {
+                        "start": "13.274",
+                        "text": "that"
+                    },
+                    {
+                        "start": "13.422",
+                        "text": "the"
+                    },
+                    {
+                        "start": "13.558",
+                        "text": "door"
+                    },
+                    {
+                        "start": "13.817",
+                        "text": "to"
+                    },
+                    {
+                        "start": "14.004",
+                        "text": "Eagle's"
+                    },
+                    {
+                        "start": "14.448",
+                        "text": "bedroom"
+                    },
+                    {
+                        "start": "14.852",
+                        "text": "was"
+                    },
+                    {
+                        "start": "15.089",
+                        "text": "open"
+                    },
+                    {
+                        "start": "15.917",
+                        "text": "and"
+                    },
+                    {
+                        "start": "16.036",
+                        "text": "decided"
+                    },
+                    {
+                        "start": "16.627",
+                        "text": "to"
+                    },
+                    {
+                        "start": "16.746",
+                        "text": "take"
+                    },
+                    {
+                        "start": "16.963",
+                        "text": "shelter"
+                    },
+                    {
+                        "start": "17.475",
+                        "text": "there."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "삼"
+                    },
+                    {
+                        "start": "0.452",
+                        "text": "일"
+                    },
+                    {
+                        "start": "0.889",
+                        "text": "전,"
+                    },
+                    {
+                        "start": "1.962",
+                        "text": "괴물의"
+                    },
+                    {
+                        "start": "2.829",
+                        "text": "아빠가"
+                    },
+                    {
+                        "start": "4.253",
+                        "text": "괴물을"
+                    },
+                    {
+                        "start": "5.500",
+                        "text": "시내로"
+                    },
+                    {
+                        "start": "6.748",
+                        "text": "심부름을"
+                    },
+                    {
+                        "start": "7.918",
+                        "text": "보내셨어요."
+                    },
+                    {
+                        "start": "10.321",
+                        "text": "괴물이"
+                    },
+                    {
+                        "start": "11.631",
+                        "text": "시내에"
+                    },
+                    {
+                        "start": "12.810",
+                        "text": "도착했을"
+                    },
+                    {
+                        "start": "13.925",
+                        "text": "때"
+                    },
+                    {
+                        "start": "14.948",
+                        "text": "자동차와"
+                    },
+                    {
+                        "start": "16.530",
+                        "text": "소음에"
+                    },
+                    {
+                        "start": "17.515",
+                        "text": "놀라서"
+                    },
+                    {
+                        "start": "18.761",
+                        "text": "겁을"
+                    },
+                    {
+                        "start": "19.557",
+                        "text": "먹었어요."
+                    },
+                    {
+                        "start": "22.000",
+                        "text": "그때,"
+                    },
+                    {
+                        "start": "23.123",
+                        "text": "이글이의"
+                    },
+                    {
+                        "start": "24.138",
+                        "text": "방을"
+                    },
+                    {
+                        "start": "24.833",
+                        "text": "발견해서"
+                    },
+                    {
+                        "start": "26.497",
+                        "text": "그"
+                    },
+                    {
+                        "start": "26.828",
+                        "text": "안에"
+                    },
+                    {
+                        "start": "28.000",
+                        "text": "숨기로"
+                    },
+                    {
+                        "start": "29.258",
+                        "text": "했던"
+                    },
+                    {
+                        "start": "30.095",
+                        "text": "거였어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "When Eagle, Luna, and the monster realized there was nothing to be afraid of, they started laughing. Finally, Eagle and Luna helped him get back home where his father was waiting for him.",
+                "textES": "Eagle, Luna y el monstruo del armario rieron al darse cuenta que no había nada que temer. Al final lo ayudaron a regresar a su casa, donde su padre lo estaba esperando.",
+                "textPT": "Quando Eagle, Luna e o monstro perceberam que não havia motivo para ter medo, começaram a rir. Por fim, Eagle e Luna o ajudaram a voltar para casa, onde seu pai estava esperando por ele. ",
+                "textCN": "当伊戈、鲁娜和怪物都意识到没有什么可害怕的时候，他们开始大笑起来。最后，伊戈和鲁娜帮怪物回到了家，他父亲正在家里等着他回来呢。 ",
+                "textJP": "ヨゴターも モンスターも、なにも こわがることはないと わかると、みんなで わらいました。そして、イーグルとルナは モンスターが おとうさんの まっている いえに かえれるように たすけてあげました。 ",
+                "textKR": "마침내 이글이와 루나 그리고 괴물은 아무것도 무서워할 게 없다고 알게 되어서 다들 웃었어요. 이글이와 루나는 괴물을 집에 데려다주었어요. 괴물이네 집에 도착했을 때 괴물의 아빠가 괴물을 기다리고 계셨어요.",
+                "wordsES": [
+                    {
+                        "start": "0.127",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "0.971",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "1.595",
+                        "text": "y"
+                    },
+                    {
+                        "start": "1.780",
+                        "text": "el"
+                    },
+                    {
+                        "start": "1.919",
+                        "text": "monstruo"
+                    },
+                    {
+                        "start": "2.312",
+                        "text": "del"
+                    },
+                    {
+                        "start": "2.497",
+                        "text": "armario"
+                    },
+                    {
+                        "start": "3.468",
+                        "text": "rieron"
+                    },
+                    {
+                        "start": "4.046",
+                        "text": "al"
+                    },
+                    {
+                        "start": "4.346",
+                        "text": "darse"
+                    },
+                    {
+                        "start": "4.785",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "5.363",
+                        "text": "que"
+                    },
+                    {
+                        "start": "5.479",
+                        "text": "no"
+                    },
+                    {
+                        "start": "5.618",
+                        "text": "había"
+                    },
+                    {
+                        "start": "6.034",
+                        "text": "nada"
+                    },
+                    {
+                        "start": "6.427",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.681",
+                        "text": "temer."
+                    },
+                    {
+                        "start": "8.161",
+                        "text": "Al"
+                    },
+                    {
+                        "start": "8.438",
+                        "text": "final"
+                    },
+                    {
+                        "start": "9.016",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "9.155",
+                        "text": "ayudaron"
+                    },
+                    {
+                        "start": "9.756",
+                        "text": "a"
+                    },
+                    {
+                        "start": "9.894",
+                        "text": "regresar"
+                    },
+                    {
+                        "start": "10.403",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.496",
+                        "text": "su"
+                    },
+                    {
+                        "start": "10.727",
+                        "text": "casa,"
+                    },
+                    {
+                        "start": "11.952",
+                        "text": "donde"
+                    },
+                    {
+                        "start": "12.391",
+                        "text": "su"
+                    },
+                    {
+                        "start": "12.599",
+                        "text": "padre"
+                    },
+                    {
+                        "start": "13.177",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "13.339",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "13.686",
+                        "text": "esperando."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.671",
+                        "text": "When"
+                    },
+                    {
+                        "start": "0.897",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "1.440",
+                        "text": "Luna,"
+                    },
+                    {
+                        "start": "1.972",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.110",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.249",
+                        "text": "monster"
+                    },
+                    {
+                        "start": "2.998",
+                        "text": "realized"
+                    },
+                    {
+                        "start": "3.560",
+                        "text": "there"
+                    },
+                    {
+                        "start": "3.679",
+                        "text": "was"
+                    },
+                    {
+                        "start": "3.876",
+                        "text": "nothing"
+                    },
+                    {
+                        "start": "4.310",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.467",
+                        "text": "be"
+                    },
+                    {
+                        "start": "4.586",
+                        "text": "afraid"
+                    },
+                    {
+                        "start": "4.921",
+                        "text": "of,"
+                    },
+                    {
+                        "start": "5.464",
+                        "text": "they"
+                    },
+                    {
+                        "start": "5.710",
+                        "text": "started"
+                    },
+                    {
+                        "start": "6.164",
+                        "text": "laughing."
+                    },
+                    {
+                        "start": "7.574",
+                        "text": "Finally,"
+                    },
+                    {
+                        "start": "8.501",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "8.905",
+                        "text": "and"
+                    },
+                    {
+                        "start": "8.984",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "9.477",
+                        "text": "helped"
+                    },
+                    {
+                        "start": "9.763",
+                        "text": "him"
+                    },
+                    {
+                        "start": "9.921",
+                        "text": "get"
+                    },
+                    {
+                        "start": "10.128",
+                        "text": "back"
+                    },
+                    {
+                        "start": "10.395",
+                        "text": "home"
+                    },
+                    {
+                        "start": "10.769",
+                        "text": "where"
+                    },
+                    {
+                        "start": "10.986",
+                        "text": "his"
+                    },
+                    {
+                        "start": "11.272",
+                        "text": "father"
+                    },
+                    {
+                        "start": "11.647",
+                        "text": "was"
+                    },
+                    {
+                        "start": "11.854",
+                        "text": "waiting"
+                    },
+                    {
+                        "start": "12.278",
+                        "text": "for"
+                    },
+                    {
+                        "start": "12.485",
+                        "text": "him."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "마침내"
+                    },
+                    {
+                        "start": "1.560",
+                        "text": "이글이와"
+                    },
+                    {
+                        "start": "2.600",
+                        "text": "루나"
+                    },
+                    {
+                        "start": "3.691",
+                        "text": "그리고"
+                    },
+                    {
+                        "start": "4.564",
+                        "text": "괴물은"
+                    },
+                    {
+                        "start": "6.871",
+                        "text": "아무것도"
+                    },
+                    {
+                        "start": "7.173",
+                        "text": "무서워할"
+                    },
+                    {
+                        "start": "8.286",
+                        "text": "게"
+                    },
+                    {
+                        "start": "9.247",
+                        "text": "없다고"
+                    },
+                    {
+                        "start": "10.218",
+                        "text": "알게"
+                    },
+                    {
+                        "start": "10.991",
+                        "text": "되어서"
+                    },
+                    {
+                        "start": "12.231",
+                        "text": "다들"
+                    },
+                    {
+                        "start": "12.900",
+                        "text": "웃었어요."
+                    },
+                    {
+                        "start": "15.113",
+                        "text": "이글이와"
+                    },
+                    {
+                        "start": "16.195",
+                        "text": "루나는"
+                    },
+                    {
+                        "start": "17.415",
+                        "text": "괴물을"
+                    },
+                    {
+                        "start": "18.730",
+                        "text": "집에"
+                    },
+                    {
+                        "start": "19.741",
+                        "text": "데려다주었어요."
+                    },
+                    {
+                        "start": "23.404",
+                        "text": "괴물이네"
+                    },
+                    {
+                        "start": "24.448",
+                        "text": "집에"
+                    },
+                    {
+                        "start": "25.482",
+                        "text": "도착했을"
+                    },
+                    {
+                        "start": "26.644",
+                        "text": "때"
+                    },
+                    {
+                        "start": "27.846",
+                        "text": "괴물의"
+                    },
+                    {
+                        "start": "28.750",
+                        "text": "아빠가"
+                    },
+                    {
+                        "start": "30.126",
+                        "text": "괴물을"
+                    },
+                    {
+                        "start": "31.493",
+                        "text": "기다리고"
+                    },
+                    {
+                        "start": "32.546",
+                        "text": "계셨어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

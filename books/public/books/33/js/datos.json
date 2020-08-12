@@ -1,0 +1,2636 @@
+{
+    "book": {
+        "titleEN": "Hero",
+        "titleES": "Héroe",
+        "titlePT": "Herói",
+        "titleCN": "英雄",
+        "titleJP": "ヒーロー",
+        "titleKR": "영웅",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "After a successful mission, the Yogotars went back to the academy. Oof could only think about food. Estrella and Dinamita just wanted to watch football. And Luna was focused on finding the cure for a rare disease.",
+                "textES": "Después de una exitosa misión, los Yogotars llegaron a la academia. Oof sólo pensaba en comida, Estrella y Dinamita sólo querían ver el fútbol. Mientras Luna sólo tenía cabeza para encontrar la cura de una enfermedad desconocida.",
+                "textPT": "Depois de uma missão bem-sucedida, os Yogotars voltaram para a academia. Oof só pensava em comida, Estrella e Dinamita queriam assistir ao jogo de futebol. E Luna estava concentrada em encontrar a cura para uma doença rara.",
+                "textCN": "圆满完成任务后，Yogotar们回到了学院。奥夫只想吃东西，埃斯特雷拉和迪纳米特只想看足球赛，而鲁娜则在专心致志地寻找治疗罕见疾病的方法。",
+                "textJP": "ミッションを ぶじに おえた ヨゴターたちは、アカデミーに かえってきました。ウーフは たべることで あたまがいっぱいです。エストレラとディナミタは フットボールを 見ることになっています。そしてルナは めずらしい びょうきをなおす ほうほうを けんきゅうしています。",
+                "textKR": "미션을 성공적으로 마친 요고타들은 아카데미로 돌아왔어요. 우프는 음식을 먹을 생각만 하고 있었고, 에스트레야와 다이나미타는 축구 경기를 보고 싶었어요. 그리고 루나는 희귀한 질병을 치료할 방법을 찾는 데 집중하고 있었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.122",
+                        "text": "Despues"
+                    },
+                    {
+                        "start": "0.815",
+                        "text": "de"
+                    },
+                    {
+                        "start": "0.931",
+                        "text": "una"
+                    },
+                    {
+                        "start": "1.139",
+                        "text": "exitosa"
+                    },
+                    {
+                        "start": "1.764",
+                        "text": "mision,"
+                    },
+                    {
+                        "start": "2.925",
+                        "text": "los,"
+                    },
+                    {
+                        "start": "3.218",
+                        "text": "yogotars"
+                    },
+                    {
+                        "start": "3.980",
+                        "text": "llegaron"
+                    },
+                    {
+                        "start": "4.540",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.596",
+                        "text": "la"
+                    },
+                    {
+                        "start": "4.699",
+                        "text": "academia."
+                    },
+                    {
+                        "start": "6.676",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "7.234",
+                        "text": "solo"
+                    },
+                    {
+                        "start": "7.862",
+                        "text": "pensaba"
+                    },
+                    {
+                        "start": "8.290",
+                        "text": "en"
+                    },
+                    {
+                        "start": "8.511",
+                        "text": "comida"
+                    },
+                    {
+                        "start": "9.981",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "10.661",
+                        "text": "y"
+                    },
+                    {
+                        "start": "10.740",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "11.919",
+                        "text": "solo"
+                    },
+                    {
+                        "start": "12.430",
+                        "text": "querian"
+                    },
+                    {
+                        "start": "12.987",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "13.150",
+                        "text": "el"
+                    },
+                    {
+                        "start": "13.431",
+                        "text": "futbol."
+                    },
+                    {
+                        "start": "15.054",
+                        "text": "Mientras"
+                    },
+                    {
+                        "start": "15.716",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "16.702",
+                        "text": "solo"
+                    },
+                    {
+                        "start": "17.259",
+                        "text": "tenia"
+                    },
+                    {
+                        "start": "17.622",
+                        "text": "cabeza"
+                    },
+                    {
+                        "start": "18.618",
+                        "text": "para"
+                    },
+                    {
+                        "start": "18.731",
+                        "text": "encontrar"
+                    },
+                    {
+                        "start": "19.318",
+                        "text": "la"
+                    },
+                    {
+                        "start": "19.610",
+                        "text": "cura"
+                    },
+                    {
+                        "start": "20.008",
+                        "text": "de"
+                    },
+                    {
+                        "start": "20.195",
+                        "text": "una"
+                    },
+                    {
+                        "start": "20.423",
+                        "text": "enfermedad"
+                    },
+                    {
+                        "start": "21.242",
+                        "text": "desconocida."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.609",
+                        "text": "After"
+                    },
+                    {
+                        "start": "1.004",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.070",
+                        "text": "successful"
+                    },
+                    {
+                        "start": "1.843",
+                        "text": "mission"
+                    },
+                    {
+                        "start": "2.600",
+                        "text": "the,"
+                    },
+                    {
+                        "start": "2.765",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "3.489",
+                        "text": "went"
+                    },
+                    {
+                        "start": "3.637",
+                        "text": "back"
+                    },
+                    {
+                        "start": "4.016",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.115",
+                        "text": "the,"
+                    },
+                    {
+                        "start": "4.230",
+                        "text": "academy."
+                    },
+                    {
+                        "start": "5.481",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "5.810",
+                        "text": "could"
+                    },
+                    {
+                        "start": "6.106",
+                        "text": "only"
+                    },
+                    {
+                        "start": "6.600",
+                        "text": "think"
+                    },
+                    {
+                        "start": "6.830",
+                        "text": "about"
+                    },
+                    {
+                        "start": "7.110",
+                        "text": "food,"
+                    },
+                    {
+                        "start": "8.131",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "8.855",
+                        "text": "and"
+                    },
+                    {
+                        "start": "9.036",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "9.678",
+                        "text": "just"
+                    },
+                    {
+                        "start": "9.974",
+                        "text": "wanted"
+                    },
+                    {
+                        "start": "10.336",
+                        "text": "to"
+                    },
+                    {
+                        "start": "10.451",
+                        "text": "watch"
+                    },
+                    {
+                        "start": "10.715",
+                        "text": "football,"
+                    },
+                    {
+                        "start": "11.867",
+                        "text": "and"
+                    },
+                    {
+                        "start": "12.031",
+                        "text": "Luna"
+                    },
+                    {
+                        "start": "12.492",
+                        "text": "was"
+                    },
+                    {
+                        "start": "12.821",
+                        "text": "focused"
+                    },
+                    {
+                        "start": "13.151",
+                        "text": "on"
+                    },
+                    {
+                        "start": "13.381",
+                        "text": "finding"
+                    },
+                    {
+                        "start": "13.710",
+                        "text": "the"
+                    },
+                    {
+                        "start": "14.007",
+                        "text": "cure"
+                    },
+                    {
+                        "start": "14.402",
+                        "text": "for"
+                    },
+                    {
+                        "start": "14.524",
+                        "text": "a"
+                    },
+                    {
+                        "start": "14.648",
+                        "text": "rare"
+                    },
+                    {
+                        "start": "15.076",
+                        "text": "disease"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.000",
+                        "text": "미션을"
+                    },
+                    {
+                        "start": "1.097",
+                        "text": "성공적으로"
+                    },
+                    {
+                        "start": "2.415",
+                        "text": "마친"
+                    },
+                    {
+                        "start": "3.476",
+                        "text": "요고타들은"
+                    },
+                    {
+                        "start": "5.119",
+                        "text": "아카데미로"
+                    },
+                    {
+                        "start": "6.422",
+                        "text": "돌아왔어요."
+                    },
+                    {
+                        "start": "8.685",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "9.950",
+                        "text": "음식을"
+                    },
+                    {
+                        "start": "10.800",
+                        "text": "먹을"
+                    },
+                    {
+                        "start": "11.465",
+                        "text": "생각만"
+                    },
+                    {
+                        "start": "12.691",
+                        "text": "하고"
+                    },
+                    {
+                        "start": "13.377",
+                        "text": "있었고,"
+                    },
+                    {
+                        "start": "14.800",
+                        "text": "에스트레야와"
+                    },
+                    {
+                        "start": "16.551",
+                        "text": "다이나미타는"
+                    },
+                    {
+                        "start": "18.432",
+                        "text": "축구"
+                    },
+                    {
+                        "start": "19.082",
+                        "text": "경기를"
+                    },
+                    {
+                        "start": "20.308",
+                        "text": "보고"
+                    },
+                    {
+                        "start": "20.809",
+                        "text": "싶었어요."
+                    },
+                    {
+                        "start": "23.000",
+                        "text": "그리고"
+                    },
+                    {
+                        "start": "23.821",
+                        "text": "루나는"
+                    },
+                    {
+                        "start": "25.015",
+                        "text": "희귀한"
+                    },
+                    {
+                        "start": "25.826",
+                        "text": "질병을"
+                    },
+                    {
+                        "start": "27.058",
+                        "text": "치료할"
+                    },
+                    {
+                        "start": "27.885",
+                        "text": "방법을"
+                    },
+                    {
+                        "start": "28.773",
+                        "text": "찾는"
+                    },
+                    {
+                        "start": "29.281",
+                        "text": "데"
+                    },
+                    {
+                        "start": "30.103",
+                        "text": "집중하고"
+                    },
+                    {
+                        "start": "31.200",
+                        "text": "있었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "Tomiko waited for everyone to start their activities and approached Eagle.</br></br> &#34;Hey Eagle, what should I do to become a hero?&#34; asked Tomiko. </br></br>Surprised, Eagle looked at her inquisitively.",
+                "textES": "Tomiko esperó a que todos iniciaran sus actividades y se acercó a Eagle.</br></br> -Oye Eagle, ¿Qué debo hacer para ser una heroína? –preguntó Tomiko.</br> Eagle la observó con sorpresa.",
+                "textPT": "Tomiko esperou todo mundo começar suas atividades e foi falar com Eagle. </br></br>&#34;Eagle, o que eu preciso fazer para me tornar uma heroína?&#34;, perguntou Tomiko. </br></br> Surpreso, Eagle olhou para ela com cara de curiosidade.",
+                "textCN": "富子等大家都忙起来后，朝伊戈走去。</br></br>&#34;嘿，伊戈，我怎么做才能成为英雄？&#34;富子问。 </br></br>伊戈吃惊而狐疑地看着她。",
+                "textJP": "トミコは みんながそれぞれ いそがしくなるのをまって、イーグルに 近づきました。</br></br>ねえ イーグル、どうすれば ヒーローになれるの？」トミコが たずねました。</br></br>イーグルは おどろいて、ふしぎなかおで トミコをみつめました。",
+                "textKR": "토미코는 친구들이 흩어질 때까지 기다렸다가 이글이에게 다가갔어요.</br></br>&#34;이글아, 영웅이 되려면 무엇을 해야 할까?&#34; 토미코가 물었어요.</br></br>놀란 이글이가 호기심이 가득한 눈으로 토미코를 바라봤어요.",
+                "wordsES": [
+                    {
+                        "start": "0.119",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "0.561",
+                        "text": "espero"
+                    },
+                    {
+                        "start": "1.025",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.232",
+                        "text": "que"
+                    },
+                    {
+                        "start": "1.438",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "1.801",
+                        "text": "iniciaran"
+                    },
+                    {
+                        "start": "2.265",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "2.505",
+                        "text": "actividades"
+                    },
+                    {
+                        "start": "3.807",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.895",
+                        "text": "se"
+                    },
+                    {
+                        "start": "4.021",
+                        "text": "acerco"
+                    },
+                    {
+                        "start": "4.601",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.735",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "6.707",
+                        "text": "Oye"
+                    },
+                    {
+                        "start": "7.178",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "8.200",
+                        "text": "¿Que"
+                    },
+                    {
+                        "start": "8.338",
+                        "text": "debo"
+                    },
+                    {
+                        "start": "9.004",
+                        "text": "hacer"
+                    },
+                    {
+                        "start": "9.048",
+                        "text": "para"
+                    },
+                    {
+                        "start": "9.201",
+                        "text": "ser"
+                    },
+                    {
+                        "start": "9.437",
+                        "text": "una"
+                    },
+                    {
+                        "start": "9.639",
+                        "text": "heroina?"
+                    },
+                    {
+                        "start": "11.623",
+                        "text": "pregunto"
+                    },
+                    {
+                        "start": "12.247",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "13.896",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "14.392",
+                        "text": "la"
+                    },
+                    {
+                        "start": "14.621",
+                        "text": "observo"
+                    },
+                    {
+                        "start": "15.144",
+                        "text": "con"
+                    },
+                    {
+                        "start": "15.371",
+                        "text": "sorpresa."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.675",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "1.284",
+                        "text": "waited"
+                    },
+                    {
+                        "start": "1.629",
+                        "text": "for"
+                    },
+                    {
+                        "start": "1.843",
+                        "text": "everyone"
+                    },
+                    {
+                        "start": "2.304",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.436",
+                        "text": "start"
+                    },
+                    {
+                        "start": "2.831",
+                        "text": "their"
+                    },
+                    {
+                        "start": "2.913",
+                        "text": "activities"
+                    },
+                    {
+                        "start": "3.868",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.131",
+                        "text": "approached"
+                    },
+                    {
+                        "start": "4.641",
+                        "text": "Eagle."
+                    },
+                    {
+                        "start": "5.761",
+                        "text": "Hey"
+                    },
+                    {
+                        "start": "5.958",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "6.633",
+                        "text": "what"
+                    },
+                    {
+                        "start": "6.814",
+                        "text": "should"
+                    },
+                    {
+                        "start": "6.995",
+                        "text": "I"
+                    },
+                    {
+                        "start": "7.242",
+                        "text": "do"
+                    },
+                    {
+                        "start": "7.472",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.637",
+                        "text": "become"
+                    },
+                    {
+                        "start": "8.081",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.328",
+                        "text": "hero?"
+                    },
+                    {
+                        "start": "9.266",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "9.694",
+                        "text": "Tomiko."
+                    },
+                    {
+                        "start": "11.011",
+                        "text": "Surprised,"
+                    },
+                    {
+                        "start": "12.064",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "12.394",
+                        "text": "looked"
+                    },
+                    {
+                        "start": "12.542",
+                        "text": "at"
+                    },
+                    {
+                        "start": "12.739",
+                        "text": "her"
+                    },
+                    {
+                        "start": "13.216",
+                        "text": "inquisitively."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.000",
+                        "text": "토미코는"
+                    },
+                    {
+                        "start": "1.455",
+                        "text": "친구들이"
+                    },
+                    {
+                        "start": "2.815",
+                        "text": "흩어질"
+                    },
+                    {
+                        "start": "3.790",
+                        "text": "때까지"
+                    },
+                    {
+                        "start": "4.811",
+                        "text": "기다렸다가"
+                    },
+                    {
+                        "start": "6.495",
+                        "text": "이글이에게"
+                    },
+                    {
+                        "start": "7.683",
+                        "text": "다가갔어요."
+                    },
+                    {
+                        "start": "10.523",
+                        "text": "이글아,"
+                    },
+                    {
+                        "start": "11.922",
+                        "text": "영웅이"
+                    },
+                    {
+                        "start": "12.653",
+                        "text": "되려면"
+                    },
+                    {
+                        "start": "13.838",
+                        "text": "무엇을"
+                    },
+                    {
+                        "start": "14.600",
+                        "text": "해야"
+                    },
+                    {
+                        "start": "14.926",
+                        "text": "할까?"
+                    },
+                    {
+                        "start": "17.069",
+                        "text": "토미코가"
+                    },
+                    {
+                        "start": "18.339",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "20.417",
+                        "text": "놀란"
+                    },
+                    {
+                        "start": "21.159",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "22.481",
+                        "text": "호기심이"
+                    },
+                    {
+                        "start": "23.821",
+                        "text": "가득한"
+                    },
+                    {
+                        "start": "24.843",
+                        "text": "눈으로"
+                    },
+                    {
+                        "start": "26.011",
+                        "text": "토미코를"
+                    },
+                    {
+                        "start": "27.239",
+                        "text": "바라봤어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "&#34;What makes you think you aren't one already?&#34 asked Eagle.</br></br> &#34;We just faced a group of bad guys and I could barely fight one&#34, replied Tomiko.",
+                "textES": "¿Qué te hace pensar que no eres una? –preguntó Eagle.</br> -Hace unos momentos enfrentamos a una banda de maleantes y apenas pude enfrentar a uno -dijo Tomiko. ",
+                "textPT": "&#34;O que faz você pensar que não é uma heroína?&#34;, perguntou Eagle.</br></br>&#34;A gente acabou de enfrentar um grupo de vilões, e eu mal consegui lutar contra um deles&#34;, respondeu Tomiko.",
+                "textCN": "“你为什么认为自己还不是英雄？”伊戈问道。<br><br>“我们刚刚面对一群坏蛋，而我却仅能勉强应付一个，”富子回答。",
+                "textJP": "「どうして じぶんが ヒーローじゃないと おもうんだい？」イーグルが たずねました。</br></br>「さっき わるものたちと たたかったとき、わたし ほとんどなにも できなかったわ」トミコは こたえました。",
+                "textKR": "&#34;왜 네가 아직도 영웅이 아니라고 생각해?&#34; 이글이가 물었어요.</br></br>&#34;우리가 악당들을 만났을 때 나는 겨우 한 명만 상대할 수 있었어.&#34; 토미코가 대답했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.112",
+                        "text": "¡Que"
+                    },
+                    {
+                        "start": "0.395",
+                        "text": "te"
+                    },
+                    {
+                        "start": "0.524",
+                        "text": "hace"
+                    },
+                    {
+                        "start": "0.848",
+                        "text": "pensar"
+                    },
+                    {
+                        "start": "1.423",
+                        "text": "que"
+                    },
+                    {
+                        "start": "1.617",
+                        "text": "no"
+                    },
+                    {
+                        "start": "1.757",
+                        "text": "eres"
+                    },
+                    {
+                        "start": "2.141",
+                        "text": "una?"
+                    },
+                    {
+                        "start": "3.831",
+                        "text": "pregunto"
+                    },
+                    {
+                        "start": "4.555",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "6.443",
+                        "text": "Hace"
+                    },
+                    {
+                        "start": "6.734",
+                        "text": "unos"
+                    },
+                    {
+                        "start": "7.064",
+                        "text": "momentos"
+                    },
+                    {
+                        "start": "8.206",
+                        "text": "enferentamos"
+                    },
+                    {
+                        "start": "9.014",
+                        "text": "a"
+                    },
+                    {
+                        "start": "9.108",
+                        "text": "una"
+                    },
+                    {
+                        "start": "9.444",
+                        "text": "banda"
+                    },
+                    {
+                        "start": "9.787",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.905",
+                        "text": "maleantes"
+                    },
+                    {
+                        "start": "10.988",
+                        "text": "y"
+                    },
+                    {
+                        "start": "11.071",
+                        "text": "apenas"
+                    },
+                    {
+                        "start": "11.749",
+                        "text": "pude"
+                    },
+                    {
+                        "start": "11.964",
+                        "text": "enfrentar"
+                    },
+                    {
+                        "start": "12.603",
+                        "text": "a"
+                    },
+                    {
+                        "start": "12.751",
+                        "text": "uno"
+                    },
+                    {
+                        "start": "14.463",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "14.901",
+                        "text": "Tomiko"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.642",
+                        "text": "What"
+                    },
+                    {
+                        "start": "0.856",
+                        "text": "makes"
+                    },
+                    {
+                        "start": "1.201",
+                        "text": "you"
+                    },
+                    {
+                        "start": "1.415",
+                        "text": "think"
+                    },
+                    {
+                        "start": "1.761",
+                        "text": "you"
+                    },
+                    {
+                        "start": "2.041",
+                        "text": "aren't"
+                    },
+                    {
+                        "start": "2.452",
+                        "text": "one"
+                    },
+                    {
+                        "start": "2.666",
+                        "text": "already?"
+                    },
+                    {
+                        "start": "3.539",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "3.967",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "5.168",
+                        "text": "We"
+                    },
+                    {
+                        "start": "5.333",
+                        "text": "just"
+                    },
+                    {
+                        "start": "5.580",
+                        "text": "faced"
+                    },
+                    {
+                        "start": "5.843",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.925",
+                        "text": "group"
+                    },
+                    {
+                        "start": "6.172",
+                        "text": "of"
+                    },
+                    {
+                        "start": "6.304",
+                        "text": "bad"
+                    },
+                    {
+                        "start": "6.584",
+                        "text": "guys"
+                    },
+                    {
+                        "start": "6.913",
+                        "text": "and"
+                    },
+                    {
+                        "start": "7.061",
+                        "text": "I"
+                    },
+                    {
+                        "start": "7.258",
+                        "text": "could"
+                    },
+                    {
+                        "start": "7.439",
+                        "text": "barely"
+                    },
+                    {
+                        "start": "7.867",
+                        "text": "fight"
+                    },
+                    {
+                        "start": "8.180",
+                        "text": "one"
+                    },
+                    {
+                        "start": "9.003",
+                        "text": "replied"
+                    },
+                    {
+                        "start": "9.480",
+                        "text": "Tomiko."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.000",
+                        "text": "왜"
+                    },
+                    {
+                        "start": "0.346",
+                        "text": "네가"
+                    },
+                    {
+                        "start": "1.290",
+                        "text": "아직도"
+                    },
+                    {
+                        "start": "2.160",
+                        "text": "영웅이"
+                    },
+                    {
+                        "start": "2.940",
+                        "text": "아니라고"
+                    },
+                    {
+                        "start": "3.780",
+                        "text": "생각해?"
+                    },
+                    {
+                        "start": "5.390",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "6.517",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "8.643",
+                        "text": "우리가"
+                    },
+                    {
+                        "start": "9.369",
+                        "text": "악당들을"
+                    },
+                    {
+                        "start": "10.469",
+                        "text": "만났을"
+                    },
+                    {
+                        "start": "11.213",
+                        "text": "때"
+                    },
+                    {
+                        "start": "11.977",
+                        "text": "나는"
+                    },
+                    {
+                        "start": "12.660",
+                        "text": "겨우"
+                    },
+                    {
+                        "start": "13.692",
+                        "text": "한"
+                    },
+                    {
+                        "start": "13.950",
+                        "text": "명만"
+                    },
+                    {
+                        "start": "14.601",
+                        "text": "상대할"
+                    },
+                    {
+                        "start": "15.331",
+                        "text": "수"
+                    },
+                    {
+                        "start": "15.774",
+                        "text": "있었어."
+                    },
+                    {
+                        "start": "17.467",
+                        "text": "토미코가"
+                    },
+                    {
+                        "start": "18.762",
+                        "text": "대답했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "&#34;A hero isn&#39;t only defined by their skills and strength. A hero is defined by their actions, and above all, by their courage said Eagle.&#34;</br></br> &#34;It&#39;s easy for you to say, everybody thinks you&#39;re a hero&#34; said Tomiko, not very convinced.",
+                "textES": "Un héroe no sólo se define por sus habilidades y fuerza. Se define por sus acciones y sobre todo su valor -dijo Eagle.</br></br> -Para ti es fácil decirlo, todos te ven como un héroe -dijo Tomiko sin estar muy convencida.",
+                "textPT": "&#34;Ser um herói não é só ter habilidades e força. Um herói é definido por suas ações e, acima de tudo, por sua coragem&#34;, disse Eagle.</br></br>&#34;Para você, é fácil dizer. Todo mundo acha que você é um herói&#34;, disse Tomiko, não muito convencida.",
+                "textCN": "&#34;评价一个人是不是英雄，不仅仅看这个人的技能和力量。一个人之所以是英雄，是因为这个人的所作所为，最重要的一点就是这个人身上所体现出来的勇气。&#34;伊戈说。</br></br>&#34;你说得倒容易，人人都认为你是一个英雄。&#34;富子不太信服地说道。",
+                "textJP": "「ヒーローって わざ とか つよさだけで きまるものじゃないよ。どんなこうどうをするか、そしてなによりも ゆうきがあるかどうかで きまるものさ」イーグルは言いました。</br></br>「口で いうのは かんたんよ。みんなイーグルのこと ヒーローだと おもっているもの」トミコは なっとくできずに 言いました。",
+                "textKR": "&#34;영웅는 능력이나 힘으로 되는 게 아니야. 영웅은 어떤 행동을 하는지, 그리고 무엇보다도 얼마나 용기 있는지를 보고 결정이 되는 거야.&#34; 이글이가 말했어요.</br></br>&#34;너는 그렇게 말하기 쉽겠지. 모두 너를 영웅이라고 생각하니까.&#34; 토미코가 확신 없는 목소리로 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.089",
+                        "text": "Un"
+                    },
+                    {
+                        "start": "0.358",
+                        "text": "heroe"
+                    },
+                    {
+                        "start": "0.755",
+                        "text": "no"
+                    },
+                    {
+                        "start": "0.993",
+                        "text": "solo"
+                    },
+                    {
+                        "start": "1.380",
+                        "text": "se"
+                    },
+                    {
+                        "start": "1.617",
+                        "text": "define"
+                    },
+                    {
+                        "start": "2.139",
+                        "text": "por"
+                    },
+                    {
+                        "start": "2.239",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "2.458",
+                        "text": "habilidades"
+                    },
+                    {
+                        "start": "3.259",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.454",
+                        "text": "fuerza."
+                    },
+                    {
+                        "start": "4.701",
+                        "text": "Se"
+                    },
+                    {
+                        "start": "4.925",
+                        "text": "define"
+                    },
+                    {
+                        "start": "5.452",
+                        "text": "por"
+                    },
+                    {
+                        "start": "5.575",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "5.786",
+                        "text": "acciones"
+                    },
+                    {
+                        "start": "6.839",
+                        "text": "y"
+                    },
+                    {
+                        "start": "6.915",
+                        "text": "sobre"
+                    },
+                    {
+                        "start": "7.374",
+                        "text": "todo"
+                    },
+                    {
+                        "start": "7.636",
+                        "text": "su"
+                    },
+                    {
+                        "start": "7.883",
+                        "text": "valor"
+                    },
+                    {
+                        "start": "9.710",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "10.187",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "11.949",
+                        "text": "Para"
+                    },
+                    {
+                        "start": "12.248",
+                        "text": "ti"
+                    },
+                    {
+                        "start": "12.400",
+                        "text": "es"
+                    },
+                    {
+                        "start": "12.627",
+                        "text": "facil"
+                    },
+                    {
+                        "start": "12.999",
+                        "text": "decirlo,"
+                    },
+                    {
+                        "start": "14.332",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "14.757",
+                        "text": "te"
+                    },
+                    {
+                        "start": "14.879",
+                        "text": "ven"
+                    },
+                    {
+                        "start": "15.176",
+                        "text": "como"
+                    },
+                    {
+                        "start": "15.382",
+                        "text": "un"
+                    },
+                    {
+                        "start": "15.596",
+                        "text": "heroe"
+                    },
+                    {
+                        "start": "17.349",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "17.710",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "18.649",
+                        "text": "sin"
+                    },
+                    {
+                        "start": "18.857",
+                        "text": "estar"
+                    },
+                    {
+                        "start": "19.321",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "19.627",
+                        "text": "convencida."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.823",
+                        "text": "A"
+                    },
+                    {
+                        "start": "1.070",
+                        "text": "hero"
+                    },
+                    {
+                        "start": "1.448",
+                        "text": "isn't"
+                    },
+                    {
+                        "start": "1.794",
+                        "text": "only"
+                    },
+                    {
+                        "start": "2.140",
+                        "text": "defined"
+                    },
+                    {
+                        "start": "2.568",
+                        "text": "by"
+                    },
+                    {
+                        "start": "2.782",
+                        "text": "their"
+                    },
+                    {
+                        "start": "2.913",
+                        "text": "skills"
+                    },
+                    {
+                        "start": "3.489",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.670",
+                        "text": "strength."
+                    },
+                    {
+                        "start": "4.806",
+                        "text": "A"
+                    },
+                    {
+                        "start": "5.036",
+                        "text": "hero"
+                    },
+                    {
+                        "start": "5.530",
+                        "text": "is"
+                    },
+                    {
+                        "start": "5.662",
+                        "text": "defined"
+                    },
+                    {
+                        "start": "6.221",
+                        "text": "by"
+                    },
+                    {
+                        "start": "6.419",
+                        "text": "their"
+                    },
+                    {
+                        "start": "6.666",
+                        "text": "actions,"
+                    },
+                    {
+                        "start": "7.670",
+                        "text": "and"
+                    },
+                    {
+                        "start": "7.950",
+                        "text": "above"
+                    },
+                    {
+                        "start": "8.147",
+                        "text": "all,"
+                    },
+                    {
+                        "start": "8.805",
+                        "text": "by"
+                    },
+                    {
+                        "start": "8.987",
+                        "text": "their"
+                    },
+                    {
+                        "start": "9.201",
+                        "text": "courage"
+                    },
+                    {
+                        "start": "10.205",
+                        "text": "said"
+                    },
+                    {
+                        "start": "10.501",
+                        "text": "Eagle."
+                    },
+                    {
+                        "start": "11.544",
+                        "text": "Its"
+                    },
+                    {
+                        "start": "11.735",
+                        "text": "easy"
+                    },
+                    {
+                        "start": "12.064",
+                        "text": "for,"
+                    },
+                    {
+                        "start": "12.295",
+                        "text": "you"
+                    },
+                    {
+                        "start": "12.558",
+                        "text": "to"
+                    },
+                    {
+                        "start": "12.640",
+                        "text": "said"
+                    },
+                    {
+                        "start": "13.414",
+                        "text": "everybody"
+                    },
+                    {
+                        "start": "14.072",
+                        "text": "thinks"
+                    },
+                    {
+                        "start": "14.451",
+                        "text": "you're"
+                    },
+                    {
+                        "start": "14.928",
+                        "text": "a"
+                    },
+                    {
+                        "start": "14.979",
+                        "text": "hero"
+                    },
+                    {
+                        "start": "15.751",
+                        "text": "said"
+                    },
+                    {
+                        "start": "16.031",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "16.837",
+                        "text": "not"
+                    },
+                    {
+                        "start": "17.200",
+                        "text": "very"
+                    },
+                    {
+                        "start": "17.545",
+                        "text": "convinced"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.000",
+                        "text": "영웅은"
+                    },
+                    {
+                        "start": "1.232",
+                        "text": "능력이나"
+                    },
+                    {
+                        "start": "2.583",
+                        "text": "힘으로"
+                    },
+                    {
+                        "start": "3.407",
+                        "text": "되는"
+                    },
+                    {
+                        "start": "3.817",
+                        "text": "게"
+                    },
+                    {
+                        "start": "4.305",
+                        "text": "아니야."
+                    },
+                    {
+                        "start": "5.823",
+                        "text": "영웅은"
+                    },
+                    {
+                        "start": "7.082",
+                        "text": "어떤"
+                    },
+                    {
+                        "start": "7.880",
+                        "text": "행동을"
+                    },
+                    {
+                        "start": "8.600",
+                        "text": "하는지,"
+                    },
+                    {
+                        "start": "10.026",
+                        "text": "그리고"
+                    },
+                    {
+                        "start": "11.022",
+                        "text": "무엇보다도"
+                    },
+                    {
+                        "start": "12.512",
+                        "text": "얼마나"
+                    },
+                    {
+                        "start": "13.326",
+                        "text": "용기"
+                    },
+                    {
+                        "start": "14.040",
+                        "text": "있는지를"
+                    },
+                    {
+                        "start": "14.922",
+                        "text": "보고"
+                    },
+                    {
+                        "start": "15.868",
+                        "text": "결정이"
+                    },
+                    {
+                        "start": "16.658",
+                        "text": "되는"
+                    },
+                    {
+                        "start": "17.097",
+                        "text": "거야."
+                    },
+                    {
+                        "start": "18.536",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "19.642",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "22.776",
+                        "text": "너는"
+                    },
+                    {
+                        "start": "23.464",
+                        "text": "그렇게"
+                    },
+                    {
+                        "start": "24.215",
+                        "text": "말하기"
+                    },
+                    {
+                        "start": "24.879",
+                        "text": "쉽겠지."
+                    },
+                    {
+                        "start": "26.516",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "27.126",
+                        "text": "너를"
+                    },
+                    {
+                        "start": "27.938",
+                        "text": "영웅이라고"
+                    },
+                    {
+                        "start": "29.100",
+                        "text": "생각하니까."
+                    },
+                    {
+                        "start": "31.532",
+                        "text": "토미코가"
+                    },
+                    {
+                        "start": "32.903",
+                        "text": "확신"
+                    },
+                    {
+                        "start": "33.578",
+                        "text": "없는"
+                    },
+                    {
+                        "start": "34.200",
+                        "text": "목소리로"
+                    },
+                    {
+                        "start": "35.472",
+                        "text": "말했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "&#34;Remember that time when my jet pack broke down and I almost fell into the abyss?&#34; asked Eagle. <br><br>&#34;Yes, I remember hurting my leg, but I managed to grab you before you fell,&#34; said Tomiko. &#34;Anybody who risks themselves for the sake of another person is a hero. Just like that time you saved me,&#34; replied Eagle.",
+                "textES": "¿Recuerdas aquella vez que se descompuso mi jet pack y casi caigo al abismo? –preguntó Eagle. <br><br>–Sí, recuerdo que me lastimé la pierna, pero logré agarrarte antes de que cayeras –dijo Tomiko. <br><br>–Cualquier persona que se arriesga por otros es un héroe. Como tú lo hiciste esa vez conmigo –contestó Eagle.",
+                "textPT": "“Você se lembra daquela vez que minha mochila a jato quebrou, e eu quase caí no abismo?”, perguntou Eagle. <br><br>“Sim, eu me lembro de ter machucado minha perna, mas consegui agarrar você antes que caísse”, disse Tomiko. <br><br>“Qualquer um que se arrisca por outra pessoa é um herói. Igual àquela vez que você me salvou”, respondeu Eagle.",
+                "textCN": "“还记得那次我的喷气背包坏了，差点跌入深渊吗？”伊戈问道。 <br><br>>“是的，我记得我的腿受伤了，但在你掉下去之前，我拼了命的抓住了你。”富子说。<br><br>“为了别人而甘愿自己冒险的人都是英雄。就像那次你救了我一样。”",
+                "textJP": "「「ぼくのジェットパックが こわれて、ふかいあなに おちそうになったときのこと、おぼえてる？」イーグルが たずねました。 <br><br>「おぼえているわ。わたしは 足を けがしていたけど、あなたが おちるまえに たすけることが できたのよね」トミコが言いました。<br><br>「じぶんを ぎせいにしても ほかの人を たすけようとする人は、ヒーローだよ。トミコが ぼくのことを たすけてくれたときのように。」イーグルが こたえました。",
+                "textKR": "&#34;내 제트팩이 망가져서 내가 깊은 구렁에 빠질뻔할 날을 기억하니?&#34; 이글이가 물었어요. <br><br>&#34;물론이지. 내가 다리를 다치긴 했지만 네가 떨어지기 전에 잡을 수 있었잖아.&#34; 토미코가 말했어요. <br><br>&#34;다른 사람을 돕기 위해서 위험을 무릅쓸 수 있다면 누구라도 영웅이 될 수 있어. 네가 나를 구해주었던 그때처럼.&#34; 이글이가 대답했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.180",
+                        "text": "Recuerdas"
+                    },
+                    {
+                        "start": "0.857",
+                        "text": "aquella"
+                    },
+                    {
+                        "start": "1.349",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "1.622",
+                        "text": "que"
+                    },
+                    {
+                        "start": "1.742",
+                        "text": "sé"
+                    },
+                    {
+                        "start": "1.906",
+                        "text": "descompuso"
+                    },
+                    {
+                        "start": "2.645",
+                        "text": "mi"
+                    },
+                    {
+                        "start": "2.889",
+                        "text": "jet"
+                    },
+                    {
+                        "start": "3.189",
+                        "text": "pack"
+                    },
+                    {
+                        "start": "3.741",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.910",
+                        "text": "casi"
+                    },
+                    {
+                        "start": "4.293",
+                        "text": "caigo"
+                    },
+                    {
+                        "start": "4.571",
+                        "text": "al"
+                    },
+                    {
+                        "start": "4.708",
+                        "text": "abismo?"
+                    },
+                    {
+                        "start": "7.056",
+                        "text": "pregunto"
+                    },
+                    {
+                        "start": "7.668",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "9.699",
+                        "text": "Si"
+                    },
+                    {
+                        "start": "10.617",
+                        "text": "recuerdo"
+                    },
+                    {
+                        "start": "11.196",
+                        "text": "que"
+                    },
+                    {
+                        "start": "11.327",
+                        "text": "me"
+                    },
+                    {
+                        "start": "11.441",
+                        "text": "lastime"
+                    },
+                    {
+                        "start": "11.884",
+                        "text": "la"
+                    },
+                    {
+                        "start": "12.070",
+                        "text": "pierna"
+                    },
+                    {
+                        "start": "12.965",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "13.162",
+                        "text": "logre"
+                    },
+                    {
+                        "start": "13.413",
+                        "text": "agarrarte"
+                    },
+                    {
+                        "start": "14.309",
+                        "text": "antes"
+                    },
+                    {
+                        "start": "14.740",
+                        "text": "de"
+                    },
+                    {
+                        "start": "14.833",
+                        "text": "que"
+                    },
+                    {
+                        "start": "14.991",
+                        "text": "cayeras"
+                    },
+                    {
+                        "start": "16.848",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "17.230",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "19.677",
+                        "text": "Cualquier"
+                    },
+                    {
+                        "start": "20.311",
+                        "text": "persona"
+                    },
+                    {
+                        "start": "20.851",
+                        "text": "que"
+                    },
+                    {
+                        "start": "20.955",
+                        "text": "se"
+                    },
+                    {
+                        "start": "21.124",
+                        "text": "arriesga"
+                    },
+                    {
+                        "start": "21.638",
+                        "text": "por"
+                    },
+                    {
+                        "start": "21.823",
+                        "text": "otros"
+                    },
+                    {
+                        "start": "22.725",
+                        "text": "es"
+                    },
+                    {
+                        "start": "22.932",
+                        "text": "un"
+                    },
+                    {
+                        "start": "23.140",
+                        "text": "heroe"
+                    },
+                    {
+                        "start": "24.173",
+                        "text": "como"
+                    },
+                    {
+                        "start": "24.232",
+                        "text": "tu"
+                    },
+                    {
+                        "start": "24.740",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "24.953",
+                        "text": "hiciste"
+                    },
+                    {
+                        "start": "25.619",
+                        "text": "esa"
+                    },
+                    {
+                        "start": "26.001",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "26.395",
+                        "text": "conmigo "
+                    },
+                    {
+                        "start": "28.199",
+                        "text": "contesto "
+                    },
+                    {
+                        "start": "29.042",
+                        "text": "Eagle"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.642",
+                        "text": "Remember"
+                    },
+                    {
+                        "start": "1.037",
+                        "text": "that"
+                    },
+                    {
+                        "start": "1.267",
+                        "text": "time"
+                    },
+                    {
+                        "start": "1.629",
+                        "text": "when"
+                    },
+                    {
+                        "start": "1.794",
+                        "text": "my"
+                    },
+                    {
+                        "start": "2.123",
+                        "text": "jet"
+                    },
+                    {
+                        "start": "2.419",
+                        "text": "pack"
+                    },
+                    {
+                        "start": "2.782",
+                        "text": "broke"
+                    },
+                    {
+                        "start": "3.094",
+                        "text": "down"
+                    },
+                    {
+                        "start": "3.539",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.654",
+                        "text": "I"
+                    },
+                    {
+                        "start": "3.851",
+                        "text": "almost"
+                    },
+                    {
+                        "start": "4.345",
+                        "text": "fell"
+                    },
+                    {
+                        "start": "4.526",
+                        "text": "into"
+                    },
+                    {
+                        "start": "4.806",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.053",
+                        "text": "abyss?"
+                    },
+                    {
+                        "start": "5.826",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "6.106",
+                        "text": "Eagle."
+                    },
+                    {
+                        "start": "7.472",
+                        "text": "Yes,"
+                    },
+                    {
+                        "start": "8.262",
+                        "text": "I"
+                    },
+                    {
+                        "start": "8.493",
+                        "text": "remember"
+                    },
+                    {
+                        "start": "8.970",
+                        "text": "hurting"
+                    },
+                    {
+                        "start": "9.266",
+                        "text": "my"
+                    },
+                    {
+                        "start": "9.546",
+                        "text": "leg,"
+                    },
+                    {
+                        "start": "10.155",
+                        "text": "but"
+                    },
+                    {
+                        "start": "10.287",
+                        "text": "I"
+                    },
+                    {
+                        "start": "10.451",
+                        "text": "managed"
+                    },
+                    {
+                        "start": "10.912",
+                        "text": "to"
+                    },
+                    {
+                        "start": "11.077",
+                        "text": "grab"
+                    },
+                    {
+                        "start": "11.340",
+                        "text": "you"
+                    },
+                    {
+                        "start": "11.571",
+                        "text": "before"
+                    },
+                    {
+                        "start": "11.916",
+                        "text": "you"
+                    },
+                    {
+                        "start": "12.130",
+                        "text": "fell"
+                    },
+                    {
+                        "start": "12.805",
+                        "text": "said"
+                    },
+                    {
+                        "start": "13.101",
+                        "text": "Tomiko."
+                    },
+                    {
+                        "start": "14.434",
+                        "text": "Anybody"
+                    },
+                    {
+                        "start": "15.109",
+                        "text": "who"
+                    },
+                    {
+                        "start": "15.356",
+                        "text": "risks"
+                    },
+                    {
+                        "start": "15.784",
+                        "text": "themselves"
+                    },
+                    {
+                        "start": "16.591",
+                        "text": "for"
+                    },
+                    {
+                        "start": "16.689",
+                        "text": "the"
+                    },
+                    {
+                        "start": "16.788",
+                        "text": "sake"
+                    },
+                    {
+                        "start": "17.134",
+                        "text": "of"
+                    },
+                    {
+                        "start": "17.265",
+                        "text": "another"
+                    },
+                    {
+                        "start": "17.644",
+                        "text": "person"
+                    },
+                    {
+                        "start": "18.352",
+                        "text": "is"
+                    },
+                    {
+                        "start": "18.500",
+                        "text": "a"
+                    },
+                    {
+                        "start": "18.747",
+                        "text": "hero."
+                    },
+                    {
+                        "start": "19.537",
+                        "text": "Just"
+                    },
+                    {
+                        "start": "19.767",
+                        "text": "like"
+                    },
+                    {
+                        "start": "19.981",
+                        "text": "that"
+                    },
+                    {
+                        "start": "20.228",
+                        "text": "time"
+                    },
+                    {
+                        "start": "20.656",
+                        "text": "you"
+                    },
+                    {
+                        "start": "20.936",
+                        "text": "saved"
+                    },
+                    {
+                        "start": "21.314",
+                        "text": "me."
+                    },
+                    {
+                        "start": "21.514",
+                        "text": "replied"
+                    },
+                    {
+                        "start": "22.114",
+                        "text": "Eagle."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.000",
+                        "text": "내"
+                    },
+                    {
+                        "start": "0.500",
+                        "text": "제트팩이"
+                    },
+                    {
+                        "start": "1.650",
+                        "text": "망가져서"
+                    },
+                    {
+                        "start": "3.316",
+                        "text": "내가"
+                    },
+                    {
+                        "start": "4.425",
+                        "text": "깊은"
+                    },
+                    {
+                        "start": "5.218",
+                        "text": "구렁에"
+                    },
+                    {
+                        "start": "6.223",
+                        "text": "빠질뻔한"
+                    },
+                    {
+                        "start": "7.369",
+                        "text": "날을"
+                    },
+                    {
+                        "start": "8.452",
+                        "text": "기억하니?"
+                    },
+                    {
+                        "start": "10.218",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "11.516",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "14.135",
+                        "text": "물론이지."
+                    },
+                    {
+                        "start": "16.065",
+                        "text": "내가"
+                    },
+                    {
+                        "start": "17.068",
+                        "text": "다리를"
+                    },
+                    {
+                        "start": "17.977",
+                        "text": "다치긴"
+                    },
+                    {
+                        "start": "18.878",
+                        "text": "했지만"
+                    },
+                    {
+                        "start": "20.216",
+                        "text": "네가"
+                    },
+                    {
+                        "start": "20.943",
+                        "text": "떨어지기"
+                    },
+                    {
+                        "start": "21.938",
+                        "text": "전에"
+                    },
+                    {
+                        "start": "23.217",
+                        "text": "잡을"
+                    },
+                    {
+                        "start": "23.700",
+                        "text": "수"
+                    },
+                    {
+                        "start": "24.145",
+                        "text": "있었잖아."
+                    },
+                    {
+                        "start": "26.331",
+                        "text": "토미코가"
+                    },
+                    {
+                        "start": "27.674",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "30.600",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "31.200",
+                        "text": "사람을"
+                    },
+                    {
+                        "start": "32.438",
+                        "text": "돕기"
+                    },
+                    {
+                        "start": "33.154",
+                        "text": "위해서"
+                    },
+                    {
+                        "start": "34.421",
+                        "text": "위험을"
+                    },
+                    {
+                        "start": "35.824",
+                        "text": "무릅쓸"
+                    },
+                    {
+                        "start": "36.576",
+                        "text": "수"
+                    },
+                    {
+                        "start": "37.000",
+                        "text": "있다면"
+                    },
+                    {
+                        "start": "38.418",
+                        "text": "누구라도"
+                    },
+                    {
+                        "start": "39.963",
+                        "text": "영웅이"
+                    },
+                    {
+                        "start": "41.059",
+                        "text": "될"
+                    },
+                    {
+                        "start": "41.300",
+                        "text": "수"
+                    },
+                    {
+                        "start": "41.754",
+                        "text": "있어."
+                    },
+                    {
+                        "start": "43.393",
+                        "text": "네가"
+                    },
+                    {
+                        "start": "44.133",
+                        "text": "나를"
+                    },
+                    {
+                        "start": "45.249",
+                        "text": "구해주었던"
+                    },
+                    {
+                        "start": "46.696",
+                        "text": "그때처럼."
+                    },
+                    {
+                        "start": "48.247",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "49.522",
+                        "text": "대답했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "&#34;Can anyone be a hero?&#34; asked Tomiko. </br></br> &#34;That's right, Tomiko! And without a doubt, you are one of the best.&#34; said Eagle. </br></br> &#34;You're a great friend, Eagle!&#34; said Tomiko, grinning.",
+                "textES": "-¿Entonces todos podemos ser héroes? -preguntó Tomiko.</br> -Así es Tomiko. Tú sin duda eres una de las mejores -dijo Eagle. </br>-¡Eres un gran amigo Eagle! -dijo Tomiko.",
+                "textPT": "&#34;Então, qualquer um pode ser um herói?&#34;, perguntou Tomiko. </br></br>&#34;Isso mesmo, Tomiko! E, sem dúvida, você é uma das melhores&#34;, disse Eagle.</br></br>&#34;Você é um ótimo amigo, Eagle!&#34;, disse Tomiko, sorrindo.",
+                "textCN": "&#34;任何人都能成为英雄？&#34;富子问。 </br></br>&#34;没错，富子！毫无疑问，你是最棒的。&#34;伊戈说。  </br></br>&#34;你真是我的好朋友，伊戈！&#34;富子微笑着说。",
+                "textJP": "「だれにでも ヒーローになれるの？」トミコは ききました。 </br></br>「そのとおりさ！トミコは まちがいなく さいこうの ヒーローのひとりだよ。」イーグルは言いました。 </br></br>ありがとう、イーグル！」トミコは にっこりわらって 言いました。",
+                "textKR": "&#34;누구든 영웅이 될 수 있다고?&#34; 토미코가 물었어요.</br></br>&#34;바로 그거야 토미코야! 의심할 것도 없이, 넌 최고의 영웅이야.&#34; 이글이가 말했어요.</br></br>&#34;넌 정말 좋은 친구야 이글아!&#34; 토미코가 활짝 웃으면서 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.224",
+                        "text": "¿Entonces"
+                    },
+                    {
+                        "start": "1.060",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "1.464",
+                        "text": "podemos"
+                    },
+                    {
+                        "start": "1.895",
+                        "text": "ser"
+                    },
+                    {
+                        "start": "2.223",
+                        "text": "heroes?"
+                    },
+                    {
+                        "start": "4.172",
+                        "text": "pregunto"
+                    },
+                    {
+                        "start": "4.740",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "6.734",
+                        "text": "Asi"
+                    },
+                    {
+                        "start": "7.242",
+                        "text": "es"
+                    },
+                    {
+                        "start": "7.591",
+                        "text": "Tomiko."
+                    },
+                    {
+                        "start": "8.700",
+                        "text": "Tu"
+                    },
+                    {
+                        "start": "8.836",
+                        "text": "sin"
+                    },
+                    {
+                        "start": "9.191",
+                        "text": "duda"
+                    },
+                    {
+                        "start": "9.765",
+                        "text": "eres"
+                    },
+                    {
+                        "start": "10.109",
+                        "text": "una"
+                    },
+                    {
+                        "start": "10.448",
+                        "text": "de"
+                    },
+                    {
+                        "start": "10.529",
+                        "text": "las"
+                    },
+                    {
+                        "start": "10.824",
+                        "text": "mejores"
+                    },
+                    {
+                        "start": "12.938",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "13.413",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "15.510",
+                        "text": "¡Eres"
+                    },
+                    {
+                        "start": "15.925",
+                        "text": "un"
+                    },
+                    {
+                        "start": "16.149",
+                        "text": "gran"
+                    },
+                    {
+                        "start": "16.389",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "17.149",
+                        "text": "Eagle!"
+                    },
+                    {
+                        "start": "19.027",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "19.448",
+                        "text": "Tomiko"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.806",
+                        "text": "¿Can"
+                    },
+                    {
+                        "start": "1.300",
+                        "text": "anyone"
+                    },
+                    {
+                        "start": "1.893",
+                        "text": "be"
+                    },
+                    {
+                        "start": "2.074",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.123",
+                        "text": "hero?"
+                    },
+                    {
+                        "start": "3.045",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "3.308",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "4.658",
+                        "text": "That's"
+                    },
+                    {
+                        "start": "4.938",
+                        "text": "right"
+                    },
+                    {
+                        "start": "5.168",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "6.024",
+                        "text": "And"
+                    },
+                    {
+                        "start": "6.139",
+                        "text": "without"
+                    },
+                    {
+                        "start": "6.386",
+                        "text": "a"
+                    },
+                    {
+                        "start": "6.633",
+                        "text": "doubt,"
+                    },
+                    {
+                        "start": "7.127",
+                        "text": "you"
+                    },
+                    {
+                        "start": "7.555",
+                        "text": "are"
+                    },
+                    {
+                        "start": "7.884",
+                        "text": "one"
+                    },
+                    {
+                        "start": "8.065",
+                        "text": "of"
+                    },
+                    {
+                        "start": "8.180",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.345",
+                        "text": "best."
+                    },
+                    {
+                        "start": "9.118",
+                        "text": "said"
+                    },
+                    {
+                        "start": "9.141",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "10.600",
+                        "text": "You're"
+                    },
+                    {
+                        "start": "10.863",
+                        "text": "a"
+                    },
+                    {
+                        "start": "11.110",
+                        "text": "great"
+                    },
+                    {
+                        "start": "11.653",
+                        "text": "friend,"
+                    },
+                    {
+                        "start": "11.982",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "12.838",
+                        "text": "said"
+                    },
+                    {
+                        "start": "13.134",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "13.941",
+                        "text": "grinning."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.003",
+                        "text": "누구든"
+                    },
+                    {
+                        "start": "1.000",
+                        "text": "영웅이"
+                    },
+                    {
+                        "start": "2.502",
+                        "text": "될"
+                    },
+                    {
+                        "start": "2.834",
+                        "text": "수"
+                    },
+                    {
+                        "start": "3.350",
+                        "text": "있다고?"
+                    },
+                    {
+                        "start": "5.000",
+                        "text": "토미코가"
+                    },
+                    {
+                        "start": "6.306",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "9.096",
+                        "text": "바로"
+                    },
+                    {
+                        "start": "9.650",
+                        "text": "그거야"
+                    },
+                    {
+                        "start": "10.396",
+                        "text": "토미코야!"
+                    },
+                    {
+                        "start": "12.508",
+                        "text": "의심할"
+                    },
+                    {
+                        "start": "13.243",
+                        "text": "것도"
+                    },
+                    {
+                        "start": "13.927",
+                        "text": "없이,"
+                    },
+                    {
+                        "start": "15.138",
+                        "text": "넌"
+                    },
+                    {
+                        "start": "16.123",
+                        "text": "최고의"
+                    },
+                    {
+                        "start": "16.883",
+                        "text": "영웅이야."
+                    },
+                    {
+                        "start": "19.176",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "20.436",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "22.877",
+                        "text": "넌"
+                    },
+                    {
+                        "start": "23.303",
+                        "text": "정말"
+                    },
+                    {
+                        "start": "24.411",
+                        "text": "좋은"
+                    },
+                    {
+                        "start": "24.927",
+                        "text": "친구야"
+                    },
+                    {
+                        "start": "25.743",
+                        "text": "이글아!"
+                    },
+                    {
+                        "start": "27.707",
+                        "text": "토미코가"
+                    },
+                    {
+                        "start": "29.178",
+                        "text": "활짝"
+                    },
+                    {
+                        "start": "30.432",
+                        "text": "웃으면서"
+                    },
+                    {
+                        "start": "31.838",
+                        "text": "말했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

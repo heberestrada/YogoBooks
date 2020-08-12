@@ -1,0 +1,2256 @@
+{
+    "book": {
+        "titleEN": "The Sword",
+        "titleES": "La espada",
+        "titlePT": "A espada",
+        "titleCN": "剑",
+        "titleJP": "まほうのけん",
+        "titleKR": "검",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "One day at the Yogotar Academy, a teacher showed the class a beautiful, legendary sword. He told them it had been found buried underground.",
+                "textES": "Un día en la academia Yogotar un profesor mostró ante la clase una hermosa espada legendaria, obtenida de las profundidades de la tierra.",
+                "textPT": "Certo dia, na Academia Yogotar, um professor mostrou uma bela espada lendária para a turma. Ele disse que ela havia sido encontrada enterrada no chão.",
+                "textCN": "一天，在Yogotar学院，一位老师向全班同学展示了一把非常美丽的传奇宝剑。他告诉他们这把剑原来是埋在地下的。",
+                "textJP": "ある日 ヨゴターアカデミーのじゅぎょう中、先生が みんなに うつくしい でんせつの けん を見せました。それは じめんの中から みつかったものでした。",
+                "textKR": "어느 날, 요고타 아카데미 선생님이 아주 아름다운 전설 속의 검을 보여주셨어요. 그 검은 땅속에 묻혀있다가 발견되었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Un"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "día"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "en"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "academia"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "Yogotar"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "un"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "profesor"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "mostró"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "ante"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "la"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "clase"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "una"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "hermosa"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "espada"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "legendaria,"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "obtenida"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "de"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "las"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "profundidades"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "la"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "tierra."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.667",
+                        "text": "One"
+                    },
+                    {
+                        "start": "0.963",
+                        "text": "day"
+                    },
+                    {
+                        "start": "1.359",
+                        "text": "at"
+                    },
+                    {
+                        "start": "1.537",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.638",
+                        "text": "Yogotar"
+                    },
+                    {
+                        "start": "2.297",
+                        "text": "Academy,"
+                    },
+                    {
+                        "start": "3.377",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.521",
+                        "text": "teacher"
+                    },
+                    {
+                        "start": "3.960",
+                        "text": "showed"
+                    },
+                    {
+                        "start": "4.272",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.399",
+                        "text": "class"
+                    },
+                    {
+                        "start": "4.880",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.159",
+                        "text": "beautiful,"
+                    },
+                    {
+                        "start": "5.893",
+                        "text": "legendary"
+                    },
+                    {
+                        "start": "6.738",
+                        "text": "sword."
+                    },
+                    {
+                        "start": "8.004",
+                        "text": "He"
+                    },
+                    {
+                        "start": "8.156",
+                        "text": "told"
+                    },
+                    {
+                        "start": "8.426",
+                        "text": "them"
+                    },
+                    {
+                        "start": "8.646",
+                        "text": "it"
+                    },
+                    {
+                        "start": "8.688",
+                        "text": "had"
+                    },
+                    {
+                        "start": "8.882",
+                        "text": "been"
+                    },
+                    {
+                        "start": "9.102",
+                        "text": "found"
+                    },
+                    {
+                        "start": "9.515",
+                        "text": "buried"
+                    },
+                    {
+                        "start": "10.047",
+                        "text": "underground."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "어느"
+                    },
+                    {
+                        "start": "0.484",
+                        "text": "날,"
+                    },
+                    {
+                        "start": "1.400",
+                        "text": "요고타"
+                    },
+                    {
+                        "start": "2.229",
+                        "text": "아카데미"
+                    },
+                    {
+                        "start": "3.259",
+                        "text": "선생님이"
+                    },
+                    {
+                        "start": "4.879",
+                        "text": "아주"
+                    },
+                    {
+                        "start": "5.535",
+                        "text": "아름다운"
+                    },
+                    {
+                        "start": "7.026",
+                        "text": "전설"
+                    },
+                    {
+                        "start": "7.739",
+                        "text": "속의"
+                    },
+                    {
+                        "start": "8.818",
+                        "text": "검을"
+                    },
+                    {
+                        "start": "9.566",
+                        "text": "보여주셨어요."
+                    },
+                    {
+                        "start": "12.052",
+                        "text": "그"
+                    },
+                    {
+                        "start": "12.459",
+                        "text": "검은"
+                    },
+                    {
+                        "start": "13.625",
+                        "text": "땅속에"
+                    },
+                    {
+                        "start": "14.658",
+                        "text": "묻혀있다가"
+                    },
+                    {
+                        "start": "16.281",
+                        "text": "발견되었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "The sword was magical and the teacher claimed it gave great power to the person who held it. However, he warned the Yogotars never to touch it unless they were going to perform a heroic deed. ",
+                "textES": "La espada era mágica y según el profesor daba gran poder a quien la tuviera. Pero les dijo a los Yogotars, que bajo ningún motivo se debía tocar si no era para librar una gran hazaña.",
+                "textPT": "A espada era mágica, e o professor disse que ela dava grande poder à pessoa que a segurasse. Mas ele avisou aos Yogotars que nunca tocassem nela se não fosse para fazer um ato heroico. ",
+                "textCN": "这把剑很神奇，老师说它能给握剑之人带来强大的力量。然而，他警告Yogotar们，除非他们要用它做一件英勇的事，否则千万不要碰它。 ",
+                "textJP": "この けん には まほうが かかっていて、手にしたものに 大きなちからを あたえると 先生は いいました。しかし、たたかいのとき いがいは けっして さわってはいけないと ヨゴターたちに ちゅういしました。 ",
+                "textKR": "그 검은 마법의 검이었어요. 그 검을 잡는 사람은 엄청난 힘을 갖게 되었어요. 하지만 선생님은 영웅만이 그 검을 잡을 수 있으니 검을 절대 만지지 말라고 하셨어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "La"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "espada"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "era"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "mágica"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "según"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "el"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "profesor"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "daba"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "gran"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "poder"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "quien"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "tuviera."
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "Pero"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "les"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "los"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "Yogotars,"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "bajo"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "ningún"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "motivo"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "se"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "debía"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "tocar"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "si"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "no"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "era"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "para"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "librar"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "una"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "gran"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "hazaña."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.625",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.743",
+                        "text": "sword"
+                    },
+                    {
+                        "start": "1.072",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.402",
+                        "text": "magical"
+                    },
+                    {
+                        "start": "2.465",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.592",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.719",
+                        "text": "teacher"
+                    },
+                    {
+                        "start": "3.259",
+                        "text": "claimed"
+                    },
+                    {
+                        "start": "3.521",
+                        "text": "it"
+                    },
+                    {
+                        "start": "3.723",
+                        "text": "gave"
+                    },
+                    {
+                        "start": "4.112",
+                        "text": "great"
+                    },
+                    {
+                        "start": "4.576",
+                        "text": "power"
+                    },
+                    {
+                        "start": "4.965",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.117",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.294",
+                        "text": "person"
+                    },
+                    {
+                        "start": "5.750",
+                        "text": "who"
+                    },
+                    {
+                        "start": "5.919",
+                        "text": "held"
+                    },
+                    {
+                        "start": "6.197",
+                        "text": "it."
+                    },
+                    {
+                        "start": "7.126",
+                        "text": "However,"
+                    },
+                    {
+                        "start": "8.097",
+                        "text": "he"
+                    },
+                    {
+                        "start": "8.291",
+                        "text": "warned"
+                    },
+                    {
+                        "start": "8.696",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.815",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "9.600",
+                        "text": "never"
+                    },
+                    {
+                        "start": "10.233",
+                        "text": "to"
+                    },
+                    {
+                        "start": "10.419",
+                        "text": "touch"
+                    },
+                    {
+                        "start": "10.824",
+                        "text": "it"
+                    },
+                    {
+                        "start": "10.968",
+                        "text": "unless"
+                    },
+                    {
+                        "start": "11.432",
+                        "text": "they"
+                    },
+                    {
+                        "start": "11.517",
+                        "text": "were"
+                    },
+                    {
+                        "start": "11.711",
+                        "text": "going"
+                    },
+                    {
+                        "start": "11.972",
+                        "text": "to"
+                    },
+                    {
+                        "start": "12.108",
+                        "text": "perform"
+                    },
+                    {
+                        "start": "12.673",
+                        "text": "a"
+                    },
+                    {
+                        "start": "12.825",
+                        "text": "heroic"
+                    },
+                    {
+                        "start": "13.636",
+                        "text": "deed."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "그"
+                    },
+                    {
+                        "start": "0.400",
+                        "text": "검은"
+                    },
+                    {
+                        "start": "1.395",
+                        "text": "마법의"
+                    },
+                    {
+                        "start": "2.326",
+                        "text": "검이었어요."
+                    },
+                    {
+                        "start": "4.437",
+                        "text": "그"
+                    },
+                    {
+                        "start": "4.886",
+                        "text": "검을"
+                    },
+                    {
+                        "start": "5.603",
+                        "text": "잡는"
+                    },
+                    {
+                        "start": "6.219",
+                        "text": "사람은"
+                    },
+                    {
+                        "start": "7.528",
+                        "text": "엄청난"
+                    },
+                    {
+                        "start": "8.712",
+                        "text": "힘을"
+                    },
+                    {
+                        "start": "9.580",
+                        "text": "갖게"
+                    },
+                    {
+                        "start": "10.260",
+                        "text": "되었어요."
+                    },
+                    {
+                        "start": "12.469",
+                        "text": "하지만"
+                    },
+                    {
+                        "start": "13.310",
+                        "text": "선생님은"
+                    },
+                    {
+                        "start": "14.843",
+                        "text": "영웅만이"
+                    },
+                    {
+                        "start": "16.432",
+                        "text": "그"
+                    },
+                    {
+                        "start": "16.867",
+                        "text": "검을"
+                    },
+                    {
+                        "start": "17.837",
+                        "text": "잡을"
+                    },
+                    {
+                        "start": "18.300",
+                        "text": "수"
+                    },
+                    {
+                        "start": "18.822",
+                        "text": "있으니"
+                    },
+                    {
+                        "start": "20.200",
+                        "text": "검을"
+                    },
+                    {
+                        "start": "21.229",
+                        "text": "절대"
+                    },
+                    {
+                        "start": "22.256",
+                        "text": "만지지"
+                    },
+                    {
+                        "start": "23.066",
+                        "text": "말라고"
+                    },
+                    {
+                        "start": "24.132",
+                        "text": "하셨어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "Arthurius was fascinated by the sword and wanted to hold it for just a moment. That night, he snuck out to admire it. He knew he shouldn't touch it, but his curiosity got the better of him.",
+                "textES": "Arthurius quedó fascinado con la idea de tenerla en sus manos durante un momento. Así que, en la noche, se escabulló para admirar la espada. Sabía que no debía, pero su curiosidad fue más grande y la tocó.",
+                "textPT": "Arthurius ficou fascinado com a espada e queria segurá-la só um pouquinho. Naquela noite, ele foi sorrateiramente admirá-la. Ele sabia que não poderia tocá-la, mas sua curiosidade falou mais alto.",
+                "textCN": "亚瑟鲁被这把剑迷住了，想把玩一会儿。那天晚上，他偷偷溜出去欣赏。他知道自己不该碰它，但好奇心最终还是占了上风。  ",
+                "textJP": "アーサリウスは そのけんに すっかり むちゅうになり、いっしゅんでも いいから さわってみたいと おもいました。そのよる、アーサリウスは けん を ひとめ見ようと こっそり きょうしつに やってきました。さわっては いけないと わかっていましたが、さわってみたい きもちに まけてしまいました。  ",
+                "textKR": "알투리우스는 그 검에 마음을 빼앗겼어요. 단 한 번만이라도 그 검을 잡아보고 싶었어요. 그날 밤, 알투리우스는 검을 잡아보려고 몰래 빠져나왔어요. 알투리우스는 검을 만지지 말아야 한다는 걸 알았지만, 호기심이 너무 넘쳐서 어쩔 수 없었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "quedó"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "fascinado"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "con"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "la"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "idea"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "tenerla"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "en"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "manos"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "durante"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "un"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "momento."
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "Así"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "que,"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "en"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "noche,"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "se"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "escabulló"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "para"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "admirar"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "la"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "espada."
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "Sabía"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "que"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "no"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "debía,"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "su"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "curiosidad"
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "fue"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "más"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "grande"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "y"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "la"
+                    },
+                    {
+                        "start": "16.9",
+                        "text": "tocó."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.718",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "1.461",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.739",
+                        "text": "fascinated"
+                    },
+                    {
+                        "start": "2.415",
+                        "text": "by"
+                    },
+                    {
+                        "start": "2.592",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.719",
+                        "text": "sword"
+                    },
+                    {
+                        "start": "3.487",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.656",
+                        "text": "wanted"
+                    },
+                    {
+                        "start": "4.053",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.196",
+                        "text": "hold"
+                    },
+                    {
+                        "start": "4.433",
+                        "text": "it"
+                    },
+                    {
+                        "start": "4.661",
+                        "text": "for"
+                    },
+                    {
+                        "start": "4.956",
+                        "text": "just"
+                    },
+                    {
+                        "start": "5.294",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.421",
+                        "text": "moment."
+                    },
+                    {
+                        "start": "7.084",
+                        "text": "That"
+                    },
+                    {
+                        "start": "7.346",
+                        "text": "night,"
+                    },
+                    {
+                        "start": "8.283",
+                        "text": "he"
+                    },
+                    {
+                        "start": "8.393",
+                        "text": "snuck"
+                    },
+                    {
+                        "start": "8.874",
+                        "text": "out"
+                    },
+                    {
+                        "start": "9.110",
+                        "text": "to"
+                    },
+                    {
+                        "start": "9.254",
+                        "text": "admire"
+                    },
+                    {
+                        "start": "9.786",
+                        "text": "it."
+                    },
+                    {
+                        "start": "10.968",
+                        "text": "He"
+                    },
+                    {
+                        "start": "11.170",
+                        "text": "knew"
+                    },
+                    {
+                        "start": "11.381",
+                        "text": "he"
+                    },
+                    {
+                        "start": "11.457",
+                        "text": "shouldn't"
+                    },
+                    {
+                        "start": "11.905",
+                        "text": "touch"
+                    },
+                    {
+                        "start": "12.243",
+                        "text": "it,"
+                    },
+                    {
+                        "start": "12.910",
+                        "text": "but"
+                    },
+                    {
+                        "start": "13.036",
+                        "text": "his"
+                    },
+                    {
+                        "start": "13.323",
+                        "text": "curiosity"
+                    },
+                    {
+                        "start": "14.100",
+                        "text": "got"
+                    },
+                    {
+                        "start": "14.337",
+                        "text": "the"
+                    },
+                    {
+                        "start": "14.463",
+                        "text": "better"
+                    },
+                    {
+                        "start": "14.674",
+                        "text": "of"
+                    },
+                    {
+                        "start": "14.894",
+                        "text": "him."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "알투리우스는"
+                    },
+                    {
+                        "start": "1.979",
+                        "text": "그"
+                    },
+                    {
+                        "start": "2.427",
+                        "text": "검에"
+                    },
+                    {
+                        "start": "3.496",
+                        "text": "마음을"
+                    },
+                    {
+                        "start": "4.395",
+                        "text": "빼앗겼어요."
+                    },
+                    {
+                        "start": "6.497",
+                        "text": "단"
+                    },
+                    {
+                        "start": "7.080",
+                        "text": "한"
+                    },
+                    {
+                        "start": "7.510",
+                        "text": "번만이라도"
+                    },
+                    {
+                        "start": "9.265",
+                        "text": "그"
+                    },
+                    {
+                        "start": "9.679",
+                        "text": "검을"
+                    },
+                    {
+                        "start": "10.815",
+                        "text": "잡아보고"
+                    },
+                    {
+                        "start": "11.840",
+                        "text": "싶었어요."
+                    },
+                    {
+                        "start": "13.889",
+                        "text": "그날"
+                    },
+                    {
+                        "start": "14.478",
+                        "text": "밤,"
+                    },
+                    {
+                        "start": "15.260",
+                        "text": "알투리우스는"
+                    },
+                    {
+                        "start": "17.126",
+                        "text": "검을"
+                    },
+                    {
+                        "start": "17.759",
+                        "text": "잡아보려고"
+                    },
+                    {
+                        "start": "19.455",
+                        "text": "몰래"
+                    },
+                    {
+                        "start": "20.171",
+                        "text": "빠져나왔어요."
+                    },
+                    {
+                        "start": "22.501",
+                        "text": "알투리우스는"
+                    },
+                    {
+                        "start": "24.433",
+                        "text": "검을"
+                    },
+                    {
+                        "start": "25.069",
+                        "text": "만지지"
+                    },
+                    {
+                        "start": "25.900",
+                        "text": "말아야"
+                    },
+                    {
+                        "start": "26.617",
+                        "text": "한다는"
+                    },
+                    {
+                        "start": "27.223",
+                        "text": "걸"
+                    },
+                    {
+                        "start": "28.036",
+                        "text": "알았지만,"
+                    },
+                    {
+                        "start": "29.412",
+                        "text": "호기심이"
+                    },
+                    {
+                        "start": "30.394",
+                        "text": "너무"
+                    },
+                    {
+                        "start": "31.018",
+                        "text": "넘쳐서"
+                    },
+                    {
+                        "start": "32.551",
+                        "text": "어쩔"
+                    },
+                    {
+                        "start": "33.113",
+                        "text": "수"
+                    },
+                    {
+                        "start": "33.776",
+                        "text": "없었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "The sword seemed to come to life and started moving across the room. Arthurius tried to stop it, but the sword was faster than he was. The classroom was a mess.",
+                "textES": "La espada comenzó a moverse de un lado a otro como si tuviera vida propia. Arthurius intentó detenerla, pero era demasiado rápida. <br><br>El salón era un desastre.",
+                "textPT": "A espada ganhou vida e começou a se mover pela sala. Arthurius tentou pará-la, mas a espada era mais rápida que ele. A sala de aula ficou uma bagunça.",
+                "textCN": "剑似乎复活了，开始在房间里移动。亚瑟鲁试图阻止它，但剑的速度却比他还快。教室里一片狼藉。",
+                "textJP": "すると、けん は いきかえったかのように へやじゅうを うごきまわりました。アーサリウスは とめようと しましたが、けん の すばやいこと。きょうしつは めちゃくちゃに なってしまいました。",
+                "textKR": "검은 살아 있는 것처럼 교실 안을 마구 돌아다녔어요. 알투리우스가 검을 멈추려고 했지만, 검이 너무 빨랐어요. 교실은 엉망이 되었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "La"
+                    },
+                    {
+                        "start": "0.2",
+                        "text": "espada"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "comenzó"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "moverse"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "un"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "lado"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "otro"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "como"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "si"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "tuviera"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "vida"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "propia."
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "intentó"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "detenerla,"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "era"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "demasiado"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "rápida."
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "<br><br>El"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "salón"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "era"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "un"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "desastre."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.659",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.760",
+                        "text": "sword"
+                    },
+                    {
+                        "start": "1.300",
+                        "text": "seemed"
+                    },
+                    {
+                        "start": "1.807",
+                        "text": "to"
+                    },
+                    {
+                        "start": "1.967",
+                        "text": "come"
+                    },
+                    {
+                        "start": "2.187",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.415",
+                        "text": "life"
+                    },
+                    {
+                        "start": "3.107",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.234",
+                        "text": "started"
+                    },
+                    {
+                        "start": "3.563",
+                        "text": "moving"
+                    },
+                    {
+                        "start": "4.120",
+                        "text": "across"
+                    },
+                    {
+                        "start": "4.542",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.661",
+                        "text": "room."
+                    },
+                    {
+                        "start": "5.708",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "6.541",
+                        "text": "tried"
+                    },
+                    {
+                        "start": "6.780",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.940",
+                        "text": "stop"
+                    },
+                    {
+                        "start": "7.303",
+                        "text": "it,"
+                    },
+                    {
+                        "start": "7.785",
+                        "text": "but"
+                    },
+                    {
+                        "start": "7.920",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.038",
+                        "text": "sword"
+                    },
+                    {
+                        "start": "8.333",
+                        "text": "was"
+                    },
+                    {
+                        "start": "8.688",
+                        "text": "faster"
+                    },
+                    {
+                        "start": "9.144",
+                        "text": "than"
+                    },
+                    {
+                        "start": "9.304",
+                        "text": "he"
+                    },
+                    {
+                        "start": "9.507",
+                        "text": "was."
+                    },
+                    {
+                        "start": "10.698",
+                        "text": "The"
+                    },
+                    {
+                        "start": "10.968",
+                        "text": "classroom"
+                    },
+                    {
+                        "start": "11.584",
+                        "text": "was"
+                    },
+                    {
+                        "start": "12.065",
+                        "text": "a"
+                    },
+                    {
+                        "start": "12.403",
+                        "text": "mess."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "검은"
+                    },
+                    {
+                        "start": "1.047",
+                        "text": "살아"
+                    },
+                    {
+                        "start": "1.613",
+                        "text": "있는"
+                    },
+                    {
+                        "start": "2.205",
+                        "text": "것처럼"
+                    },
+                    {
+                        "start": "3.561",
+                        "text": "교실"
+                    },
+                    {
+                        "start": "4.250",
+                        "text": "안을"
+                    },
+                    {
+                        "start": "5.242",
+                        "text": "마구"
+                    },
+                    {
+                        "start": "6.055",
+                        "text": "돌아다녔어요."
+                    },
+                    {
+                        "start": "8.431",
+                        "text": "알투리우스가"
+                    },
+                    {
+                        "start": "10.196",
+                        "text": "검을"
+                    },
+                    {
+                        "start": "10.800",
+                        "text": "멈추려고"
+                    },
+                    {
+                        "start": "11.864",
+                        "text": "했지만,"
+                    },
+                    {
+                        "start": "13.412",
+                        "text": "검이"
+                    },
+                    {
+                        "start": "14.421",
+                        "text": "너무"
+                    },
+                    {
+                        "start": "15.033",
+                        "text": "빨랐어요."
+                    },
+                    {
+                        "start": "17.132",
+                        "text": "교실은"
+                    },
+                    {
+                        "start": "18.514",
+                        "text": "엉망이"
+                    },
+                    {
+                        "start": "19.331",
+                        "text": "되었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "Suddenly, the sword stopped and flew back to its place. The teacher had used a spell to make it stop. Arthurius looked sad and embarrassed.",
+                "textES": "De pronto, la espada se detuvo y voló hasta su lugar. El profesor, había utilizado un hechizo para detenerla. Arthurius parecía triste y apenado.",
+                "textPT": "De repente, a espada parou e voltou voando para seu lugar. O professor havia usado um feitiço para fazê-la parar. Arthurius ficou triste e envergonhado.  ",
+                "textCN": "突然，剑停了下来，飞回到原处。老师用咒语使它停了下来。亚瑟鲁看起来既伤心又尴尬。  ",
+                "textJP": "とつぜん、けん が うごきをとめ、もとのばしょに とんでいきました。先生が まほうを つかって とめたのです。アーサリウスは はずかしくなりました。  ",
+                "textKR": "갑자기 검이 멈추고 원래 자리로 돌아갔어요. 선생님이 주문을 외우셔서 검을 멈추셨어요. 알투리우스는 슬프고 당황스러웠어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "De"
+                    },
+                    {
+                        "start": "0.2",
+                        "text": "pronto,"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "espada"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "se"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "detuvo"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "voló"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "hasta"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "su"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "lugar."
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "El"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "profesor,"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "había"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "utilizado"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "un"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "hechizo"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "para"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "detenerla."
+                    },
+                    {
+                        "start": "11",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "parecía"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "triste"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "apenado."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.642",
+                        "text": "Suddenly,"
+                    },
+                    {
+                        "start": "1.655",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.798",
+                        "text": "sword"
+                    },
+                    {
+                        "start": "2.128",
+                        "text": "stopped"
+                    },
+                    {
+                        "start": "2.828",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.141",
+                        "text": "flew"
+                    },
+                    {
+                        "start": "3.428",
+                        "text": "back"
+                    },
+                    {
+                        "start": "3.740",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.918",
+                        "text": "its"
+                    },
+                    {
+                        "start": "4.095",
+                        "text": "place."
+                    },
+                    {
+                        "start": "5.226",
+                        "text": "The"
+                    },
+                    {
+                        "start": "5.361",
+                        "text": "teacher"
+                    },
+                    {
+                        "start": "5.910",
+                        "text": "had"
+                    },
+                    {
+                        "start": "6.088",
+                        "text": "used"
+                    },
+                    {
+                        "start": "6.417",
+                        "text": "a"
+                    },
+                    {
+                        "start": "6.484",
+                        "text": "spell"
+                    },
+                    {
+                        "start": "6.940",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.151",
+                        "text": "make"
+                    },
+                    {
+                        "start": "7.346",
+                        "text": "it"
+                    },
+                    {
+                        "start": "7.531",
+                        "text": "stop."
+                    },
+                    {
+                        "start": "8.747",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "9.397",
+                        "text": "looked"
+                    },
+                    {
+                        "start": "9.642",
+                        "text": "sad"
+                    },
+                    {
+                        "start": "10.427",
+                        "text": "and"
+                    },
+                    {
+                        "start": "10.647",
+                        "text": "embarrassed."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "갑자기"
+                    },
+                    {
+                        "start": "1.248",
+                        "text": "검이"
+                    },
+                    {
+                        "start": "1.778",
+                        "text": "멈추고"
+                    },
+                    {
+                        "start": "3.210",
+                        "text": "원래"
+                    },
+                    {
+                        "start": "3.877",
+                        "text": "자리로"
+                    },
+                    {
+                        "start": "4.951",
+                        "text": "돌아갔어요."
+                    },
+                    {
+                        "start": "7.326",
+                        "text": "선생님이"
+                    },
+                    {
+                        "start": "8.813",
+                        "text": "주문을"
+                    },
+                    {
+                        "start": "9.600",
+                        "text": "외우셔서"
+                    },
+                    {
+                        "start": "11.063",
+                        "text": "검을"
+                    },
+                    {
+                        "start": "11.623",
+                        "text": "멈추셨어요."
+                    },
+                    {
+                        "start": "14.171",
+                        "text": "알투리우스는"
+                    },
+                    {
+                        "start": "15.938",
+                        "text": "슬프고"
+                    },
+                    {
+                        "start": "17.001",
+                        "text": "당황스러웠어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "&#34;Arthurius, I think you've learned your lesson. I won't punish you, but please help me clean up this mess,&#34; said the teacher. Arthurius helped him tidy the classroom and learned that he must obey his teachers.",
+                "textES": "–Arthurius, creo que ya aprendiste tu lección. No pienso castigarte, pero te pido por favor que me ayudes a arreglar este desastre –dijo el profesor. <br><br>Arthurius le ayudó a limpiar y al final entendió que debía obedecer a sus profesores. ",
+                "textPT": "“Arthurius, acho que você aprendeu a lição. Eu não vou castigar você, mas, por favor, me ajude a limpar essa bagunça”, disse o professor. Arthurius o ajudou a arrumar a sala de aula e aprendeu a importância de obedecer aos professores.",
+                "textCN": "“亚瑟鲁，我想你已经吸取了教训。我不会惩罚你，但请帮我把这烂摊子收拾干净，”老师说。亚瑟鲁帮助他整理了教室，并学会了听从老师的教导。",
+                "textJP": "「アーサリウス、しては いけないことを すると どうなるか、わかっただろう？ばつは あたえないが、きょうしつの かたづけを てつだってくれるかい。」先生が いいました。アーサリウスは 先生と いっしょに きょうしつを かたづけました。そして 先生の いうことは きかなくては いけないと まなびました。",
+                "textKR": "&#34;알투리우스, 이 일로 교훈을 얻었겠지? 너에게 벌을 주지는 않을 거야. 대신 교실을 같이 치워줄래?&#34;  선생님이 말씀하셨어요. 알투리우스는 선생님을 도와서 같이 교실을 정리했어요. 그리고 선생님의 말씀을 잘 듣기로 했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "–Arthurius,"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "creo"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "ya"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "aprendiste"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "tu"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "lección."
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "No"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "pienso"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "castigarte,"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "te"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "pido"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "por"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "favor"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "me"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "ayudes"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "arreglar"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "este"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "desastre"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "el"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "profesor."
+                    },
+                    {
+                        "start": "15",
+                        "text": "<br><br>Arthurius"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "le"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "ayudó"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "limpiar"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "y"
+                    },
+                    {
+                        "start": "17.2",
+                        "text": "al"
+                    },
+                    {
+                        "start": "18.1",
+                        "text": "final"
+                    },
+                    {
+                        "start": "18.3",
+                        "text": "entendió"
+                    },
+                    {
+                        "start": "18.6",
+                        "text": "que"
+                    },
+                    {
+                        "start": "19.2",
+                        "text": "debía"
+                    },
+                    {
+                        "start": "19.5",
+                        "text": "obedecer"
+                    },
+                    {
+                        "start": "19.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "20.5",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "20.5",
+                        "text": "profesores."
+                    },
+                    {
+                        "start": "20.8",
+                        "text": ""
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.659",
+                        "text": "Arthurius,"
+                    },
+                    {
+                        "start": "1.756",
+                        "text": "I"
+                    },
+                    {
+                        "start": "2.043",
+                        "text": "think"
+                    },
+                    {
+                        "start": "2.330",
+                        "text": "you've"
+                    },
+                    {
+                        "start": "2.499",
+                        "text": "learned"
+                    },
+                    {
+                        "start": "2.736",
+                        "text": "your"
+                    },
+                    {
+                        "start": "2.888",
+                        "text": "lesson."
+                    },
+                    {
+                        "start": "3.816",
+                        "text": "I"
+                    },
+                    {
+                        "start": "4.070",
+                        "text": "won't"
+                    },
+                    {
+                        "start": "4.433",
+                        "text": "punish"
+                    },
+                    {
+                        "start": "4.762",
+                        "text": "you,"
+                    },
+                    {
+                        "start": "5.412",
+                        "text": "but"
+                    },
+                    {
+                        "start": "5.674",
+                        "text": "please"
+                    },
+                    {
+                        "start": "5.927",
+                        "text": "help"
+                    },
+                    {
+                        "start": "6.062",
+                        "text": "me"
+                    },
+                    {
+                        "start": "6.248",
+                        "text": "clean"
+                    },
+                    {
+                        "start": "6.434",
+                        "text": "up"
+                    },
+                    {
+                        "start": "6.670",
+                        "text": "this"
+                    },
+                    {
+                        "start": "6.856",
+                        "text": "mess,"
+                    },
+                    {
+                        "start": "7.481",
+                        "text": "said"
+                    },
+                    {
+                        "start": "7.785",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.911",
+                        "text": "teacher."
+                    },
+                    {
+                        "start": "9.186",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "9.895",
+                        "text": "helped"
+                    },
+                    {
+                        "start": "10.166",
+                        "text": "him"
+                    },
+                    {
+                        "start": "10.377",
+                        "text": "tidy"
+                    },
+                    {
+                        "start": "10.774",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.985",
+                        "text": "classroom"
+                    },
+                    {
+                        "start": "11.609",
+                        "text": "and"
+                    },
+                    {
+                        "start": "11.778",
+                        "text": "learned"
+                    },
+                    {
+                        "start": "12.116",
+                        "text": "that"
+                    },
+                    {
+                        "start": "12.327",
+                        "text": "he"
+                    },
+                    {
+                        "start": "12.639",
+                        "text": "must"
+                    },
+                    {
+                        "start": "13.036",
+                        "text": "obey"
+                    },
+                    {
+                        "start": "13.560",
+                        "text": "his"
+                    },
+                    {
+                        "start": "13.838",
+                        "text": "teachers."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "알투리우스,"
+                    },
+                    {
+                        "start": "1.706",
+                        "text": "이"
+                    },
+                    {
+                        "start": "2.066",
+                        "text": "일로"
+                    },
+                    {
+                        "start": "3.151",
+                        "text": "교훈을"
+                    },
+                    {
+                        "start": "3.838",
+                        "text": "얻었겠지?"
+                    },
+                    {
+                        "start": "5.450",
+                        "text": "너에게"
+                    },
+                    {
+                        "start": "6.342",
+                        "text": "벌을"
+                    },
+                    {
+                        "start": "6.992",
+                        "text": "주지는"
+                    },
+                    {
+                        "start": "7.708",
+                        "text": "않을"
+                    },
+                    {
+                        "start": "8.185",
+                        "text": "거야."
+                    },
+                    {
+                        "start": "9.600",
+                        "text": "대신"
+                    },
+                    {
+                        "start": "10.380",
+                        "text": "교실을"
+                    },
+                    {
+                        "start": "11.556",
+                        "text": "같이"
+                    },
+                    {
+                        "start": "12.400",
+                        "text": "치워줄래?"
+                    },
+                    {
+                        "start": "14.114",
+                        "text": "선생님이"
+                    },
+                    {
+                        "start": "15.193",
+                        "text": "말씀하셨어요."
+                    },
+                    {
+                        "start": "17.387",
+                        "text": "알투리우스는"
+                    },
+                    {
+                        "start": "19.166",
+                        "text": "선생님을"
+                    },
+                    {
+                        "start": "20.247",
+                        "text": "도와서"
+                    },
+                    {
+                        "start": "21.562",
+                        "text": "같이"
+                    },
+                    {
+                        "start": "22.644",
+                        "text": "교실을"
+                    },
+                    {
+                        "start": "23.507",
+                        "text": "정리했어요."
+                    },
+                    {
+                        "start": "25.832",
+                        "text": "그리고"
+                    },
+                    {
+                        "start": "26.862",
+                        "text": "선생님의"
+                    },
+                    {
+                        "start": "27.911",
+                        "text": "말씀을"
+                    },
+                    {
+                        "start": "29.138",
+                        "text": "잘"
+                    },
+                    {
+                        "start": "29.673",
+                        "text": "듣기로"
+                    },
+                    {
+                        "start": "30.691",
+                        "text": "했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

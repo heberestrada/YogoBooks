@@ -1,0 +1,1828 @@
+{
+    "book": {
+        "titleEN": "Nao Works Hard",
+        "titleES": "El experimento de Nao",
+        "titlePT": "Nao trabalha duro",
+        "titleCN": "奈绪努力工作",
+        "titleJP": "ナオのどりょく",
+        "titleKR": "나오는 열심히 일해요",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "Nao was working on an experiment in the science lab and Oona was there to help. After many tries, he still could not get the results he needed, and this made him unhappy.",
+                "textES": "Nao trabajaba en el laboratorio de ciencias en un experimento y Oona lo ayudaba. Después de muchos intentos, no lograba conseguir los resultados que necesitaba. Nao empezó a desesperarse.",
+                "textPT": "Nao trabalhava em um experimento no laboratório de Ciências e Oona estava lá para ajudá-lo. Depois de muitas tentativas, ele não conseguia os resultados que precisava, e isso o deixava infeliz.",
+                "textCN": "奈绪正在科学实验室做一个实验，奥娜在那里帮忙。虽然经过多次努力，但他仍然没有得到需要的结果，这让他很沮丧。",
+                "textJP": "ナオは じっけんしつで、ウーナと いっしょに かがくの じっけんを していました。でも、なんど やってみても うまくいかず、ナオは ふまんそうでした。",
+                "textKR": "나오는 과학 연구실에서 우나의 도움을 받으면서 실험을 하고 있었어요. 여러 번 시도했지만 원하던 결과가 나오지 않아서 나오는 슬펐어요.",
+                "wordsES": [
+                    {
+                        "start": "0.104",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "0.591",
+                        "text": "trabajaba"
+                    },
+                    {
+                        "start": "1.224",
+                        "text": "en"
+                    },
+                    {
+                        "start": "1.328",
+                        "text": "el"
+                    },
+                    {
+                        "start": "1.422",
+                        "text": "laboratorio"
+                    },
+                    {
+                        "start": "2.138",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.314",
+                        "text": "ciencias"
+                    },
+                    {
+                        "start": "3.071",
+                        "text": "en"
+                    },
+                    {
+                        "start": "3.206",
+                        "text": "un"
+                    },
+                    {
+                        "start": "3.393",
+                        "text": "experimento"
+                    },
+                    {
+                        "start": "4.929",
+                        "text": "y"
+                    },
+                    {
+                        "start": "5.136",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "5.697",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "5.790",
+                        "text": "ayudaba."
+                    },
+                    {
+                        "start": "7.357",
+                        "text": "Después"
+                    },
+                    {
+                        "start": "7.917",
+                        "text": "de"
+                    },
+                    {
+                        "start": "8.042",
+                        "text": "muchos"
+                    },
+                    {
+                        "start": "8.675",
+                        "text": "intentos,"
+                    },
+                    {
+                        "start": "9.681",
+                        "text": "no"
+                    },
+                    {
+                        "start": "9.879",
+                        "text": "lograba"
+                    },
+                    {
+                        "start": "10.491",
+                        "text": "conseguir"
+                    },
+                    {
+                        "start": "11.072",
+                        "text": "los"
+                    },
+                    {
+                        "start": "11.279",
+                        "text": "resultados"
+                    },
+                    {
+                        "start": "12.078",
+                        "text": "que"
+                    },
+                    {
+                        "start": "12.234",
+                        "text": "necesitaba."
+                    },
+                    {
+                        "start": "13.801",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "14.517",
+                        "text": "empezó"
+                    },
+                    {
+                        "start": "15.036",
+                        "text": "a"
+                    },
+                    {
+                        "start": "15.150",
+                        "text": "desesperarse."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.590",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.039",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.233",
+                        "text": "working"
+                    },
+                    {
+                        "start": "1.602",
+                        "text": "on"
+                    },
+                    {
+                        "start": "1.796",
+                        "text": "an"
+                    },
+                    {
+                        "start": "1.981",
+                        "text": "experiment"
+                    },
+                    {
+                        "start": "2.589",
+                        "text": "in"
+                    },
+                    {
+                        "start": "2.712",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.818",
+                        "text": "science"
+                    },
+                    {
+                        "start": "3.390",
+                        "text": "lab"
+                    },
+                    {
+                        "start": "3.804",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.059",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "4.306",
+                        "text": "was"
+                    },
+                    {
+                        "start": "4.499",
+                        "text": "there"
+                    },
+                    {
+                        "start": "4.702",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.825",
+                        "text": "help."
+                    },
+                    {
+                        "start": "5.934",
+                        "text": "After"
+                    },
+                    {
+                        "start": "6.304",
+                        "text": "many"
+                    },
+                    {
+                        "start": "6.621",
+                        "text": "tries,"
+                    },
+                    {
+                        "start": "7.326",
+                        "text": "he"
+                    },
+                    {
+                        "start": "7.414",
+                        "text": "still"
+                    },
+                    {
+                        "start": "7.889",
+                        "text": "could"
+                    },
+                    {
+                        "start": "8.144",
+                        "text": "not"
+                    },
+                    {
+                        "start": "8.461",
+                        "text": "get"
+                    },
+                    {
+                        "start": "8.646",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.770",
+                        "text": "results"
+                    },
+                    {
+                        "start": "9.236",
+                        "text": "he"
+                    },
+                    {
+                        "start": "9.360",
+                        "text": "needed,"
+                    },
+                    {
+                        "start": "10.161",
+                        "text": "and"
+                    },
+                    {
+                        "start": "10.390",
+                        "text": "this"
+                    },
+                    {
+                        "start": "10.698",
+                        "text": "made"
+                    },
+                    {
+                        "start": "10.936",
+                        "text": "him"
+                    },
+                    {
+                        "start": "11.253",
+                        "text": "unhappy."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "나오는" },
+                    { "start": "1.414","text": "과학" },
+                    { "start": "2.144","text": "연구실에서" },
+                    { "start": "3.748","text": "우나의" },
+                    { "start": "4.619","text": "도움을" },
+                    { "start": "5.365","text": "받으면서" },
+                    { "start": "6,844","text": "실험을" },
+                    { "start": "7.703","text": "하고" },
+                    { "start": "8.421","text": "있었어요." },
+                    { "start": "10.847","text": "여러" },
+                    { "start": "11.553","text": "번" },
+                    { "start": "12.091","text": "시도했지만" },
+                    { "start": "13.654","text": "원하던" },
+                    { "start": "14.524","text": "결과가" },
+                    { "start": "16.043","text": "나오지" },
+                    { "start": "16.821","text": "않아서" },
+                    { "start": "18.085","text": "나오는" },
+                    { "start": "19.457","text": "슬펐어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "Seeing Nao’s frustration, Oona decided to remind Nao of someone who also had to overcome hard times. <br><br>“Nao, can you remind me who your favorite hero is again?” asked Oona.",
+                "textES": "Al ver que Nao estaba frustrado, Oona decidió contarle de alguien que también tuvo que superar momentos difíciles. <br><br>–¿Nao, quién es tu héroe favorito? No lo recuerdo –preguntó Oona.",
+                "textPT": "Ao ver a frustração de Nao, Oona decidiu lhe lembrar de alguém que também teve que superar momentos difíceis. <br> &#34;Nao, você pode me lembrar quem é o seu herói favorito?&#34; perguntou Oona.",
+                "textCN": "看到奈绪垂头丧气，奥娜决定给奈绪鼓一把劲，让他想一想有哪个克服很多困难后才取得成功的名人。 <br> “奈绪，你能再告诉我你最喜欢的英雄是谁吗？”奥娜问。",
+                "textJP": "ナオが いらいら しているのを みた ウーナは、こんなんを のりこえてきた あの人の はなしを することにしました。 <br<> 「ねぇ ナオ、あなたの いちばん すきな れきしじょうの じんぶつって だれだっけ？」ウーナが たずねました。",
+                "textKR": "절망한 나오의 모습을 본 우나는 나오를 위해서 어려운 시기를 극복한 사람을 떠올리기로 했어요. <br> &#34;나오야, 네가 가장 좋아하는 영웅이 누군지 다시 말해 줄래?&#34; 우나가 물었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.062",
+                        "text": "Al"
+                    },
+                    {
+                        "start": "0.280",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "0.591",
+                        "text": "que"
+                    },
+                    {
+                        "start": "0.778",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.162",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "1.671",
+                        "text": "frustrado,"
+                    },
+                    {
+                        "start": "3.092",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "3.487",
+                        "text": "decidió"
+                    },
+                    {
+                        "start": "4.026",
+                        "text": "contarle"
+                    },
+                    {
+                        "start": "4.711",
+                        "text": "de"
+                    },
+                    {
+                        "start": "4.856",
+                        "text": "alguien"
+                    },
+                    {
+                        "start": "5.365",
+                        "text": "que"
+                    },
+                    {
+                        "start": "5.520",
+                        "text": "también"
+                    },
+                    {
+                        "start": "6.133",
+                        "text": "tuvo"
+                    },
+                    {
+                        "start": "6.454",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.537",
+                        "text": "superar"
+                    },
+                    {
+                        "start": "7.243",
+                        "text": "momentos"
+                    },
+                    {
+                        "start": "7.803",
+                        "text": "difíciles."
+                    },
+                    {
+                        "start": "10.283",
+                        "text": "–¿Nao,"
+                    },
+                    {
+                        "start": "11.041",
+                        "text": "quién"
+                    },
+                    {
+                        "start": "11.217",
+                        "text": "es"
+                    },
+                    {
+                        "start": "11.497",
+                        "text": "tu"
+                    },
+                    {
+                        "start": "11.632",
+                        "text": "héroe"
+                    },
+                    {
+                        "start": "11.964",
+                        "text": "favorito?"
+                    },
+                    {
+                        "start": "13.158",
+                        "text": "No"
+                    },
+                    {
+                        "start": "13.500",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "13.593",
+                        "text": "recuerdo"
+                    },
+                    {
+                        "start": "15.440",
+                        "text": "–preguntó"
+                    },
+                    {
+                        "start": "16.229",
+                        "text": "Oona."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.652",
+                        "text": "Seeing"
+                    },
+                    {
+                        "start": "1.039",
+                        "text": "Nao’s"
+                    },
+                    {
+                        "start": "1.426",
+                        "text": "frustration,"
+                    },
+                    {
+                        "start": "2.483",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "2.853",
+                        "text": "decided"
+                    },
+                    {
+                        "start": "3.416",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.628",
+                        "text": "remind"
+                    },
+                    {
+                        "start": "4.033",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "4.402",
+                        "text": "of"
+                    },
+                    {
+                        "start": "4.614",
+                        "text": "someone"
+                    },
+                    {
+                        "start": "5.089",
+                        "text": "who"
+                    },
+                    {
+                        "start": "5.248",
+                        "text": "also"
+                    },
+                    {
+                        "start": "5.706",
+                        "text": "had"
+                    },
+                    {
+                        "start": "5.899",
+                        "text": "to"
+                    },
+                    {
+                        "start": "5.970",
+                        "text": "overcome"
+                    },
+                    {
+                        "start": "6.709",
+                        "text": "hard"
+                    },
+                    {
+                        "start": "6.956",
+                        "text": "times."
+                    },
+                    {
+                        "start": "8.189",
+                        "text": "“Nao,"
+                    },
+                    {
+                        "start": "8.928",
+                        "text": "can"
+                    },
+                    {
+                        "start": "9.087",
+                        "text": "you"
+                    },
+                    {
+                        "start": "9.316",
+                        "text": "remind"
+                    },
+                    {
+                        "start": "9.668",
+                        "text": "me"
+                    },
+                    {
+                        "start": "9.914",
+                        "text": "who"
+                    },
+                    {
+                        "start": "10.038",
+                        "text": "your"
+                    },
+                    {
+                        "start": "10.302",
+                        "text": "favorite"
+                    },
+                    {
+                        "start": "10.760",
+                        "text": "hero"
+                    },
+                    {
+                        "start": "11.200",
+                        "text": "is"
+                    },
+                    {
+                        "start": "11.376",
+                        "text": "again?”"
+                    },
+                    {
+                        "start": "12.204",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "12.520",
+                        "text": "Oona."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "절망한" },
+                    { "start": "0.989","text": "나오의" },
+                    { "start": "1.788","text": "모습을" },
+                    { "start": "2.667","text": "본" },
+                    { "start": "3.498","text": "우나는" },
+                    { "start": "4.760","text": "나오를" },
+                    { "start": "5.635","text": "위해서" },
+                    { "start": "7.077","text": "어려운" },
+                    { "start": "7.930","text": "시기를" },
+                    { "start": "8.723","text": "극복한" },
+                    { "start": "9.568","text": "사람을" },
+                    { "start": "10.756","text": "떠올리기로" },
+                    { "start": "11.871","text": "했어요." },
+                    { "start": "14.150","text": "나오야," },
+                    { "start": "15.376","text": "네가" },
+                    { "start": "16.516","text": "가장" },
+                    { "start": "17.206","text": "좋아하는" },
+                    { "start": "18.140","text": "영웅이" },
+                    { "start": "19.194","text": "누군지" },
+                    { "start": "20.617","text": "다시" },
+                    { "start": "21.323","text": "말해" },
+                    { "start": "21.861","text": "줄래?" },
+                    { "start": "22.933","text": "우나가" },
+                    { "start": "23.946","text": "물었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "“Marie Curie, the greatest physicist and chemist I know. She’s a role model for women and science lovers everywhere,” Nao replied.",
+                "textES": "–Marie Curie, la física y química más importante que conozco. Es un modelo a seguir para las mujeres y los amantes de la ciencia en todas partes –respondió Nao.",
+                "textPT": "&#34;Marie Curie, a melhor física e química. Ela é um modelo para as mulheres e para os amantes da ciência em todo lugar,&#34; respondeu Nao.",
+                "textCN": "“居里夫人，她是我知道的最伟大的物理学家和化学家。她是世界各地女性和科学爱好者的榜样。”奈绪回答。",
+                "textJP": "「マリー・キュリー、いちばん すごい ぶつり がくしゃ で かがくしゃ。キュリーふじんは かがくが すきな人の あこがれの そんざい なんだ。」ナオが こたえました。",
+                "textKR": "&#34;퀴리 부인. 그분은 내가 아는 최고의 물리학자이자 화학자야. 그분은 여성과 과학을 사랑하는 사람들의 본보기야.&#34; 나오가 대답했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.104",
+                        "text": "–Marie "
+                    },
+                    {
+                        "start": "0.674",
+                        "text": "Curie,"
+                    },
+                    {
+                        "start": "1.774",
+                        "text": "la"
+                    },
+                    {
+                        "start": "2.065",
+                        "text": "física"
+                    },
+                    {
+                        "start": "2.563",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.750",
+                        "text": "química"
+                    },
+                    {
+                        "start": "3.341",
+                        "text": "más"
+                    },
+                    {
+                        "start": "3.736",
+                        "text": "importante"
+                    },
+                    {
+                        "start": "4.607",
+                        "text": "que"
+                    },
+                    {
+                        "start": "4.773",
+                        "text": "conozco."
+                    },
+                    {
+                        "start": "6.236",
+                        "text": "Es"
+                    },
+                    {
+                        "start": "6.517",
+                        "text": "un"
+                    },
+                    {
+                        "start": "6.703",
+                        "text": "modelo"
+                    },
+                    {
+                        "start": "7.015",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.253",
+                        "text": "seguir"
+                    },
+                    {
+                        "start": "7.720",
+                        "text": "para"
+                    },
+                    {
+                        "start": "7.969",
+                        "text": "las"
+                    },
+                    {
+                        "start": "8.229",
+                        "text": "mujeres"
+                    },
+                    {
+                        "start": "8.841",
+                        "text": "y"
+                    },
+                    {
+                        "start": "9.028",
+                        "text": "los"
+                    },
+                    {
+                        "start": "9.214",
+                        "text": "amantes"
+                    },
+                    {
+                        "start": "9.806",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.921",
+                        "text": "la"
+                    },
+                    {
+                        "start": "10.005",
+                        "text": "ciencia"
+                    },
+                    {
+                        "start": "10.501",
+                        "text": "en"
+                    },
+                    {
+                        "start": "10.802",
+                        "text": "todas"
+                    },
+                    {
+                        "start": "11.300",
+                        "text": "partes"
+                    },
+                    {
+                        "start": "12.919",
+                        "text": "respondió."
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "Nao."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.581",
+                        "text": "“Marie"
+                    },
+                    {
+                        "start": "1.074",
+                        "text": "Curie,"
+                    },
+                    {
+                        "start": "1.919",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.148",
+                        "text": "greatest"
+                    },
+                    {
+                        "start": "2.712",
+                        "text": "physicist"
+                    },
+                    {
+                        "start": "3.381",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.645",
+                        "text": "chemist"
+                    },
+                    {
+                        "start": "4.068",
+                        "text": "I"
+                    },
+                    {
+                        "start": "4.244",
+                        "text": "know."
+                    },
+                    {
+                        "start": "5.283",
+                        "text": "She’s"
+                    },
+                    {
+                        "start": "5.618",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.741",
+                        "text": "role"
+                    },
+                    {
+                        "start": "5.987",
+                        "text": "model"
+                    },
+                    {
+                        "start": "6.392",
+                        "text": "for"
+                    },
+                    {
+                        "start": "6.551",
+                        "text": "women"
+                    },
+                    {
+                        "start": "6.903",
+                        "text": "and"
+                    },
+                    {
+                        "start": "7.220",
+                        "text": "science"
+                    },
+                    {
+                        "start": "7.695",
+                        "text": "lovers"
+                    },
+                    {
+                        "start": "8.171",
+                        "text": "everywhere,”"
+                    },
+                    {
+                        "start": "9.227",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "9.633",
+                        "text": "replied."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "퀴리" },
+                    { "start": "0.507","text": "부인." },
+                    { "start": "1.712","text": "그분은" },
+                    { "start": "2.792","text": "내가" },
+                    { "start": "3.465","text": "아는" },
+                    { "start": "4.477","text": "최고의" },
+                    { "start": "5.291","text": "물리학자이자" },
+                    { "start": "6.922","text": "화학자야." },
+                    { "start": "9.126","text": "그분은" },
+                    { "start": "10.302","text": "여성과" },
+                    { "start": "11.531","text": "과학을" },
+                    { "start": "12.280","text": "사랑하는" },
+                    { "start": "13.174","text": "사람들의" },
+                    { "start": "14.368","text": "본보기야." },
+                    { "start": "16.263","text": "나오가" },
+                    { "start": "17.348","text": "대답했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "“Do you remember what you love about her?” Oona asked. <br><br>“Marie had to overcome many struggles. She believed that with hard work and confidence, we can reach any goal,” Nao said.",
+                "textES": "–¿Recuerdas por qué la admiras tanto? –preguntó Oona. <br><br>–Porque Marie tuvo que superar muchos obstáculos. Ella creía que si trabajas duro y tienes confianza en ti mismo, puedes lograr lo que te propongas –dijo Nao.",
+                "textPT": "&#34;Você se lembra porquê você a ama?&#34; perguntou Oona. <br> &#34;Porque Marie superou muitos obstáculos. Ela acreditava que com trabalho duro e confiança, podemos alcançar qualquer objetivo,&#34; disse Nao.",
+                "textCN": "“你还记得为什么喜欢她吗？”奥娜问。 <br> “居里夫人克服了许多困难。她相信只要我们坚持不懈并充满信心，就能实现任何目标。”奈绪说。",
+                "textJP": "「キュリーふじんの どんなところが すきなの？」ウーナが ききました。  <br> 「たくさんの こんなんを のりこえてきた ところ。いっしょうけんめい じしんをもって どりょくすれば、どんな もくひょうも たっせいできるって しんじていたから。」ナオは 言いました。",
+                "textKR": "&#34;네가 그분의 어떤 부분을 좋아했는지 기억해?&#34; 우나가 물었어요. <br> &#34;그분은 많은 시련을 극복했어. 그분은 자신감을 느끼고 열심히 일하면 어떤 목표라도 이룰 수 있다고 믿었어.&#34; 나오가 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.093",
+                        "text": "–¿Recuerdas"
+                    },
+                    {
+                        "start": "0.820",
+                        "text": "por"
+                    },
+                    {
+                        "start": "1.058",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "1.245",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.297",
+                        "text": "admiras"
+                    },
+                    {
+                        "start": "1.889",
+                        "text": "tanto?"
+                    },
+                    {
+                        "start": "3.518",
+                        "text": "–preguntó"
+                    },
+                    {
+                        "start": "4.234",
+                        "text": "Oona. "
+                    },
+                    {
+                        "start": "5.967",
+                        "text": "–Porque"
+                    },
+                    {
+                        "start": "6.485",
+                        "text": "Marie"
+                    },
+                    {
+                        "start": "6.880",
+                        "text": "tuvo"
+                    },
+                    {
+                        "start": "7.160",
+                        "text": "que"
+                    },
+                    {
+                        "start": "7.264",
+                        "text": "superar"
+                    },
+                    {
+                        "start": "7.928",
+                        "text": "muchos"
+                    },
+                    {
+                        "start": "8.550",
+                        "text": "obstáculos."
+                    },
+                    {
+                        "start": "10.180",
+                        "text": "Ella"
+                    },
+                    {
+                        "start": "10.584",
+                        "text": "creía"
+                    },
+                    {
+                        "start": "11.113",
+                        "text": "que"
+                    },
+                    {
+                        "start": "11.196",
+                        "text": "si"
+                    },
+                    {
+                        "start": "11.394",
+                        "text": "trabajas"
+                    },
+                    {
+                        "start": "12.276",
+                        "text": "duro"
+                    },
+                    {
+                        "start": "12.670",
+                        "text": "y"
+                    },
+                    {
+                        "start": "12.898",
+                        "text": "tienes"
+                    },
+                    {
+                        "start": "13.376",
+                        "text": "confianza"
+                    },
+                    {
+                        "start": "13.998",
+                        "text": "en"
+                    },
+                    {
+                        "start": "14.175",
+                        "text": "ti"
+                    },
+                    {
+                        "start": "14.455",
+                        "text": "mismo,"
+                    },
+                    {
+                        "start": "15.451",
+                        "text": "puedes"
+                    },
+                    {
+                        "start": "15.866",
+                        "text": "lograr"
+                    },
+                    {
+                        "start": "16.322",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "16.499",
+                        "text": "que"
+                    },
+                    {
+                        "start": "16.588",
+                        "text": "te"
+                    },
+                    {
+                        "start": "16.758",
+                        "text": "propongas"
+                    },
+                    {
+                        "start": "18.605",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "19.093",
+                        "text": "Nao."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.634",
+                        "text": "“Do"
+                    },
+                    {
+                        "start": "0.740",
+                        "text": "you"
+                    },
+                    {
+                        "start": "0.916",
+                        "text": "remember"
+                    },
+                    {
+                        "start": "1.550",
+                        "text": "what"
+                    },
+                    {
+                        "start": "1.796",
+                        "text": "you"
+                    },
+                    {
+                        "start": "1.972",
+                        "text": "love"
+                    },
+                    {
+                        "start": "2.324",
+                        "text": "about"
+                    },
+                    {
+                        "start": "2.712",
+                        "text": "her?”"
+                    },
+                    {
+                        "start": "3.311",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "3.628",
+                        "text": "asked."
+                    },
+                    {
+                        "start": "5.248",
+                        "text": "“Marie"
+                    },
+                    {
+                        "start": "5.635",
+                        "text": "had"
+                    },
+                    {
+                        "start": "5.864",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.040",
+                        "text": "overcome"
+                    },
+                    {
+                        "start": "6.568",
+                        "text": "many"
+                    },
+                    {
+                        "start": "6.833",
+                        "text": "struggles."
+                    },
+                    {
+                        "start": "8.277",
+                        "text": "She"
+                    },
+                    {
+                        "start": "8.505",
+                        "text": "believed"
+                    },
+                    {
+                        "start": "8.981",
+                        "text": "that"
+                    },
+                    {
+                        "start": "9.192",
+                        "text": "with"
+                    },
+                    {
+                        "start": "9.351",
+                        "text": "hard"
+                    },
+                    {
+                        "start": "9.685",
+                        "text": "work"
+                    },
+                    {
+                        "start": "10.108",
+                        "text": "and"
+                    },
+                    {
+                        "start": "10.390",
+                        "text": "confidence,"
+                    },
+                    {
+                        "start": "11.253",
+                        "text": "we"
+                    },
+                    {
+                        "start": "11.429",
+                        "text": "can"
+                    },
+                    {
+                        "start": "11.622",
+                        "text": "reach"
+                    },
+                    {
+                        "start": "11.957",
+                        "text": "any"
+                    },
+                    {
+                        "start": "12.327",
+                        "text": "goal,”"
+                    },
+                    {
+                        "start": "12.996",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "13.366",
+                        "text": "said."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "네가" },
+                    { "start": "1.148","text": "그분의" },
+                    { "start": "1.895","text": "어떤" },
+                    { "start": "2.612","text": "부분을" },
+                    { "start": "3.342","text": "좋아했는지" },
+                    { "start": "4.563","text": "기억해?" },
+                    { "start": "6.121","text": "우나가" },
+                    { "start": "7.173","text": "물었어요." },
+                    { "start": "9.441","text": "그분은" },
+                    { "start": "10.640","text": "많은" },
+                    { "start": "11.294","text": "시련을" },
+                    { "start": "12.057","text": "극복했어." },
+                    { "start": "14.096","text": "그분은" },
+                    { "start": "15.172","text": "자신감을" },
+                    { "start": "16.223","text": "느끼고" },
+                    { "start": "17.464","text": "열심히" },
+                    { "start": "18.376","text": "일하면" },
+                    { "start": "19.498","text": "어떤" },
+                    { "start": "20.303","text": "목표라도" },
+                    { "start": "21.824","text": "이룰" },
+                    { "start": "22.266","text": "수" },
+                    { "start": "23.000","text": "있다고" },
+                    { "start": "23.931","text": "믿었어." },
+                    { "start": "25.821","text": "나오가" },
+                    { "start": "26.870","text": "말했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "“Yes, Marie never gave up. She won the Nobel Prize twice for her hard work,” Oona replied, pleased. “If she’s your hero, I know you can beat this challenge, too.”",
+                "textES": "–Cierto, Marie nunca se dio por vencida. Ganó el Premio Nobel dos veces por su arduo trabajo –respondió Oona, satisfecha. –Si ella es tu heroína, sé que puedes vencer este reto, también.",
+                "textPT": "&#34;Sim, Marie nunca desistiu. Ela ganhou o prêmio Nobel duas vezes pelo seu trabalho,&#34; respondeu Oona, contente. &#34;Se ela é sua heroína, eu sei que você pode vencer esse desafio, também.&#34;",
+                "textCN": "“是的，居里夫人从来没有放弃过。因为她的努力，她两次荣获诺贝尔奖，”奥娜高兴地回答。“如果她是你心目中的英雄，那么我相信你也能攻克这个难题。”",
+                "textJP": "「そうよ、キュリーふじんは けっして あきらめなかった。どりょくの おかげで ノーベルしょうを ２回も とったのよ。」ウーナは うれしそうに 言いました。「キュリーふじんを もくひょうに しているのなら、ナオも このじっけんを せいこうさせることが できるはずよ。」",
+                "textKR": "&#34;맞아, 퀴리 부인은 절대 포기하지 않았어. 그분은 열심히 일했기 때문에 노벨상을 두 번이나 받은 거야.&#34; 우나가 기쁜 마음으로 대답했어요. &#34;그분이 네 영웅이라면 너도 이걸 해결할 수 있어.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.041",
+                        "text": "–Cierto,"
+                    },
+                    {
+                        "start": "1.359",
+                        "text": "Marie"
+                    },
+                    {
+                        "start": "2.003",
+                        "text": "nunca"
+                    },
+                    {
+                        "start": "2.324",
+                        "text": "se"
+                    },
+                    {
+                        "start": "2.646",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "2.885",
+                        "text": "por"
+                    },
+                    {
+                        "start": "3.051",
+                        "text": "vencida."
+                    },
+                    {
+                        "start": "4.400",
+                        "text": "Ganó"
+                    },
+                    {
+                        "start": "4.794",
+                        "text": "el"
+                    },
+                    {
+                        "start": "5.033",
+                        "text": "Premio"
+                    },
+                    {
+                        "start": "5.489",
+                        "text": "Nobel"
+                    },
+                    {
+                        "start": "5.935",
+                        "text": "dos"
+                    },
+                    {
+                        "start": "6.330",
+                        "text": "veces"
+                    },
+                    {
+                        "start": "6.797",
+                        "text": "por"
+                    },
+                    {
+                        "start": "6.983",
+                        "text": "su"
+                    },
+                    {
+                        "start": "7.191",
+                        "text": "arduo"
+                    },
+                    {
+                        "start": "7.616",
+                        "text": "trabajo"
+                    },
+                    {
+                        "start": "9.277",
+                        "text": "–respondió"
+                    },
+                    {
+                        "start": "9.962",
+                        "text": "Oona,"
+                    },
+                    {
+                        "start": "10.646",
+                        "text": "satisfecha."
+                    },
+                    {
+                        "start": "12.577",
+                        "text": "–Si"
+                    },
+                    {
+                        "start": "12.877",
+                        "text": "ella"
+                    },
+                    {
+                        "start": "13.095",
+                        "text": "es"
+                    },
+                    {
+                        "start": "13.292",
+                        "text": "tu"
+                    },
+                    {
+                        "start": "13.376",
+                        "text": "heroína,"
+                    },
+                    {
+                        "start": "14.392",
+                        "text": "sé"
+                    },
+                    {
+                        "start": "14.735",
+                        "text": "que"
+                    },
+                    {
+                        "start": "14.922",
+                        "text": "puedes"
+                    },
+                    {
+                        "start": "15.316",
+                        "text": "vencer"
+                    },
+                    {
+                        "start": "16.001",
+                        "text": "este"
+                    },
+                    {
+                        "start": "16.489",
+                        "text": "reto,"
+                    },
+                    {
+                        "start": "16.924",
+                        "text": "también."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.722",
+                        "text": "“Yes,"
+                    },
+                    {
+                        "start": "1.514",
+                        "text": "Marie"
+                    },
+                    {
+                        "start": "1.937",
+                        "text": "never"
+                    },
+                    {
+                        "start": "2.483",
+                        "text": "gave"
+                    },
+                    {
+                        "start": "2.712",
+                        "text": "up."
+                    },
+                    {
+                        "start": "3.540",
+                        "text": "She"
+                    },
+                    {
+                        "start": "3.786",
+                        "text": "won"
+                    },
+                    {
+                        "start": "4.050",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.226",
+                        "text": "Nobel"
+                    },
+                    {
+                        "start": "4.755",
+                        "text": "Prize"
+                    },
+                    {
+                        "start": "5.177",
+                        "text": "twice"
+                    },
+                    {
+                        "start": "5.846",
+                        "text": "for"
+                    },
+                    {
+                        "start": "6.005",
+                        "text": "her"
+                    },
+                    {
+                        "start": "6.181",
+                        "text": "hard"
+                    },
+                    {
+                        "start": "6.498",
+                        "text": "work,”"
+                    },
+                    {
+                        "start": "7.220",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "7.467",
+                        "text": "replied,"
+                    },
+                    {
+                        "start": "8.365",
+                        "text": "pleased."
+                    },
+                    {
+                        "start": "9.456",
+                        "text": "“If"
+                    },
+                    {
+                        "start": "9.597",
+                        "text": "she’s"
+                    },
+                    {
+                        "start": "9.932",
+                        "text": "your"
+                    },
+                    {
+                        "start": "10.178",
+                        "text": "hero,"
+                    },
+                    {
+                        "start": "10.894",
+                        "text": "I"
+                    },
+                    {
+                        "start": "11.077",
+                        "text": "know"
+                    },
+                    {
+                        "start": "11.446",
+                        "text": "you"
+                    },
+                    {
+                        "start": "11.622",
+                        "text": "can"
+                    },
+                    {
+                        "start": "11.834",
+                        "text": "beat"
+                    },
+                    {
+                        "start": "12.115",
+                        "text": "this"
+                    },
+                    {
+                        "start": "12.344",
+                        "text": "challenge,"
+                    },
+                    {
+                        "start": "12.837",
+                        "text": "too.”"
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "맞아," },
+                    { "start": "1.185","text": "퀴리" },
+                    { "start": "1.791","text": "부인은" },
+                    { "start": "2.867","text": "절대" },
+                    { "start": "3.671","text": "포기하지" },
+                    { "start": "4.496","text": "않았어." },
+                    { "start": "6.496","text": "그분은" },
+                    { "start": "7.767","text": "열심히" },
+                    { "start": "8.600","text": "일했기" },
+                    { "start": "9.336","text": "때문에" },
+                    { "start": "10.441","text": "노벨상을" },
+                    { "start": "12.167","text": "두" },
+                    { "start": "12.505","text": "번이나" },
+                    { "start": "13.651","text": "받은" },
+                    { "start": "14.132","text": "거야." },
+                    { "start": "15.940","text": "우나가" },
+                    { "start": "17.233","text": "기쁜" },
+                    { "start": "18.004","text": "마음으로" },
+                    { "start": "19.185","text": "대답했어요." },
+                    { "start": "21.713","text": "그분이" },
+                    { "start": "22.744","text": "네" },
+                    { "start": "23.134","text": "영웅이라면" },
+                    { "start": "25.031","text": "너도" },
+                    { "start": "25.617","text": "이걸" },
+                    { "start": "26.587","text": "해결할" },
+                    { "start": "27.376","text": "수" },
+                    { "start": "28.092","text": "있어." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "Nao knew Oona was right. With more confidence in his own ability, he realized that in order to achieve his goal, he had to persevere. Nao tried the experiment again and this time, he was successful!",
+                "textES": "Nao sabía que Oona tenía razón. Se dio cuenta de que para lograr su objetivo, tenía que confiar en sus capacidades y ser perseverante. Nao intentó hacer el experimento de nuevo y esta vez tuvo éxito.",
+                "textPT": "Nao sabia que Oona tinha razão. Com mais confiança em sua própria capacidade, ele percebeu que para atingir seu objetivo, ele tinha que ser perseverante. Nao tentou o experimento de novo e, dessa vez, ele conseguiu!",
+                "textCN": "奈绪觉得奥娜说得对，他对自己更有信心了。为实现目标，他必须坚持不懈。奈绪又做了一次实验，这次他成功了！",
+                "textJP": "ナオは ウーナの言うとおりだと 思いました。自分に もっと じしんを もったナオは、もくひょうを たっせいするには、しんぼう づよく どりょく しなければ ならないと 思いました。ナオは もういちど じっけんに ちょうせんしました。そして ついに、せいこう したのでした！",
+                "textKR": "나오는 우나가 옳은 말을 한다고 생각했어요. 능력과 자신감에 끈기를 더하면 자기의 목표를 이룰 수 있다고 깨달았어요. 나오는 다시 실험을 계속했고 마침내 성공했어요!",
+                "wordsES": [
+                    {
+                        "start": "0.073",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "0.540",
+                        "text": "sabía"
+                    },
+                    {
+                        "start": "1.515",
+                        "text": "que"
+                    },
+                    {
+                        "start": "1.806",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "2.169",
+                        "text": "tenía"
+                    },
+                    {
+                        "start": "2.625",
+                        "text": "razón."
+                    },
+                    {
+                        "start": "3.943",
+                        "text": "Se"
+                    },
+                    {
+                        "start": "4.254",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "4.545",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "5.053",
+                        "text": "de"
+                    },
+                    {
+                        "start": "5.188",
+                        "text": "que"
+                    },
+                    {
+                        "start": "5.375",
+                        "text": "para"
+                    },
+                    {
+                        "start": "5.541",
+                        "text": "lograr"
+                    },
+                    {
+                        "start": "6.060",
+                        "text": "su"
+                    },
+                    {
+                        "start": "6.143",
+                        "text": "objetivo,"
+                    },
+                    {
+                        "start": "7.367",
+                        "text": "tenía"
+                    },
+                    {
+                        "start": "7.762",
+                        "text": "que"
+                    },
+                    {
+                        "start": "7.907",
+                        "text": "confiar"
+                    },
+                    {
+                        "start": "8.364",
+                        "text": "en"
+                    },
+                    {
+                        "start": "8.561",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "8.799",
+                        "text": "capacidades"
+                    },
+                    {
+                        "start": "9.806",
+                        "text": "y"
+                    },
+                    {
+                        "start": "9.868",
+                        "text": "ser"
+                    },
+                    {
+                        "start": "10.346",
+                        "text": "perseverante."
+                    },
+                    {
+                        "start": "12.691",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "13.199",
+                        "text": "intentó"
+                    },
+                    {
+                        "start": "13.739",
+                        "text": "hacer"
+                    },
+                    {
+                        "start": "14.060",
+                        "text": "el"
+                    },
+                    {
+                        "start": "14.163",
+                        "text": "experimento"
+                    },
+                    {
+                        "start": "14.849",
+                        "text": "de"
+                    },
+                    {
+                        "start": "15.119",
+                        "text": "nuevo"
+                    },
+                    {
+                        "start": "16.125",
+                        "text": "y"
+                    },
+                    {
+                        "start": "16.302",
+                        "text": "esta"
+                    },
+                    {
+                        "start": "16.717",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "17.298",
+                        "text": "tuvo"
+                    },
+                    {
+                        "start": "17.713",
+                        "text": "éxito."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.740",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.162",
+                        "text": "knew"
+                    },
+                    {
+                        "start": "1.550",
+                        "text": "Oona"
+                    },
+                    {
+                        "start": "1.849",
+                        "text": "was"
+                    },
+                    {
+                        "start": "2.060",
+                        "text": "right."
+                    },
+                    {
+                        "start": "2.747",
+                        "text": "With"
+                    },
+                    {
+                        "start": "2.870",
+                        "text": "more"
+                    },
+                    {
+                        "start": "3.240",
+                        "text": "confidence"
+                    },
+                    {
+                        "start": "3.821",
+                        "text": "in"
+                    },
+                    {
+                        "start": "3.945",
+                        "text": "his"
+                    },
+                    {
+                        "start": "4.191",
+                        "text": "own"
+                    },
+                    {
+                        "start": "4.367",
+                        "text": "ability,"
+                    },
+                    {
+                        "start": "5.371",
+                        "text": "he"
+                    },
+                    {
+                        "start": "5.600",
+                        "text": "realized"
+                    },
+                    {
+                        "start": "6.445",
+                        "text": "that"
+                    },
+                    {
+                        "start": "6.586",
+                        "text": "in"
+                    },
+                    {
+                        "start": "6.745",
+                        "text": "order"
+                    },
+                    {
+                        "start": "7.044",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.185",
+                        "text": "achieve"
+                    },
+                    {
+                        "start": "7.625",
+                        "text": "his"
+                    },
+                    {
+                        "start": "7.872",
+                        "text": "goal,"
+                    },
+                    {
+                        "start": "8.805",
+                        "text": "he"
+                    },
+                    {
+                        "start": "9.016",
+                        "text": "had"
+                    },
+                    {
+                        "start": "9.316",
+                        "text": "to"
+                    },
+                    {
+                        "start": "9.562",
+                        "text": "persevere."
+                    },
+                    {
+                        "start": "11.024",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "11.411",
+                        "text": "tried"
+                    },
+                    {
+                        "start": "11.781",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.975",
+                        "text": "experiment"
+                    },
+                    {
+                        "start": "12.573",
+                        "text": "again"
+                    },
+                    {
+                        "start": "13.436",
+                        "text": "and"
+                    },
+                    {
+                        "start": "13.683",
+                        "text": "this"
+                    },
+                    {
+                        "start": "13.949",
+                        "text": "time,"
+                    },
+                    {
+                        "start": "14.651",
+                        "text": "he"
+                    },
+                    {
+                        "start": "14.810",
+                        "text": "was"
+                    },
+                    {
+                        "start": "14.933",
+                        "text": "successful! "
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "나오는" },
+                    { "start": "1.337","text": "우나가" },
+                    { "start": "2.493","text": "옳은" },
+                    { "start": "3.122","text": "말을" },
+                    { "start": "3.633","text": "한다고" },
+                    { "start": "4.456","text": "생각했어요." },
+                    { "start": "6.992","text": "능력과" },
+                    { "start": "7.924","text": "자신감에" },
+                    { "start": "9.481","text": "끈기를" },
+                    { "start": "10.310","text": "더하면" },
+                    { "start": "11.529","text": "자기의" },
+                    { "start": "12.390","text": "목표를" },
+                    { "start": "13.818","text": "이룰" },
+                    { "start": "14.248","text": "수" },
+                    { "start": "15.041","text": "있다고" },
+                    { "start": "16.391","text": "깨달았어요." },
+                    { "start": "19.002","text": "나오는" },
+                    { "start": "20.176","text": "다시" },
+                    { "start": "20.900","text": "실험을" },
+                    { "start": "21.794","text": "계속했고" },
+                    { "start": "23.340","text": "마침내" },
+                    { "start": "24.556","text": "성공했어요!" }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

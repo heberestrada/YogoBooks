@@ -1,0 +1,2748 @@
+{
+    "book": {
+        "titleES": "La flor de México",
+        "titleEN": "The Flower of Mexico",
+        "titlePT": "A flor do México",
+        "titleCN": "墨西哥之花",
+        "titleJP": "メキシコの花",
+        "titleKR": "멕시코의 꽃",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "México era un pueblo lleno de color, folclor y tradición. Hasta que cierto día, un hombre malvado robó de su corazón la llamada “Flor de México”. En ese momento, todo se volvió gris y sombrío.",
+                "textEN": "Mexico was a colorful country full of folklore and tradition. Until one day, an evil man stole the &#34;Flower of Mexico&#34; from its heart. Without its Flower, Mexico became gray and sad.",
+                "textPT": "O México era um país cheio de cores, folclore e tradição. Até que, certo dia, um homem malvado roubou a chamada &#34;Flor do México&#34; do coração do país. Então, tudo ficou cinza e triste.",
+                "textCN": "墨西哥是一个充满民俗和传统的多彩国家。直到有一天，一个邪恶的坏人从它的中心地带偷走了“墨西哥之花”。没有这朵花，墨西哥变得灰暗而哀伤。",
+                "textJP": "メキシコは、民族文化と伝統にあふれたカラフルな国だった。ある日、悪い男が「メキシコの花」を心臓から盗み取るまでは。花がないメキシコは、灰色の悲しい国になってしまった。",
+                "textKR": "멕시코는 민속과 전통이 가득한 다채로운 나라였어요. 어느 날, 한 사악한 남자가 '멕시코의 꽃'을 멕시코의 심장에서 훔쳐 갔어요. 꽃이 없으면 멕시코는 어둡고 슬퍼져요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "México"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "era"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "un"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "pueblo"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "lleno"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "color,"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "folclor"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "y"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "tradición."
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "Hasta"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "cierto"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "día,"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "un"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "hombre"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "malvado"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "robó"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "su"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "corazón"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "la"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "llamada"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "“Flor"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "México”."
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "En"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "ese"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "momento,"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "todo"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "se"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "volvió"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "gris"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "y"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "sombrío."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "Mexico"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "colorful"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "country"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "full"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "of"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "folklore"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "tradition."
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "Until"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "one"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "day,"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "an"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "evil"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "man"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "stole"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "Flower"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "of"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "Mexico"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "from"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "its"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "heart."
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "Without"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "its"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "Flower,"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "Mexico"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "became"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "gray"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "and"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "sad."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "멕시코는" },
+                    { "start": "1.108", "text": "민속과" },
+                    { "start": "2.058", "text": "전통이" },
+                    { "start": "2.821", "text": "가득한" },
+                    { "start": "3.840", "text": "다채로운" },
+                    { "start": "4.581", "text": "나라였어요." },
+                    { "start": "6.708", "text": "어느" },
+                    { "start": "7.033", "text": "날," },
+                    { "start": "7.654", "text": "한" },
+                    { "start": "7.985", "text": "사악한" },
+                    { "start": "8.568", "text": "남자가" },
+                    { "start": "9.964", "text": "'멕시코의" },
+                    { "start": "10.838", "text": "꽃'을" },
+                    { "start": "11.704", "text": "멕시코의" },
+                    { "start": "12.462", "text": "심장에서" },
+                    { "start": "13.846", "text": "훔쳐" },
+                    { "start": "14.345", "text": "갔어요." },
+                    { "start": "16.199", "text": "꽃이" },
+                    { "start": "16.677", "text": "없으면" },
+                    { "start": "17.653", "text": "멕시코는" },
+                    { "start": "19.055", "text": "어둡고" },
+                    { "start": "19.756", "text": "슬퍼져요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "Los Héroes llegaron al rescate. Decidieron que lo mejor sería usar su máquina del tiempo. Viajaron al pasado y llegaron con una mujer que era conocida como “La Doña”. Sabían que ella les ayudaría a recuperar la flor.",
+                "textEN": "Luckily, the Heroes came to the rescue. They decided it was best to use their time machine. The Heroes traveled back in time and visited a woman named La Doña. The Heroes thought that she could help them recover the Flower.",
+                "textPT": "Por sorte, os Heróis chegaram para o resgate. Eles decidiram que era melhor usar a máquina do tempo. Os Heróis viajaram ao passado e visitaram uma mulher chamada &#34;La Doña&#34;. Eles sabiam que ela os ajudaria a recuperar a flor.",
+                "textCN": "幸运的是，英雄们赶来营救了！他们认为使用时光机是最好的方法。英雄们回到了过去，拜访了一位名叫 La Doña 的女士。英雄们觉得她应该能帮助他们找回墨西哥之花。",
+                "textJP": "でも運よく、ヒーローたちが助けに来てくれた。ヒーローたちはタイムマシンを使うのが一番だと判断した。ヒーローたちは時空を旅して、ラ・ドーニャという女の人を訪ねた。彼女が花を取り戻す手伝いをしてくれると思ったのだ。",
+                "textKR": "다행히 히어로들이 구조하러 왔어요. 그들은 타임머신을 쓰는 게 가장 좋은 방법이라고 생각했어요. 히어로들은 타임머신으로 시간을 거슬러 가서 라 도냐라는 여성을 만났어요. 히어로들은 그 여성이 꽃을 되찾는 데 도움을 줄 거라고 믿었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Los"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "llegaron"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "al"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "rescate."
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "Decidieron"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "mejor"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "sería"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "usar"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "su"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "máquina"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "del"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "tiempo."
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "Viajaron"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "al"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "pasado"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "y"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "llegaron"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "con"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "una"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "mujer"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "que"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "era"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "conocida"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "como"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "“La"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "Doña”."
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "Sabían"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "que"
+                    },
+                    {
+                        "start": "15.7",
+                        "text": "ella"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "les"
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "ayudaría"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "recuperar"
+                    },
+                    {
+                        "start": "17.5",
+                        "text": "la"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "flor."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "Luckily,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "came"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "rescue."
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "They"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "decided"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "it"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "was"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "best"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "use"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "their"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "time"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "machine."
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "The"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "traveled"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "back"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "in"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "time"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "visited"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "woman"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "named"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "La"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "Doña."
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "The"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "thought"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "that"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "she"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "could"
+                    },
+                    {
+                        "start": "15.3",
+                        "text": "help"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "them"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "recover"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "Flower."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "다행히" },
+                    { "start": "0.667", "text": "히어로들이" },
+                    { "start": "1.782", "text": "구조하러" },
+                    { "start": "2.555", "text": "왔어요." },
+                    { "start": "4.351", "text": "그들은" },
+                    { "start": "5.453", "text": "타임머신을" },
+                    { "start": "6.326", "text": "쓰는" },
+                    { "start": "6.759", "text": "게" },
+                    { "start": "7.358", "text": "가장" },
+                    { "start": "7.976", "text": "좋은" },
+                    { "start": "8.421", "text": "방법이라고" },
+                    { "start": "9.471", "text": "생각했어요." },
+                    { "start": "11.538", "text": "히어로들은" },
+                    { "start": "12.759", "text": "타임머신으로" },
+                    { "start": "14.310", "text": "시간을" },
+                    { "start": "15.037", "text": "거슬러" },
+                    { "start": "15.698", "text": "가서" },
+                    { "start": "16.596", "text": "라" },
+                    { "start": "17.108", "text": "도냐라는" },
+                    { "start": "18.502", "text": "여성을" },
+                    { "start": "19.153", "text": "만났어요." },
+                    { "start": "21.043", "text": "히어로들은" },
+                    { "start": "22.441", "text": "그" },
+                    { "start": "22.718", "text": "여성이" },
+                    { "start": "23.742", "text": "꽃을" },
+                    { "start": "24.345", "text": "되찾는" },
+                    { "start": "25.003", "text": "데" },
+                    { "start": "25.908", "text": "도움을" },
+                    { "start": "26.589", "text": "줄" },
+                    { "start": "26.975", "text": "거라고" },
+                    { "start": "27.689", "text": "믿었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "La elegante mujer les dijo que no tenían que buscar la flor, pues era mejor hacer una nueva. Para hacerla, tendrían que visitar a otros ídolos mexicanos, ya que cada uno tenía un pétalo para la nueva flor. Antes de irse, ella les dio el pétalo que representaba el cine.",
+                "textEN": "The elegant woman explained that they didn’t need to look for the Flower. She said it would be  best if they put together a new one. To make it, they would have to visit other Mexican idols. Each of them had a petal for the new flower. Before they left, she gave them a petal that represented the art of cinema.",
+                "textPT": "A elegante mulher explicou que eles não precisavam procurar pela flor, pois era melhor fazer uma nova. Para isso, eles deveriam visitar outros ídolos mexicanos, pois cada ídolo tinha uma pétala para fazer uma nova flor. Antes deles partirem, a mulher entregou uma pétala que representava a arte do cinema.",
+                "textCN": "这位优雅的女士解释说，他们不需要去寻找这朵花。她说最好的方法是用花瓣组成一朵新的花。要做到这一点，英雄们必须去拜访其他的墨西哥偶像。因为他们每人都有一片新花朵的花瓣。在英雄们离开前，她送给他们一片代表电影艺术的花瓣。",
+                "textJP": "上品なラ・ドーニャは、花を探す必要はないと説明した。新しい花を作るのが一番いいと言った。新しい花を作るためには、メキシコの大事な人たちを訪ねないといけない。その人がそれぞれ、新しい花を作るための花びらを持っているのだ。ヒーローたちが出発する前に、ラ・ドーニャが映画の芸術を表す花びらをわたしてくれた。",
+                "textKR": "그 우아한 여인은 꽃을 찾을 필요가 없고 오히려 새로운 꽃을 놓는 게 더 좋다고 설명했어요. 꽃을 만들기 위해선 멕시코의 우상들을 방문해야 했어요. 우상들이 새 꽃을 만들 꽃잎을 가지고 있었거든요. 그녀는 히어로들이 떠나기 전에 영화 예술을 상징하는 꽃잎을 주었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.4",
+                        "text": "La"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "elegante"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "mujer"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "les"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "no"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "tenían"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "que"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "buscar"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "la"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "flor,"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "era"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "mejor"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "hacer"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "una"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "nueva."
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "Para"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "hacerla,"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "tendrían"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "que"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "visitar"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "otros"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "ídolos"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "mexicanos,"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "ya"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "que"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "cada"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "uno"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "tenía"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "un"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "pétalo"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "para"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "la"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "nueva"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "flor."
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "Antes"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "de"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "irse,"
+                    },
+                    {
+                        "start": "17.5",
+                        "text": "ella"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "les"
+                    },
+                    {
+                        "start": "18.1",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "18.3",
+                        "text": "el"
+                    },
+                    {
+                        "start": "18.5",
+                        "text": "pétalo"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "que"
+                    },
+                    {
+                        "start": "19.1",
+                        "text": "representaba"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "el"
+                    },
+                    {
+                        "start": "20.1",
+                        "text": "cine."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "The"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "elegant"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "woman"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "that"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "they"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "didn’t"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "need"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "look"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "for"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "Flower."
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "She"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "said"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "it"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "would"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "be"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "best"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "if"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "they"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "put"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "together"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "new"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "one."
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "To"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "make"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "it,"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "they"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "would"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "have"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "to"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "visit"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "other"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "Mexican"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "idols."
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "Each"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "of"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "them"
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "had"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "petal"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "for"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "new"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "flower."
+                    },
+                    {
+                        "start": "17.6",
+                        "text": "Before"
+                    },
+                    {
+                        "start": "18.1",
+                        "text": "they"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "left,"
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "she"
+                    },
+                    {
+                        "start": "19.4",
+                        "text": "gave"
+                    },
+                    {
+                        "start": "19.6",
+                        "text": "them"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "20.0",
+                        "text": "petal"
+                    },
+                    {
+                        "start": "20.2",
+                        "text": "that"
+                    },
+                    {
+                        "start": "20.5",
+                        "text": "represented"
+                    },
+                    {
+                        "start": "21.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "21.6",
+                        "text": "art"
+                    },
+                    {
+                        "start": "22.0",
+                        "text": "of"
+                    },
+                    {
+                        "start": "22.3",
+                        "text": "cinema."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "그" },
+                    { "start": "0.394", "text": "우아한" },
+                    { "start": "1.031", "text": "여인은" },
+                    { "start": "1.905", "text": "꽃을" },
+                    { "start": "2.486", "text": "찾을" },
+                    { "start": "2.987", "text": "필요가" },
+                    { "start": "3.561", "text": "없고" },
+                    { "start": "4.801", "text": "오히려" },
+                    { "start": "5.737", "text": "새로운" },
+                    { "start": "6.453", "text": "꽃을" },
+                    { "start": "6.933", "text": "놓는" },
+                    { "start": "7.422", "text": "게" },
+                    { "start": "7.997", "text": "더" },
+                    { "start": "8.353", "text": "좋다고" },
+                    { "start": "9.071", "text": "설명했어요." },
+                    { "start": "11.345", "text": "꽃을" },
+                    { "start": "11.923", "text": "만들기" },
+                    { "start": "12.592", "text": "위해선" },
+                    { "start": "13.557", "text": "멕시코의" },
+                    { "start": "14.332", "text": "우상들을" },
+                    { "start": "15.518", "text": "방문해야" },
+                    { "start": "16.447", "text": "했어요." },
+                    { "start": "18.236", "text": "우상들이" },
+                    { "start": "19.526", "text": "새" },
+                    { "start": "19.913", "text": "꽃을" },
+                    { "start": "20.408", "text": "만들" },
+                    { "start": "21.280", "text": "꽃잎을" },
+                    { "start": "22.055", "text": "가지고" },
+                    { "start": "22.693", "text": "있었거든요." },
+                    { "start": "24.750", "text": "그녀는" },
+                    { "start": "25.744", "text": "히어로들이" },
+                    { "start": "27.109", "text": "떠나기" },
+                    { "start": "27.752", "text": "전에" },
+                    { "start": "28.580", "text": "영화" },
+                    { "start": "29.264", "text": "예술을" },
+                    { "start": "29.789", "text": "상징하는" },
+                    { "start": "30.674", "text": "꽃잎을" },
+                    { "start": "31.389", "text": "주었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "El viaje continuó y los Héroes visitaron al famoso luchador “El Enmascarado de Plata”. El pétalo del luchador aportó al deporte y a la cultura de la lucha libre.",
+                "textEN": "As they continued their journey, the Heroes visited the renowned wrestler, El Enmascarado de Plata. The wrestler gave them a petal that represented sports and the culture of wrestling.",
+                "textPT": "Enquanto seguiam viagem, os Heróis visitaram o famoso lutador &#34;El Enmascarado de Plata&#34;. Ele entregou uma pétala que representava os esportes e a cultura da luta livre.",
+                "textCN": "英雄们继续踏上旅途，他们拜访了著名的摔跤手 El Enmascarado de Plata。这位摔跤手送给他们一片代表体育和摔跤文化的花瓣。",
+                "textJP": "旅を続けると、ヒーローたちは有名なレスラーのエル・エンマスカラード・デ・プラータに出会った。このレスラーは、スポーツとレスリングの文化を表す花びらをくれた。",
+                "textKR": "히어로들이 여행을 계속하면서 유명한 레슬링 선수인 엘 엔마스카라도 데 플라타를 만났어요. 그 선수는 히어로들에게 스포츠와 레슬링 문화를 상징하는 꽃잎을 주었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "El"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "viaje"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "continuó"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "y"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "los"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "visitaron"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "al"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "famoso"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "luchador"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "“El"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "Enmascarado"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "de"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "Plata”."
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "El"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "pétalo"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "del"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "luchador"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "aportó"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "al"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "deporte"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "y"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "la"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "cultura"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "de"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "lucha"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "libre."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "As"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "they"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "continued"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "their"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "journey,"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "visited"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "renowned"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "wrestler,"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "El"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "Enmascarado"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "de"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "Plata."
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "The"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "wrestler"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "gave"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "them"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "petal"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "that"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "represented"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "sports"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "culture"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "of"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "wrestling."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "히어로들이" },
+                    { "start": "0.810", "text": "여행을" },
+                    { "start": "1.498", "text": "계속하면서" },
+                    { "start": "2.803", "text": "유명한" },
+                    { "start": "3.460", "text": "레슬링" },
+                    { "start": "4.057", "text": "선수인" },
+                    { "start": "5.336", "text": "엘" },
+                    { "start": "6.094", "text": "엔마스카라도" },
+                    { "start": "7.749", "text": "데" },
+                    { "start": "8.146", "text": "플라타를" },
+                    { "start": "8.870", "text": "만났어요." },
+                    { "start": "10.834", "text": "그" },
+                    { "start": "11.086", "text": "선수는" },
+                    { "start": "12.141", "text": "히어로들에게" },
+                    { "start": "13.620", "text": "스포츠와" },
+                    { "start": "14.859", "text": "레슬링" },
+                    { "start": "15.612", "text": "문화를" },
+                    { "start": "16.095", "text": "상징하는" },
+                    { "start": "16.967", "text": "꽃잎을" },
+                    { "start": "17.656", "text": "주었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "Después se dirigieron hacia el comediante más grande de la historia de México. Le llamaban “El Chaplin mexicano”. Él les dio un pétalo que aportaba risas y comedia.",
+                "textEN": "Next, they visited the greatest comedian in Mexican history. He was known as &#34;The Mexican Chaplin&#34;. The petal they received from him represented the art of comedy and laughter.",
+                "textPT": "Em seguida, eles visitaram o maior comediante da história do México, conhecido como &#34;O Chaplin mexicano&#34;. Eles receberam uma pétala que representava a arte da comédia e dos risos.",
+                "textCN": "接下来，他们拜访了墨西哥历史上最伟大的喜剧演员。他被称为“墨西哥卓别林”。英雄们从他那里取得了代表喜剧和笑声艺术的花瓣。",
+                "textJP": "次に、メキシコの歴史で一番偉大なコメディアンを訪ねた。「メキシコのチャップリン」として知られていた人だ。彼がくれた花びらはコメディーと笑いの芸術を表していた。",
+                "textKR": "그다음, 히어로들은 멕시코 역사상 가장 위대한 코미디언을 만났어요. 그는 '멕시코 채플린'으로 불렸어요. 그는 히어로들에게 코미디 예술과 웃음을 상징하는 꽃잎을 주었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Después"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "se"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "dirigieron"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "hacia"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "comediante"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "más"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "grande"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "de"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "la"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "historia"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "México."
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "Le"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "llamaban"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "“El"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "Chaplin"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "mexicano”."
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "Él"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "les"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "un"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "pétalo"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "aportaba"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "risas"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "y"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "comedia."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.6",
+                        "text": "Next,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "they"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "visited"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "greatest"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "comedian"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "in"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "Mexican"
+                    },
+                    {
+                        "start": "4.35",
+                        "text": "history."
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "He"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "was"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "known"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "as"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "The"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "Mexican"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "Chaplin."
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "The"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "petal"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "they"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "received"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "from"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "him"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "represented"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "art"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "of"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "comedy"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "laughter."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "그다음," },
+                    { "start": "0.735", "text": "히어로들은" },
+                    { "start": "2.054", "text": "멕시코" },
+                    { "start": "2.773", "text": "역사상" },
+                    { "start": "3.765", "text": "가장" },
+                    { "start": "4.373", "text": "위대한" },
+                    { "start": "4.995", "text": "코미디언을" },
+                    { "start": "5.912", "text": "만났어요." },
+                    { "start": "7.749", "text": "그는" },
+                    { "start": "8.596", "text": "'멕시코" },
+                    { "start": "9.398", "text": "채플린'으로" },
+                    { "start": "10.338", "text": "불렸어요." },
+                    { "start": "12.160", "text": "그는" },
+                    { "start": "12.633", "text": "히어로들에게" },
+                    { "start": "13.959", "text": "코미디" },
+                    { "start": "14.592", "text": "예술과" },
+                    { "start": "15.854", "text": "웃음을" },
+                    { "start": "16.446", "text": "상징하는" },
+                    { "start": "17.340", "text": "꽃잎을" },
+                    { "start": "18.038", "text": "주었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "Por último, los Héroes fueron con un hombre conocido como el “Ídolo de México”. Aquel hombre les dio a los Héroes un pétalo que aportaba toda la música y el folclor. También les dio un consejo: que dejaran de buscar la flor que había sido robada y mejor admiraran la nueva flor que habían recolectado.",
+                "textEN": "Finally, the Heroes visited a man known as &#34;Mexico’s Idol&#34;. He gave the Heroes a petal that represented music and folklore. He also gave them one advice: to stop looking for the stolen flower and to cherish the new flower they had gathered together.",
+                "textPT": "Por fim, os Heróis visitaram um homem conhecido como &#34;Ídolo do México&#34;. Ele deu aos Heróis uma pétala que representava a música e o folclore. E também deu um conselho: eles deviam parar de procurar pela flor roubada e admirar a nova flor que conseguiram juntar.",
+                "textCN": "最后，英雄们拜访了一位被称为“墨西哥偶像”的男士。他送给英雄们一片代表音乐和民俗的花瓣。他还给了他们一个忠告：别再继续寻找被盗的花朵，要做的是珍惜他们将花瓣拼成的那朵新花。",
+                "textJP": "最後に、「メキシコのアイドル」として知られている人を訪ねた。彼は音楽と民族文化を表す花びらをくれた。そして、ヒーローたちに盗まれた花を探すのはやめて、みんなで集めて作った新しい花を大切にするようにというアドバイスをくれた。",
+                "textKR": "마침내, 히어로들은 '멕시코의 아이돌'로 알려진 남자를 만났어요. 그는 히어로들에게 음악과 민속을 의미하는 꽃잎을 주었어요. 그는 히어로들에게 충고를 하나 했어요. 이미 도난당한 꽃을 찾지 말고 함께 모은 새 꽃을 소중히 생각하라고요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Por"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "último,"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "los"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "fueron"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "con"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "un"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "hombre"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "conocido"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "como"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "el"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "“Ídolo"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "de"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "México”."
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "Aquel"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "hombre"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "les"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "los"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "un"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "pétalo"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "aportaba"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "toda"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "la"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "música"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "el"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "folclor."
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "También"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "les"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "un"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "consejo:"
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "15.3",
+                        "text": "dejaran"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "buscar"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "la"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "flor"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "que"
+                    },
+                    {
+                        "start": "17.1",
+                        "text": "había"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "sido"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "robada"
+                    },
+                    {
+                        "start": "18.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "mejor"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "admiraran"
+                    },
+                    {
+                        "start": "19.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "20.6",
+                        "text": "nueva"
+                    },
+                    {
+                        "start": "20.9",
+                        "text": "flor"
+                    },
+                    {
+                        "start": "21.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "21.7",
+                        "text": "habían"
+                    },
+                    {
+                        "start": "22.5",
+                        "text": "recolectado."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.7",
+                        "text": "Finally,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "visited"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "man"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "known"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "as"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "Mexico’s"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "Idol."
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "He"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "gave"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "petal"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "that"
+                    },
+                    {
+                        "start": "7.25",
+                        "text": "represented"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "music"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "and"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "folklore."
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "He"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "also"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "gave"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "them"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "one"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "advice:"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "to"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "stop"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "looking"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "for"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "stolen"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "flower"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "to"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "cherish"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "17.1",
+                        "text": "new"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "flower"
+                    },
+                    {
+                        "start": "17.6",
+                        "text": "they"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "had"
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "gathered"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "together."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "마침내," },
+                    { "start": "0.943", "text": "히어로들은" },
+                    { "start": "2.285", "text": "'멕시코의" },
+                    { "start": "3.285", "text": "아이돌'로" },
+                    { "start": "3.823", "text": "알려진" },
+                    { "start": "4.471", "text": "남자를" },
+                    { "start": "5.088", "text": "만났어요." },
+                    { "start": "7.106", "text": "그는" },
+                    { "start": "7.903", "text": "히어로들에게" },
+                    { "start": "9.400", "text": "음악과" },
+                    { "start": "10.224", "text": "민속을" },
+                    { "start": "10.954", "text": "의미하는" },
+                    { "start": "11.728", "text": "꽃잎을" },
+                    { "start": "12.401", "text": "주었어요." },
+                    { "start": "14.394", "text": "그는" },
+                    { "start": "15.131", "text": "히어로들에게" },
+                    { "start": "16.691", "text": "충고를" },
+                    { "start": "17.353", "text": "하나" },
+                    { "start": "17.861", "text": "했어요." },
+                    { "start": "19.606", "text": "이미" },
+                    { "start": "20.103", "text": "도난당한" },
+                    { "start": "20.982", "text": "꽃을" },
+                    { "start": "21.537", "text": "찾지" },
+                    { "start": "22.023", "text": "말고" },
+                    { "start": "23.096", "text": "함께" },
+                    { "start": "23.686", "text": "모은" },
+                    { "start": "24.411", "text": "새" },
+                    { "start": "24.878", "text": "꽃을" },
+                    { "start": "25.409", "text": "소중히" },
+                    { "start": "26.087", "text": "생각하라고요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "trackEN": "audios/EN/7.mp3",
+                "trackES": "audios/ES/7.mp3",
+                "trackPT": "audios/PT/7.mp3",
+                "trackCN": "audios/ZH/7.mp3",
+                "trackJP": "audios/JA/7.mp3",
+                "trackKR": "audios/KR/7.mp3",
+                "textES": "Los Héroes colocaron la flor recién creada en el corazón de México. Al ver cómo regresaban los colores y las tradiciones, entendieron por qué no necesitaban buscar la otra flor. Lo mejor era que esa flor viajara por todo el mundo, para que la cultura mexicana lo llenara de vida.",
+                "textEN": "The Heroes placed the new flower in the heart of Mexico. As the colors and traditions came back to life, they realized why they didn’t have to look for the original flower. It was best that the original flower traveled around the whole world so that the Mexican culture could be spread throughout and fill it with life.",
+                "textPT": "Os Heróis colocaram a nova flor no coração do México. Ao ver que as cores e tradições voltavam à vida, eles entenderam por que não precisavam procurar a flor original. Era melhor que essa flor viajasse por todo o mundo, para que a cultura mexicana podesse se espalhar e preenchê-la com vida.",
+                "textCN": "英雄们把新的花朵放到墨西哥的中心地带。随着色彩和传统重获生机，他们终于意识到为什么不需要寻找最初的那朵花。最初的墨西哥之花将周游世界各地，墨西哥文化也将随之传播到整个世界，才是最好的结果。",
+                "textJP": "ヒーローたちは新しい花をメキシコの心臓においた。カラフルな色と伝統が息を吹き返すのを見て、どうして元の花を探さなくてよかったのか気がついた。メキシコ文化が広まって活気にあふれるようになるから、元の花が世界中を旅するのが一番よかったんだ。",
+                "textKR": "히어로들은 멕시코의 심장에 새 꽃을 놓았어요. 그러자 색깔과 전통이 되살아났고 그걸 본 히어로들은 왜 원래의 꽃을 찾을 필요가 없었는지 깨달았어요. 원래 꽃이 전 세계를 여행한 건 최선이었어요. 그러면서 멕시코 문화를 전파하고 생명으로 채웠거든요.",
+                "wordsES": [
+                    {
+                        "start": "0.4",
+                        "text": "Los"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "colocaron"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "la"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "flor"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "recién"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "creada"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "en"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "el"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "corazón"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "de"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "México."
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "Al"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "cómo"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "regresaban"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "los"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "colores"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "y"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "las"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "tradiciones,"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "entendieron"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "por"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "no"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "necesitaban"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "buscar"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "la"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "otra"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "flor."
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "Lo"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "mejor"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "era"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "que"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "esa"
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "flor"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "viajara"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "por"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "todo"
+                    },
+                    {
+                        "start": "17.6",
+                        "text": "el"
+                    },
+                    {
+                        "start": "17.9",
+                        "text": "mundo,"
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "para"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "19.6",
+                        "text": "la"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "cultura"
+                    },
+                    {
+                        "start": "20.4",
+                        "text": "mexicana"
+                    },
+                    {
+                        "start": "21.3",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "21.6",
+                        "text": "llenara"
+                    },
+                    {
+                        "start": "22.3",
+                        "text": "de"
+                    },
+                    {
+                        "start": "22.5",
+                        "text": "vida."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "placed"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "new"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "flower"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "in"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "heart"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "of"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "Mexico."
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "As"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "colors"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "and"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "traditions"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "came"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "back"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "life,"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "they"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "realized"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "why"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "they"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "didn’t"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "have"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "to"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "look"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "for"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "original"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "flower."
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "It"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "was"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "best"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "that"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "original"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "flower"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "traveled"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "around"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "whole"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "world"
+                    },
+                    {
+                        "start": "17.2",
+                        "text": "so"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "that"
+                    },
+                    {
+                        "start": "17.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "Mexican"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "culture"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "could"
+                    },
+                    {
+                        "start": "19.1",
+                        "text": "be"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "spread"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "throughout"
+                    },
+                    {
+                        "start": "20.6",
+                        "text": "and"
+                    },
+                    {
+                        "start": "21.0",
+                        "text": "fill"
+                    },
+                    {
+                        "start": "21.25",
+                        "text": "it"
+                    },
+                    {
+                        "start": "21.5",
+                        "text": "with"
+                    },
+                    {
+                        "start": "21.75",
+                        "text": "life."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "히어로들은" },
+                    { "start": "1.206", "text": "멕시코의" },
+                    { "start": "1.989", "text": "심장에" },
+                    { "start": "3.132", "text": "새" },
+                    { "start": "3.556", "text": "꽃을" },
+                    { "start": "4.120", "text": "놓았어요." },
+                    { "start": "5.928", "text": "그러자" },
+                    { "start": "6.816", "text": "색깔과" },
+                    { "start": "7.663", "text": "전통이" },
+                    { "start": "8.364", "text": "되살아났고" },
+                    { "start": "10.008", "text": "그걸" },
+                    { "start": "10.618", "text": "본" },
+                    { "start": "10.991", "text": "히어로들은" },
+                    { "start": "12.336", "text": "왜" },
+                    { "start": "13.138", "text": "원래의" },
+                    { "start": "13.813", "text": "꽃을" },
+                    { "start": "14.397", "text": "찾을" },
+                    { "start": "14.978", "text": "필요가" },
+                    { "start": "15.631", "text": "없었는지" },
+                    { "start": "16.613", "text": "깨달았어요." },
+                    { "start": "18.624", "text": "원래" },
+                    { "start": "19.195", "text": "꽃이" },
+                    { "start": "20.051", "text": "전" },
+                    { "start": "20.418", "text": "세계를" },
+                    { "start": "21.073", "text": "여행한" },
+                    { "start": "21.707", "text": "건" },
+                    { "start": "22.570", "text": "최선이었어요." },
+                    { "start": "24.945", "text": "그러면서" },
+                    { "start": "26.208", "text": "멕시코" },
+                    { "start": "27.062", "text": "문화를" },
+                    { "start": "27.597", "text": "전파하고" },
+                    { "start": "28.846", "text": "생명으로" },
+                    { "start": "29.767", "text": "채웠거든요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            },
+            "21": {
+                "image": "21.png"
+            },
+            "22": {
+                "image": "22.png"
+            }
+        }
+    }
+}

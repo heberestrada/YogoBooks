@@ -1,0 +1,5 @@
+# Heres a comment
+*node_modules
+*package-lock.json
+/test
+/spec

@@ -1,0 +1,292 @@
+{
+    "book": {
+        "titleES": "Puedo ahorrar dinero",
+        "titleEN": "I Can Save Money",
+        "titlePT": "Eu posso juntar dinheiro",
+        "titleCN": "我可以存钱",
+        "titleJP": "ちょきんができるよ",
+        "titleKR": "나는 돈을 저금할 줄 알아요",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "<font style='font-size:35px;'>Puedo ganar dinero.</font>",
+                "textEN": "<font style='font-size:35px;'>I can earn money.</font>",
+                "textPT": "<font style='font-size:35px;'>Eu posso ganhar dinheiro.</font>",
+                "textCN": "<font style='font-size:35px;'>我可以赚钱。</font>",
+                "textJP": "<font style='font-size:35px;'>ぼくは、おかねをかせぐことができるよ。</font>",
+                "textKR": "<font style='font-size:35px;'>나는 돈을 벌 줄 알아요.</font>",
+                "wordsES": [
+                    { "start": "0.4", "text": "Puedo" },
+                    { "start": "0.8", "text": "ganar" },
+                    { "start": "1.3", "text": "dinero." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "I" },
+                    { "start": "0.7", "text": "can" },
+                    { "start": "1.0", "text": "earn" },
+                    { "start": "1.3",  "text": "money." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.144", "text": "돈을" },
+                    { "start": "2.182", "text": "벌" },
+                    { "start": "2.722", "text": "줄" },
+                    { "start": "3.140", "text": "알아요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "<font style='font-size:35px;'>Puedo contar dinero.</font>",
+                "textEN": "<font style='font-size:35px;'>I can count money.</font>",
+                "textPT": "<font style='font-size:35px;'>Eu posso contar dinheiro.</font>",
+                "textCN": "<font style='font-size:35px;'>我可以数钱。</font>",
+                "textJP": "<font style='font-size:35px;'>おかねをかぞえることができるよ。</font>",
+                "textKR": "<font style='font-size:35px;'>나는 돈을 저금할 줄 알아요.</font>",
+                "wordsES": [
+                    { "start": "0.1", "text": "Puedo" },
+                    { "start": "1.1", "text": "contar" },
+                    { "start": "1.8", "text": "dinero." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "I" },
+                    { "start": "0.7", "text": "can" },
+                    { "start": "1.1", "text": "count" },
+                    { "start": "1.4", "text": "money." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.225", "text": "돈을" },
+                    { "start": "2.226", "text": "저금할" },
+                    { "start": "3.216", "text": "줄" },
+                    { "start": "3.918", "text": "알아요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "<font style='font-size:35px;'>Puedo hacer presupuestos.</font>",
+                "textEN": "<font style='font-size:35px;'>I can budget money.</font>",
+                "textPT": "<font style='font-size:35px;'>Eu posso reservar dinheiro.</font>",
+                "textCN": "<font style='font-size:35px;'>我可以预算钱。</font>",
+                "textJP": "<font style='font-size:35px;'>おかねのつかいみちをかんがえることができるよ。</font>",
+                "textKR": "<font style='font-size:35px;'>나는 돈을 어떻게 쓸지 생각할 수 있어요.</font>",
+                "wordsES": [
+                    { "start": "0.2", "text": "Puedo" },
+                    { "start": "0.5", "text": "hacer" },
+                    { "start": "0.9", "text": "presupuestos." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "I" },
+                    { "start": "0.7", "text": "can" },
+                    { "start": "1.1", "text": "budget" },
+                    { "start": "1.4", "text": "money." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.197", "text": "돈을" },
+                    { "start": "2.126", "text": "어떻게" },
+                    { "start": "3.080", "text": "쓸지" },
+                    { "start": "3.969", "text": "생각할" },
+                    { "start": "4.960", "text": "수" },
+                    { "start": "5.767", "text": "있어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "<font style='font-size:35px;'>Puedo gastar dinero.</font>",
+                "textEN": "<font style='font-size:35px;'>I can spend money.</font>",
+                "textPT": "<font style='font-size:35px;'>Eu posso gastar dinheiro.</font>",
+                "textCN": "<font style='font-size:35px;'>我可以花钱。</font>",
+                "textJP": "<font style='font-size:35px;'>おかねをつかうことができるよ。</font>",
+                "textKR": "<font style='font-size:35px;'>나는 돈을 쓸 줄 알아요.</font>",
+                "wordsES": [
+                    { "start": "0.1", "text": "Puedo" },
+                    { "start": "1.1", "text": "gastar" },
+                    { "start": "1.7", "text": "dinero." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "I" },
+                    { "start": "0.7", "text": "can" },
+                    { "start": "1.0", "text": "spend" },
+                    { "start": "1.5", "text": "money." }
+                ],
+                "wordsKR": [                   
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.169", "text": "돈을" },
+                    { "start": "2.096", "text": "쓸" },
+                    { "start": "2.768", "text": "줄" },
+                    { "start": "3.224", "text": "알아요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "<font style='font-size:35px;'>Puedo prestar dinero.</font>",
+                "textEN": "<font style='font-size:35px;'>I can lend money.</font>",
+                "textPT": "<font style='font-size:35px;'>Eu posso emprestar dinheiro.</font>",
+                "textCN": "<font style='font-size:35px;'>我可以把钱借出去。</font>",
+                "textJP": "<font style='font-size:35px;'>おかねをかしてあげることができるよ。</font>",
+                "textKR": "<font style='font-size:35px;'>나는 돈을 빌려줄 수도 있어요.</font>",
+                "wordsES": [
+                    { "start": "0.1", "text": "Puedo" },
+                    { "start": "0.5", "text": "prestar" },
+                    { "start": "1.0", "text": "dinero." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "I" },
+                    { "start": "0.7", "text": "can" },
+                    { "start": "1.0", "text": "lend" },
+                    { "start": "1.5", "text": "money." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.139", "text": "돈을" },
+                    { "start": "2.090", "text": "빌려줄" },
+                    { "start": "3.028", "text": "수도" },
+                    { "start": "3.734", "text": "있어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "<font style='font-size:35px;'>También, puedo ahorrar mi dinero.</font>",
+                "textEN": "<font style='font-size:35px;'>I can also choose to save my money.</font>",
+                "textPT": "<font style='font-size:35px;'>Eu também posso escolher guardar meu dinheiro.</font>",
+                "textCN": "<font style='font-size:35px;'>我还可以选择存钱。</font>",
+                "textJP": "<font style='font-size:35px;'>ちょきんすることをえらぶこともできるよ。</font>",
+                "textKR": "<font style='font-size:35px;'>그래도 나는 돈을 저금하기로 해요.</font>",
+                "wordsES": [
+                    { "start": "0.1", "text": "También," },
+                    { "start": "1.1", "text": "puedo" },
+                    { "start": "2.2", "text": "ahorrar" },
+                    { "start": "2.6", "text": "mi" },
+                    { "start": "3.0", "text": "dinero." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "I" },
+                    { "start": "0.4", "text": "can" },
+                    { "start": "1.0",  "text": "also" },
+                    { "start": "1.3", "text": "choose" },
+                    { "start": "1.8", "text": "to" },
+                    { "start": "2.1", "text": "save" },
+                    { "start": "2.7", "text": "my" },
+                    { "start": "3.0", "text": "money." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "그래도" },
+                    { "start": "0.826", "text": "나는" },
+                    { "start": "2.082", "text": "돈을" },
+                    { "start": "3.047", "text": "저금하기로" },
+                    { "start": "4.275", "text": "해요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

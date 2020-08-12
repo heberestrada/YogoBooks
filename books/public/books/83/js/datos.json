@@ -1,0 +1,2140 @@
+{
+    "book": {
+        "titleES": "Tomiko va a la feria",
+        "titleEN": "Tomiko Goes to the Fair",
+        "titlePT": "Tomiko vai à feira",
+        "titleCN": "富子游集市",
+        "titleJP": "フェアに出かけたトミコ",
+        "titleKR": "토미코가 축제에 가요",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "Bajo el dorado sol, Dinamita y Tomiko recorrían los coloridos pasillos de una feria en México. Tomiko estaba muy emocionada pues era su primera vez en este hermoso país.",
+                "textEN": "Under the golden sun, Dinamita and Tomiko walked the colorful aisles of a street fair in Mexico. Tomiko was excited because it was her first time in the beautiful country.",
+                "textPT": "Debaixo do sol dourado, Dinamita e Tomiko andavam pelos corredores coloridos de uma feira no México. Tomiko estava animada, pois era a primeira vez que ela visitava esse lindo país.",
+                "textCN": "沐浴在金色的阳光下，迪纳米塔和富子来到墨西哥一个五彩缤纷的街头集市。 富子非常兴奋，因为这是她第一次来到这个美丽的国家。",
+                "textJP": "太陽が眩しいある日、ディナミタとトミコはメキシコのストリートフェアで色とりどりの通りを歩いていました。トミコはこの美しい国に来るのは初めてでワクワクしていました。",
+                "textKR": "황금빛 태양 아래에서 다이나미타와 토미코는 길거리 축제가 열린 색색의 골목을 걷고 있었어요. 토미코는 멕시코라는 이렇게 아름다운 나라에 처음 와서 아주 신이 났어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Bajo"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "el"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "dorado"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "sol,"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "recorrían"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "los"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "coloridos"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "pasillos"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "una"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "feria"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "en"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "México."
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "emocionada"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "era"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "su"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "primera"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "en"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "este"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "hermoso"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "país."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "Under"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "golden"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "sun,"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "walked"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "colorful"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "aisles"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "of"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "street"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "fair"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "in"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "Mexico."
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "was"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "excited"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "because"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "it"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "was"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "her"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "first"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "time"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "in"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "beautiful"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "country."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "황금빛" },
+                    { "start": "0.908","text": "태양" },
+                    { "start": "1.543","text": "아래에서" },
+                    { "start": "2.791","text": "다이나미타와" },
+                    { "start": "4.177","text": "토미코는" },
+                    { "start": "5.664","text": "길거리" },
+                    { "start": "6.508","text": "축제가" },
+                    { "start": "7.373","text": "열린" },
+                    { "start": "8.336","text": "색색의" },
+                    { "start": "9.208","text": "골목을" },
+                    { "start": "10.668","text": "걷고" },
+                    { "start": "11.372","text": "있었어요." },
+                    { "start": "13.725","text": "토미코는" },
+                    { "start": "15.090","text": "멕시코라는" },
+                    { "start": "16.570","text": "이렇게" },
+                    { "start": "17.340","text": "아름다운" },
+                    { "start": "18.283","text": "나라에" },
+                    { "start": "19.546","text": "처음" },
+                    { "start": "20.132","text": "와서" },
+                    { "start": "21.075","text": "아주" },
+                    { "start": "21.540","text": "신이" },
+                    { "start": "22.053","text": "났어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "Tomiko se detuvo para ver en el escenario a unas hermosas mujeres moviendo unos enormes y coloridos vestidos mientras bailaban al son de música mexicana. Quedó tan impactada que no podía dejar de verlas.",
+                "textEN": "Tomiko stopped to watch a group of women dance to the beautiful sound of a Mexican song. She loved how they moved their colorful dresses to the beat of the song. She couldn’t take her eyes off the dance.",
+                "textPT": "Tomiko parou para ver um grupo de mulheres dançando ao belo som de uma música mexicana. Ela adorou a forma como elas mexiam seus vestidos coloridos seguindo o ritmo da música. Ela não conseguia parar de apreciar a dança.",
+                "textCN": "富子停下脚步，观看一群女士伴随着美妙的墨西哥音乐翩翩起舞。 她喜欢她们穿着彩色裙子，跟着歌曲的节奏舞蹈的样子。 她目不转睛地看着舞蹈。",
+                "textJP": "トミコは足を止め、美しいメキシコの歌に合わせて踊る女性のグループを見ていました。トミコは女性たちの動きやカラフルな衣装や、歌のビートがとても気に入りました。そしてダンスから目を離すことができなくなってしまいました。",
+                "textKR": "토미코는 멈춰 서서 멕시코 음악에 맞춰 춤을 추는 여성 무용수들을 구경했어요. 토미코는 무용수들이 색색의 드레스를 입고 리듬에 맞춰 춤을 추는 모습이 보기 좋았어요. 토미코는 춤에서 눈을 뗄 수 없었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "se"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "detuvo"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "para"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "escenario"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "unas"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "hermosas"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "mujeres"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "moviendo"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "unos"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "enormes"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "y"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "coloridos"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "vestidos"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "mientras"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "bailaban"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "al"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "son"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "de"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "música"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "mexicana."
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "Quedó"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "tan"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "impactada"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "que"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "no"
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "podía"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "dejar"
+                    },
+                    {
+                        "start": "16.9",
+                        "text": "de"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "verlas."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "stopped"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "watch"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "group"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "of"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "women"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "dance"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "beautiful"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "sound"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "of"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "Mexican"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "song."
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "She"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "loved"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "how"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "they"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "moved"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "their"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "colorful"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "dresses"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "to"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "beat"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "of"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "song."
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "She"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "couldn’t"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "take"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "her"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "eyes"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "off"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "dance."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "토미코는" },
+                    { "start": "1.163","text": "멈춰" },
+                    { "start": "1.848","text": "서서" },
+                    { "start": "3.064","text": "멕시코" },
+                    { "start": "3.940","text": "음악에" },
+                    { "start": "4.693","text": "맞춰" },
+                    { "start": "5.743","text": "춤을" },
+                    { "start": "6.365","text": "추는" },
+                    { "start": "7.030","text": "여성" },
+                    { "start": "7.790","text": "무용수들을" },
+                    { "start": "9.190","text": "구경했어요." },
+                    { "start": "11.576","text": "토미코는" },
+                    { "start": "12.934","text": "무용수들이" },
+                    { "start": "14.314","text": "색색의" },
+                    { "start": "15.254","text": "드레스를" },
+                    { "start": "16.085","text": "입고" },
+                    { "start": "17.255","text": "리듬에" },
+                    { "start": "18.012","text": "맞춰" },
+                    { "start": "19.067","text": "춤을" },
+                    { "start": "10.733","text": "추는" },
+                    { "start": "20.325","text": "모습이" },
+                    { "start": "21.739","text": "보기" },
+                    { "start": "22.331","text": "좋았어요." },
+                    { "start": "24.538","text": "토미코는" },
+                    { "start": "25.945","text": "춤에서" },
+                    { "start": "27.079","text": "눈을" },
+                    { "start": "27.756","text": "뗄" },
+                    { "start": "28.060","text": "수" },
+                    { "start": "28.832","text": "없었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "Cuando el baile acabó, Tomiko volteó emocionada con Dinamita, pero su amigo no estaba. Un poco espantada buscó por todos lados, pero al no encontrarlo decidió comenzar a buscarlo.",
+                "textEN": "When the performance ended, Tomiko turned to Dinamita. However, he no longer stood next to her. Tomiko anxiously looked into the crowd. She needed to find her friend.",
+                "textPT": "Quando o espetáculo acabou, Tomiko virou para falar com Dinamita. Mas ele não estava mais ao seu lado. Tomiko procurou ansiosamente no meio da multidão. Ela precisava encontrar seu amigo.",
+                "textCN": "当舞蹈表演结束后，富子转向迪纳米塔。 但是，他并没有站在她的身边。富子焦急地望向人群。 她需要找到她的朋友。",
+                "textJP": "その踊りが終わると、トミコはディナミタをふり返りました。でもディナミタはもう隣にはいませんでした。トミコは不安な気持ちで人混みの中に目をやりました。友達を見つけなければいけません。",
+                "textKR": "공연이 끝나자 토미코는 다이나미타가 있는 쪽으로 몸을 돌렸어요. 하지만, 다이나미타는 그 자리에 없었어요. 토미코는 초조하게 관중 쪽을 둘러 보았어요. 친구를 찾아야만 했거든요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Cuando"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "el"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "baile"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "acabó,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "volteó"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "emocionada"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "con"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "Dinamita,"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "su"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "no"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "estaba."
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "Un"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "poco"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "espantada"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "buscó"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "por"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "lados,"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "al"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "no"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "encontrarlo"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "decidió"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "comenzar"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "buscarlo."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "When"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "performance"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "ended,"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "turned"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "Dinamita."
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "However,"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "he"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "no"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "longer"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "stood"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "next"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "her."
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "anxiously"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "looked"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "into"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "crowd."
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "She"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "needed"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "to"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "find"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "her"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "friend."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "공연이" },
+                    { "start": "0.715","text": "끝나자" },
+                    { "start": "1.967","text": "토미코는" },
+                    { "start": "3.262","text": "다이나미타가" },
+                    { "start": "4.574","text": "있는" },
+                    { "start": "5.180","text": "쪽으로" },
+                    { "start": "6.172","text": "몸을" },
+                    { "start": "6.777","text": "돌렸어요." },
+                    { "start": "8.844","text": "하지만," },
+                    { "start": "10.187","text": "다이나미타는" },
+                    { "start": "11.670","text": "그" },
+                    { "start": "12.046","text": "자리에" },
+                    { "start": "12.740","text": "없었어요." },
+                    { "start": "14.961","text": "토미코는" },
+                    { "start": "16.284","text": "초조하게" },
+                    { "start": "17.471","text": "관중" },
+                    { "start": "18.139","text": "쪽을" },
+                    { "start": "19.182","text": "둘러" },
+                    { "start": "19.802","text": "보았어요." },
+                    { "start": "21.892","text": "친구를" },
+                    { "start": "22.913","text": "찾아야만" },
+                    { "start": "23.926","text": "했거든요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "Tomiko se acercó a los mariachis, quienes con sus alegres melodías animaban la feria y les preguntó por su amigo. Le dijeron que lo habían visto caminar hacía los puestos de dulces.",
+                "textEN": "Tomiko passed a band of mariachis playing a cheerful melody. She asked them if they had seen Dinamita. The mariachi told Tomiko they saw someone that looked like her friend walk towards a candy stand.",
+                "textPT": "Tomiko passou por uma banda de mariachis que tocava uma melodia animada. Ela perguntou a eles se tinham visto Dinamita. O mariachi falou para Tomiko que eles viram alguém parecido com o amigo dela andando em direção à barraca de doces.",
+                "textCN": "富子来到一个正在演奏欢快旋律的墨西哥街头乐队前，问他有没有看见迪纳米塔。 街头乐队告诉富子，他们看见一个长得很像她朋友的人向一个糖果摊走去。",
+                "textJP": "トミコは元気なメロディーを演奏するマリアッチ楽団のそばを通りかかりました。そこでディナミタを見たかとたずねてみました。マリアッチは友達らしい人がキャンディースタンドに向かって歩いていくのを見たと言いました。",
+                "textKR": "토미코는 신나는 곡을 연주하는 마리아치 밴드를 만났어요. 토미코는 밴드에게 다이나미타를 보았냐고 물었어요. 마리아치는 다이나미타처럼 생긴 사람이 사탕 가판대 쪽으로 갔다고 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "se"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "acercó"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "los"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "mariachis,"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "quienes"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "con"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "alegres"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "melodías"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "animaban"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "feria"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "y"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "les"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "preguntó"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "por"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "su"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "amigo."
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "Le"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "dijeron"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "que"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "habían"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "visto"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "caminar"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "hacía"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "los"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "puestos"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "dulces."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "passed"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "band"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "of"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "mariachis"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "playing"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "cheerful"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "melody."
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "She"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "them"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "if"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "they"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "had"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "seen"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "Dinamita."
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "The"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "mariachi"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "told"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "they"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "saw"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "someone"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "that"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "looked"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "like"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "her"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "friend"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "walk"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "towards"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "candy"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "stand."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "토미코는" },
+                    { "start": "1.248","text": "신나는" },
+                    { "start": "2.107","text": "곡을" },
+                    { "start": "2.716","text": "연주하는" },
+                    { "start": "3.914","text": "마리아치" },
+                    { "start": "4.847","text": "밴드를" },
+                    { "start": "5.580","text": "만났어요." },
+                    { "start": "7.777","text": "토미코는" },
+                    { "start": "9.240","text": "밴드에게" },
+                    { "start": "10.590","text": "다이나미타를" },
+                    { "start": "11.865","text": "보았냐고" },
+                    { "start": "12.850","text": "물었어요." },
+                    { "start": "15.043","text": "마리아치는" },
+                    { "start": "16.659","text": "다이나미타처럼" },
+                    { "start": "18.160","text": "생긴" },
+                    { "start": "18.787","text": "사람이" },
+                    { "start": "19.981","text": "사탕" },
+                    { "start": "20.734","text": "가판대" },
+                    { "start": "21.592","text": "쪽으로" },
+                    { "start": "22.712","text": "갔다고" },
+                    { "start": "23.617","text": "말했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "Tomiko entonces caminó al puesto de dulces tradicionales. Se sorprendió por el rico aroma y los brillantes colores que había por todos lados. La señora del puesto le dijo que había visto caminar a Dinamita hacía el puesto de elotes.",
+                "textEN": "Tomiko walked towards the candy stand filled with traditional Mexican sweets. She was fascinated by all the delicious smells and bright colors. The woman at the candy stand told Tomiko that she saw Dinamita walk towards the corn stand.",
+                "textPT": "Tomiko foi até a barraca de doces, repleta de doces tradicionais mexicanos. Ela ficou encantada com todos os aromas deliciosos e cores fortes. A mulher na barraca falou para Tomiko que viu Dinamita andando em direção à barraca de milho.",
+                "textCN": "富子来到满是墨西哥传统糖果的糖果摊。 她被各种美妙气味和鲜艳色彩给迷住了。 糖果摊的女士告诉富子，她看到迪纳米塔走向玉米摊。",
+                "textJP": "トミコは伝統的なメキシコのお菓子がいっぱいのキャンディースタンドに向かって歩きました。トミコは美味しそうな匂いと明るい色がどれも好きになりました。キャンディースタンドの女性はトミコにディナミタがコーンスタンドに向かって歩いていくのを見たと言いました。 ",
+                "textKR": "토미코는 멕시코 전통 사탕으로 가득한 사탕 가판대 쪽으로 걸어갔어요. 토미코는 아름다운 색깔과 맛있는 음식 냄새에 마음을 뺏겼어요. 사탕 가판대 주인은 다이나미타가 옥수수 가판대 쪽으로 갔다고 말해주었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "0.45",
+                        "text": "entonces"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "caminó"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "al"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "puesto"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "dulces"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "tradicionales."
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "Se"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "sorprendió"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "por"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "rico"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "aroma"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "y"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "los"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "brillantes"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "colores"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "que"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "había"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "por"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "lados."
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "La"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "señora"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "del"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "puesto"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "le"
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "dijo"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "había"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "visto"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "caminar"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "17.6",
+                        "text": "hacía"
+                    },
+                    {
+                        "start": "17.9",
+                        "text": "el"
+                    },
+                    {
+                        "start": "18.1",
+                        "text": "puesto"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "de"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "elotes."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "walked"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "towards"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "candy"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "stand"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "filled"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "with"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "traditional"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "Mexican"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "sweets."
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "She"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "was"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "fascinated"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "by"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "all"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "delicious"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "smells"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "and"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "bright"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "colors."
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "The"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "woman"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "at"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "candy"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "stand"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "told"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "that"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "she"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "saw"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "walk"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "towards"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "corn"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "stand."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "토미코는" },
+                    { "start": "1.129","text": "멕시코" },
+                    { "start": "1.969","text": "전통" },
+                    { "start": "2.632","text": "사탕으로" },
+                    { "start": "3.466","text": "가득한" },
+                    { "start": "4.773","text": "사탕" },
+                    { "start": "5.512","text": "가판대" },
+                    { "start": "6.375","text": "쪽으로" },
+                    { "start": "7.433","text": "걸어갔어요." },
+                    { "start": "9.836","text": "토미코는" },
+                    { "start": "11.149","text": "아름다운" },
+                    { "start": "11.948","text": "색깔과" },
+                    { "start": "13.092","text": "맛있는" },
+                    { "start": "14.000","text": "음식" },
+                    { "start": "14.580","text": "냄새에" },
+                    { "start": "15.968","text": "마음을" },
+                    { "start": "16.760","text": "뺏겼어요." },
+                    { "start": "18.805","text": "사탕" },
+                    { "start": "19.578","text": "가판대" },
+                    { "start": "20.448","text": "주인은" },
+                    { "start": "21.720","text": "다이나미타가" },
+                    { "start": "23.567","text": "옥수수" },
+                    { "start": "24.518","text": "가판대" },
+                    { "start": "25.360","text": "쪽으로" },
+                    { "start": "26.431","text": "갔다고" },
+                    { "start": "27.343","text": "말해주었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "Tomiko encontró a su amigo completamente hipnotizado mientras veía cómo le ponían mayonesa, queso y chile a su elote. Sorprendida, se acercó también a pedir uno, pero Dinamita la detuvo pues el elote era para ella. Tomiko abrazó a Dinamita y los Héroes siguieron disfrutando la fiesta mexicana.",
+                "textEN": "Tomiko followed the trail of directions and found Dinamita completely engrossed in his corn topped with mayonnaise, cheese, and chili. Engrossed by the scent herself, Tomiko was about to order one. Dinamita stopped her just in time to say that he bought the corn for her. Tomiko hugged Dinamita and the Heroes continued to enjoy the Mexican festival.",
+                "textPT": "Tomiko seguiu as instruções e encontrou Dinamita completamente entretido com seu milho coberto por maionese, queijo e pimenta. Envolvida por aquele aroma, Tomiko estava prestes a comprar um milho para ela. Dinamita interrompeu Tomiko na hora certa para dizer que ele tinha comprado o milho para ela. Tomiko abraçou Dinamita, e os Heróis continuaram aproveitando o festival mexicano.",
+                "textCN": "富子沿路找去，找到了迪纳米塔，但却完全被他手上那浇满美乃滋、芝士和辣椒的玉米吸引了。 富子受到香味的吸引，也准备买一个玉米。 迪纳米塔及时地阻止了她，告诉她玉米是给她买的。 富子拥抱了迪纳米塔，英雄们继续享受着墨西哥的节日。",
+                "textJP": "トミコはその後を追うと、ディナミタはマヨネーズとチーズとチリがかかったコーンにすっかり夢中になっていました。その匂いにうっとりして、トミコもそれを注文しようとしました。ディナミタはそれを止めるとトミコのためのコーンを買ったと言いました。トミコはディナミタにハグをして、ヒーローたちはメキシコのお祭りを楽しみました。",
+                "textKR": "토미코는 옥수수 가판대를 향해서 걸어갔고 마침내 다이나미타를 찾았어요. 다이나미타는 마요네즈와 치즈, 고춧가루를 얹은 옥수수에 빠져 있었어요. 토미코도 그 냄새를 맡고 옥수수를 주문하려고 했어요. 그때 다이나미타가 토미코를 말리더니 자기가 미리 사 둔 옥수수를 건네주었어요. 토미코는 고마워서 다이나미타를 꼭 안아주었어요. 우리의 히어로들은 계속해서 멕시코의 축제를 즐겼답니다.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "encontró"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "su"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "completamente"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "hipnotizado"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "mientras"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "veía"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "cómo"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "le"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "ponían"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "mayonesa,"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "queso"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "y"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "chile"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "su"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "elote."
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "Sorprendida,"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "se"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "acercó"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "también"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "pedir"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "uno,"
+                    },
+                    {
+                        "start": "15.3",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "la"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "detuvo"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "18.5",
+                        "text": "el"
+                    },
+                    {
+                        "start": "18.7",
+                        "text": "elote"
+                    },
+                    {
+                        "start": "19.2",
+                        "text": "era"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "para"
+                    },
+                    {
+                        "start": "20.1",
+                        "text": "ella."
+                    },
+                    {
+                        "start": "21.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "22.1",
+                        "text": "abrazó"
+                    },
+                    {
+                        "start": "22.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "22.8",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "23.8",
+                        "text": "y"
+                    },
+                    {
+                        "start": "24.1",
+                        "text": "los"
+                    },
+                    {
+                        "start": "24.4",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "24.9",
+                        "text": "siguieron"
+                    },
+                    {
+                        "start": "25.7",
+                        "text": "disfrutando"
+                    },
+                    {
+                        "start": "26.5",
+                        "text": "la"
+                    },
+                    {
+                        "start": "26.8",
+                        "text": "fiesta"
+                    },
+                    {
+                        "start": "27.1",
+                        "text": "mexicana."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "followed"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "trail"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "of"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "directions"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "found"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "completely"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "engrossed"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "in"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "his"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "corn"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "topped"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "with"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "mayonnaise,"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "cheese,"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "chili."
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "Engrossed"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "by"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "scent"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "herself,"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "was"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "about"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "to"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "order"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "one."
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "stopped"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "her"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "just"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "in"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "time"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "to"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "say"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "that"
+                    },
+                    {
+                        "start": "17.2",
+                        "text": "he"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "bought"
+                    },
+                    {
+                        "start": "17.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "18.1",
+                        "text": "corn"
+                    },
+                    {
+                        "start": "18.2",
+                        "text": "for"
+                    },
+                    {
+                        "start": "18.6",
+                        "text": "her."
+                    },
+                    {
+                        "start": "19.9",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "20.2",
+                        "text": "hugged"
+                    },
+                    {
+                        "start": "20.7",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "21.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "21.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "22.3",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "22.4",
+                        "text": "continued"
+                    },
+                    {
+                        "start": "22.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "23.4",
+                        "text": "enjoy"
+                    },
+                    {
+                        "start": "23.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "23.8",
+                        "text": "Mexican"
+                    },
+                    {
+                        "start": "24.1",
+                        "text": "festival."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "토미코는" },
+                    { "start": "1.190","text": "옥수수" },
+                    { "start": "2.011","text": "가판대를" },
+                    { "start": "2.850","text": "향해서" },
+                    { "start": "3.617","text": "걸어갔고" },
+                    { "start": "5.014","text": "마침내" },
+                    { "start": "6.123","text": "다이나미타를" },
+                    { "start": "7.273","text": "찾았어요." },
+                    { "start": "9.461","text": "다이나미타는" },
+                    { "start": "11.041","text": "마요네즈와" },
+                    { "start": "12.105","text": "치즈," },
+                    { "start": "13.256","text": "고춧가루를" },
+                    { "start": "14.300","text": "얹은" },
+                    { "start": "15.206","text": "옥수수에" },
+                    { "start": "16.205","text": "빠져" },
+                    { "start": "16.719","text": "있었어요." },
+                    { "start": "18.819","text": "토미코도" },
+                    { "start": "20.150","text": "그" },
+                    { "start": "20.484","text": "냄새를" },
+                    { "start": "21.326","text": "맡고" },
+                    { "start": "22.455","text": "옥수수를" },
+                    { "start": "23.670","text": "주문하려고" },
+                    { "start": "24.818","text": "했어요." },
+                    { "start": "26.705","text": "그때" },
+                    { "start": "27.614","text": "다이나미타가" },
+                    { "start": "29.348","text": "토미코를" },
+                    { "start": "30.259","text": "말리더니" },
+                    { "start": "31.440","text": "자기가" },
+                    { "start": "32.337","text": "미리" },
+                    { "start": "32.764","text": "사" },
+                    { "start": "33.272","text": "둔" },
+                    { "start": "34.195","text": "옥수수를" },
+                    { "start": "35.483","text": "건네주었어요." },
+                    { "start": "38.038","text": "토미코는" },
+                    { "start": "39.354","text": "고마워서" },
+                    { "start": "40.580","text": "다이나미타를" },
+                    { "start": "42.301","text": "꼭" },
+                    { "start": "43.338","text": "안아주었어요." },
+                    { "start": "45.917","text": "우리의" },
+                    { "start": "46.600","text": "히어로들은" },
+                    { "start": "48.087","text": "계속해서" },
+                    { "start": "49.394","text": "멕시코의" },
+                    { "start": "50.362","text": "축제를" },
+                    { "start": "561.640","text": "즐겼답니다." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

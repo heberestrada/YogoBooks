@@ -1,0 +1,1502 @@
+{
+    "book": {
+        "titleEN": "Arthurius’s Creation",
+        "titleES": "La creación de Arthurius",
+        "titlePT": "A criação de Arthurius",
+        "titleCN": "亚瑟鲁的创造",
+        "titleJP": "アーサリウスが作ったもの",
+        "titleKR": "알투리우스의 작품",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "Our Heroes were in an arts and crafts class. They were asked to create something that made them happy with any kind of material.",
+                "textES": "Nuestros héroes se encontraban en clase de manualidades. Les pidieron crear algo que les hiciera muy felices, con cualquier tipo de material.",
+                "textPT": "Nossos Heróis estavam na aula de artesanato. O professor pediu para eles criarem, com qualquer tipo de material, algo que os deixasse felizes.",
+                "textCN": "我们的英雄们在上工艺美术课。他们需要创造一些让他们感到快乐的东西，使用什么材料都可以。",
+                "textJP": "ヒーローたちは工作の授業を受けていました。自分が楽しい気持ちになれるものを好きな材料を使って作ります。",
+                "textKR": "우리의 히어로들이 미술 수업을 듣고 있었어요. 여러 재료를 써서 자기를 행복하게 만드는 것을 작품으로 만들기로 했어요.",
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Our"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "were"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "in"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "an"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "arts"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "crafts"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "class."
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "They"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "were"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "create"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "something"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "that"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "made"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "them"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "happy"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "with"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "any"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "kind"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "of"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "material."
+                    }
+                ],
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Nuestros"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "héroes"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "se"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "encontraban"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "clase"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "manualidades."
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "Les"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "pidieron"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "crear"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "algo"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "les"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "hiciera"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "felices,"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "con"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "cualquier"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "tipo"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "de"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "material."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "우리의" },
+                    { "start": "0.773","text": "히어로들이" },
+                    { "start": "2.483","text": "미술" },
+                    { "start": "3.213","text": "수업을" },
+                    { "start": "4.516","text": "듣고" },
+                    { "start": "5.284","text": "있었어요." },
+                    { "start": "7.778","text": "여러" },
+                    { "start": "8.492","text": "재료를" },
+                    { "start": "9.323","text": "써서" },
+                    { "start": "10.695","text": "자기를" },
+                    { "start": "11.852","text": "행복하게" },
+                    { "start": "12.969","text": "만드는" },
+                    { "start": "13.771","text": "것을" },
+                    { "start": "14.975","text": "작품으로" },
+                    { "start": "16.385","text": "만들기로" },
+                    { "start": "17.412","text": "했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "Estrella made a miniature replica of her favorite wrestler. However, she had burned her finger because she wasn’t careful around the fire.",
+                "textES": "Estrella hizo una réplica en miniatura de su luchador favorito, pero en el proceso se quemó un dedo pues no fue suficientemente cuidadosa con el fuego.",
+                "textPT": "Estrella fez uma réplica de seu lutador favorito em miniatura. Mas ela queimou o dedo, pois não tomou cuidado suficiente com o fogo.",
+                "textCN": "埃斯特雷拉做了一个她最喜欢的摔跤手的迷你复制品。然而，她把手指烫伤了，因为她使用火时不小心。",
+                "textJP": "エストレラは好きなレスラーのミニチュアを作りました。ですが火を使うとき、うっかり指に火傷をしてしまいました。",
+                "textKR": "에스트레야는 자기가 제일 좋아하는 레슬링 선수를 작은 모형으로 만들었어요. 하지만 불을 쓰면서 조심하지 않아서 손을 데었어요.",
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "made"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "miniature"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "replica"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "of"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "her"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "favorite"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "wrestler."
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "However,"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "she"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "had"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "burned"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "her"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "finger"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "because"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "she"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "wasn’t"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "careful"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "around"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "fire."
+                    }
+                ],
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "hizo"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "una"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "réplica"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "miniatura"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "su"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "luchador"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "favorito,"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "en"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "el"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "proceso"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "se"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "quemó"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "un"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "dedo"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "no"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "fue"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "suficientemente"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "cuidadosa"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "con"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "fuego."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "에스트레야는" },
+                    { "start": "1.982","text": "자기가" },
+                    { "start": "2.864","text": "제일" },
+                    { "start": "3.636","text": "좋아하는" },
+                    { "start": "4.880","text": "레슬링" },
+                    { "start": "5.817","text": "선수를" },
+                    { "start": "7.250","text": "작은" },
+                    { "start": "8.005","text": "모형으로" },
+                    { "start": "9.025","text": "만들었어요." },
+                    { "start": "11.617","text": "하지만" },
+                    { "start": "13.189","text": "불을" },
+                    { "start": "13.734","text": "쓰면서" },
+                    { "start": "15.044","text": "조심하지" },
+                    { "start": "15.999","text": "않아서" },
+                    { "start": "17.657","text": "손을" },
+                    { "start": "18.442","text": "데었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "Eagle worked on a beautiful music box that played his favorite song. However, he hurt his foot because he hadn't organized the tools properly and a hammer fell on his foot.",
+                "textES": "Eagle trabajó en una hermosa caja musical que tocaba su canción favorita, pero se lastimó un pie porque no organizó bien sus herramientas y le cayó un martillo.",
+                "textPT": "Eagle trabalhou em uma linda caixa de música que tocava sua canção favorita. Mas ele machucou o pé, pois não organizou as ferramentas adequadamente, e um martelo caiu no seu pé.",
+                "textCN": "伊戈做了一个漂亮的音乐盒，这个音乐盒能演奏他最喜欢的歌曲。然而，他的脚受伤了，因为他没有把工具整理好，一把锤子砸在他的脚上。",
+                "textJP": "イーグルは美しいミュージックボックスを作りました。自分が好きな歌を演奏してくれます。ですが、道具をきちんと整理していなかったので、ハンマーを落として足に怪我をしてしまいました。",
+                "textKR": "이글이는 자기가 가장 좋아하는 노래를 연주하는 아름다운 오르골을 만들었어요. 하지만 도구를 제대로 정리하지 않고 망치를 떨어뜨려서 발을 다쳤어요.",
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "worked"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "on"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "beautiful"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "music"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "box"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "that"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "played"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "his"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "favorite"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "song."
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "However,"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "he"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "hurt"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "his"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "foot"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "because"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "he"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "hadn't"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "organized"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "tools"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "properly"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "and"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "hammer"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "fell"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "on"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "his"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "foot."
+                    }
+                ],
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "trabajó"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "en"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "una"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "hermosa"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "caja"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "musical"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "tocaba"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "su"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "canción"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "favorita,"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "se"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "lastimó"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "un"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "pie"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "porque"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "no"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "organizó"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "bien"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "herramientas"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "le"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "cayó"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "un"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "martillo."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "이글이는" },
+                    { "start": "1.388","text": "자기가" },
+                    { "start": "2.745","text": "가장" },
+                    { "start": "3.487","text": "좋아하는" },
+                    { "start": "4.532","text": "노래를" },
+                    { "start": "5.326","text": "연주하는" },
+                    { "start": "6.774","text": "아름다운" },
+                    { "start": "7.902","text": "오르골을" },
+                    { "start": "8.983","text": "만들었어요." },
+                    { "start": "11.686","text": "하지만" },
+                    { "start": "13.148","text": "도구를" },
+                    { "start": "13.941","text": "제대로" },
+                    { "start": "14.784","text": "정리하지" },
+                    { "start": "15.824","text": "않고" },
+                    { "start": "17.271","text": "망치를" },
+                    { "start": "18.213","text": "떨어뜨려서" },
+                    { "start": "19.865","text": "발을" },
+                    { "start": "20.587","text": "다쳤어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "Arthurius was the last to finish. He had done everything cautiously. Everyone was surprised to see that he had only glued four sticks in the form of a rectangle.",
+                "textES": "Arthurius fue el último en terminar. Él había hecho todo de manera cuidadosa. Todos quedaron sorprendidos al ver que sólo había pegado cuatro palitos en forma de rectángulo.",
+                "textPT": "Arthurius foi o último a finalizar. Ele fez tudo com cuidado. Todos ficaram surpresos ao ver que ele tinha apenas colado quatro palitos na forma de um retângulo.",
+                "textCN": "亚瑟鲁是最后一个完成任务的人。他做每件事都很谨慎。大家惊讶地发现，他只粘了四根棍子做了一个长方形。",
+                "textJP": "アーサリウスは、出来上がるのが最後でした。何もかも気をつけて仕事をしたのです。アーサリウスは4本の棒を四角形にのりでくっつけただけだったので、みんな驚いてしまいました。",
+                "textKR": "알투리우스는 마지막으로 작품을 만들었어요. 알투리우스는 아주 조심했어요. 알투리우스는 막대기 네 개를 풀로 붙인 네모난 모양의 신기한 물건을 만들어서 모두가 놀랐어요.",
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "last"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "finish."
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "He"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "had"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "done"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "everything"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "cautiously."
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "Everyone"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "was"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "surprised"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "see"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "that"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "he"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "had"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "only"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "glued"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "four"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "sticks"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "in"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "form"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "of"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "rectangle."
+                    }
+                ],
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "fue"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "el"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "último"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "terminar."
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "Él"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "había"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "hecho"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "todo"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "manera"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "cuidadosa."
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "quedaron"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "sorprendidos"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "al"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "sólo"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "había"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "pegado"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "cuatro"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "palitos"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "en"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "forma"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "rectángulo."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "알투리우스는" },
+                    { "start": "2.002","text": "마지막으로" },
+                    { "start": "3.526","text": "작품을" },
+                    { "start": "4.514","text": "만들었어요." },
+                    { "start": "7.098","text": "알투리우스는" },
+                    { "start": "9.105","text": "아주" },
+                    { "start": "9.921","text": "조심했어요." },
+                    { "start": "12.565","text": "알투리우스는" },
+                    { "start": "14.389","text": "막대기" },
+                    { "start": "15.940","text": "네" },
+                    { "start": "16.443","text": "개를" },
+                    { "start": "17.523","text": "풀로" },
+                    { "start": "18.275","text": "붙인" },
+                    { "start": "19.548","text": "네모난" },
+                    { "start": "20.455","text": "모양의" },
+                    { "start": "21.606","text": "신기한" },
+                    { "start": "22.550","text": "물건을" },
+                    { "start": "23.478","text": "만들어서" },
+                    { "start": "25.069","text": "모두가" },
+                    { "start": "26.257","text": "놀랐어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "Eagle and Estrella asked Arthurius what he had made. He explained that his dad taught him how to make this frame. It would help him to always have the ones he loved close.",
+                "textES": "Eagle y Estrella le preguntaron qué era ese objeto. Arthurius explicó que su papá le había enseñado a hacer marcos. Así siempre tendría cerca a sus seres queridos.",
+                "textPT": "Eagle e Estrella perguntaram para Arthurius o que ele tinha feito. Ele explicou que seu pai o ensinou a fazer essa moldura. Ela ajudaria Arthurius a sempre manter as pessoas amadas por perto.",
+                "textCN": "伊戈和埃斯特雷拉问亚瑟鲁他做的是什么。他解释说，是他爸爸教他怎么做这个相框的。这个相框能让他永远和他所爱的人在一起。",
+                "textJP": "イーグルとエストレラはアーサリウスに何を作ったのかたずねました。アーサリウスは、お父さんがこのフレームの作り方を教えてくれたと話しました。これがあればいつでも好きなものを近くに置いておけるのです。",
+                "textKR": "이글이와 에스트레야는 알투리우스에게 무엇을 만든 거냐고 물어봤어요. 알투리우스가 만든 물건은 액자였는데 알투리우스의 아빠가 만드는 방법을 알려 주셨어요. 알투리우스는 그 액자로 자기가 사랑하는 사람들과 언제나 함께 있을 수 있었어요.",
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "and"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "what"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "he"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "had"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "made."
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "He"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "that"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "his"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "dad"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "taught"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "him"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "how"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "make"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "this"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "frame."
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "It"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "would"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "help"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "him"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "to"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "always"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "have"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "ones"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "he"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "loved"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "close."
+                    }
+                ],
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "y"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "le"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "preguntaron"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "era"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "ese"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "objeto."
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "explicó"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "su"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "papá"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "le"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "había"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "enseñado"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "hacer"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "marcos."
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "Así"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "siempre"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "tendría"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "cerca"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "seres"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "queridos."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "이글이와" },
+                    { "start": "0.994","text": "에스트레야는" },
+                    { "start": "2.739","text": "알투리우스에게" },
+                    { "start": "4.830","text": "무엇을" },
+                    { "start": "5.696","text": "만든" },
+                    { "start": "6.466","text": "거냐고" },
+                    { "start": "7.616","text": "물어봤어요." },
+                    { "start": "10.272","text": "알투리우스가" },
+                    { "start": "11.727","text": "만든" },
+                    { "start": "12.525","text": "물건은" },
+                    { "start": "13.955","text": "액자였는데" },
+                    { "start": "15.811","text": "알투리우스의" },
+                    { "start": "17.120","text": "아빠가" },
+                    { "start": "18.686","text": "만드는" },
+                    { "start": "19.594","text": "방법을" },
+                    { "start": "20.809","text": "알려" },
+                    { "start": "21.610","text": "주셨어요." },
+                    { "start": "24.101","text": "알투리우스는" },
+                    { "start": "26.095","text": "그" },
+                    { "start": "26.441","text": "액자로" },
+                    { "start": "27.803","text": "자기가" },
+                    { "start": "28.626","text": "사랑하는" },
+                    { "start": "29.528","text": "사람들과" },
+                    { "start": "31.040","text": "언제나" },
+                    { "start": "32.205","text": "함께" },
+                    { "start": "33.040","text": "있을" },
+                    { "start": "33.600","text": "수" },
+                    { "start": "34.717","text": "있었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "Arthurius placed a photo of himself with his friends in that frame.",
+                "textES": "Entonces Arthurius puso una foto de él y sus amigos en aquel marco.",
+                "textPT": "Arthurius colocou uma foto dele com seus amigos nessa moldura.",
+                "textCN": "亚瑟鲁把他自己和朋友的照片放在了那个相框里面。",
+                "textJP": "アーサリウスは友達と一緒に写った自分の写真をそのフレームに納めました。",
+                "textKR": "알투리우스는 친구들과 같이 찍은 사진을 그 액자에 끼웠어요.",
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "placed"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "photo"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "of"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "himself"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "with"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "his"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "friends"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "in"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "that"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "frame."
+                    }
+                ],
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Entonces"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "Arthurius"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "puso"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "una"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "foto"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "él"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "amigos"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "en"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "aquel"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "marco."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "알투리우스는" },
+                    { "start": "1.868","text": "친구들과" },
+                    { "start": "3.050","text": "같이" },
+                    { "start": "3.905","text": "찍은" },
+                    { "start": "4.538","text": "사진을" },
+                    { "start": "5.934","text": "그" },
+                    { "start": "6.380","text": "액자에" },
+                    { "start": "7.794","text": "끼웠어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

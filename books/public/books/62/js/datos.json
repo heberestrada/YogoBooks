@@ -1,0 +1,2461 @@
+{
+    "book": {
+        "titleES": "El camino de Nao",
+        "titleEN": "Nao's Journey",
+        "titlePT": "O caminho de Nao",
+        "titleCN": "奈绪的旅程",
+        "titleJP": "ナオの たび",
+        "titleKR": "나오의 여행",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "Todos los sábados, Nao acostumbraba traer los ingredientes necesarios para hacer un pan delicioso. Eagle no lograba comprender por qué su amigo tardaba tanto.",
+                "textEN": "Every Saturday, Nao would go buy ingredients to make a delicious bread. Eagle couldn’t understand why it took so long for his friend to come back.",
+                "textPT": "Todo sábado, Nao ia comprar ingredientes para fazer um pão delicioso. Eagle não entendia por que seu amigo demorava tanto para voltar.",
+                "textCN": "每个星期六，奈绪都会去买原料制作美味的面包。伊戈不明白他的朋友为什么要花这么长时间才能回来。",
+                "textJP": "まいしゅう どよう日、ナオは とびきり おいしい パンを つくるために、ざいりょうを かいに いきます。イーグルは ナオの かいものが どうして そんなに ながく かかるのか、わかりませんでした。",
+                "textKR": "매주 토요일마다 나오는 맛있는 빵을 만들 재료를 사러 갔어요. 이글이는 나오가 장을 보는데 오랜 시간이 걸리는 걸 이해할 수 없었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "los"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "sábados,"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "acostumbraba"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "traer"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "los"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "ingredientes"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "necesarios"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "para"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "hacer"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "un"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "pan"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "delicioso."
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "no"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "lograba"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "comprender"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "por"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "su"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "tardaba"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "tanto."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Every"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "Saturday,"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "would"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "go"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "buy"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "ingredients"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "make"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "delicious"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "bread."
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "couldn’t"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "understand"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "why"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "it"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "took"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "so"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "long"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "for"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "his"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "friend"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "come"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "back."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "매주" },
+                    { "start": "0.827","text": "토요일마다" },
+                    { "start": "2.073","text": "나오는" },
+                    { "start": "3.374","text": "맛있는" },
+                    { "start": "4.357","text": "빵을" },
+                    { "start": "5.017","text": "만들" },
+                    { "start": "6.063","text": "재료를" },
+                    { "start": "6.920","text": "사러" },
+                    { "start": "7.615","text": "갔어요." },
+                    { "start": "9.776","text": "이글이는" },
+                    { "start": "11.158","text": "나오가" },
+                    { "start": "12.398","text": "장을" },
+                    { "start": "13.132","text": "보는데" },
+                    { "start": "14.445","text": "오랜" },
+                    { "start": "15.350","text": "시간이" },
+                    { "start": "16.286","text": "걸리는" },
+                    { "start": "16.966","text": "걸" },
+                    { "start": "17.803","text": "이해할" },
+                    { "start": "18.485","text": "수" },
+                    { "start": "19.190","text": "없었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "Un buen día Eagle se quejó del tiempo que tardaba Nao en ir por los ingredientes. En lugar de ofenderse, Nao le pidió a su amigo que lo acompañara, tal vez con su ayuda tardaría menos.",
+                "textEN": "One day, Eagle complained about the time it took Nao to get the ingredients. Instead of becoming offended, Nao asked Eagle to come along with him the next time he went. Maybe the process would be faster with more help?",
+                "textPT": "Certo dia, Eagle reclamou sobre o tempo que Nao levou para comprar os ingredientes. Em vez de se sentir ofendido, Nao convidou Eagle para ir com ele na próxima vez. Talvez o processo fosse mais rápido com uma ajudinha?",
+                "textCN": "有一天，伊戈抱怨奈绪购买原料所用的时间太长了。奈绪没有生气，而是请伊戈在他下次去的时候跟他一起去。也许有了帮手，就会更快买到？",
+                "textJP": "ある日 イーグルは、ナオが ざいりょうを かってくるのが おそすぎると もんくを いいました。ナオは おこらずに、こんど かいものに いくときに いっしょに いこうと イーグルを さそいました。イーグルの たすけで かいものを はやく すませる ことが できるのでしょうか？",
+                "textKR": "어느 날, 이글이는 나오에게 장을 보는데 시간이 너무 오래 걸린다고 따졌어요. 나오는 화를 내지 않고, 이글이에게 다음에는 같이 장을 보러 가자고 했어요. 둘이 함께 간다면 더 빨리 장을 보지 않을까요?",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Un"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "buen"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "día"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "se"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "quejó"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "del"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "tiempo"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "que"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "tardaba"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "en"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "ir"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "por"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "los"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "ingredientes."
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "En"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "lugar"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "de"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "ofenderse,"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "le"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "pidió"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "su"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "que"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "acompañara,"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "tal"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "con"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "su"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "ayuda"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "tardaría"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "menos."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "One"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "day,"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "complained"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "about"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "time"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "it"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "took"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "get"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "ingredients."
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "Instead"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "of"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "becoming"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "offended,"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "to"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "come"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "along"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "with"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "him"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "next"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "time"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "he"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "went."
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "Maybe"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "process"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "would"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "be"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "faster"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "with"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "more"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "help?"
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "어느" },
+                    { "start": "1.585","text": "날," },
+                    { "start": "1.463","text": "이글이는" },
+                    { "start": "2.719","text": "나오에게" },
+                    { "start": "4.332","text": "장을" },
+                    { "start": "4.972","text": "보는데" },
+                    { "start": "6.089","text": "시간이" },
+                    { "start": "7.411","text": "너무" },
+                    { "start": "8.271","text": "오래" },
+                    { "start": "8.866","text": "걸린다고" },
+                    { "start": "10.169","text": "따졌어요." },
+                    { "start": "12.415","text": "나오는" },
+                    { "start": "13.793","text": "화를" },
+                    { "start": "14.486","text": "내지" },
+                    { "start": "15.039","text": "않고," },
+                    { "start": "16.305","text": "이글이에게" },
+                    { "start": "17.741","text": "다음에는" },
+                    { "start": "19.147","text": "같이" },
+                    { "start": "20.154","text": "장을" },
+                    { "start": "20.846","text": "보러" },
+                    { "start": "21.401","text": "가자고" },
+                    { "start": "22.200","text": "했어요." },
+                    { "start": "24.339","text": "둘이" },
+                    { "start": "24.850","text": "함께" },
+                    { "start": "25.507","text": "간다면" },
+                    { "start": "26.992","text": "더" },
+                    { "start": "27.728","text": "빨리" },
+                    { "start": "28.419","text": "장을" },
+                    { "start": "29.415","text": "보지" },
+                    { "start": "29.911","text": "않을까요?" }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "Era muy temprano cuando Nao despertó a Eagle para ir por los ingredientes. A Eagle le costó trabajo levantarse, aún así lo hizo. Se sentía cansado y somnoliento, sólo pensaba en la comodidad de su cama.",
+                "textEN": "It was a very early morning when Nao woke Eagle up to start their journey. Eagle had a hard time waking up, but he did it anyway. He was feeling tired and sleepy. All he could think about was his cozy bed.",
+                "textPT": "Era bem cedo quando Nao acordou Eagle para irem comprar os ingredientes. Eagle teve muita dificuldade para acordar, mas levantou mesmo assim. Ele estava cansado e com sono. Ele só conseguia pensar em sua cama aconchegante.",
+                "textCN": "一大早奈绪就叫醒伊戈，开始了他们的旅程。伊戈有点起床气，但他还是爬了起来。他感到又累又困。他一心想着他舒服的大床。",
+                "textJP": "ナオは イーグルを あさ はやく おこしました。ふたりの たびの はじまりです。イーグルは はやおきが にがて でしたが、がんばって おきました。つかれているし ねむいので、イーグルの あたまの中は ベッドで いっぱいでした。",
+                "textKR": "아주 이른 아침에 나오가 이글이를 깨워서 장을 보러 가자고 했어요. 이글이는 더 자고 싶었지만 그래도 억지로 일어났어요. 이글이는 굉장히 피곤하고 졸렸어요. 이글이는 폭신한 침대 생각이 계속 났어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Era"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "temprano"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "cuando"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "despertó"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "para"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "ir"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "por"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "los"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "ingredientes."
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "A"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "le"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "costó"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "trabajo"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "levantarse,"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "aún"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "así"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "hizo."
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "Se"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "sentía"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "cansado"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "somnoliento,"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "sólo"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "pensaba"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "en"
+                    },
+                    {
+                        "start": "17.7",
+                        "text": "la"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "comodidad"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "de"
+                    },
+                    {
+                        "start": "18.5",
+                        "text": "su"
+                    },
+                    {
+                        "start": "18.7",
+                        "text": "cama."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "It"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "was"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "very"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "early"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "morning"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "when"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "woke"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "up"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "start"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "their"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "journey."
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "had"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "hard"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "time"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "waking"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "up,"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "but"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "he"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "did"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "it"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "anyway."
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "He"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "was"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "feeling"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "tired"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "and"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "sleepy."
+                    },
+                    {
+                        "start": "12.87",
+                        "text": "All"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "he"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "could"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "think"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "about"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "was"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "his"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "cozy"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "bed."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "아주" },
+                    { "start": "0.780","text": "이른" },
+                    { "start": "1.300","text": "아침에" },
+                    { "start": "2.590","text": "나오가" },
+                    { "start": "3.798","text": "이글이를" },
+                    { "start": "4.720","text": "깨워서" },
+                    { "start": "5.969","text": "장을" },
+                    { "start": "6.678","text": "보러" },
+                    { "start": "7.223","text": "가자고" },
+                    { "start": "8.311","text": "했어요." },
+                    { "start": "10.397","text": "이글이는" },
+                    { "start": "11.919","text": "더" },
+                    { "start": "12.400","text": "자고" },
+                    { "start": "12.967","text": "싶었지만" },
+                    { "start": "14.409","text": "그래도" },
+                    { "start": "15.558","text": "억지로" },
+                    { "start": "16.429","text": "일어났어요." },
+                    { "start": "19.031","text": "이글이는" },
+                    { "start": "20.350","text": "굉장히" },
+                    { "start": "21.362","text": "피곤하고" },
+                    { "start": "22.456","text": "졸렸어요." },
+                    { "start": "24.825","text": "이글이는" },
+                    { "start": "26.173","text": "폭신한" },
+                    { "start": "27.124","text": "침대" },
+                    { "start": "27.750","text": "생각이" },
+                    { "start": "28.966","text": "계속" },
+                    { "start": "29.719","text": "났어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "Eagle y Nao llegaron hasta el pie de una montaña cubierta de árboles. Eagle estaba confundido y le preguntó a su amigo: <br> “¿Por qué no seguimos hacia el lugar en la nave?” <br> –Los árboles no permiten ver y la tienda donde compro los ingredientes se encuentra oculta dentro de la arboleda –contestó Nao.",
+                "textEN": "Eagle and Nao reached a mountain covered with trees. Eagle was confused, so he stopped to ask his friend, <br> “Why don’t we take the ship?” <br> “The store where I buy ingredients is hidden beneath the trees. There is no way to find it if we fly there,” replied Nao.",
+                "textPT": "Eagle e Nao chegaram a uma montanha coberta de árvores. Eagle estava confuso, então parou para perguntar a seu amigo: <br> “Por que nós não pegamos a nave?” <br> “A loja onde eu compro os ingredientes fica escondida entre as árvores. Não tem jeito de encontrá-la lá do céu”, respondeu Nao.",
+                "textCN": "伊戈和奈绪到达一座长满了树木的高山。伊戈很困惑，所以他停下来问奈绪：  <br> “我们为什么不乘坐飞船呢？” <br> “我买原料的商店藏在树下。如果我们飞到那里，就找不到它了。”奈绪答道。",
+                "textJP": "イーグルと ナオは 木で おおわれた 山に つきました。おや？とおもった イーグルは ナオに ききました。 <br> 「どうして うちゅうせんを つかわないの？」 <br> 「ぼくが ざいりょうを かう みせは、木の したに かくれているんだ。うえから とんでいったら みせを みつけることが できないのさ」ナオが こたえました。",
+                "textKR": "이글이와 나오는 나무로 덮인 산에 도착했어요. 이글이는 상황을 이해하지 못하고 친구에게 물었어요. <br> &#34;왜 우주선을 타지 않는 거야?&#34; <br> &#34;내가 장을 보러 가는 곳은 나무 뒤에 숨어있어. 우주선을 타고는 도착할 수 없는 곳이야.&#34; 나오가 대답했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "y"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "llegaron"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "hasta"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "pie"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "una"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "montaña"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "cubierta"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "de"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "árboles."
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "confundido"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "y"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "le"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "preguntó"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "su"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "amigo:"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "“¿Por"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "no"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "seguimos"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "hacia"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "el"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "lugar"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "en"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "la"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "nave?"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "–Los"
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "árboles"
+                    },
+                    {
+                        "start": "18.2",
+                        "text": "no"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "permiten"
+                    },
+                    {
+                        "start": "18.9",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "19.2",
+                        "text": "y"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "la"
+                    },
+                    {
+                        "start": "20.2",
+                        "text": "tienda"
+                    },
+                    {
+                        "start": "20.5",
+                        "text": "donde"
+                    },
+                    {
+                        "start": "21.0",
+                        "text": "compro"
+                    },
+                    {
+                        "start": "21.2",
+                        "text": "los"
+                    },
+                    {
+                        "start": "22.1",
+                        "text": "ingredientes"
+                    },
+                    {
+                        "start": "22.2",
+                        "text": "se"
+                    },
+                    {
+                        "start": "22.8",
+                        "text": "encuentra"
+                    },
+                    {
+                        "start": "23.1",
+                        "text": "oculta"
+                    },
+                    {
+                        "start": "24.0",
+                        "text": "dentro"
+                    },
+                    {
+                        "start": "24.3",
+                        "text": "de"
+                    },
+                    {
+                        "start": "24.5",
+                        "text": "la"
+                    },
+                    {
+                        "start": "25.0",
+                        "text": "arboleda"
+                    },
+                    {
+                        "start": "26.3",
+                        "text": "–contestó"
+                    },
+                    {
+                        "start": "26.6",
+                        "text": "Nao."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "and"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "reached"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "mountain"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "covered"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "with"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "trees."
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "was"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "confused,"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "so"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "he"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "stopped"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "ask"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "his"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "friend,"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "“Why"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "don’t"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "we"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "take"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "ship?”"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "“The"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "store"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "where"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "I"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "buy"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "ingredients"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "is"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "hidden"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "beneath"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "trees."
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "There"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "is"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "no"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "way"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "to"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "find"
+                    },
+                    {
+                        "start": "15.7",
+                        "text": "it"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "if"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "we"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "fly"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "there,”"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "replied"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "Nao."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "이글이와" },
+                    { "start": "1.084","text": "나오는" },
+                    { "start": "2.309","text": "나무로" },
+                    { "start": "3.179","text": "덮인" },
+                    { "start": "3.929","text": "산에" },
+                    { "start": "4.737","text": "도착했어요." },
+                    { "start": "7.127","text": "이글이는" },
+                    { "start": "8.394","text": "상황을" },
+                    { "start": "9.300","text": "이해하지" },
+                    { "start": "10.146","text": "못하고" },
+                    { "start": "11.385","text": "친구에게" },
+                    { "start": "12.435","text": "물었어요." },
+                    { "start": "14.588","text": "왜" },
+                    { "start": "14.986","text": "우주선을" },
+                    { "start": "15.933","text": "타지" },
+                    { "start": "16.478","text": "않는" },
+                    { "start": "16.913","text": "거야?" },
+                    { "start": "18.524","text": "내가" },
+                    { "start": "19.061","text": "장을" },
+                    { "start": "19.619","text": "보러" },
+                    { "start": "20.014","text": "가는" },
+                    { "start": "20.396","text": "곳은" },
+                    { "start": "21.435","text": "나무" },
+                    { "start": "21.985","text": "뒤에" },
+                    { "start": "22.677","text": "숨어있어." },
+                    { "start": "24.394","text": "우주선을" },
+                    { "start": "25.227","text": "타고는" },
+                    { "start": "26.422","text": "도착할" },
+                    { "start": "27.134","text": "수" },
+                    { "start": "27.755","text": "없는" },
+                    { "start": "28.276","text": "곳이야." },
+                    { "start": "30.233","text": "나오가" },
+                    { "start": "31.289","text": "대답했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "Pasaron por un río, donde Eagle casi cae. Brincaron entre piedras, donde Eagle casi se lastima. Y al final escalaron hacia un acantilado, donde Eagle casi vuelve a caer.",
+                "textEN": "They crossed a river where Eagle lost his balance and almost fell. <br> They had to jump over some rocks where Eagle almost got injured. <br> Then, they climbed up a cliff where Eagle lost his balance again.",
+                "textPT": "Eles atravessaram um rio, e Eagle perdeu o equilíbrio e quase caiu. <br> Eles tiveram de pular algumas pedras, e Eagle quase se machucou. <br> Depois, eles escalaram um penhasco, e Eagle perdeu o equilíbrio de novo.",
+                "textCN": "他们穿过一条河时，伊戈失去了平衡，差点摔倒。<br> 他们还得在岩石上跳来跳去，伊戈差点受伤。<br> 然后，他们爬上悬崖，伊戈再次失去平衡。",
+                "textJP": "ふたりは 川を わたりました。イーグルは よろけて ころびそうに なりました。 <br> いわを ジャンプして いかなければ ならない ばしょも ありました。イーグルは けがを しそうになりました。 <br> それから がけを のぼり、イーグルは また ころびそうに なりました。",
+                "textKR": "둘은 강을 건넜어요. 이글이는 강을 건너다가 빠질 뻔했어요. <br> 둘은 바위를 껑충껑충 뛰어서 갔어요. 이글이는 다칠 뻔했어요. <br>그리고 절벽을 올랐어요. 이글이는 떨어질 뻔했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Pasaron"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "por"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "un"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "río,"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "donde"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "casi"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "cae."
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "Brincaron"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "entre"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "piedras,"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "donde"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "casi"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "se"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "lastima."
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "Y"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "al"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "final"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "escalaron"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "hacia"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "un"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "acantilado,"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "donde"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "casi"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "vuelve"
+                    },
+                    {
+                        "start": "17.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "17.7",
+                        "text": "caer."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "They"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "crossed"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "river"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "where"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "lost"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "his"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "balance"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "almost"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "fell."
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "They"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "had"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "jump"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "over"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "some"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "rocks"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "where"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "almost"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "got"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "injured."
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "Then,"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "they"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "climbed"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "up"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "cliff"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "where"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "lost"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "his"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "balance"
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "again."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "둘은" },
+                    { "start": "0.877","text": "강을" },
+                    { "start": "1.659","text": "건넜어요." },
+                    { "start": "3.484","text": "이글이는" },
+                    { "start": "4.741","text": "강을" },
+                    { "start": "5.332","text": "건너다가" },
+                    { "start": "6.750","text": "빠질" },
+                    { "start": "7.361","text": "뻔했어요." },
+                    { "start": "9.534","text": "둘은" },
+                    { "start": "10.469","text": "바위를" },
+                    { "start": "11.412","text": "껑충껑충" },
+                    { "start": "12.950","text": "뛰어서" },
+                    { "start": "13.595","text": "갔어요." },
+                    { "start": "15.404","text": "이글이는" },
+                    { "start": "16.631","text": "다칠" },
+                    { "start": "17.213","text": "뻔했어요." },
+                    { "start": "19.528","text": "그리고" },
+                    { "start": "20.530","text": "절벽을" },
+                    { "start": "21.382","text": "올랐어요." },
+                    { "start": "23.496","text": "이글이는" },
+                    { "start": "24.696","text": "떨어질" },
+                    { "start": "25.309","text": "뻔했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "Al fin llegaron a una choza y compraron los ingredientes para hacer el delicioso pan. Nao observó a su compañero, que parecía agotado. <br> –¿Pasa algo Eagle? –preguntó Nao. <br> –Nao, disculpame por haberme quejado del tiempo que tardabas en ir por los víveres. No sabía lo complicado que es tu camino. <br> Nao sonrió y aceptó las disculpas. Ese día, Eagle aprendió a no juzgar el camino de otras personas si nunca lo ha caminado.",
+                "textEN": "Finally, they reached a hut where Nao bought the ingredients for the bread. Nao looked at his friend who seemed exhausted. <br> “What is it, Eagle?” asked Nao. <br> “Nao, I’m sorry for complaining about your journey. I never imagined how challenging it was until I experienced it with you,” said Eagle, apologetically. <br> Nao smiled and accepted Eagle’s apology. That day, Eagle learned to not judge someone’s journey until he walked in their shoes.",
+                "textPT": "Por fim, eles chegaram a uma cabana e Nao comprou os ingredientes para o pão. Nao olhou para seu amigo, que parecia exausto. <br> “O que foi, Eagle?”, perguntou Nao. <br>“Nao, desculpe por reclamar do tempo que você leva. Nunca imaginei como o caminho era complicado até que vim com você”, disse Eagle, pedindo desculpas. <br> Nao sorriu e aceitou as desculpas de Eagle. Naquele dia, Eagle aprendeu a não julgar a jornada de alguém até estar no lugar da outra pessoa.",
+                "textCN": "最后，他们来到一间小屋，这里就是奈绪购买面包的原料的地方。奈绪看着似乎筋疲力尽的伊戈。<br> “怎么了，伊戈？”奈绪问。<br> “奈绪，对不起，我不该抱怨你。我从来没想过买原料有这么难，现在我亲自经历了才知道。”伊戈抱歉地说。<br> 奈绪笑着接受了伊戈的道歉。那一天，伊戈学会了站在别人的立场看问题，而不是贸然评判别人的行为。",
+                "textJP": "そして ついに、パンの ざいりょうを かう みせに たどりつきました。つかれきった ようすの イーグルを みて、 <br> 「どうしたんだい？」とナオ。 <br> 「ナオ、きみの たびについて もんくを いって ごめん。こんなに たいへんだった なんて おもいも しなかったよ」イーグルは すまなさそうに いいました。 <br> ナオは えがおで イーグルを ゆるして あげました。イーグルは その日、じぶんの 足で あるいてみないと、はんだん することは できないと わかりました。",
+                "textKR": "마침내, 둘은 나오가 장을 보는 오두막에 도착했어요. 나오는 지친 친구를 바라보았어요. <br> &#34;이글아, 무슨 일이야?&#34; <br> &#34;나오야, 내가 너한테 불평해서 미안해. 오늘 너와 같이 오기 전까지 네가 이렇게 힘들게 장을 보는지 몰랐어.&#34; 이글이가 미안한 마음을 담아서 말했어요. <br> 나오는 웃으면서 이글이의 사과를 받아주었어요. 그 일로 이글이는 직접 경험하기 전까지 다른 사람의 여행을 마음대로 판단하지 않기로 했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Al"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "fin"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "llegaron"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "una"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "choza"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "compraron"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "los"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "ingredientes"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "para"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "hacer"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "el"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "delicioso"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "pan."
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "observó"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "su"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "compañero,"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "parecía"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "agotado."
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "–¿Pasa"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "algo"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "Eagle?"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "–preguntó"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "Nao."
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "–Nao,"
+                    },
+                    {
+                        "start": "18.8",
+                        "text": "disculpame"
+                    },
+                    {
+                        "start": "19.4",
+                        "text": "por"
+                    },
+                    {
+                        "start": "19.7",
+                        "text": "haberme"
+                    },
+                    {
+                        "start": "20.1",
+                        "text": "quejado"
+                    },
+                    {
+                        "start": "20.5",
+                        "text": "del"
+                    },
+                    {
+                        "start": "20.8",
+                        "text": "tiempo"
+                    },
+                    {
+                        "start": "21.1",
+                        "text": "que"
+                    },
+                    {
+                        "start": "21.4",
+                        "text": "tardabas"
+                    },
+                    {
+                        "start": "21.8",
+                        "text": "en"
+                    },
+                    {
+                        "start": "22.1",
+                        "text": "ir"
+                    },
+                    {
+                        "start": "22.4",
+                        "text": "por"
+                    },
+                    {
+                        "start": "22.7",
+                        "text": "los"
+                    },
+                    {
+                        "start": "22.9",
+                        "text": "víveres."
+                    },
+                    {
+                        "start": "24.8",
+                        "text": "No"
+                    },
+                    {
+                        "start": "25.2",
+                        "text": "sabía"
+                    },
+                    {
+                        "start": "25.5",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "25.9",
+                        "text": "complicado"
+                    },
+                    {
+                        "start": "26.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "26.7",
+                        "text": "es"
+                    },
+                    {
+                        "start": "27.0",
+                        "text": "tu"
+                    },
+                    {
+                        "start": "27.3",
+                        "text": "camino."
+                    },
+                    {
+                        "start": "28.6",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "29.0",
+                        "text": "sonrió"
+                    },
+                    {
+                        "start": "29.3",
+                        "text": "y"
+                    },
+                    {
+                        "start": "29.6",
+                        "text": "aceptó"
+                    },
+                    {
+                        "start": "29.9",
+                        "text": "las"
+                    },
+                    {
+                        "start": "30.3",
+                        "text": "disculpas."
+                    },
+                    {
+                        "start": "32.0",
+                        "text": "Ese"
+                    },
+                    {
+                        "start": "32.3",
+                        "text": "día,"
+                    },
+                    {
+                        "start": "34.0",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "34.3",
+                        "text": "aprendió"
+                    },
+                    {
+                        "start": "34.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "34.9",
+                        "text": "no"
+                    },
+                    {
+                        "start": "35.2",
+                        "text": "juzgar"
+                    },
+                    {
+                        "start": "35.5",
+                        "text": "el"
+                    },
+                    {
+                        "start": "35.8",
+                        "text": "camino"
+                    },
+                    {
+                        "start": "36.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "36.4",
+                        "text": "otras"
+                    },
+                    {
+                        "start": "36.7",
+                        "text": "personas"
+                    },
+                    {
+                        "start": "37.5",
+                        "text": "si"
+                    },
+                    {
+                        "start": "37.8",
+                        "text": "nunca"
+                    },
+                    {
+                        "start": "38.1",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "38.4",
+                        "text": "ha"
+                    },
+                    {
+                        "start": "38.7",
+                        "text": "caminado."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Finally,"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "they"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "reached"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "hut"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "where"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "bought"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "ingredients"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "for"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "bread."
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "looked"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "at"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "his"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "friend"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "who"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "seemed"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "exhausted."
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "“What"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "is"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "it,"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "Eagle?”"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "Nao."
+                    },
+                    {
+                        "start": "12.4 ",
+                        "text": "“Nao,"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "I’m"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "sorry"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "for"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "complaining"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "about"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "your"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "journey."
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "I"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "never"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "imagined"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "how"
+                    },
+                    {
+                        "start": "16.9",
+                        "text": "challenging"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "it"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "was"
+                    },
+                    {
+                        "start": "18.1",
+                        "text": "until"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "I"
+                    },
+                    {
+                        "start": "18.6",
+                        "text": "experienced"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "it"
+                    },
+                    {
+                        "start": "19.6",
+                        "text": "with"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "you,”"
+                    },
+                    {
+                        "start": "20.2",
+                        "text": "said"
+                    },
+                    {
+                        "start": "21.1",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "21.4",
+                        "text": "apologetically."
+                    },
+                    {
+                        "start": "22.7",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "24.1",
+                        "text": "smiled"
+                    },
+                    {
+                        "start": "24.9",
+                        "text": "and"
+                    },
+                    {
+                        "start": "25.0",
+                        "text": "accepted"
+                    },
+                    {
+                        "start": "25.6",
+                        "text": "Eagle’s"
+                    },
+                    {
+                        "start": "26.0",
+                        "text": "apology."
+                    },
+                    {
+                        "start": "26.6",
+                        "text": "That"
+                    },
+                    {
+                        "start": "27.5",
+                        "text": "day,"
+                    },
+                    {
+                        "start": "27.8",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "28.5",
+                        "text": "learned"
+                    },
+                    {
+                        "start": "28.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "29.2",
+                        "text": "not"
+                    },
+                    {
+                        "start": "29.3",
+                        "text": "judge"
+                    },
+                    {
+                        "start": "29.4",
+                        "text": "someone’s"
+                    },
+                    {
+                        "start": "30.2",
+                        "text": "journey"
+                    },
+                    {
+                        "start": "30.6",
+                        "text": "until"
+                    },
+                    {
+                        "start": "31.1",
+                        "text": "he"
+                    },
+                    {
+                        "start": "31.4",
+                        "text": "walked"
+                    },
+                    {
+                        "start": "31.8",
+                        "text": "in"
+                    },
+                    {
+                        "start": "32.0",
+                        "text": "their"
+                    },
+                    {
+                        "start": "32.3",
+                        "text": "shoes."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1","text": "마침내," },
+                    { "start": "1.394","text": "둘은" },
+                    { "start": "2.278","text": "나오가" },
+                    { "start": "3.136","text": "장을" },
+                    { "start": "3.881","text": "보는" },
+                    { "start": "4.706","text": "오두막에" },
+                    { "start": "5.673","text": "도착했어요." },
+                    { "start": "8.086","text": "나오는" },
+                    { "start": "9.461","text": "지친" },
+                    { "start": "10.170","text": "친구를" },
+                    { "start": "11.242","text": "바라보았어요." },
+                    { "start": "13.992","text": "이글아," },
+                    { "start": "15.027","text": "무슨" },
+                    { "start": "15.490","text": "일이야?" },
+                    { "start": "17.223","text": "나오야," },
+                    { "start": "18.464","text": "내가" },
+                    { "start": "19.385","text": "너한테" },
+                    { "start": "20.320","text": "불평해서" },
+                    { "start": "21.356","text": "미안해." },
+                    { "start": "22.858","text": "오늘" },
+                    { "start": "23.495","text": "너와" },
+                    { "start": "24.004","text": "같이" },
+                    { "start": "24.773","text": "오기" },
+                    { "start": "25.228","text": "전까지" },
+                    { "start": "26.424","text": "네가" },
+                    { "start": "27.054","text": "이렇게" },
+                    { "start": "27.857","text": "힘들게" },
+                    { "start": "28.661","text": "장을" },
+                    { "start": "29.260","text": "보는지" },
+                    { "start": "29.927","text": "몰랐어." },
+                    { "start": "32.420","text": "이글이가" },
+                    { "start": "33.565","text": "미안한" },
+                    { "start": "34.365","text": "마음을" },
+                    { "start": "35.096","text": "담아서" },
+                    { "start": "36.086","text": "말했어요." },
+                    { "start": "38.475","text": "나오는" },
+                    { "start": "39.772","text": "웃으면서" },
+                    { "start": "41.055","text": "이글이의" },
+                    { "start": "41.828","text": "사과를" },
+                    { "start": "42.667","text": "받아주었어요." },
+                    { "start": "45.100","text": "그" },
+                    { "start": "45.374","text": "일로" },
+                    { "start": "46.417","text": "이글이는" },
+                    { "start": "47.775","text": "직접" },
+                    { "start": "48.623","text": "경험하기" },
+                    { "start": "49.526","text": "전까지" },
+                    { "start": "50.821","text": "다른" },
+                    { "start": "51.333","text": "사람의" },
+                    { "start": "52.100","text": "여행을" },
+                    { "start": "53.416","text": "마음대로" },
+                    { "start": "54.667","text": "판단하지" },
+                    { "start": "55.676","text": "않기로" },
+                    { "start": "56.525","text": "했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

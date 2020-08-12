@@ -1,0 +1,2468 @@
+{
+    "book": {
+        "titleEN": "The Voice",
+        "titleES": "La voz",
+        "titlePT": "A voz",
+        "titleCN": "说话的声音",
+        "titleJP": "こえ",
+        "titleKR": "목소리",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "It was morning and everybody in the Yogotar Academy was in the dining hall having breakfast. Eagle and a tired-looking Estrella were in the kitchen pouring some juice.",
+                "textES": "El sol salió y en la academia Yogotar todos desayunaban en el comedor para comenzar su día. Eagle y Estrella estaban en la cocina sirviéndose jugo.",
+                "textPT": "Certa manhã, todo mundo na Academia Yogotar estava tomando café da manhã no refeitório. Eagle e Estrella, que tinha uma aparência cansada, estavam na cozinha pegando suco.",
+                "textCN": "一天早上，Yogotar学院的每个人都在餐厅吃早餐。伊戈和睡眼惺忪的埃斯特雷拉正在厨房里倒果汁。",
+                "textJP": "ヨゴターアカデミーの みんなは しょくどうで あさごはんを たべていました。イーグルと つかれたようすの エストレラが キッチンで ジュースを コップに そそいでいます。",
+                "textKR": "요고타들이 모두 요고타 아카데미에서 아침을 먹고 있었어요. 이글이와 피곤해 보이는 에스트레야는 주스를 따르고 있었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "El"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "sol"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "salió"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "la"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "academia"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "Yogotar"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "desayunaban"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "en"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "el"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "comedor"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "para"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "comenzar"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "su"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "día."
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "estaban"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "en"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "la"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "cocina"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "sirviéndose"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "jugo."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "It"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "morning"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "and"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "everybody"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "in"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "Yogotar"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "Academy"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "was"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "in"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "dining"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "hall"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "having"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "breakfast."
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "and"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "tired-looking"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "were"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "in"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "kitchen"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "pouring"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "some"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "juice."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.101",
+                        "text": "요고타들이"
+                    },
+                    {
+                        "start": "1.811",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "2.927",
+                        "text": "요고타"
+                    },
+                    {
+                        "start": "3.904",
+                        "text": "아카데미에서"
+                    },
+                    {
+                        "start": "5.955",
+                        "text": "아침을"
+                    },
+                    {
+                        "start": "7.273",
+                        "text": "먹고"
+                    },
+                    {
+                        "start": "7.987",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "10.473",
+                        "text": "이글이와"
+                    },
+                    {
+                        "start": "12.060",
+                        "text": "피곤해"
+                    },
+                    {
+                        "start": "12.904",
+                        "text": "보이는"
+                    },
+                    {
+                        "start": "13.621",
+                        "text": "에스트레야는"
+                    },
+                    {
+                        "start": "15.731",
+                        "text": "주스를"
+                    },
+                    {
+                        "start": "17.040",
+                        "text": "따르고"
+                    },
+                    {
+                        "start": "17.842",
+                        "text": "있었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "&#34;Give me the juice,&#34; said Estrella with a frightening voice. <br> Nervously, Eagle passed her the juice. ",
+                "textES": "–Dame el jugo –dijo Estrella a Eagle con una voz atemorizante. <br> Eagle, con temor, pasó el jugo a Estrella.",
+                "textPT": "“Me dá o suco”, disse Estrella com uma voz ameaçadora. <br> Apreensivo, Eagle passou o suco para ela. ",
+                "textCN": "“给我点果汁，”埃斯特雷拉用吓人的声音说。 <br> 伊戈紧张地把果汁递给她。 ",
+                "textJP": "「ジュースを ちょうだい。」エストレラが こわいこえで いいました。 <br> それを きいて イーグルは ドキドキしながら ジュースを わたしました。 ",
+                "textKR": "&#34;주스를 줘.&#34; 에스트레야가 무서운 목소리로 말했어요. <br> 이글이가 겁을 먹고 주스를 건네 주었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "–Dame"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "el"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "jugo"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "con"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "una"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "voz"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "atemorizante."
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "con"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "temor,"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "pasó"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "el"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "jugo"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "Estrella."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Give"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "me"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "juice,"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "said"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "with"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "frightening"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "voice."
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "Nervously,"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "passed"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "her"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "juice."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.101",
+                        "text": "주스를"
+                    },
+                    {
+                        "start": "0.674",
+                        "text": "줘."
+                    },
+                    {
+                        "start": "1.918",
+                        "text": "에스트레야가"
+                    },
+                    {
+                        "start": "3.917",
+                        "text": "무서운"
+                    },
+                    {
+                        "start": "4.876",
+                        "text": "목소리로"
+                    },
+                    {
+                        "start": "6.138",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "8.388",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "10.015",
+                        "text": "겁을"
+                    },
+                    {
+                        "start": "10.719",
+                        "text": "먹고"
+                    },
+                    {
+                        "start": "11.820",
+                        "text": "주스를"
+                    },
+                    {
+                        "start": "12.976",
+                        "text": "건네"
+                    },
+                    {
+                        "start": "13.709",
+                        "text": "주었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "Eagle was so surprised by Estrella's attitude, he told Tomiko what had happened. <br> &#34;She spoke to me harshly in Math class too.&#34; <br> &#34;Do you think everything is okay?&#34; asked Eagle, worried. <br> &#34;Let's find out!&#34; exclaimed Tomiko. ",
+                "textES": "Eagle, sorprendido, no dudó en comentarle a Tomiko lo que había pasado con Estrella en la cocina.  <br> –Yo la vi en clase de matemáticas y también me habló muy fuerte. <br> –¿Estará pasándole algo malo? –preguntó con preocupación. <br> –Hay que investigar –dijo Eagle.",
+                "textPT": "Eagle ficou tão surpreso com a atitude de Estrella que contou a Tomiko o que havia acontecido. <br> &#34;Ela também foi grosseira comigo na aula de Matemática.&#34; <br> &#34;Você acha que está tudo bem?&#34;, perguntou Eagle, preocupado. <br> &#34;Vamos descobrir!&#34;, exclamou Tomiko. ",
+                "textCN": "伊戈对埃斯特雷拉的态度感到非常惊讶，他把发生的事告诉了富子。 <br> &#34;她在数学课上和我说话时也很严厉。&#34; <br> &#34;你觉得有什么不对劲吗？&#34;伊戈担心地问。<br> &#34;我们一起去弄清楚！&#34;富子喊道。 ",
+                "textJP": "エストレラの たいどに とても おどろいたイーグルは トミコに このことを つたえます。 <br>「エストレラは さんすうの クラスでも こわかったわ。」 <br> 「なにか あったのかな？」イーグルが しんぱいそうに いいました。<br>「エストレラに きいてみよう！」トミコが いいました。 ",
+                "textKR": "이글이는 에스트레야의 태도에 놀랐어요. 그래서 토미코에게 이 일에 대해서 말했어요. <br> &#34;수학시간에 나한테도 무섭게 말했어.&#34; <br> &#34;에스트레야는 괜찮은 거겠지?&#34; 이글이가 걱정스럽게 물었어요. <br> &#34;우리가 가서 확인해보자!&#34; 토미코가 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "sorprendido,"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "no"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "dudó"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "comentarle"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "había"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "pasado"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "con"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "en"
+                    },
+                    {
+                        "start": "6.05",
+                        "text": "la"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "cocina."
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "–Yo"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "la"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "vi"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "en"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "clase"
+                    },
+                    {
+                        "start": "9.5",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "matemáticas"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "y"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "también"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "me"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "habló"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "fuerte."
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "–¿Estará"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "pasándole"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "algo"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "malo?"
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "-preguntó"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "con"
+                    },
+                    {
+                        "start": "18.7",
+                        "text": "preocupación."
+                    },
+                    {
+                        "start": "21.8",
+                        "text": "–Hay"
+                    },
+                    {
+                        "start": "22.1",
+                        "text": "que"
+                    },
+                    {
+                        "start": "22.4",
+                        "text": "investigar"
+                    },
+                    {
+                        "start": "24.0",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "24.4",
+                        "text": "Eagle."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "so"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "surprised"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "by"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "Estrella's"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "attitude,"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "he"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "told"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "what"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "had"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "happened."
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "She"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "spoke"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "me"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "harshly"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "in"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "Math"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "class"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "too."
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "Do"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "you"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "think"
+                    },
+                    {
+                        "start": "10.8",
+                        "text": "everything"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "is"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "okay?"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "worried."
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "Let's"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "find"
+                    },
+                    {
+                        "start": "14.6",
+                        "text": "out!"
+                    },
+                    {
+                        "start": "15.2",
+                        "text": "exclaimed"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "Tomiko."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.101",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "1.600",
+                        "text": "에스트레야의"
+                    },
+                    {
+                        "start": "3.271",
+                        "text": "태도에"
+                    },
+                    {
+                        "start": "4.433",
+                        "text": "놀랐어요."
+                    },
+                    {
+                        "start": "6.899",
+                        "text": "그래서"
+                    },
+                    {
+                        "start": "8.453",
+                        "text": "토미코에게"
+                    },
+                    {
+                        "start": "10.337",
+                        "text": "이"
+                    },
+                    {
+                        "start": "10.814",
+                        "text": "일에"
+                    },
+                    {
+                        "start": "11.536",
+                        "text": "대해서"
+                    },
+                    {
+                        "start": "12.954",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "15.571",
+                        "text": "수학시간에"
+                    },
+                    {
+                        "start": "17.400",
+                        "text": "나한테도"
+                    },
+                    {
+                        "start": "18.962",
+                        "text": "무섭게"
+                    },
+                    {
+                        "start": "19.904",
+                        "text": "말했어."
+                    },
+                    {
+                        "start": "22.031",
+                        "text": "에스트레야는"
+                    },
+                    {
+                        "start": "23.927",
+                        "text": "괜찮은"
+                    },
+                    {
+                        "start": "24.927",
+                        "text": "거겠지?"
+                    },
+                    {
+                        "start": "26.625",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "28.280",
+                        "text": "걱정스럽게"
+                    },
+                    {
+                        "start": "29.854",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "32.555",
+                        "text": "우리가"
+                    },
+                    {
+                        "start": "33.818",
+                        "text": "가서"
+                    },
+                    {
+                        "start": "34.868",
+                        "text": "확인해보자!"
+                    },
+                    {
+                        "start": "37.397",
+                        "text": "토미코가"
+                    },
+                    {
+                        "start": "38.806",
+                        "text": "말했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "Eagle found Estrella by herself in the gardens of the academy. Nervously, he approached her and asked, <br> &#34;Are you okay, Estrella?&#34; <br> &#34;Why are you asking?&#34; replied Estrella in a deep voice. <br> &#34;Your voice makes me think you're angry about something,&#34; said Eagle.",
+                "textES": "Estrella estaba sola en el jardín de la academia, cuando llegó Eagle y con temor preguntó: <br> –¿Estás bien Estrella? <br> –¿Por qué preguntas? <br> –dijo Estrella con voz grave. <br> –Por tu tono de voz, siento que estás enojada –dijo Eagle.",
+                "textPT": "Eagle encontrou Estrella sozinha nos jardins da academia. Apreensivo, ele se aproximou dela e perguntou: <br> “Você está bem, Estrella?” <br> “Por que você está perguntando?”, respondeu Estrella com uma voz grave. <br> “Sua voz me faz pensar que você está com raiva de alguma coisa”, disse Eagle.",
+                "textCN": "伊戈在学院的花园里找到了埃斯特雷拉。他紧张地走近她，问道： <br> “你没事吧，埃斯特雷拉？” <br> “你为什么这样问？”埃斯特雷拉用低沉的声音回答。 <br> 伊戈说：“你的声音让我觉得你在因为什么事而生气。” ",
+                "textJP": "「イーグルは エストレラが アカデミーの にわに ひとりで いるのを みつけました。きんちょうしながら イーグルが エストレラに たずねました。 <br> 「エストレラ だいじょうぶ？」 <br> 「なにが？」エストレラが ひくいこえで こたえました。 <br> 「こえが へんだから おこっているんじゃないかと おもって。」とイーグル。",
+                "textKR": "이글이는 아카데미 정원에 혼자 있는 에스트레야를 보았어요. 이글이는 아주 조심스럽게 에스트레야에게 다가갔어요. <br> &#34;에스트레야, 너 괜찮니?&#34; <br> &#34;왜 물어보는거야?&#34; 에스트레야가 잠긴 목소리로 대답했어요. <br> &#34;네 목소리가 화난 것처럼 들려.&#34; 이글이가 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "sola"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "en"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "el"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "jardín"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "la"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "academia,"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "cuando"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "llegó"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "con"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "temor"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "preguntó:"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "–¿Estás"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "bien"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "Estrella?"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "–¿Por"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "preguntas?"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "con"
+                    },
+                    {
+                        "start": "17.1",
+                        "text": "voz"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "grave."
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "–Por"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "tu"
+                    },
+                    {
+                        "start": "19.5",
+                        "text": "tono"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "de"
+                    },
+                    {
+                        "start": "20.0",
+                        "text": "voz,"
+                    },
+                    {
+                        "start": "21.5",
+                        "text": "siento"
+                    },
+                    {
+                        "start": "21.8",
+                        "text": "que"
+                    },
+                    {
+                        "start": "22.2",
+                        "text": "estás"
+                    },
+                    {
+                        "start": "22.5",
+                        "text": "enojada"
+                    },
+                    {
+                        "start": "24.5",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "24.8",
+                        "text": "Eagle."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "found"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "by"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "herself"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "in"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "gardens"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "of"
+                    },
+                    {
+                        "start": "3.75",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "academy."
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "Nervously,"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "he"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "approached"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "her"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "and"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "asked,"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "Are"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "you"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "okay,"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "Estrella?"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "Why"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "are"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "you"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "asking?"
+                    },
+                    {
+                        "start": "12.2",
+                        "text": "replied"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "in"
+                    },
+                    {
+                        "start": "13.85",
+                        "text": "a"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "deep"
+                    },
+                    {
+                        "start": "14.4",
+                        "text": "voice."
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "Your"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "voice"
+                    },
+                    {
+                        "start": "16.1",
+                        "text": "makes"
+                    },
+                    {
+                        "start": "16.4",
+                        "text": "me"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "think"
+                    },
+                    {
+                        "start": "17.0",
+                        "text": "you're"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "angry"
+                    },
+                    {
+                        "start": "17.6",
+                        "text": "about"
+                    },
+                    {
+                        "start": "17.9",
+                        "text": "something,"
+                    },
+                    {
+                        "start": "18.5",
+                        "text": "said"
+                    },
+                    {
+                        "start": "18.9",
+                        "text": "Eagle."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "1.445",
+                        "text": "아카데미"
+                    },
+                    {
+                        "start": "2.548",
+                        "text": "정원에"
+                    },
+                    {
+                        "start": "3.729",
+                        "text": "혼자"
+                    },
+                    {
+                        "start": "4.522",
+                        "text": "있는"
+                    },
+                    {
+                        "start": "5.637",
+                        "text": "에스트레야를"
+                    },
+                    {
+                        "start": "7.355",
+                        "text": "보았어요."
+                    },
+                    {
+                        "start": "9.673",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "11.126",
+                        "text": "아주"
+                    },
+                    {
+                        "start": "12.113",
+                        "text": "조심스럽게"
+                    },
+                    {
+                        "start": "13.750",
+                        "text": "에스트레야에게"
+                    },
+                    {
+                        "start": "15.737",
+                        "text": "다가갔어요."
+                    },
+                    {
+                        "start": "18.538",
+                        "text": "에스트레야,"
+                    },
+                    {
+                        "start": "20.287",
+                        "text": "너"
+                    },
+                    {
+                        "start": "20.791",
+                        "text": "괜찮니?"
+                    },
+                    {
+                        "start": "22.792",
+                        "text": "왜"
+                    },
+                    {
+                        "start": "23.334",
+                        "text": "물어보는거야?"
+                    },
+                    {
+                        "start": "25.581",
+                        "text": "에스트레야가"
+                    },
+                    {
+                        "start": "27.465",
+                        "text": "잠긴"
+                    },
+                    {
+                        "start": "28.462",
+                        "text": "목소리로"
+                    },
+                    {
+                        "start": "29.886",
+                        "text": "대답했어요."
+                    },
+                    {
+                        "start": "32.907",
+                        "text": "네"
+                    },
+                    {
+                        "start": "33.280",
+                        "text": "목소리가"
+                    },
+                    {
+                        "start": "34.885",
+                        "text": "화난"
+                    },
+                    {
+                        "start": "35.551",
+                        "text": "것처럼"
+                    },
+                    {
+                        "start": "36.429",
+                        "text": "들려."
+                    },
+                    {
+                        "start": "38.125",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "39.418",
+                        "text": "말했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "&#34;What's wrong with my voice?&#34; asked Estrella. <br> &#34;It sounds low and deep, as if you were angry,&#34; replied Eagle. <br> Estrella cracked up with a resounding laughter. She replied, <br> &#34;It's nothing, Eagle. I just have a sore throat.&#34;",
+                "textES": "–¿Qué tiene de malo mi voz? –preguntó Estrella. <br> –Es muy ruda y tosca, como la voz de alguien enojado –dijo Eagle. <br> Estrella soltó una larga y cavernosa carcajada y dijo: <br> ”No es nada Eagle, solo mi garganta inflamada.”",
+                "textPT": "“O que tem de errado com a minha voz?”, perguntou Estrella. <br> “Ela parece bem grave, como se você estivesse com raiva”, respondeu Eagle. <br> Estrella deu uma risada bem alta. Ela respondeu: <br> “Não é nada, Eagle. Eu só estou com a garganta inflamada.”",
+                "textCN": "“我的声音怎么了？”埃斯特雷拉问。 <br> “听起来阴沉沉的，好像你生气了，”伊戈回答。 <br> 埃斯特雷拉哈哈大笑起来。她回答说： <br> “没什么，伊戈。我只是喉咙痛。”",
+                "textJP": "「こえが どんなふうに へんなの？」エストレラが ききました。 <br> 「こえが ひくくて おこってるみたいだよ。」イーグルが　いうと、 <br> エストレラは おおきな こえを あげて わらいだしました。そして いいました。 <br> 「なんでも　ないわよ イーグル。のどの ちょうしが わるいの。」",
+                "textKR": "&#34;내 목소리가 어때서?&#34; 에스트레야가 대답했어요. <br> &#34;네 목소리가 낮고 어두워서 화난 것처럼 들려.&#34; <br> 에스트레야는 마구 웃기 시작했어요. <br> &#34;나는 그냥 목이 아픈거야.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "–¿Qué"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "tiene"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "de"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "malo"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "mi"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "voz?"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "–preguntó"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "Estrella."
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "–Es"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "muy"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "ruda"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "y"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "tosca,"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "como"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "voz"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "de"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "alguien"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "enojado"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "Eagle."
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "soltó"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "una"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "larga"
+                    },
+                    {
+                        "start": "16.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "cavernosa"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "carcajada"
+                    },
+                    {
+                        "start": "18.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "dijo:"
+                    },
+                    {
+                        "start": "20.0",
+                        "text": "”No"
+                    },
+                    {
+                        "start": "20.3",
+                        "text": "es"
+                    },
+                    {
+                        "start": "20.6",
+                        "text": "nada"
+                    },
+                    {
+                        "start": "20.9",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "22.3",
+                        "text": "solo"
+                    },
+                    {
+                        "start": "22.6",
+                        "text": "mi"
+                    },
+                    {
+                        "start": "22.9",
+                        "text": "garganta"
+                    },
+                    {
+                        "start": "23.2",
+                        "text": "inflamada.”"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "What's"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "wrong"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "with"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "my"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "voice?"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "Estrella."
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "It"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "sounds"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "low"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "deep,"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "as"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "if"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "you"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "were"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "angry,"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "replied"
+                    },
+                    {
+                        "start": "7.7",
+                        "text": "Eagle."
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "cracked"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "up"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "with"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "resounding"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "laughter."
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "She"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "replied,"
+                    },
+                    {
+                        "start": "13.6",
+                        "text": "It's"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "nothing,"
+                    },
+                    {
+                        "start": "14.5",
+                        "text": "Eagle."
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "I"
+                    },
+                    {
+                        "start": "15.05",
+                        "text": "just"
+                    },
+                    {
+                        "start": "15.3",
+                        "text": "have"
+                    },
+                    {
+                        "start": "15.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "sore"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "throat."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.101",
+                        "text": "내"
+                    },
+                    {
+                        "start": "0.385",
+                        "text": "목소리가"
+                    },
+                    {
+                        "start": "1.540",
+                        "text": "어때서?"
+                    },
+                    {
+                        "start": "3.319",
+                        "text": "에스트레야가"
+                    },
+                    {
+                        "start": "5.001",
+                        "text": "대답했어요."
+                    },
+                    {
+                        "start": "7.543",
+                        "text": "네"
+                    },
+                    {
+                        "start": "7.939",
+                        "text": "목소리가"
+                    },
+                    {
+                        "start": "9.403",
+                        "text": "낮고"
+                    },
+                    {
+                        "start": "10.217",
+                        "text": "어두워서"
+                    },
+                    {
+                        "start": "11.607",
+                        "text": "화난"
+                    },
+                    {
+                        "start": "12.231",
+                        "text": "것처럼"
+                    },
+                    {
+                        "start": "13.058",
+                        "text": "들려."
+                    },
+                    {
+                        "start": "14.905",
+                        "text": "에스트레야는"
+                    },
+                    {
+                        "start": "16.901",
+                        "text": "마구"
+                    },
+                    {
+                        "start": "17.640",
+                        "text": "웃기"
+                    },
+                    {
+                        "start": "18.596",
+                        "text": "시작했어요."
+                    },
+                    {
+                        "start": "20.958",
+                        "text": "나는"
+                    },
+                    {
+                        "start": "22.094",
+                        "text": "그냥"
+                    },
+                    {
+                        "start": "23.102",
+                        "text": "목이"
+                    },
+                    {
+                        "start": "23.716",
+                        "text": "아픈거야."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "&#34;Oh, that's it? Tomiko and I thought you were mad at us. Often, the tone of our voice communicates how we feel,&#34; explained Eagle. <br> &#34;Thank you for worrying about me Eagle,&#34; replied Estrella. <br> &#34;That's what friends are for! You should get some rest until you feel better,&#34; said Eagle, as he covered Estrella with a blanket.",
+                "textES": " –¡Ahh, eso es! Pensamos que tal vez estabas enojada, pues nada comunica más que la voz –dijo Eagle.  <br> –Gracias por preocuparte –dijo Estrella.  <br> –Para eso son los amigos, pero mejor ve a descansar hasta que te sientas mejor –dijo Eagle a Estrella poniéndole una frazada en la espalda.",
+                "textPT": "“Ah, é só isso? Eu e Tomiko achamos que você estava irritada com a gente. Às vezes, o tom da nossa voz mostra como nos sentimos”, explicou Eagle.  <br> “Obrigada por se preocupar comigo, Eagle”, respondeu Estrella.  <br> “É para isso que servem os amigos! Você precisa descansar um pouco até se sentir melhor”, disse Eagle, cobrindo Estrella com um cobertor.",
+                "textCN": "“哦，这样啊？富子和我还以为你生我们的气呢。通常，我们的语调会传达我们的感受。”伊戈解释道。 <br> “谢谢你为我担心，伊戈。”埃斯特雷拉回答。 <br> “那是朋友应该做的！你应该休息一下，等你好了再说。”伊戈一边说，一边将毯子盖在埃斯特雷拉身上。",
+                "textJP": "「なんだ それだけ？トミコとぼくの ことを おこってるのかと おもってたんだ。こえの かんじで きもちが つたわってくるからね。」とイーグル。 <br> 「しんぱいしてくれて どうも ありがとう。」とエストレラ。 <br>「もちろん。ともだちだもん！たくさん やすんで よくなってね。」イーグルは そういって エストレラに もうふを かけてあげました。",
+                "textKR": "&#34;정말 그게 다야? 나랑 토미코는 네가 우리한테 화가 난 줄 알았어. 보통 목소리가 그 사람의 기분을 나타내거든.&#34; 이글이가 설명했어요. <br> &#34;나를 걱정해줘서 고마워, 이글아.&#34; 에스트레야가 대답했어요. <br> &#34;우리는 친구니까 그건 당연한거야. 들어가서 쉬어. 그래야 빨리 나으니까.&#34; 이글이가 에스트레야에게 담요를 덮어주면서 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "–¡Ahh,"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "eso"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "es!"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "Pensamos"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "que"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "tal"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "estabas"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "enojada,"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "nada"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "comunica"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "más"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "que"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "la"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "voz"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "Eagle."
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "–Gracias"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "por"
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "preocuparte"
+                    },
+                    {
+                        "start": "14.2",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "Estrella."
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "–Para"
+                    },
+                    {
+                        "start": "18.3",
+                        "text": "eso"
+                    },
+                    {
+                        "start": "18.6",
+                        "text": "son"
+                    },
+                    {
+                        "start": "18.9",
+                        "text": "los"
+                    },
+                    {
+                        "start": "19.2",
+                        "text": "amigos,"
+                    },
+                    {
+                        "start": "20.6",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "20.9",
+                        "text": "mejor"
+                    },
+                    {
+                        "start": "21.2",
+                        "text": "ve"
+                    },
+                    {
+                        "start": "21.5",
+                        "text": "a"
+                    },
+                    {
+                        "start": "21.8",
+                        "text": "descansar"
+                    },
+                    {
+                        "start": "22.1",
+                        "text": "hasta"
+                    },
+                    {
+                        "start": "22.4",
+                        "text": "que"
+                    },
+                    {
+                        "start": "22.7",
+                        "text": "te"
+                    },
+                    {
+                        "start": "23.0",
+                        "text": "sientas"
+                    },
+                    {
+                        "start": "23.3",
+                        "text": "mejor"
+                    },
+                    {
+                        "start": "25.8",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "26.1",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "26.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "26.7",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "27.0",
+                        "text": "poniéndole"
+                    },
+                    {
+                        "start": "27.3",
+                        "text": "una"
+                    },
+                    {
+                        "start": "27.6",
+                        "text": "frazada"
+                    },
+                    {
+                        "start": "27.9",
+                        "text": "en"
+                    },
+                    {
+                        "start": "28.2",
+                        "text": "la"
+                    },
+                    {
+                        "start": "28.5",
+                        "text": "espalda."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Oh,"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "that's"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "it?"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "Tomiko"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "I"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "thought"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "you"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "were"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "mad"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "at"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "us."
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "Often,"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "tone"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "of"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "our"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "voice"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "communicates"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "how"
+                    },
+                    {
+                        "start": "8.3",
+                        "text": "we"
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "feel,"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "Eagle."
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "Thank"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "you"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "for"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "worrying"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "about"
+                    },
+                    {
+                        "start": "12.6",
+                        "text": "me"
+                    },
+                    {
+                        "start": "12.9",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "replied"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "Estrella."
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "That's"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "what"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "friends"
+                    },
+                    {
+                        "start": "16.9",
+                        "text": "are"
+                    },
+                    {
+                        "start": "17.2",
+                        "text": "for!"
+                    },
+                    {
+                        "start": "17.5",
+                        "text": "You"
+                    },
+                    {
+                        "start": "17.8",
+                        "text": "should"
+                    },
+                    {
+                        "start": "18.1",
+                        "text": "get"
+                    },
+                    {
+                        "start": "18.4",
+                        "text": "some"
+                    },
+                    {
+                        "start": "18.7",
+                        "text": "rest"
+                    },
+                    {
+                        "start": "19.0",
+                        "text": "until"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "you"
+                    },
+                    {
+                        "start": "19.5",
+                        "text": "feel"
+                    },
+                    {
+                        "start": "19.8",
+                        "text": "better,"
+                    },
+                    {
+                        "start": "20.2",
+                        "text": "said"
+                    },
+                    {
+                        "start": "20.5",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "20.9",
+                        "text": "as"
+                    },
+                    {
+                        "start": "21.2",
+                        "text": "he"
+                    },
+                    {
+                        "start": "21.7",
+                        "text": "covered"
+                    },
+                    {
+                        "start": "22.2",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "22.6",
+                        "text": "with"
+                    },
+                    {
+                        "start": "22.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "23.1",
+                        "text": "blanket."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.101",
+                        "text": "정말"
+                    },
+                    {
+                        "start": "0.754",
+                        "text": "그게"
+                    },
+                    {
+                        "start": "1.358",
+                        "text": "다야?"
+                    },
+                    {
+                        "start": "2.505",
+                        "text": "나랑"
+                    },
+                    {
+                        "start": "3.114",
+                        "text": "토미코는"
+                    },
+                    {
+                        "start": "4.619",
+                        "text": "네가"
+                    },
+                    {
+                        "start": "5.337",
+                        "text": "우리한테"
+                    },
+                    {
+                        "start": "6.672",
+                        "text": "화가"
+                    },
+                    {
+                        "start": "7.367",
+                        "text": "난"
+                    },
+                    {
+                        "start": "7.766",
+                        "text": "줄"
+                    },
+                    {
+                        "start": "8.154",
+                        "text": "알았어."
+                    },
+                    {
+                        "start": "9.884",
+                        "text": "보통"
+                    },
+                    {
+                        "start": "11.108",
+                        "text": "목소리가"
+                    },
+                    {
+                        "start": "12.547",
+                        "text": "그"
+                    },
+                    {
+                        "start": "12.972",
+                        "text": "사람의"
+                    },
+                    {
+                        "start": "13.877",
+                        "text": "기분을"
+                    },
+                    {
+                        "start": "14.716",
+                        "text": "나타내거든."
+                    },
+                    {
+                        "start": "17.208",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "18.368",
+                        "text": "설명했어요."
+                    },
+                    {
+                        "start": "20.855",
+                        "text": "나를"
+                    },
+                    {
+                        "start": "21.531",
+                        "text": "걱정해줘서"
+                    },
+                    {
+                        "start": "22.742",
+                        "text": "고마워,"
+                    },
+                    {
+                        "start": "23.695",
+                        "text": "이글아."
+                    },
+                    {
+                        "start": "25.329",
+                        "text": "에스트레야가"
+                    },
+                    {
+                        "start": "27.017",
+                        "text": "대답했어요."
+                    },
+                    {
+                        "start": "29.560",
+                        "text": "우리는"
+                    },
+                    {
+                        "start": "30.292",
+                        "text": "친구니까"
+                    },
+                    {
+                        "start": "31.820",
+                        "text": "그건"
+                    },
+                    {
+                        "start": "32.572",
+                        "text": "당연한거야."
+                    },
+                    {
+                        "start": "34.513",
+                        "text": "들어가서"
+                    },
+                    {
+                        "start": "35.375",
+                        "text": "쉬어."
+                    },
+                    {
+                        "start": "36.731",
+                        "text": "그래야"
+                    },
+                    {
+                        "start": "37.746",
+                        "text": "빨리"
+                    },
+                    {
+                        "start": "38.351",
+                        "text": "나으니까."
+                    },
+                    {
+                        "start": "40.700",
+                        "text": "이글이가"
+                    },
+                    {
+                        "start": "42.141",
+                        "text": "에스트레야에게"
+                    },
+                    {
+                        "start": "44.072",
+                        "text": "담요를"
+                    },
+                    {
+                        "start": "45.093",
+                        "text": "덮어주면서"
+                    },
+                    {
+                        "start": "46.661",
+                        "text": "말했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

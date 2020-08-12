@@ -1,0 +1,1316 @@
+{
+    "book": {
+        "titleEN": "Quiet space",
+        "titleES": "El espacio ideal",
+        "titlePT": "Lugar tranquilo",
+        "titleCN": "静谧空间",
+        "titleJP": "静かな場所",
+        "titleKR": "조용한 공간",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "Theffanie has to do homework and study for her exam.",
+                "textES": "Theffanie tiene que estudiar y hacer un par de tareas para su examen.",
+                "textPT": "Theffanie precisa fazer sua lição de casa e estudar para a prova.",
+                "textCN": "西芙尼必须写作业，因为她要为考试做准备。",
+                "textJP": "Theffanieは宿題をしてテスト勉強をしなくてはなりません。",
+                "textKR": "티파니는 해야 할 일이 아주 많아요. 숙제도 있고, 시험공부도 해야 해요.",
+                "wordsES": [
+                    {
+                        "start": "0.075",
+                        "text": "Thefannie"
+                    },
+                    {
+                        "start": "0.630",
+                        "text": "tiene"
+                    },
+                    {
+                        "start": "0.802",
+                        "text": "que"
+                    },
+                    {
+                        "start": "0.995",
+                        "text": "estudiar"
+                    },
+                    {
+                        "start": "1.795",
+                        "text": "y"
+                    },
+                    {
+                        "start": "1.871",
+                        "text": "hacer"
+                    },
+                    {
+                        "start": "2.080",
+                        "text": "un"
+                    },
+                    {
+                        "start": "2.389",
+                        "text": "par"
+                    },
+                    {
+                        "start": "2.539",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.707",
+                        "text": "tareas"
+                    },
+                    {
+                        "start": "3.177",
+                        "text": "para"
+                    },
+                    {
+                        "start": "3.320",
+                        "text": "su"
+                    },
+                    {
+                        "start": "3.528",
+                        "text": "examen"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.578",
+                        "text": "Thefannie"
+                    },
+                    {
+                        "start": "0.872",
+                        "text": "has"
+                    },
+                    {
+                        "start": "1.216",
+                        "text": "to"
+                    },
+                    {
+                        "start": "1.308",
+                        "text": "do"
+                    },
+                    {
+                        "start": "1.543",
+                        "text": "homework"
+                    },
+                    {
+                        "start": "2.052",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.307",
+                        "text": "study"
+                    },
+                    {
+                        "start": "2.562",
+                        "text": "for"
+                    },
+                    {
+                        "start": "2.667",
+                        "text": "her"
+                    },
+                    {
+                        "start": "2.933",
+                        "text": "exam"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "1.352",
+                        "text": "해야"
+                    },
+                    {
+                        "start": "1.767",
+                        "text": "할"
+                    },
+                    {
+                        "start": "1.876",
+                        "text": "일이"
+                    },
+                    {
+                        "start": "2.522",
+                        "text": "아주"
+                    },
+                    {
+                        "start": "2.922",
+                        "text": "많아요"
+                    },
+                    {
+                        "start": "4.248",
+                        "text": "숙제도"
+                    },
+                    {
+                        "start": "4.946",
+                        "text": "있고"
+                    },
+                    {
+                        "start": "5.906",
+                        "text": "시험공부도"
+                    },
+                    {
+                        "start": "6.868",
+                        "text": "해야"
+                    },
+                    {
+                        "start": "7.200",
+                        "text": "해요"
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "Theffanie can't read. The dining room is very noisy</br> and her friends won't stop laughing.",
+                "textES": "Theffanie no puede leer, en el comedor hay mucho ruido </br>y sus compañeros no paran de reír.",
+                "textPT": "Theffaniee não consegue ler. A sala de jantar está muito barulhenta e seus amigos não param de rir.",
+                "textCN": "西芙尼看不进去。餐厅太吵了，她的朋友一直在不停地笑。",
+                "textJP": "Theffanieはテキストをちゃんと読むことができません。ダイニングルームはとてもうるさく、友達が笑ってばかりいるからです。",
+                "textKR": "티파니는 집중하기가 너무  힘들어요. 거실은 너무 시끄럽고 친구들은 깔깔깔 계속 웃고 있어요.",
+                "wordsES": [
+                    {
+                        "start": "0.263",
+                        "text": "Thfannie"
+                    },
+                    {
+                        "start": "0.742",
+                        "text": "no"
+                    },
+                    {
+                        "start": "0.948",
+                        "text": "puede"
+                    },
+                    {
+                        "start": "1.308",
+                        "text": "leer,"
+                    },
+                    {
+                        "start": "2.339",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.444",
+                        "text": "el"
+                    },
+                    {
+                        "start": "2.636",
+                        "text": "comedor"
+                    },
+                    {
+                        "start": "2.982",
+                        "text": "hay"
+                    },
+                    {
+                        "start": "3.205",
+                        "text": "mucho"
+                    },
+                    {
+                        "start": "3.900",
+                        "text": "ruido"
+                    },
+                    {
+                        "start": "4.845",
+                        "text": "y"
+                    },
+                    {
+                        "start": "5.026",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "5.167",
+                        "text": "compañeros"
+                    },
+                    {
+                        "start": "5.961",
+                        "text": "no"
+                    },
+                    {
+                        "start": "6.323",
+                        "text": "paran"
+                    },
+                    {
+                        "start": "6.666",
+                        "text": "de"
+                    },
+                    {
+                        "start": "6.816",
+                        "text": "reir"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.600",
+                        "text": "Thefannie"
+                    },
+                    {
+                        "start": "1.004",
+                        "text": "can´t"
+                    },
+                    {
+                        "start": "1.282",
+                        "text": "read"
+                    },
+                    {
+                        "start": "1.910",
+                        "text": "The"
+                    },
+                    {
+                        "start": "2.019",
+                        "text": "dining"
+                    },
+                    {
+                        "start": "2.315",
+                        "text": "room"
+                    },
+                    {
+                        "start": "2.510",
+                        "text": "is"
+                    },
+                    {
+                        "start": "2.699",
+                        "text": "very"
+                    },
+                    {
+                        "start": "3.082",
+                        "text": "noisy"
+                    },
+                    {
+                        "start": "3.669",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.780",
+                        "text": "her"
+                    },
+                    {
+                        "start": "4.000",
+                        "text": "friends"
+                    },
+                    {
+                        "start": "4.335",
+                        "text": "won´t"
+                    },
+                    {
+                        "start": "4.706",
+                        "text": "stop"
+                    },
+                    {
+                        "start": "4.910",
+                        "text": "laughing"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "0.909",
+                        "text": "집중하기가"
+                    },
+                    {
+                        "start": "2.100",
+                        "text": "너무"
+                    },
+                    {
+                        "start": "2.488",
+                        "text": "힘들어요"
+                    },
+                    {
+                        "start": "4.052",
+                        "text": "거실은"
+                    },
+                    {
+                        "start": "4.916",
+                        "text": "너무"
+                    },
+                    {
+                        "start": "5.300",
+                        "text": "시끄럽고"
+                    },
+                    {
+                        "start": "6.800",
+                        "text": "친구들은"
+                    },
+                    {
+                        "start": "7.909",
+                        "text": "깔깔깔"
+                    },
+                    {
+                        "start": "9.306",
+                        "text": "계속"
+                    },
+                    {
+                        "start": "9.700",
+                        "text": "웃고"
+                    },
+                    {
+                        "start": "10.143",
+                        "text": "있어요"
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "Theffanie can't do </br>her homework. The park doesn't</br> seem to be a good idea. At least not</br> where her friends are playing.",
+                "textES": "Theffanie no puede hacer </br>la tarea, el parque no</br> parece ser una buena idea, al menos no</br> donde sus amigas juegan a la pelota.",
+                "textPT": "Theffanie não consegue fazer sua lição de casa. O parque não parece ser uma boa ideia. Pelo menos não onde seus amigos estão brincando.",
+                "textCN": "西芙尼没有办法写作业。公园并不是一个好主意。但是，起码她的朋友不会在那里玩儿。",
+                "textJP": "Theffanieは宿題をすることができません。公園も勉強するのによい場所とは思えません。友達が遊んでいない場所を見つけなくてはなりません。",
+                "textKR": "티파니는 도저히 숙제를 할 수 없어서 공원에 왔어요. 하지만 공원에서도 숙제를 하긴 어려워요. 친구들이 공원에서 재미있게 놀고 있거든요.",
+                "wordsES": [
+                    {
+                        "start": "0.209",
+                        "text": "Thefannie"
+                    },
+                    {
+                        "start": "0.731",
+                        "text": "no"
+                    },
+                    {
+                        "start": "0.996",
+                        "text": "puede"
+                    },
+                    {
+                        "start": "1.340",
+                        "text": "hacer"
+                    },
+                    {
+                        "start": "1.605",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.808",
+                        "text": "tarea"
+                    },
+                    {
+                        "start": "2.843",
+                        "text": "el"
+                    },
+                    {
+                        "start": "3.108",
+                        "text": "parque"
+                    },
+                    {
+                        "start": "3.601",
+                        "text": "no"
+                    },
+                    {
+                        "start": "3.869",
+                        "text": "parece"
+                    },
+                    {
+                        "start": "4.359",
+                        "text": "ser"
+                    },
+                    {
+                        "start": "4.680",
+                        "text": "una"
+                    },
+                    {
+                        "start": "4.930",
+                        "text": "buena"
+                    },
+                    {
+                        "start": "5.203",
+                        "text": "idea"
+                    },
+                    {
+                        "start": "6.164",
+                        "text": "al"
+                    },
+                    {
+                        "start": "6.429",
+                        "text": "menos"
+                    },
+                    {
+                        "start": "7.140",
+                        "text": "no"
+                    },
+                    {
+                        "start": "7.372",
+                        "text": "donde"
+                    },
+                    {
+                        "start": "7.651",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "7.784",
+                        "text": "amigas"
+                    },
+                    {
+                        "start": "8.415",
+                        "text": "juegan"
+                    },
+                    {
+                        "start": "8.786",
+                        "text": "a"
+                    },
+                    {
+                        "start": "8.834",
+                        "text": "la"
+                    },
+                    {
+                        "start": "8.998",
+                        "text": "pelota"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.601",
+                        "text": "Thefannie"
+                    },
+                    {
+                        "start": "1.024",
+                        "text": "can´t"
+                    },
+                    {
+                        "start": "1.325",
+                        "text": "do"
+                    },
+                    {
+                        "start": "1.500",
+                        "text": "her"
+                    },
+                    {
+                        "start": "1.751",
+                        "text": "homework"
+                    },
+                    {
+                        "start": "2.448",
+                        "text": "The"
+                    },
+                    {
+                        "start": "2.593",
+                        "text": "park"
+                    },
+                    {
+                        "start": "3.007",
+                        "text": "doesn´t"
+                    },
+                    {
+                        "start": "3.411",
+                        "text": "seem"
+                    },
+                    {
+                        "start": "3.614",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.773",
+                        "text": "be"
+                    },
+                    {
+                        "start": "3.896",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.015",
+                        "text": "good"
+                    },
+                    {
+                        "start": "4.377",
+                        "text": "idea"
+                    },
+                    {
+                        "start": "4.903",
+                        "text": "At"
+                    },
+                    {
+                        "start": "5.090",
+                        "text": "least"
+                    },
+                    {
+                        "start": "5.326",
+                        "text": "not"
+                    },
+                    {
+                        "start": "5.600",
+                        "text": "where"
+                    },
+                    {
+                        "start": "5.744",
+                        "text": "her"
+                    },
+                    {
+                        "start": "5.953",
+                        "text": "friends"
+                    },
+                    {
+                        "start": "6.164",
+                        "text": "are"
+                    },
+                    {
+                        "start": "6.410",
+                        "text": "playing"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "1.132",
+                        "text": "도저히"
+                    },
+                    {
+                        "start": "1.823",
+                        "text": "숙제를"
+                    },
+                    {
+                        "start": "2.460",
+                        "text": "할"
+                    },
+                    {
+                        "start": "2.705",
+                        "text": "수"
+                    },
+                    {
+                        "start": "2.907",
+                        "text": "없어서"
+                    },
+                    {
+                        "start": "4.268",
+                        "text": "공원에"
+                    },
+                    {
+                        "start": "4.820",
+                        "text": "왔어요"
+                    },
+                    {
+                        "start": "6.255",
+                        "text": "하지만"
+                    },
+                    {
+                        "start": "7.483",
+                        "text": "공원에서도"
+                    },
+                    {
+                        "start": "8.492",
+                        "text": "숙제를"
+                    },
+                    {
+                        "start": "9.100",
+                        "text": "하긴"
+                    },
+                    {
+                        "start": "9.420",
+                        "text": "어려워요"
+                    },
+                    {
+                        "start": "11.466",
+                        "text": "친구들이"
+                    },
+                    {
+                        "start": "12.818",
+                        "text": "공원에서"
+                    },
+                    {
+                        "start": "13.750",
+                        "text": "재미있게"
+                    },
+                    {
+                        "start": "14.631",
+                        "text": "놀고"
+                    },
+                    {
+                        "start": "15.097",
+                        "text": "있거든요"
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "Theffanie takes a deep breath to help her calm down. She is mad and tired.",
+                "textES": "Theffanie respira profundamente para tranquilizarse. Está molesta y cansada.",
+                "textPT": "Theffanie respira profundamente para ajudá-la a se acalmar. Ela está furiosa e cansada.",
+                "textCN": "西芙尼深吸了一口气，努力让自己平静下来。她都抓狂了，感到疲惫不堪。",
+                "textJP": "Theffanieは落ち着こうと深呼吸をします。でも、Theffanieは怒っているし、疲れています。",
+                "textKR": "티파니는 화도 나 있고 지쳐있어요. 그래서 마음을 진정시키려고 숨을 깊게 쉬어요.",
+                "wordsES": [
+                    {
+                        "start": "0.109",
+                        "text": "Thefannie"
+                    },
+                    {
+                        "start": "0.629",
+                        "text": "respira"
+                    },
+                    {
+                        "start": "1.190",
+                        "text": "profundamente"
+                    },
+                    {
+                        "start": "2.283",
+                        "text": "para"
+                    },
+                    {
+                        "start": "2.447",
+                        "text": "tranquilizarse"
+                    },
+                    {
+                        "start": "4.158",
+                        "text": "Está"
+                    },
+                    {
+                        "start": "4.479",
+                        "text": "molesta"
+                    },
+                    {
+                        "start": "5.115",
+                        "text": "y"
+                    },
+                    {
+                        "start": "5.313",
+                        "text": "cansada"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.633",
+                        "text": "Thefannie"
+                    },
+                    {
+                        "start": "1.008",
+                        "text": "takes"
+                    },
+                    {
+                        "start": "1.280",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.470",
+                        "text": "deep"
+                    },
+                    {
+                        "start": "1.733",
+                        "text": "breath"
+                    },
+                    {
+                        "start": "2.093",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.236",
+                        "text": "help"
+                    },
+                    {
+                        "start": "2.429",
+                        "text": "her"
+                    },
+                    {
+                        "start": "2.601",
+                        "text": "calm"
+                    },
+                    {
+                        "start": "2.856",
+                        "text": "down"
+                    },
+                    {
+                        "start": "3.582",
+                        "text": "She"
+                    },
+                    {
+                        "start": "3.779",
+                        "text": "is"
+                    },
+                    {
+                        "start": "4.043",
+                        "text": "mad"
+                    },
+                    {
+                        "start": "4.554",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.756",
+                        "text": "tired"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "0.970",
+                        "text": "화도"
+                    },
+                    {
+                        "start": "1.310",
+                        "text": "나"
+                    },
+                    {
+                        "start": "1.534",
+                        "text": "있고"
+                    },
+                    {
+                        "start": "2.047",
+                        "text": "지쳐있어요"
+                    },
+                    {
+                        "start": "4.042",
+                        "text": "그래서"
+                    },
+                    {
+                        "start": "5.163",
+                        "text": "마음을"
+                    },
+                    {
+                        "start": "5.931",
+                        "text": "진정시키려고"
+                    },
+                    {
+                        "start": "7.737",
+                        "text": "숨을"
+                    },
+                    {
+                        "start": "8.834",
+                        "text": "깊게"
+                    },
+                    {
+                        "start": "9.890",
+                        "text": "쉬어요"
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "She starts cleaning her old </br>desk. She removes the dust and</br> all of the objects on it.",
+                "textES": "Ella Comienza a limpiar su viejo </br>escritorio. Retira el polvo y</br> todos los objetos que estaban sobre él.",
+                "textPT": "Ela começa a limpar sua velha mesa. Ela remove a poeira e todos os objetos que estão sobre ela.",
+                "textCN": "她开始收拾她的旧书桌。她擦净了书桌上的尘土，并将上面的所有东西都搬了下去。",
+                "textJP": "そこで、古い机を片付け始めます。ホコリをはらい、机の上にあったものを全部のけます。",
+                "textKR": "티파니는 예전에 쓰던 책상을 치우기 시작해요. 책상 위에 있는 물건들을 정리하고 먼지도 깨끗이 닦아요.",
+                "wordsES": [
+                    {
+                        "start": "0.109",
+                        "text": "Ella"
+                    },
+                    {
+                        "start": "0.590",
+                        "text": "Comienza"
+                    },
+                    {
+                        "start": "1.112",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.176",
+                        "text": "limpiar"
+                    },
+                    {
+                        "start": "1.657",
+                        "text": "su"
+                    },
+                    {
+                        "start": "1.929",
+                        "text": "viejo"
+                    },
+                    {
+                        "start": "2.204",
+                        "text": "escritorio"
+                    },
+                    {
+                        "start": "3.574",
+                        "text": "Retira"
+                    },
+                    {
+                        "start": "3.938",
+                        "text": "el"
+                    },
+                    {
+                        "start": "4.191",
+                        "text": "polvo"
+                    },
+                    {
+                        "start": "4.616",
+                        "text": "y"
+                    },
+                    {
+                        "start": "4.823",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "5.014",
+                        "text": "los"
+                    },
+                    {
+                        "start": "5.210",
+                        "text": "objetos"
+                    },
+                    {
+                        "start": "5.808",
+                        "text": "que"
+                    },
+                    {
+                        "start": "5.873",
+                        "text": "estaban"
+                    },
+                    {
+                        "start": "6.322",
+                        "text": "sobre"
+                    },
+                    {
+                        "start": "6.619",
+                        "text": "él"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.627",
+                        "text": "She"
+                    },
+                    {
+                        "start": "0.791",
+                        "text": "starts"
+                    },
+                    {
+                        "start": "1.269",
+                        "text": "cleaning"
+                    },
+                    {
+                        "start": "1.678",
+                        "text": "her"
+                    },
+                    {
+                        "start": "1.745",
+                        "text": "old"
+                    },
+                    {
+                        "start": "1.988",
+                        "text": "desk"
+                    },
+                    {
+                        "start": "2.774",
+                        "text": "She"
+                    },
+                    {
+                        "start": "3.043",
+                        "text": "removes"
+                    },
+                    {
+                        "start": "3.369",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.535",
+                        "text": "dust"
+                    },
+                    {
+                        "start": "4.036",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.221",
+                        "text": "all"
+                    },
+                    {
+                        "start": "4.455",
+                        "text": "of"
+                    },
+                    {
+                        "start": "4.508",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.639",
+                        "text": "objects"
+                    },
+                    {
+                        "start": "5.157",
+                        "text": "on"
+                    },
+                    {
+                        "start": "5.388",
+                        "text": "it"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "1.521",
+                        "text": "예전에"
+                    },
+                    {
+                        "start": "2.260",
+                        "text": "쓰던"
+                    },
+                    {
+                        "start": "3.040",
+                        "text": "책상을"
+                    },
+                    {
+                        "start": "4.475",
+                        "text": "치우기"
+                    },
+                    {
+                        "start": "5.336",
+                        "text": "시작해요"
+                    },
+                    {
+                        "start": "7.256",
+                        "text": "책상"
+                    },
+                    {
+                        "start": "8.109",
+                        "text": "위에"
+                    },
+                    {
+                        "start": "8.631",
+                        "text": "있는"
+                    },
+                    {
+                        "start": "9.243",
+                        "text": "물건들을"
+                    },
+                    {
+                        "start": "10.208",
+                        "text": "정리하고"
+                    },
+                    {
+                        "start": "11.912",
+                        "text": "먼지도"
+                    },
+                    {
+                        "start": "13.437",
+                        "text": "깨끗이"
+                    },
+                    {
+                        "start": "14.380",
+                        "text": "닦아요"
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "Theffanie has found her quiet space!</br> A place where she can </br>think peacefully without any </br>distraction.",
+                "textES": "Theffanie ha encontrado un espacio tranquilo.</br> Un lugar donde puede</br> pensar con claridad y libre de las distracciones del </br>exterior.",
+                "textPT": "Theffanie encontrou seu lugar tranquilo! Um lugar onde ela pode pensar em paz sem qualquer distração.",
+                "textCN": "西芙尼找到了一片静谧空间。这里没有任何干扰，她可以在这里专注地思考。",
+                "textJP": "Theffanieはやっと静かな場所を見つけました！ゆっくりと考えることができ、誰にもじゃまされない場所です。",
+                "textKR": "티파니가 드디어 조용한 공간을 찾았어요! 티파니는 이제 아무런 방해를 받지 않으면서 집중할 수 있어요.",
+                "wordsES": [
+                    {
+                        "start": "0.132",
+                        "text": "Thefannie"
+                    },
+                    {
+                        "start": "0.704",
+                        "text": "ha"
+                    },
+                    {
+                        "start": "0.768",
+                        "text": "encontrado"
+                    },
+                    {
+                        "start": "1.367",
+                        "text": "un"
+                    },
+                    {
+                        "start": "1.521",
+                        "text": "espacio"
+                    },
+                    {
+                        "start": "2.186",
+                        "text": "tranquilo"
+                    },
+                    {
+                        "start": "3.535",
+                        "text": "Un"
+                    },
+                    {
+                        "start": "3.684",
+                        "text": "lugar"
+                    },
+                    {
+                        "start": "4.289",
+                        "text": "donde"
+                    },
+                    {
+                        "start": "4.644",
+                        "text": "puede"
+                    },
+                    {
+                        "start": "4.956",
+                        "text": "pensar"
+                    },
+                    {
+                        "start": "5.406",
+                        "text": "con"
+                    },
+                    {
+                        "start": "5.595",
+                        "text": "claridad"
+                    },
+                    {
+                        "start": "6.521",
+                        "text": "y"
+                    },
+                    {
+                        "start": "6.626",
+                        "text": "libre"
+                    },
+                    {
+                        "start": "6.959",
+                        "text": "de"
+                    },
+                    {
+                        "start": "7.070",
+                        "text": "las"
+                    },
+                    {
+                        "start": "7.246",
+                        "text": "distracciones"
+                    },
+                    {
+                        "start": "8.019",
+                        "text": "del"
+                    },
+                    {
+                        "start": "8.140",
+                        "text": "exterior"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.596",
+                        "text": "Thefannie"
+                    },
+                    {
+                        "start": "1.029",
+                        "text": "has"
+                    },
+                    {
+                        "start": "1.215",
+                        "text": "found"
+                    },
+                    {
+                        "start": "1.449",
+                        "text": "her"
+                    },
+                    {
+                        "start": "1.612",
+                        "text": "quiet"
+                    },
+                    {
+                        "start": "1.947",
+                        "text": "space!"
+                    },
+                    {
+                        "start": "2.848",
+                        "text": "A"
+                    },
+                    {
+                        "start": "2.980",
+                        "text": "place"
+                    },
+                    {
+                        "start": "3.352",
+                        "text": "where"
+                    },
+                    {
+                        "start": "3.479",
+                        "text": "she"
+                    },
+                    {
+                        "start": "3.713",
+                        "text": "can"
+                    },
+                    {
+                        "start": "3.895",
+                        "text": "think"
+                    },
+                    {
+                        "start": "4.168",
+                        "text": "peacefully"
+                    },
+                    {
+                        "start": "5.094",
+                        "text": "without"
+                    },
+                    {
+                        "start": "5.369",
+                        "text": "any"
+                    },
+                    {
+                        "start": "5.611",
+                        "text": "distraction"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "티파니가"
+                    },
+                    {
+                        "start": "0.891",
+                        "text": "드디어"
+                    },
+                    {
+                        "start": "1.854",
+                        "text": "조용한"
+                    },
+                    {
+                        "start": "2.555",
+                        "text": "공간을"
+                    },
+                    {
+                        "start": "3.240",
+                        "text": "찾았어요"
+                    },
+                    {
+                        "start": "5.213",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "5.992",
+                        "text": "이제"
+                    },
+                    {
+                        "start": "7.042",
+                        "text": "아무런"
+                    },
+                    {
+                        "start": "7.757",
+                        "text": "방해를"
+                    },
+                    {
+                        "start": "8.530",
+                        "text": "받지"
+                    },
+                    {
+                        "start": "9.068",
+                        "text": "않으면서"
+                    },
+                    {
+                        "start": "10.412",
+                        "text": "집중할"
+                    },
+                    {
+                        "start": "11.080",
+                        "text": "수"
+                    },
+                    {
+                        "start": "11.422",
+                        "text": "있어요"
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

@@ -1,0 +1,2080 @@
+{
+    "book": {
+        "titleEN": "Celebrating Mom",
+        "titleES": "Celebrando a Mamá",
+        "titlePT": "O Dia das Mães",
+        "titleCN": "庆祝母亲节",
+        "titleJP": "ははの日",
+        "titleKR": "어버이날",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "It was Mother’s Day and the Heroes spent the morning calling each of their moms. Everyone called, except Nao. He was sitting in the garden feeling sad.",
+                "textES": "Era un soleado día de las madres y todos los Héroes estaban hablando con sus mamás. Todos excepto Nao, quien estaba triste en el jardín.",
+                "textPT": "Era o Dia das Mães, e durante a manhã, os Heróis ligaram para suas mães. Todos ligaram, exceto Nao. Ele estava sentado no jardim triste.",
+                "textCN": "今天是母亲节，英雄们花了一上午的时间给他们的妈妈打电话。除了奈绪之外，所有人都打了电话。奈绪坐在花园里，心里很难过。",
+                "textJP": "きょうは ははの日。みんなは おかあさんに でんわを かけました。でも ナオだけは でんわを かけずに かなしそうに にわに すわっていました。",
+                "textKR": "어버이날 아침에 모든 히어로들이 부모님께 전화를 걸었어요. 다들 전화를 하는데 나오만 하지 않았어요. 나오는 정원에 슬픈 얼굴로 앉아 있었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.101",
+                        "text": "Era"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "un"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "soleado"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "día"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "las"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "madres"
+                    },
+                    {
+                        "start": "2.815",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.027",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "3.384",
+                        "text": "los"
+                    },
+                    {
+                        "start": "3.630",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "4.133",
+                        "text": "estaban"
+                    },
+                    {
+                        "start": "4.591",
+                        "text": "hablando"
+                    },
+                    {
+                        "start": "5.104",
+                        "text": "con"
+                    },
+                    {
+                        "start": "5.294",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "5.484",
+                        "text": "mamás."
+                    },
+                    {
+                        "start": "6.880",
+                        "text": "Todos"
+                    },
+                    {
+                        "start": "7.361",
+                        "text": "excepto"
+                    },
+                    {
+                        "start": "7.919",
+                        "text": "Nao,"
+                    },
+                    {
+                        "start": "8.924",
+                        "text": "quien"
+                    },
+                    {
+                        "start": "9.159",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "9.673",
+                        "text": "triste"
+                    },
+                    {
+                        "start": "10.019",
+                        "text": "en"
+                    },
+                    {
+                        "start": "10.075",
+                        "text": "el"
+                    },
+                    {
+                        "start": "10.265",
+                        "text": "jardín."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "It"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "was"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "Mother’s"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "Day"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "and"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "spent"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "morning"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "calling"
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "each"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "of"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "their"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "moms."
+                    },
+                    {
+                        "start": "5.633",
+                        "text": "Everyone"
+                    },
+                    {
+                        "start": "6.170",
+                        "text": "called,"
+                    },
+                    {
+                        "start": "6.780",
+                        "text": "except"
+                    },
+                    {
+                        "start": "7.317",
+                        "text": "Nao."
+                    },
+                    {
+                        "start": "8.495",
+                        "text": "He"
+                    },
+                    {
+                        "start": "8.619",
+                        "text": "was"
+                    },
+                    {
+                        "start": "8.743",
+                        "text": "sitting"
+                    },
+                    {
+                        "start": "8.981",
+                        "text": "in"
+                    },
+                    {
+                        "start": "9.126",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.301",
+                        "text": "garden"
+                    },
+                    {
+                        "start": "9.787",
+                        "text": "feeling"
+                    },
+                    {
+                        "start": "10.242",
+                        "text": "sad."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "어버이날" },
+                    { "start": "1.121","text": "아침에" },
+                    { "start": "2.629","text": "모든" },
+                    { "start": "3.543","text": "히어로들이" },
+                    { "start": "5.060","text": "부모님께" },
+                    { "start": "6.683","text": "전화를" },
+                    { "start": "7.871","text": "걸었어요." },
+                    { "start": "10.321","text": "다들" },
+                    { "start": "11.078","text": "전화를" },
+                    { "start": "11.889","text": "하는데" },
+                    { "start": "13.366","text": "나오만" },
+                    { "start": "14.537","text": "하지" },
+                    { "start": "15.120","text": "않았어요." },
+                    { "start": "17.523","text": "나오는" },
+                    { "start": "18.913","text": "정원에" },
+                    { "start": "20.076","text": "슬픈" },
+                    { "start": "20.990","text": "얼굴로" },
+                    { "start": "22.491","text": "앉아" },
+                    { "start": "23.576","text": "있었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "Eagle walked past the garden and spotted Nao. Seeing that his friend was sad, Eagle asked Nao what happened. Nao explained how he was sad because he missed his mom.",
+                "textES": "Eagle, al ver a su amigo triste, se acercó para preguntarle qué pasaba. Nao le explicó que estaba triste porque extrañaba a su mamá.",
+                "textPT": "Eagle passou pelo jardim e viu Nao. Ao ver que seu amigo estava triste, Eagle perguntou para Nao o que acontecia. Nao explicou que ele estava triste porque sentia saudades de sua mãe.",
+                "textCN": "伊戈走过花园，看到奈绪很伤心。伊戈问奈绪发生了什么事。奈绪解释说，他很难过，因为他想妈妈了。",
+                "textJP": "にわの そばを とおった イーグルは ナオに きづきました。かなしそうな ようすの ナオを みて イーグルは、どうしたの？ とききました。ナオは おかあさんに あいたくて さみしいんだ といいました。",
+                "textKR": "이글이가 정원을 걸어가다가 나오를 발견했어요. 슬퍼하는 친구를 보고 이글이는 나오에게 무슨 일이 있냐고 물었어요. 나오는 부모님이 보고 싶어서 슬프다고 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.112",
+                        "text": " Eagle,"
+                    },
+                    {
+                        "start": "1.005",
+                        "text": "al"
+                    },
+                    {
+                        "start": "1.251",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "1.407",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.497",
+                        "text": "su"
+                    },
+                    {
+                        "start": "1.608",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "2.100",
+                        "text": "triste,"
+                    },
+                    {
+                        "start": "2.893",
+                        "text": "se"
+                    },
+                    {
+                        "start": "3.060",
+                        "text": "acercó"
+                    },
+                    {
+                        "start": "3.641",
+                        "text": "para"
+                    },
+                    {
+                        "start": "3.909",
+                        "text": "preguntarle"
+                    },
+                    {
+                        "start": "4.903",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "5.149",
+                        "text": "pasaba."
+                    },
+                    {
+                        "start": "6.635",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "7.093",
+                        "text": "le"
+                    },
+                    {
+                        "start": "7.249",
+                        "text": "explicó"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "que"
+                    },
+                    {
+                        "start": "7.964",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "triste"
+                    },
+                    {
+                        "start": "8.8",
+                        "text": "porque"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "extrañaba"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "a"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "su"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "mamá."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.3",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "walked"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "past"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.840",
+                        "text": "garden"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "spotted"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "Nao."
+                    },
+                    {
+                        "start": "4.072",
+                        "text": "Seeing"
+                    },
+                    {
+                        "start": "4.475",
+                        "text": "that"
+                    },
+                    {
+                        "start": "4.589",
+                        "text": "his"
+                    },
+                    {
+                        "start": "4.754",
+                        "text": "friend"
+                    },
+                    {
+                        "start": "4.992",
+                        "text": "was"
+                    },
+                    {
+                        "start": "5.209",
+                        "text": "sad,"
+                    },
+                    {
+                        "start": "5.984",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "6.366",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "6.780",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "7.162",
+                        "text": "what"
+                    },
+                    {
+                        "start": "7.317",
+                        "text": "happened."
+                    },
+                    {
+                        "start": "8.619",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "9.095",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "9.591",
+                        "text": "how"
+                    },
+                    {
+                        "start": "9.798",
+                        "text": "he"
+                    },
+                    {
+                        "start": "9.911",
+                        "text": "was"
+                    },
+                    {
+                        "start": "10.128",
+                        "text": "sad"
+                    },
+                    {
+                        "start": "10.521",
+                        "text": "because"
+                    },
+                    {
+                        "start": "10.945",
+                        "text": "he"
+                    },
+                    {
+                        "start": "11.151",
+                        "text": "missed"
+                    },
+                    {
+                        "start": "11.399",
+                        "text": "his"
+                    },
+                    {
+                        "start": "11.616",
+                        "text": "mom."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "이글이가" },
+                    { "start": "1.380","text": "정원을" },
+                    { "start": "2.383","text": "걸어가다가" },
+                    { "start": "4.179","text": "나오를" },
+                    { "start": "5.393","text": "발견했어요." },
+                    { "start": "7.942","text": "슬퍼하는" },
+                    { "start": "9.165","text": "친구를" },
+                    { "start": "10.098","text": "보고" },
+                    { "start": "11.065","text": "이글이는" },
+                    { "start": "12.602","text": "나오에게" },
+                    { "start": "14.032","text": "무슨" },
+                    { "start": "14.838","text": "일이" },
+                    { "start": "15.428","text": "있냐고" },
+                    { "start": "16.792","text": "물었어요." },
+                    { "start": "19.255","text": "나오는" },
+                    { "start": "20.613","text": "부모님이" },
+                    { "start": "21.732","text": "보고" },
+                    { "start": "22.267","text": "싶어서" },
+                    { "start": "23.484","text": "슬프다고" },
+                    { "start": "24.653","text": "말했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "Eagle asked Nao why he hadn’t called his mom. Nao explained how he was afraid talking to his mom would make him miss her more. At that moment, all Nao wanted to do was give his mom a big hug.",
+                "textES": "Cuando Eagle le preguntó a su amigo por qué no llamaba a su mamá, Nao le contestó que le daba miedo extrañarla aún más. Lo único que quería era darle un gran abrazo.",
+                "textPT": "Eagle perguntou para Nao porquê não ligava para sua mãe. Nao explicou que ele tinha medo de falar com sua mãe porque poderia sentir muito sua falta. Naquele momento, Nao só queria dar um grande abraço em sua mãe.",
+                "textCN": "伊戈问奈绪为什么没有给妈妈打电话。奈绪说，他担心和妈妈说话会让自己更加想念她。那一刻，奈绪只想给妈妈一个大大的拥抱。",
+                "textJP": "イーグルは ナオに、どうして おかあさんに でんわを しないのか ききました。ナオは おかあさんと はなすと、もっと おかあさんに あいたくなって さみしくなってしまうのが しんぱい なのでした。ナオは きゅうに おかあさんが こいしくなりました。",
+                "textKR": "이글이는 그럼 왜 부모님께 전화하지 않냐고 물었어요. 나오는 부모님이 더 보고 싶어 질까 봐 전화를 못 한다고 했어요. 그 순간 나오는 그저 부모님을 꼭 껴안고 싶었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Cuando"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "le"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "preguntó"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.5",
+                        "text": "su"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "por"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "no"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "llamaba"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "su"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "mamá,"
+                    },
+                    {
+                        "start": "4.970",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "5.406",
+                        "text": "le"
+                    },
+                    {
+                        "start": "5.663",
+                        "text": "contestó"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "le"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "daba"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "miedo"
+                    },
+                    {
+                        "start": "7.428",
+                        "text": "extrañarla"
+                    },
+                    {
+                        "start": "8.399",
+                        "text": "aún"
+                    },
+                    {
+                        "start": "8.869",
+                        "text": "más."
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "Lo"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "único"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "que"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "quería"
+                    },
+                    {
+                        "start": "11.627",
+                        "text": "era"
+                    },
+                    {
+                        "start": "11.985",
+                        "text": "darle"
+                    },
+                    {
+                        "start": "12.408",
+                        "text": "un"
+                    },
+                    {
+                        "start": "12.633",
+                        "text": "gran"
+                    },
+                    {
+                        "start": "13.012",
+                        "text": "abrazo."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.630",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "1.054",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "1.416",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.705",
+                        "text": "why"
+                    },
+                    {
+                        "start": "1.953",
+                        "text": "he"
+                    },
+                    {
+                        "start": "2.108",
+                        "text": "hadn’t"
+                    },
+                    {
+                        "start": "2.470",
+                        "text": "called"
+                    },
+                    {
+                        "start": "2.728",
+                        "text": "his"
+                    },
+                    {
+                        "start": "2.904",
+                        "text": "mom."
+                    },
+                    {
+                        "start": "3.824",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "4.299",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "4.744",
+                        "text": "how"
+                    },
+                    {
+                        "start": "5.033",
+                        "text": "he"
+                    },
+                    {
+                        "start": "5.178",
+                        "text": "was"
+                    },
+                    {
+                        "start": "5.271",
+                        "text": "afraid"
+                    },
+                    {
+                        "start": "5.891",
+                        "text": "talking"
+                    },
+                    {
+                        "start": "6.294",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.480",
+                        "text": "his"
+                    },
+                    {
+                        "start": "6.666",
+                        "text": "mom"
+                    },
+                    {
+                        "start": "7.141",
+                        "text": "would"
+                    },
+                    {
+                        "start": "7.307",
+                        "text": "make"
+                    },
+                    {
+                        "start": "7.544",
+                        "text": "him"
+                    },
+                    {
+                        "start": "7.710",
+                        "text": "miss"
+                    },
+                    {
+                        "start": "7.979",
+                        "text": "her"
+                    },
+                    {
+                        "start": "8.206",
+                        "text": "more."
+                    },
+                    {
+                        "start": "9.219",
+                        "text": "At"
+                    },
+                    {
+                        "start": "9.436",
+                        "text": "that"
+                    },
+                    {
+                        "start": "9.673",
+                        "text": "moment,"
+                    },
+                    {
+                        "start": "10.252",
+                        "text": "all"
+                    },
+                    {
+                        "start": "10.583",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "10.883",
+                        "text": "wanted"
+                    },
+                    {
+                        "start": "11.265",
+                        "text": "to"
+                    },
+                    {
+                        "start": "11.451",
+                        "text": "do"
+                    },
+                    {
+                        "start": "11.720",
+                        "text": "was"
+                    },
+                    {
+                        "start": "11.999",
+                        "text": "give"
+                    },
+                    {
+                        "start": "12.133",
+                        "text": "his"
+                    },
+                    {
+                        "start": "12.381",
+                        "text": "mom"
+                    },
+                    {
+                        "start": "12.691",
+                        "text": "a"
+                    },
+                    {
+                        "start": "13.043",
+                        "text": "big"
+                    },
+                    {
+                        "start": "13.466",
+                        "text": "hug."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "이글이는" },
+                    { "start": "0.977","text": "그럼" },
+                    { "start": "2.087","text": "왜" },
+                    { "start": "2.799","text": "부모님께" },
+                    { "start": "4.145","text": "전화하지" },
+                    { "start": "5.266","text": "않냐고" },
+                    { "start": "6.486","text": "물었어요." },
+                    { "start": "8.887","text": "나오는" },
+                    { "start": "10.337","text": "부모님이" },
+                    { "start": "11.659","text": "더" },
+                    { "start": "12.325","text": "보고" },
+                    { "start": "13.012","text": "싶어" },
+                    { "start": "13.807","text": "질까" },
+                    { "start": "14.378","text": "봐" },
+                    { "start": "15.373","text": "전화를" },
+                    { "start": "16.619","text": "못" },
+                    { "start": "17.156","text": "한다고" },
+                    { "start": "18.037","text": "했어요." },
+                    { "start": "20.301","text": "그" },
+                    { "start": "20.654","text": "순간" },
+                    { "start": "22.098","text": "나오는" },
+                    { "start": "23.323","text": "그저" },
+                    { "start": "24.192","text": "부모님을" },
+                    { "start": "25.780","text": "꼭" },
+                    { "start": "26.960","text": "껴안고" },
+                    { "start": "27.934","text": "싶었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "Moved by Nao’s emotions, Eagle explained to him how his mom is always with him. She may not be here physically, but everytime Nao follows her example, she is there in his thoughts. ",
+                "textES": "Eagle, conmovido, le explicó a Nao que su mamá estaba con él. Tal vez no físicamente, pero cada vez que seguía su ejemplo, ella estaba presente.",
+                "textPT": "Eagle perguntou para Nao o que ele mais gostava em sua mãe. Nao explicou que ele amava sua bondade, sua coragem e sua força. Eagle disse para Nao que o melhor presente que ele poderia dar a sua mãe era seguir seu exemplo. Se ele fizesse isso, sentiria como se ela estivesse com ele todo o tempo.",
+                "textCN": "奈绪的真情让伊戈很感动，伊戈告诉奈绪，他妈妈一直和他在一起。即使她的人可能不在这里，但每次奈绪以妈妈为榜样做事时，妈妈就在他的脑海里。 ",
+                "textJP": "ナオの きもちを しった イーグルは、おかあさんは いつも いっしょだと せつめいしました。すぐそばには いないかもしれないけれど、ナオが おかあさんの いいところを まねするときには いつも、おかあさんが こころの中に いるのだと。 ",
+                "textKR": "나오의 진심이 이글이의 마음을 움직였어요. 그래서 이글이는 나오에게 말했어요. 부모님이 실제로 옆에 있지 않더라고 부모님을 본보기로 삼아서 행동한다면 부모님은 나오의 마음 안에 있는 거라고요.",
+                "wordsES": [
+                    {
+                        "start": "0.101",
+                        "text": "Eagle,"
+                    },
+                    {
+                        "start": "0.838",
+                        "text": "conmovido,"
+                    },
+                    {
+                        "start": "1.999",
+                        "text": "le"
+                    },
+                    {
+                        "start": "2.167",
+                        "text": "explicó"
+                    },
+                    {
+                        "start": "2.804",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.915",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "3.396",
+                        "text": "que"
+                    },
+                    {
+                        "start": "3.530",
+                        "text": "su"
+                    },
+                    {
+                        "start": "3.731",
+                        "text": "mamá"
+                    },
+                    {
+                        "start": "4.166",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "4.781",
+                        "text": "con"
+                    },
+                    {
+                        "start": "4.982",
+                        "text": "él."
+                    },
+                    {
+                        "start": "5.898",
+                        "text": "Tal"
+                    },
+                    {
+                        "start": "6.099",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "6.389",
+                        "text": "no"
+                    },
+                    {
+                        "start": "6.545",
+                        "text": "físicamente,"
+                    },
+                    {
+                        "start": "8.143",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "8.433",
+                        "text": "cada"
+                    },
+                    {
+                        "start": "8.746",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "9.070",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.181",
+                        "text": "seguía"
+                    },
+                    {
+                        "start": "9.717",
+                        "text": "su"
+                    },
+                    {
+                        "start": "9.851",
+                        "text": "ejemplo,"
+                    },
+                    {
+                        "start": "10.796",
+                        "text": "ella"
+                    },
+                    {
+                        "start": "11.248",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "11.706",
+                        "text": "presente."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.641",
+                        "text": "Moved"
+                    },
+                    {
+                        "start": "1.085",
+                        "text": "by"
+                    },
+                    {
+                        "start": "1.323",
+                        "text": "Nao’s"
+                    },
+                    {
+                        "start": "1.561",
+                        "text": "emotions,"
+                    },
+                    {
+                        "start": "2.687",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "3.142",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "3.555",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.700",
+                        "text": "him"
+                    },
+                    {
+                        "start": "3.989",
+                        "text": "how"
+                    },
+                    {
+                        "start": "4.237",
+                        "text": "his"
+                    },
+                    {
+                        "start": "4.485",
+                        "text": "mom"
+                    },
+                    {
+                        "start": "4.795",
+                        "text": "is"
+                    },
+                    {
+                        "start": "5.033",
+                        "text": "always"
+                    },
+                    {
+                        "start": "5.488",
+                        "text": "with"
+                    },
+                    {
+                        "start": "5.705",
+                        "text": "him."
+                    },
+                    {
+                        "start": "6.459",
+                        "text": "She"
+                    },
+                    {
+                        "start": "6.687",
+                        "text": "may"
+                    },
+                    {
+                        "start": "6.873",
+                        "text": "not"
+                    },
+                    {
+                        "start": "7.069",
+                        "text": "be"
+                    },
+                    {
+                        "start": "7.245",
+                        "text": "here"
+                    },
+                    {
+                        "start": "7.575",
+                        "text": "physically,"
+                    },
+                    {
+                        "start": "8.361",
+                        "text": "but"
+                    },
+                    {
+                        "start": "8.526",
+                        "text": "everytime"
+                    },
+                    {
+                        "start": "9.157",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "9.633",
+                        "text": "follows"
+                    },
+                    {
+                        "start": "10.035",
+                        "text": "her"
+                    },
+                    {
+                        "start": "10.232",
+                        "text": "example,"
+                    },
+                    {
+                        "start": "11.058",
+                        "text": "she"
+                    },
+                    {
+                        "start": "11.311",
+                        "text": "is"
+                    },
+                    {
+                        "start": "11.534",
+                        "text": "there"
+                    },
+                    {
+                        "start": "11.844",
+                        "text": "in"
+                    },
+                    {
+                        "start": "11.968",
+                        "text": "his"
+                    },
+                    {
+                        "start": "12.288",
+                        "text": "thoughts."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "나오의" },
+                    { "start": "0.894","text": "진심이" },
+                    { "start": "2.077","text": "이글이의" },
+                    { "start": "3.000","text": "마음을" },
+                    { "start": "4.311","text": "움직였어요." },
+                    { "start": "6.923","text": "그래서" },
+                    { "start": "7.947","text": "이글이는" },
+                    { "start": "9.421","text": "나오에게" },
+                    { "start": "10.748","text": "말했어요." },
+                    { "start": "13.256","text": "부모님이" },
+                    { "start": "14.687","text": "실제로" },
+                    { "start": "15.997","text": "옆에" },
+                    { "start": "16.740","text": "있지" },
+                    { "start": "17.315","text": "않더라고" },
+                    { "start": "19.092","text": "부모님을" },
+                    { "start": "20.423","text": "본보기로" },
+                    { "start": "21.493","text": "삼아서" },
+                    { "start": "22.357","text": "행동한다면" },
+                    { "start": "24.258","text": "부모님은" },
+                    { "start": "25.556","text": "나오의" },
+                    { "start": "26.507","text": "마음" },
+                    { "start": "26.988","text": "안에" },
+                    { "start": "27.990","text": "있는" },
+                    { "start": "28.743","text": "거라고요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "Eagle asked Nao what he loved most about his mom. Nao explained how he loved her kindness, bravery, and strength. Eagle told Nao that the best gift he could give his mom was to follow her example. If he did that, it would feel like she is with him at all times.",
+                "textES": "Eagle le preguntó a Nao por qué era bondadoso, valiente y fuerte. Nao le respondió que su mamá era así. Entonces, Eagle le explicó que el mejor regalo que le podía dar a su mamá era ser como ella, pues cada vez que seguía su ejemplo la estaba abrazando.",
+                "textPT": "Eagle perguntou para Nao o que ele mais gostava em sua mãe. Nao explicou que ele amava sua bondade, sua coragem e sua força. Eagle disse para Nao que o melhor presente que ele poderia dar a sua mãe era seguir seu exemplo. Se ele fizesse isso, sentiria como se ela estivesse com ele todo o tempo.",
+                "textCN": "伊戈问奈绪他最喜欢妈妈哪一点。奈绪说喜欢妈妈的善良、勇敢和坚强。伊戈告诉奈绪，他给妈妈最好的礼物就是以妈妈为榜样行事。如果他能像妈妈那样，就会感觉一直和妈妈在一起。",
+                "textJP": "イーグルは ナオに、 おかあさんの どんなところが すきか ききました。ナオは おかあさんの やさしいところ、ゆうきがあるところ、つよいところが すきだと こたえました。おかあさんへの いちばんの プレゼントは、おかあさんの いいところを まねすることだ とイーグルはいいました。そうすれば、おかあさんが いつも いっしょに いるように かんじることが できるのです。",
+                "textKR": "이글이는 나오에게 부모님의 어떤 부분이 가장 좋냐고 물어봤어요. 나오는 부모님의 친절한 마음과 용감한 행동, 강한 힘이 좋다고 말했어요. 이글이는 부모님에게 가장 좋은 선물은 부모님을 모범으로 사는 거라고 말했어요. 그렇게 하면 부모님이 항상 같이 있는 것처럼 느껴져요.",
+                "wordsES": [
+                    {
+                        "start": "0.112",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.648",
+                        "text": "le"
+                    },
+                    {
+                        "start": "0.871",
+                        "text": "preguntó"
+                    },
+                    {
+                        "start": "1.474",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.664",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "2.212",
+                        "text": "por"
+                    },
+                    {
+                        "start": "2.535",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "2.737",
+                        "text": "era"
+                    },
+                    {
+                        "start": "3.060",
+                        "text": "bondadoso,"
+                    },
+                    {
+                        "start": "4.110",
+                        "text": "valiente"
+                    },
+                    {
+                        "start": "4.669",
+                        "text": "y"
+                    },
+                    {
+                        "start": "4.903",
+                        "text": "fuerte."
+                    },
+                    {
+                        "start": "6.568",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "7.026",
+                        "text": "le"
+                    },
+                    {
+                        "start": "7.171",
+                        "text": "respondió"
+                    },
+                    {
+                        "start": "7.930",
+                        "text": "que"
+                    },
+                    {
+                        "start": "8.109",
+                        "text": "su"
+                    },
+                    {
+                        "start": "8.332",
+                        "text": "mamá"
+                    },
+                    {
+                        "start": "8.701",
+                        "text": "era"
+                    },
+                    {
+                        "start": "8.913",
+                        "text": "así."
+                    },
+                    {
+                        "start": "10.064",
+                        "text": "Entonces,"
+                    },
+                    {
+                        "start": "11.214",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "11.527",
+                        "text": "le"
+                    },
+                    {
+                        "start": "11.694",
+                        "text": "explicó"
+                    },
+                    {
+                        "start": "12.219",
+                        "text": "que"
+                    },
+                    {
+                        "start": "12.408",
+                        "text": "el"
+                    },
+                    {
+                        "start": "12.499",
+                        "text": "mejor"
+                    },
+                    {
+                        "start": "12.912",
+                        "text": "regalo"
+                    },
+                    {
+                        "start": "13.482",
+                        "text": "que"
+                    },
+                    {
+                        "start": "13.571",
+                        "text": "le"
+                    },
+                    {
+                        "start": "13.738",
+                        "text": "podía"
+                    },
+                    {
+                        "start": "14.152",
+                        "text": "dar"
+                    },
+                    {
+                        "start": "14.286",
+                        "text": "a"
+                    },
+                    {
+                        "start": "14.465",
+                        "text": "su"
+                    },
+                    {
+                        "start": "14.610",
+                        "text": "mamá"
+                    },
+                    {
+                        "start": "15.358",
+                        "text": "era"
+                    },
+                    {
+                        "start": "15.660",
+                        "text": "ser"
+                    },
+                    {
+                        "start": "15.984",
+                        "text": "como"
+                    },
+                    {
+                        "start": "16.307",
+                        "text": "ella,"
+                    },
+                    {
+                        "start": "17.302",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "17.558",
+                        "text": "cada"
+                    },
+                    {
+                        "start": "17.871",
+                        "text": "vez"
+                    },
+                    {
+                        "start": "18.117",
+                        "text": "que"
+                    },
+                    {
+                        "start": "18.217",
+                        "text": "seguía"
+                    },
+                    {
+                        "start": "18.5",
+                        "text": "su"
+                    },
+                    {
+                        "start": "18.854",
+                        "text": "ejemplo"
+                    },
+                    {
+                        "start": "19.625",
+                        "text": "la"
+                    },
+                    {
+                        "start": "19.826",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "20.273",
+                        "text": "abrazando."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.641",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "1.002",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "1.416",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.778",
+                        "text": "what"
+                    },
+                    {
+                        "start": "1.974",
+                        "text": "he"
+                    },
+                    {
+                        "start": "2.077",
+                        "text": "loved"
+                    },
+                    {
+                        "start": "2.336",
+                        "text": "most"
+                    },
+                    {
+                        "start": "2.956",
+                        "text": "about"
+                    },
+                    {
+                        "start": "3.152",
+                        "text": "his"
+                    },
+                    {
+                        "start": "3.318",
+                        "text": "mom."
+                    },
+                    {
+                        "start": "4.578",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "4.909",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "5.405",
+                        "text": "how"
+                    },
+                    {
+                        "start": "5.705",
+                        "text": "he"
+                    },
+                    {
+                        "start": "5.860",
+                        "text": "loved"
+                    },
+                    {
+                        "start": "6.201",
+                        "text": "her"
+                    },
+                    {
+                        "start": "6.439",
+                        "text": "kindness,"
+                    },
+                    {
+                        "start": "7.152",
+                        "text": "bravery,"
+                    },
+                    {
+                        "start": "7.689",
+                        "text": "and"
+                    },
+                    {
+                        "start": "7.896",
+                        "text": "strength."
+                    },
+                    {
+                        "start": "9.436",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "9.787",
+                        "text": "told"
+                    },
+                    {
+                        "start": "10.056",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "10.335",
+                        "text": "that"
+                    },
+                    {
+                        "start": "10.490",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.707",
+                        "text": "best"
+                    },
+                    {
+                        "start": "11.027",
+                        "text": "gift"
+                    },
+                    {
+                        "start": "11.311",
+                        "text": "he"
+                    },
+                    {
+                        "start": "11.399",
+                        "text": "could"
+                    },
+                    {
+                        "start": "11.565",
+                        "text": "give"
+                    },
+                    {
+                        "start": "11.709",
+                        "text": "his"
+                    },
+                    {
+                        "start": "11.854",
+                        "text": "mom"
+                    },
+                    {
+                        "start": "12.299",
+                        "text": "was"
+                    },
+                    {
+                        "start": "12.547",
+                        "text": "to"
+                    },
+                    {
+                        "start": "12.784",
+                        "text": "follow"
+                    },
+                    {
+                        "start": "13.177",
+                        "text": "her"
+                    },
+                    {
+                        "start": "13.375",
+                        "text": "example."
+                    },
+                    {
+                        "start": "14.665",
+                        "text": "If"
+                    },
+                    {
+                        "start": "14.820",
+                        "text": "he"
+                    },
+                    {
+                        "start": "14.965",
+                        "text": "did"
+                    },
+                    {
+                        "start": "15.213",
+                        "text": "that,"
+                    },
+                    {
+                        "start": "15.5",
+                        "text": "it"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "would"
+                    },
+                    {
+                        "start": "16.236",
+                        "text": "feel"
+                    },
+                    {
+                        "start": "16.412",
+                        "text": "like"
+                    },
+                    {
+                        "start": "16.598",
+                        "text": "she"
+                    },
+                    {
+                        "start": "16.856",
+                        "text": "is"
+                    },
+                    {
+                        "start": "17.032",
+                        "text": "with"
+                    },
+                    {
+                        "start": "17.218",
+                        "text": "him"
+                    },
+                    {
+                        "start": "17.456",
+                        "text": "at"
+                    },
+                    {
+                        "start": "17.817",
+                        "text": "all"
+                    },
+                    {
+                        "start": "18.169",
+                        "text": "times."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "이글이는" },
+                    { "start": "1.383","text": "나오에게" },
+                    { "start": "2.728","text": "부모님의" },
+                    { "start": "4.201","text": "어떤" },
+                    { "start": "5.054","text": "부분이" },
+                    { "start": "6.107","text": "가장" },
+                    { "start": "6.867","text": "좋냐고" },
+                    { "start": "7.972","text": "물어봤어요." },
+                    { "start": "10.594","text": "나오는" },
+                    { "start": "11.820","text": "부모님의" },
+                    { "start": "12.813","text": "친절한" },
+                    { "start": "13.668","text": "마음과" },
+                    { "start": "14.892","text": "용감한" },
+                    { "start": "15.753","text": "행동," },
+                    { "start": "17.199","text": "강한" },
+                    { "start": "17.886","text": "힘이" },
+                    { "start": "18.899","text": "좋다고" },
+                    { "start": "19.817","text": "말했어요." },
+                    { "start": "22.319","text": "이글이는" },
+                    { "start": "23.717","text": "부모님에게" },
+                    { "start": "25.161","text": "가장" },
+                    { "start": "26.134","text": "좋은" },
+                    { "start": "26.651","text": "선물은" },
+                    { "start": "28.182","text": "부모님을" },
+                    { "start": "29.507","text": "모범으로" },
+                    { "start": "31.016","text": "사는" },
+                    { "start": "31.779","text": "거라고" },
+                    { "start": "32.905","text": "말했어요." },
+                    { "start": "35.604","text": "그렇게" },
+                    { "start": "36.416","text": "하면" },
+                    { "start": "37.695","text": "부모님이" },
+                    { "start": "38.992","text": "항상" },
+                    { "start": "40.363","text": "같이" },
+                    { "start": "41.211","text": "있는" },
+                    { "start": "41.857","text": "것처럼" },
+                    { "start": "43.112","text": "느껴져요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "Nao felt happy again. He remembered all the times he followed his mom’s example of being kind, brave, and strong. He immediately called his mom to wish her a happy Mother’s Day and to thank her for everything she had done for him. ",
+                "textES": "Nao se sintió feliz. Recordó las veces que había sido como su mamá y se dio cuenta que nunca la había dejado de abrazar. De inmediato corrió al teléfono, la llamó para desearle un feliz día de las madres y le dio las gracias por todo.",
+                "textPT": "Nao se sentiu novamente feliz. Ele lembrou todas as vezes que ele seguiu o exemplo de sua mãe, ao ser amável, corajoso e forte. Ele imediatamente ligou para sua mãe e lhe desejou um feliz Dia das Mães e lhe agradeceu tudo o que ela tinha feito por ele. ",
+                "textCN": "奈绪豁然开朗。他想起了自己以善良、勇敢、坚强的妈妈为榜样做事的所有时光。他立即打电话给妈妈，祝她母亲节快乐，并感谢她为自己所做的一切。 ",
+                "textJP": "ナオは いままで ずっと、おかあさんの やさしくて ゆうきがあって つよいところを まねしてきました。それを おもいだして、うれしくなりました。ナオは すぐに おかあさんに でんわをかけて、ははの日の かんしゃの きもちを つたえました。 ",
+                "textKR": "나오는 다시 행복해졌어요. 나오는 부모님의 친절함, 용기, 힘을 본받아서 행동하던 때를 기억했어요. 그래서 나오는 바로 부모님께 전화를 걸었어요. 나오는 부모님께 어버이날을 축하해 드리고 부모님이 나오를 위해서 해주신 모든 것에 감사하다고 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.112",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "0.581",
+                        "text": "se"
+                    },
+                    {
+                        "start": "0.793",
+                        "text": "sintió"
+                    },
+                    {
+                        "start": "1.474",
+                        "text": "feliz."
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "Recordó"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "las"
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "veces"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "que"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "había"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "sido"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "como"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "su"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "mamá"
+                    },
+                    {
+                        "start": "6.076",
+                        "text": "y"
+                    },
+                    {
+                        "start": "6.233",
+                        "text": "se"
+                    },
+                    {
+                        "start": "6.411",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "6.758",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "7.361",
+                        "text": "nunca"
+                    },
+                    {
+                        "start": "7.874",
+                        "text": "la"
+                    },
+                    {
+                        "start": "7.975",
+                        "text": "había"
+                    },
+                    {
+                        "start": "8.299",
+                        "text": "dejado"
+                    },
+                    {
+                        "start": "8.891",
+                        "text": "de"
+                    },
+                    {
+                        "start": "8.991",
+                        "text": "abrazar."
+                    },
+                    {
+                        "start": "10.455",
+                        "text": "De"
+                    },
+                    {
+                        "start": "10.678",
+                        "text": "inmediato"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "corrió"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "al"
+                    },
+                    {
+                        "start": "11.9",
+                        "text": "teléfono,"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "la"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "llamó"
+                    },
+                    {
+                        "start": "13.761",
+                        "text": "para"
+                    },
+                    {
+                        "start": "14.018",
+                        "text": "desearle"
+                    },
+                    {
+                        "start": "14.532",
+                        "text": "un"
+                    },
+                    {
+                        "start": "14.766",
+                        "text": "feliz"
+                    },
+                    {
+                        "start": "15.0",
+                        "text": "día"
+                    },
+                    {
+                        "start": "15.3",
+                        "text": "de"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "las"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "madres"
+                    },
+                    {
+                        "start": "16.2",
+                        "text": "y"
+                    },
+                    {
+                        "start": "16.5",
+                        "text": "le"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "dio"
+                    },
+                    {
+                        "start": "17.1",
+                        "text": "las"
+                    },
+                    {
+                        "start": "17.4",
+                        "text": "gracias"
+                    },
+                    {
+                        "start": "17.7",
+                        "text": "por"
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "todo."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.620",
+                        "text": "Nao"
+                    },
+                    {
+                        "start": "1.064",
+                        "text": "felt"
+                    },
+                    {
+                        "start": "1.375",
+                        "text": "happy"
+                    },
+                    {
+                        "start": "1.716",
+                        "text": "again."
+                    },
+                    {
+                        "start": "3.049",
+                        "text": "He"
+                    },
+                    {
+                        "start": "3.162",
+                        "text": "remembered"
+                    },
+                    {
+                        "start": "3.659",
+                        "text": "all"
+                    },
+                    {
+                        "start": "3.876",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.000",
+                        "text": "times"
+                    },
+                    {
+                        "start": "4.392",
+                        "text": "he"
+                    },
+                    {
+                        "start": "4.568",
+                        "text": "followed"
+                    },
+                    {
+                        "start": "4.857",
+                        "text": "his"
+                    },
+                    {
+                        "start": "5.074",
+                        "text": "mom’s"
+                    },
+                    {
+                        "start": "5.271",
+                        "text": "example"
+                    },
+                    {
+                        "start": "6.025",
+                        "text": "of"
+                    },
+                    {
+                        "start": "6.253",
+                        "text": "being"
+                    },
+                    {
+                        "start": "6.635",
+                        "text": "kind,"
+                    },
+                    {
+                        "start": "7.451",
+                        "text": "brave,"
+                    },
+                    {
+                        "start": "8.113",
+                        "text": "and"
+                    },
+                    {
+                        "start": "8.309",
+                        "text": "strong."
+                    },
+                    {
+                        "start": "9.767",
+                        "text": "He"
+                    },
+                    {
+                        "start": "9.922",
+                        "text": "immediately"
+                    },
+                    {
+                        "start": "10.490",
+                        "text": "called"
+                    },
+                    {
+                        "start": "10.717",
+                        "text": "his"
+                    },
+                    {
+                        "start": "10.914",
+                        "text": "mom"
+                    },
+                    {
+                        "start": "11.244",
+                        "text": "to"
+                    },
+                    {
+                        "start": "11.482",
+                        "text": "wish"
+                    },
+                    {
+                        "start": "11.678",
+                        "text": "her"
+                    },
+                    {
+                        "start": "11.802",
+                        "text": "a"
+                    },
+                    {
+                        "start": "11.989",
+                        "text": "happy"
+                    },
+                    {
+                        "start": "12.392",
+                        "text": "Mother’s"
+                    },
+                    {
+                        "start": "12.764",
+                        "text": "Day"
+                    },
+                    {
+                        "start": "13.375",
+                        "text": "and"
+                    },
+                    {
+                        "start": "13.539",
+                        "text": "to"
+                    },
+                    {
+                        "start": "13.735",
+                        "text": "thank"
+                    },
+                    {
+                        "start": "13.993",
+                        "text": "her"
+                    },
+                    {
+                        "start": "14.200",
+                        "text": "for"
+                    },
+                    {
+                        "start": "14.397",
+                        "text": "everything"
+                    },
+                    {
+                        "start": "14.913",
+                        "text": "she"
+                    },
+                    {
+                        "start": "15.130",
+                        "text": "had"
+                    },
+                    {
+                        "start": "15.327",
+                        "text": "done"
+                    },
+                    {
+                        "start": "15.626",
+                        "text": "for"
+                    },
+                    {
+                        "start": "15.750",
+                        "text": "him."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.100","text": "나오는" },
+                    { "start": "1.203","text": "다시" },
+                    { "start": "2.308","text": "행복해졌어요." },
+                    { "start": "5.351","text": "나오는" },
+                    { "start": "6.789","text": "부모님의" },
+                    { "start": "7.806","text": "친절함," },
+                    { "start": "9.063","text": "용기," },
+                    { "start": "10.430","text": "힘을" },
+                    { "start": "11.158","text": "본받아서" },
+                    { "start": "12.493","text": "행동하던" },
+                    { "start": "13.625","text": "때를" },
+                    { "start": "14.740","text": "기억했어요." },
+                    { "start": "17.342","text": "그래서" },
+                    { "start": "18.214","text": "나오는" },
+                    { "start": "19.385","text": "바로" },
+                    { "start": "20.594","text": "부모님께" },
+                    { "start": "21.925","text": "전화를" },
+                    { "start": "22.847","text": "걸었어요." },
+                    { "start": "25.204","text": "나오는" },
+                    { "start": "26.557","text": "부모님께" },
+                    { "start": "28.107","text": "어버이날을" },
+                    { "start": "29.300","text": "축하해" },
+                    { "start": "30.161","text": "드리고" },
+                    { "start": "31.415","text": "부모님이" },
+                    { "start": "32.749","text": "나오를" },
+                    { "start": "33.550","text": "위해서" },
+                    { "start": "34.867","text": "해주신" },
+                    { "start": "36.050","text": "모든" },
+                    { "start": "36.805","text": "것에" },
+                    { "start": "37.897","text": "감사하다고" },
+                    { "start": "39.460","text": "말했어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

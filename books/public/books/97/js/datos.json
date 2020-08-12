@@ -1,0 +1,388 @@
+{
+    "book": {
+        "titleES": "Puedo ser yo misma",
+        "titleEN": "I Can Be Me",
+        "titlePT": "Posso ser eu mesma",
+        "titleCN": "我可以做我自己",
+        "titleJP": "わたしは、わたしになれる。",
+        "titleKR": "나는 나로 살아요",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "<font size='10'>Puedo ser yo misma.</font>",
+                "textEN": "<font size='10'>I can be me.</font>",
+                "textPT": "<font size='10'>Posso ser eu mesma.</font>",
+                "textCN": "<font size='10'>我可以做我自己。</font>",
+                "textJP": "<font size='10'>わたしは、わたしになれる。</font>",
+                "textKR": "<font size='10'>나는 나로 살아요.</font>",
+                "wordsES": [
+                    { "start": "0.5", "text": "Puedo" },
+                    { "start": "0.9", "text": "ser" },
+                    { "start": "1.3", "text": "yo" },
+                    { "start": "1.5",  "text": "misma." }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "I"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "can"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "be"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "me."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.006", "text": "나로" },
+                    { "start": "1.800", "text": "살아요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "<font size='10'>Puedo estar enojada.</font>",
+                "textEN": "<font size='10'>I can be mad.</font>",
+                "textPT": "<font size='10'>Posso estar brava.</font>",
+                "textCN": "<font size='10'>我可以生气。</font>",
+                "textJP": "<font size='10'>わたしは、ふきげんになれる。</font>",
+                "textKR": "<font size='10'>나는 화를 낼 때도 있어요.</font>",
+                "wordsES": [
+                    { "start": "0.1", "text": "Puedo" },
+                    { "start": "0.7", "text": "estar" },
+                    { "start": "1.2", "text": "enojada." }
+                ],
+                "wordsEN": [
+                    { "start": "0.3", "text": "I" },
+                    { "start": "0.6", "text": "can" },
+                    { "start": "0.9", "text": "be" },
+                    { "start": "1.2", "text": "mad." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.135", "text": "화를" },
+                    { "start": "2.000", "text": "낼" },
+                    { "start": "2.591", "text": "때도" },
+                    { "start": "3.214", "text": "있어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "<font size='10'>Puedo estar asustada.</font>",
+                "textEN": "<font size='10'>I can be scared.</font>",
+                "textPT": "<font size='10'>Posso estar assustada.</font>",
+                "textCN": "<font size='10'>我可以害怕。</font>",
+                "textJP": "<font size='10'>わたしは、こわがりになれる。</font>",
+                "textKR": "<font size='10'>나는 겁이 날 때도 있어요.</font>",
+                "wordsES": [
+                    { "start": "0.1", "text": "Puedo" },
+                    { "start": "0.7", "text": "estar" },
+                    { "start": "1.1", "text": "asustada." }
+                ],
+                "wordsEN": [
+                    { "start": "0.3", "text": "I" },
+                    { "start": "0.6", "text": "can" },
+                    { "start": "0.9", "text": "be" },
+                    { "start": "1.2", "text": "scared." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.185", "text": "겁이" },
+                    { "start": "1.989", "text": "날" },
+                    { "start": "2.591", "text": "때도" },
+                    { "start": "3.163", "text": "있어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "<font size='10'>Puedo estar feliz.</font>",
+                "textEN": "<font size='10'>I can be happy.</font>",
+                "textPT": "<font size='10'>Posso estar feliz.</font>",
+                "textCN": "<font size='10'>我可以高兴。</font>",
+                "textJP": "<font size='10'>わたしは、しあわせになれる。</font>",
+                "textKR": "<font size='10'>나는 행복할 때도 있어요.</font>",
+                "wordsES": [
+                    {
+                        "start": "0.2",
+                        "text": "Puedo"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "estar"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "feliz."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.3",
+                        "text": "I"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "can"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "be"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "happy."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.097", "text": "행복할" },
+                    { "start": "2.215", "text": "때도" },
+                    { "start": "2.931", "text": "있어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "<font size='10'>Puedo estar tranquila.</font>",
+                "textEN": "<font size='10'>I can be calm.</font>",
+                "textPT": "<font size='10'>Posso estar tranquila.</font>",
+                "textCN": "<font size='10'>我可以平静。</font>",
+                "textJP": "<font size='10'>わたしは、おだやかになれる。</font>",
+                "textKR": "<font size='10'>나는 차분하게 있을 때도 있어요.</font>",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Puedo"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "estar"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "tranquila."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.3",
+                        "text": "I"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "can"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "be"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "calm."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.107", "text": "차분하게" },
+                    { "start": "2.331", "text": "있을" },
+                    { "start": "3.164", "text": "때도" },
+                    { "start": "3.820", "text": "있어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "<font size='10'>Tengo la valentía suficiente para ser yo misma.</font>",
+                "textEN": "<font size='10'>I am brave enough to be me.</font>",
+                "textPT": "<font size='10'>Tenho coragem suficiente para ser eu mesma.</font>",
+                "textCN": "<font size='10'>我有足够的勇气做我自己。</font>",
+                "textJP": "<font size='10'>わたしには、わたしになるだけのゆうきがある。</font>",
+                "textKR": "<font size='10'>나는 나로 살만큼 용감해요.</font>",
+                "wordsES": [
+                    {
+                        "start": "0.2",
+                        "text": "Tengo"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "valentía"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "suficiente"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "para"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "ser"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "yo"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "misma."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.4",
+                        "text": "I"
+                    },
+                    {
+                        "start": "0.8",
+                        "text": "am"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "brave"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "enough"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "be"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "me."
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "나는" },
+                    { "start": "1.133", "text": "나로" },
+                    { "start": "1.956", "text": "살만큼" },
+                    { "start": "3.444", "text": "용감해요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

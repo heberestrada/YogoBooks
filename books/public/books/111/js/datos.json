@@ -1,0 +1,289 @@
+{
+    "book": {
+        "titleES": "Las formas del juego",
+        "titleEN": "Shapes of a Game",
+        "titlePT": "As formas do jogo",
+        "titleCN": "比赛中的形状",
+        "titleJP": "ゲームの特徴",
+        "titleKR": "경기의 모양",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "La pelota es redonda.",
+                "textEN": "The ball is round.",
+                "textPT": "A bola é redonda.",
+                "textCN": "球是圆的。",
+                "textJP": "ボールは丸い。",
+                "textKR": "공은 동그란 모양이에요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "La" },
+                    { "start": "0.4", "text": "pelota" },
+                    { "start": "1.1", "text": "es" },
+                    { "start": "1.8", "text": "redonda." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "The" },
+                    { "start": "0.4", "text": "ball" },
+                    { "start": "0.7", "text": "is" },
+                    { "start": "1.0", "text": "round." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "공은" },
+                    { "start": "1.063", "text": "동그란" },
+                    { "start": "2.074", "text": "모양이에요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "El disco volador es plano.",
+                "textEN": "The frisbee is flat.",
+                "textPT": "O frisbee é plano.",
+                "textCN": "飞盘是扁平的。",
+                "textJP": " フリスビーは平ら。",
+                "textKR": "프리스비는 납작해요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "El" },
+                    { "start": "0.4", "text": "disco" },
+                    { "start": "0.7", "text": "volador" },
+                    { "start": "1.6", "text": "es" },
+                    { "start": "2.0", "text": "plano." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "The" },
+                    { "start": "0.7", "text": "frisbee" },
+                    { "start": "1.1", "text": "is" },
+                    { "start": "1.4", "text": "flat." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "프리스비는" },
+                    { "start": "1.403", "text": "납작해요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "El guante es ancho.",
+                "textEN": "The glove is wide.",
+                "textPT": "A luva é larga.",
+                "textCN": "手套是宽的。",
+                "textJP": "グローブは大きい。",
+                "textKR": "글러브는 넓어요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "El" },
+                    { "start": "0.4", "text": "guante" },
+                    { "start": "0.9", "text": "es" },
+                    { "start": "1.4", "text": "ancho." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "The" },
+                    { "start": "0.7", "text": "glove" },
+                    { "start": "1.2", "text": "is" },
+                    { "start": "1.5", "text": "wide." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "글러브는" },
+                    { "start": "1.474", "text": "넓어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "El bat es largo.",
+                "textEN": "The bat is long.",
+                "textPT": "O taco é longo.",
+                "textCN": "球棒是长的。",
+                "textJP": "バットは長い。",
+                "textKR": "야구방망이는 길어요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "El" },
+                    { "start": "0.4", "text": "bat" },
+                    { "start": "1.0", "text": "es" },
+                    { "start": "1.4", "text": "largo." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "The" },
+                    { "start": "0.4", "text": "bat" },
+                    { "start": "1.0", "text": "is" },
+                    { "start": "1.3", "text": "long." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "야구방망이는" },
+                    { "start": "2.380", "text": "길어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "El balón de fútbol es ovalado.",
+                "textEN": "The football is oval.",
+                "textPT": "A bola de futebol americano é oval.",
+                "textCN": "橄榄球是椭圆的。",
+                "textJP": "フットボールは楕円形。",
+                "textKR": "미식축구공은 계란형이에요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "El" },
+                    { "start": "0.4", "text": "balón" },
+                    { "start": "0.7", "text": "de" },
+                    { "start": "1.0", "text": "fútbol" },
+                    { "start": "1.7", "text": "es" },
+                    { "start": "2.2", "text": "ovalado." }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "The" },
+                    { "start": "0.4", "text": "football" },
+                    { "start": "0.9", "text": "is" },
+                    { "start": "1.2", "text": "oval." }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "미식축구공은" },
+                    { "start": "2.350", "text": "계란형이에요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "¡Lo que importa no es la forma, sino la diversión!",
+                "textEN": "All these shapes make up a fun game!",
+                "textPT": "Todas essas formas criam um jogo divertido!",
+                "textCN": "所有这些形状构成了一场充满乐趣的比赛！",
+                "textJP": "この形全部が楽しいゲームを作ります。",
+                "textKR": "여러 모양으로 재미있는 경기를 해요!",
+                "wordsES": [
+                    { "start": "0.1", "text": "¡Lo" },
+                    { "start": "0.4", "text": "que" },
+                    { "start": "0.7", "text": "importa" },
+                    { "start": "1.0", "text": "no" },
+                    { "start": "1.3", "text": "es" },
+                    { "start": "1.8", "text": "la" },
+                    { "start": "2.1", "text": "forma," },
+                    { "start": "3.2", "text": "sino" },
+                    { "start": "3.6", "text": "la" },
+                    { "start": "3.9", "text": "diversión!" }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "All" },
+                    { "start": "0.5", "text": "these" },
+                    { "start": "0.8", "text": "shapes" },
+                    { "start": "1.6", "text": "make" },
+                    { "start": "1.9", "text": "up" },
+                    { "start": "2.2", "text": "a" },
+                    { "start": "2.5", "text": "fun" },
+                    { "start": "3.0", "text": "game!" }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "여러" },
+                    { "start": "0.779", "text": "모양으로" },
+                    { "start": "2.174", "text": "재미있는" },
+                    { "start": "3.228", "text": "경기를" },
+                    { "start": "4.174", "text": "해요!" }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

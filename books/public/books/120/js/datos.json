@@ -1,0 +1,613 @@
+{
+    "book": {
+        "titleES": "Estrella cuenta patrones numéricos",
+        "titleEN": "Estrella Counts Number Patterns",
+        "titlePT": "Estrella conta padrões numéricos",
+        "titleCN": "埃斯特蕾拉计算数字的规律",
+        "titleJP": "エストレラが数字のパターンを数える",
+        "titleKR": "에스트레야가 숫자를 묶음으로 세어요",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "Estrella se sienta en el parque para contar patos; los cuenta de uno en uno. ¿Cuántos patos cuentas?",
+                "textEN": "Estrella sits in the park to count ducks. Estrella counts in ones. How many ducks do you count?",
+                "textPT": "Estrella se senta no parque para contar patos. Ela conta de um em um. <br><br> Quantos patos você consegue contar?",
+                "textCN": "埃斯特蕾拉坐在公园里数鸭子。 <br><br> 埃斯特蕾拉一只一只数。 <br><br> 你数了多少只鸭子？",
+                "textJP": "エストレラは公園にすわってアヒルの数を数えます。 <br><br> エストレラは1羽ずつ数を数えます。 <br><br> あなたは何羽のアヒルの数を数えますか？",
+                "textKR": "에스트레야가 공원에 앉아서 오리를 세어요. <br><br> 에스트레야가 오리를 한 마리씩 세어요. <br><br> 오리를 몇 마리나 세었니?",
+                "wordsES": [
+                    { "start": "0.8", "text": "Estrella" },
+                    { "start": "1.4", "text": "se" },
+                    { "start": "1.6", "text": "sienta" },
+                    { "start": "1.9", "text": "en" },
+                    { "start": "2.15", "text": "el" },
+                    { "start": "2.3", "text": "parque" },
+                    { "start": "2.7", "text": "para" },
+                    { "start": "3.1", "text": "contar" },
+                    { "start": "3.7", "text": "patos;" },
+                    { "start": "5.0", "text": "los" },
+                    { "start": "5.3", "text": "cuenta" },
+                    { "start": "5.6", "text": "de" },
+                    { "start": "5.9", "text": "uno" },
+                    { "start": "6.2", "text": "en" },
+                    { "start": "6.5", "text": "uno." },
+                    { "start": "8.0", "text": "¿Cuántos" },
+                    { "start": "8.5", "text": "patos" },
+                    { "start": "8.9", "text": "cuentas?" }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "sits"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "in"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "park"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "count"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "ducks."
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "counts"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "in"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "ones."
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "How"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "many"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "ducks"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "do"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "you"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "count?"
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "에스트레야가" },
+                    { "start": "1.605", "text": "공원에" },
+                    { "start": "2.413", "text": "앉아서" },
+                    { "start": "3.535", "text": "오리를" },
+                    { "start": "4.294", "text": "세어요." },
+                    { "start": "6.104", "text": "에스트레야가" },
+                    { "start": "7.794", "text": "오리를" },
+                    { "start": "8.943", "text": "한" },
+                    { "start": "9.440", "text": "마리씩" },
+                    { "start": "10.395", "text": "세어요." },
+                    { "start": "12.147", "text": "오리를" },
+                    { "start": "13.145", "text": "몇" },
+                    { "start": "13.651", "text": "마리나" },
+                    { "start": "14.351", "text": "세었니?" }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "¡Estrella cuenta cuatro patos!",
+                "textEN": "Estrella counts four ducks!",
+                "textPT": "Estrella conta quatro patos!",
+                "textCN": "埃斯特蕾拉数了四只鸭子！",
+                "textJP": "エストレラは4羽のアヒルの数を数えます！",
+                "textKR": "에스트레야가 오리를 네 마리 세었어요.",
+                "wordsES": [
+                    { "start": "0.4", "text": "¡Estrella" },
+                    { "start": "1.7", "text": "cuenta" },
+                    { "start": "2.2", "text": "cuatro" },
+                    { "start": "2.7", "text": "patos!" }
+                ],
+                "wordsEN": [
+                    { "start": "0.5", "text": "Estrella" },
+                    { "start": "1.3", "text": "counts" },
+                    { "start": "1.8", "text": "four" },
+                    { "start": "2.3", "text": "ducks!" }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "에스트레야가" },
+                    { "start": "1.640", "text": "오리를" },
+                    { "start": "2.849", "text": "네" },
+                    { "start": "3.340", "text": "마리" },
+                    { "start": "4.157", "text": "세었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "Estrella cuenta de cinco en cinco. ¿Cuántos patos cuentas?",
+                "textEN": "Estrella counts in fives. How many ducks do you count?",
+                "textPT": "Estrella conta de cinco em cinco. <br><br> Quantos patos você consegue contar?",
+                "textCN": "埃斯特蕾拉五只五只数。 <br><br> 你数了多少只鸭子？",
+                "textJP": "エストレラは5羽ずつ数を数えます。 <br> あなたは何羽のアヒルの数を数えますか？",
+                "textKR": "에스트레야가 오리를 다섯 마리씩 묶음으로 세어요. <br><br> 오리를 몇 마리나 세었니?",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "cinco"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "cinco."
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "¿Cuántos"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "patos"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "cuentas?"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "counts"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "in"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "fives."
+                    },
+                    {
+                        "start": "3.2",
+                        "text": "How"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "many"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "ducks"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "do"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "you"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "count?"
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "에스트레야가" },
+                    { "start": "1.729", "text": "오리를" },
+                    { "start": "3.052", "text": "다섯" },
+                    { "start": "3.923", "text": "마리씩" },
+                    { "start": "4.989", "text": "묶음으로" },
+                    { "start": "6.026", "text": "세어요." },
+                    { "start": "7.795", "text": "오리를" },
+                    { "start": "8.793", "text": "몇" },
+                    { "start": "9.299", "text": "마리나" },
+                    { "start": "9.999", "text": "세었니?" }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "¡Estrella cuenta veinte patos!",
+                "textEN": "Estrella counts twenty ducks!",
+                "textPT": "Estrella conta vinte patos!",
+                "textCN": "埃斯特蕾拉数了二十只鸭子！",
+                "textJP": "エストレラは20羽のアヒルの数を数えます！",
+                "textKR": "에스트레야가 오리를 20마리나 세었어요.",
+                "wordsES": [
+                    { "start": "0.1", "text": "¡Estrella" },
+                    { "start": "0.8", "text": "cuenta" },
+                    { "start": "1.4", "text": "veinte" },
+                    { "start": "2.0", "text": "patos!" }
+                ],
+                "wordsEN": [
+                    { "start": "0.1", "text": "Estrella" },
+                    { "start": "1.2", "text": "counts" },
+                    { "start": "1.9", "text": "twenty" },
+                    { "start": "2.4", "text": "ducks!" }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "에스트레야가" },
+                    { "start": "1.636", "text": "오리를" },
+                    { "start": "2.877", "text": "20마리나" },
+                    { "start": "4.660", "text": "세었어요." }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "Estrella cuenta de diez en diez. ¿Cuántos patos cuentas?",
+                "textEN": "Estrella counts in tens. How many ducks do you count?",
+                "textPT": "Estrella conta de dez em dez. <br><br> Quantos patos você consegue contar?",
+                "textCN": "埃斯特蕾拉十只十只数。 <br><br> 你数了多少只鸭子？",
+                "textJP": "エストレラは10羽ずつ数を数えます。 <br><br> あなたは何羽のアヒルの数を数えますか？",
+                "textKR": "에스트레야가 오리를 열 마리씩 묶음으로 세어요. <br><br> 오리를 몇 마리나 세었니?",
+                "wordsES": [
+                    {
+                        "start": "0.1",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "diez"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "en"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "diez."
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "¿Cuántos"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "patos"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "cuentas?"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.1",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "counts"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "in"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "tens."
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "How"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "many"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "ducks"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "do"
+                    },
+                    {
+                        "start": "4.2",
+                        "text": "you"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "count?"
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "에스트레야가" },
+                    { "start": "1.641", "text": "오리를" },
+                    { "start": "2.930", "text": "열" },
+                    { "start": "3.437", "text": "마리씩" },
+                    { "start": "4.508", "text": "묶음으로" },
+                    { "start": "5.560", "text": "세어요." },
+                    { "start": "7.427", "text": "오리를" },
+                    { "start": "8.425", "text": "몇" },
+                    { "start": "8.931", "text": "마리나" },
+                    { "start": "9.631", "text": "세었니?" }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "¡Estrella cuenta cuarenta patos! ¡Hay muchos patos en el parque!",
+                "textEN": "Estrella counts forty ducks. There are a lot of ducks in the park!",
+                "textPT": "Estrella conta quarenta patos! Há muitos patos no parque!",
+                "textCN": "埃斯特蕾拉数了四十只鸭子。公园里有很多鸭子！",
+                "textJP": "エストレラは40羽のアヒルの数を数えます。公園にはアヒルがたくさんいます！",
+                "textKR": "에스트레야가 오리를 40마리나 세었어요. 공원에 오리가 정말 많아요!",
+                "wordsES": [
+                    {
+                        "start": "0.4",
+                        "text": "¡Estrella"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "cuenta"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "cuarenta"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "patos!"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "¡Hay"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "muchos"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "patos"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "en"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "el"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "parque!"
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.5",
+                        "text": "Estrella"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "counts"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "forty"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "ducks."
+                    },
+                    {
+                        "start": "3.4",
+                        "text": "There"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "are"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "lot"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "of"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "ducks"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "in"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "park!"
+                    }
+                ],
+                "wordsKR": [
+                    { "start": "0.1", "text": "에스트레야가" },
+                    { "start": "1.590", "text": "오리를" },
+                    { "start": "2.618", "text": "40마리나" },
+                    { "start": "4.243", "text": "세었어요." },
+                    { "start": "6.245", "text": "공원에" },
+                    { "start": "7.374", "text": "오리가" },
+                    { "start": "8.709", "text": "정말" },
+                    { "start": "9.766", "text": "많아요!" }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

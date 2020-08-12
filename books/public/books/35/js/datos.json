@@ -1,0 +1,2706 @@
+{
+    "book": {
+        "titleEN": "Here Comes Ignorantia",
+        "titleES": "¡Ahí viene Ignorantia!",
+        "titlePT": "Lá vem a Ignorantia",
+        "titleCN": "Ignorantia来了",
+        "titleJP": "イグノランティアがきた！",
+        "titleKR": "이그노란티아가나타났다!",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textEN": "Every night, the Yogotars choose someone to guard the Yogomansion.</br></br>One day, it was Oof's turn. He wasn't very happy about it, but he accepted.  ",
+                "textES": "Todas las noches, los Yogotars, seleccionan a una persona para cuidar la Yogomansión. Una noche le tocó a Oof quién con poco gusto aceptó.",
+                "textPT": "Toda noite, os Yogotars escolhiam alguém para ficar de guarda na Yogomansão.</br></br<>Certo dia, chegou a vez de Oof. Ele não gostou muito, mas aceitou. ",
+                "textCN": "每天晚上，Yogotar都会选择一个人来守护Yogomansion。</br></br>这一天，轮到奥夫了。他虽然不太高兴，但还是接受了。 ",
+                "textJP": "ヨゴターたちは まいばん、ヨゴマンションを まもる人を えらびます。</br></br>ある日、ウーフが まもるばん でした。ウーフは あまり のりきでは ありませんでしたが ひきうけました。",
+                "textKR": "요고타들은 매일 밤마다 요고맨션을 경비하는 요고타를 뽑아요. 그 날은 우프의 순서였어요. 우프는 요고맨션을 경비하는 일이 즐겁지는 않았지만 하겠다고 했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.260",
+                        "text": " Todas"
+                    },
+                    {
+                        "start": "0.781",
+                        "text": "las"
+                    },
+                    {
+                        "start": "1.074",
+                        "text": "noches,"
+                    },
+                    {
+                        "start": "2.214",
+                        "text": "los"
+                    },
+                    {
+                        "start": "2.539",
+                        "text": "Yogotars,"
+                    },
+                    {
+                        "start": "3.516",
+                        "text": "seleccionan"
+                    },
+                    {
+                        "start": "4.395",
+                        "text": "a"
+                    },
+                    {
+                        "start": "4.591",
+                        "text": "una"
+                    },
+                    {
+                        "start": "4.819",
+                        "text": "persona"
+                    },
+                    {
+                        "start": "5.860",
+                        "text": "para"
+                    },
+                    {
+                        "start": "6.153",
+                        "text": "cuidar"
+                    },
+                    {
+                        "start": "6.674",
+                        "text": "la"
+                    },
+                    {
+                        "start": "6.967",
+                        "text": "Yogomansión."
+                    },
+                    {
+                        "start": "9.604",
+                        "text": "Una"
+                    },
+                    {
+                        "start": "10.056",
+                        "text": "noche"
+                    },
+                    {
+                        "start": "10.907",
+                        "text": "le"
+                    },
+                    {
+                        "start": "11.167",
+                        "text": "tocó"
+                    },
+                    {
+                        "start": "11.493",
+                        "text": "a"
+                    },
+                    {
+                        "start": "11.753",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "12.542",
+                        "text": "quién"
+                    },
+                    {
+                        "start": "12.893",
+                        "text": "con"
+                    },
+                    {
+                        "start": "13.218",
+                        "text": "poco"
+                    },
+                    {
+                        "start": "13.707",
+                        "text": "gusto"
+                    },
+                    {
+                        "start": "14.358",
+                        "text": "aceptó."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.610",
+                        "text": "Every"
+                    },
+                    {
+                        "start": "0.941",
+                        "text": "night,"
+                    },
+                    {
+                        "start": "1.373",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.526",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "2.314",
+                        "text": "choose"
+                    },
+                    {
+                        "start": "2.644",
+                        "text": "someone"
+                    },
+                    {
+                        "start": "3.153",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.331",
+                        "text": "guard"
+                    },
+                    {
+                        "start": "3.636",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.763",
+                        "text": "Yogomansion."
+                    },
+                    {
+                        "start": "5.416",
+                        "text": "One"
+                    },
+                    {
+                        "start": "5.696",
+                        "text": "day,"
+                    },
+                    {
+                        "start": "6.179",
+                        "text": "it"
+                    },
+                    {
+                        "start": "6.331",
+                        "text": "was"
+                    },
+                    {
+                        "start": "6.585",
+                        "text": "Oof's"
+                    },
+                    {
+                        "start": "6.941",
+                        "text": "turn."
+                    },
+                    {
+                        "start": "8.111",
+                        "text": "He"
+                    },
+                    {
+                        "start": "8.213",
+                        "text": "wasn't"
+                    },
+                    {
+                        "start": "8.620",
+                        "text": "very"
+                    },
+                    {
+                        "start": "8.950",
+                        "text": "happy"
+                    },
+                    {
+                        "start": "9.306",
+                        "text": "about"
+                    },
+                    {
+                        "start": "9.586",
+                        "text": "it,"
+                    },
+                    {
+                        "start": "9.891",
+                        "text": "but"
+                    },
+                    {
+                        "start": "10.221",
+                        "text": "he"
+                    },
+                    {
+                        "start": "10.425",
+                        "text": "accepted."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "요고타들은"
+                    },
+                    {
+                        "start": "1.934",
+                        "text": "매일"
+                    },
+                    {
+                        "start": "2.711",
+                        "text": "밤마다"
+                    },
+                    {
+                        "start": "4.321",
+                        "text": "요고맨션을"
+                    },
+                    {
+                        "start": "6.074",
+                        "text": "경비하는"
+                    },
+                    {
+                        "start": "7.727",
+                        "text": "요고타를"
+                    },
+                    {
+                        "start": "9.087",
+                        "text": "뽑아요."
+                    },
+                    {
+                        "start": "11.511",
+                        "text": "그"
+                    },
+                    {
+                        "start": "12.017",
+                        "text": "날은"
+                    },
+                    {
+                        "start": "13.243",
+                        "text": "우프의"
+                    },
+                    {
+                        "start": "14.365",
+                        "text": "순서였어요."
+                    },
+                    {
+                        "start": "17.746",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "19.192",
+                        "text": "요고맨션을"
+                    },
+                    {
+                        "start": "20.660",
+                        "text": "경비하는"
+                    },
+                    {
+                        "start": "21.862",
+                        "text": "일이"
+                    },
+                    {
+                        "start": "23.070",
+                        "text": "즐겁지는"
+                    },
+                    {
+                        "start": "24.400",
+                        "text": "않았지만"
+                    },
+                    {
+                        "start": "26.020",
+                        "text": "하겠다고"
+                    },
+                    {
+                        "start": "27.415",
+                        "text": "했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textEN": "It was a boring task, so Oof thought of an idea to stay entertained.</br></br>He thought it might be funny to push the panic button to wake up the rest of the Yogotars.",
+                "textES": "Oof, aburrido, tuvo una idea que consideró buena. Activó la alarma de peligro para que todos los Yogotars se despertaran.",
+                "textPT": "Como era uma tarefa chata, Oof teve uma ideia para se entreter.</br></br>Ele achou que seria divertido apertar o botão de pânico para acordar os outros Yogotars.",
+                "textCN": "这是一项无聊的任务，所以奥夫想到了一个找乐子的主意。</br></br>他觉得按下紧急按钮来叫醒其他Yogotar肯定很好玩。 ",
+                "textJP": "そのしごとは つまらないもの だったので、ウーフは おもしろくする ほうほうを かんがえました。</br></br>ウーフは パニックボタンをおして ヨゴターのみんなを おこしたら おもしろい かもしれないと おもいました。」",
+                "textKR": "요고맨션을 경비하는 일은 지루했어요. 그래서 우프는 재미있는 일을 하면서 시간을 보내기로 했어요. 우프는 비상 단추를 눌러서 모두를 깨우면 재미있을 거라고 생각했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.423",
+                        "text": "Oof,"
+                    },
+                    {
+                        "start": "1.237",
+                        "text": "aburrido,"
+                    },
+                    {
+                        "start": "2.800",
+                        "text": "tuvo"
+                    },
+                    {
+                        "start": "3.288",
+                        "text": "una"
+                    },
+                    {
+                        "start": "3.484",
+                        "text": "idea"
+                    },
+                    {
+                        "start": "4.135",
+                        "text": "que"
+                    },
+                    {
+                        "start": "4.298",
+                        "text": "consideró"
+                    },
+                    {
+                        "start": "5.079",
+                        "text": "buena."
+                    },
+                    {
+                        "start": "7.000",
+                        "text": "Activó"
+                    },
+                    {
+                        "start": "7.716",
+                        "text": "la"
+                    },
+                    {
+                        "start": "7.814",
+                        "text": "alarma"
+                    },
+                    {
+                        "start": "8.270",
+                        "text": "de"
+                    },
+                    {
+                        "start": "8.400",
+                        "text": "peligro"
+                    },
+                    {
+                        "start": "9.279",
+                        "text": "para"
+                    },
+                    {
+                        "start": "9.572",
+                        "text": "que"
+                    },
+                    {
+                        "start": "9.767",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "10.353",
+                        "text": "los"
+                    },
+                    {
+                        "start": "10.581",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "11.200",
+                        "text": "se"
+                    },
+                    {
+                        "start": "11.460",
+                        "text": "despertaran."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.610",
+                        "text": "It"
+                    },
+                    {
+                        "start": "0.788",
+                        "text": "was"
+                    },
+                    {
+                        "start": "0.966",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.195",
+                        "text": "boring"
+                    },
+                    {
+                        "start": "1.678",
+                        "text": "task,"
+                    },
+                    {
+                        "start": "2.594",
+                        "text": "so"
+                    },
+                    {
+                        "start": "2.899",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "3.305",
+                        "text": "thought"
+                    },
+                    {
+                        "start": "3.483",
+                        "text": "of"
+                    },
+                    {
+                        "start": "3.611",
+                        "text": "an"
+                    },
+                    {
+                        "start": "3.738",
+                        "text": "idea"
+                    },
+                    {
+                        "start": "4.297",
+                        "text": "to"
+                    },
+                    {
+                        "start": "4.450",
+                        "text": "stay"
+                    },
+                    {
+                        "start": "4.831",
+                        "text": "entertained."
+                    },
+                    {
+                        "start": "6.280",
+                        "text": "He"
+                    },
+                    {
+                        "start": "6.509",
+                        "text": "thought"
+                    },
+                    {
+                        "start": "6.814",
+                        "text": "it"
+                    },
+                    {
+                        "start": "6.967",
+                        "text": "might"
+                    },
+                    {
+                        "start": "7.196",
+                        "text": "be"
+                    },
+                    {
+                        "start": "7.425",
+                        "text": "funny"
+                    },
+                    {
+                        "start": "7.857",
+                        "text": "to"
+                    },
+                    {
+                        "start": "8.060",
+                        "text": "push"
+                    },
+                    {
+                        "start": "8.314",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.518",
+                        "text": "panic"
+                    },
+                    {
+                        "start": "8.950",
+                        "text": "button"
+                    },
+                    {
+                        "start": "9.332",
+                        "text": "to"
+                    },
+                    {
+                        "start": "9.459",
+                        "text": "wake"
+                    },
+                    {
+                        "start": "9.738",
+                        "text": "up"
+                    },
+                    {
+                        "start": "9.916",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.069",
+                        "text": "rest"
+                    },
+                    {
+                        "start": "10.323",
+                        "text": "of"
+                    },
+                    {
+                        "start": "10.501",
+                        "text": "the"
+                    },
+                    {
+                        "start": "10.654",
+                        "text": "Yogotars."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "요고맨션을"
+                    },
+                    {
+                        "start": "1.542",
+                        "text": "경비하는"
+                    },
+                    {
+                        "start": "2.723",
+                        "text": "일은"
+                    },
+                    {
+                        "start": "4.013",
+                        "text": "지루했어요."
+                    },
+                    {
+                        "start": "6.945",
+                        "text": "그래서"
+                    },
+                    {
+                        "start": "8.269",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "9.768",
+                        "text": "재미있는"
+                    },
+                    {
+                        "start": "10.873",
+                        "text": "일을"
+                    },
+                    {
+                        "start": "11.735",
+                        "text": "하면서"
+                    },
+                    {
+                        "start": "13.300",
+                        "text": "시간을"
+                    },
+                    {
+                        "start": "14.547",
+                        "text": "보내기로"
+                    },
+                    {
+                        "start": "15.566",
+                        "text": "했어요."
+                    },
+                    {
+                        "start": "18.376",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "19.775",
+                        "text": "비상"
+                    },
+                    {
+                        "start": "20.569",
+                        "text": "단추를"
+                    },
+                    {
+                        "start": "21.600",
+                        "text": "눌러서"
+                    },
+                    {
+                        "start": "23.231",
+                        "text": "모두를"
+                    },
+                    {
+                        "start": "24.195",
+                        "text": "깨우면"
+                    },
+                    {
+                        "start": "25.469",
+                        "text": "재미있을"
+                    },
+                    {
+                        "start": "26.526",
+                        "text": "거라고"
+                    },
+                    {
+                        "start": "27.438",
+                        "text": "생각했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textEN": "The powerful alarm went off, scaring Justice and Dinamita out of bed. <br><br>When they arrived to the control tower, Oof couldn't stop laughing. &#34;False alarm,&#34; he said &#34;it was just a joke!&#34;",
+                "textES": "La alarma se activó y de inmediato, Justice y Dinamita llegaron.<br><br>–Falsa alarma, es sólo una broma –dijo Oof mientras se carcajeaba.",
+                "textPT": "O alarme potente disparou, assustando Justice e Dinamita, que levantaram na mesma hora. <br><br>Quando eles chegaram à torre de controle, Oof não conseguia parar de rir. <br><br>“Alarme falso”, disse ele. “Foi só uma brincadeira!” ",
+                "textCN": "尖锐的警报声响起，把贾斯蒂斯和迪纳米塔吓得掉下床去。<br><br>当他们到达指挥塔时，奥夫忍不住笑了起来。<br><br>“虚惊一场，”他说，“这只是个玩笑！” ",
+                "textJP": "おおきなおとで けいほうが なりました。ジャスティスと ディナミタは ベッドから とびあがりました。<br><br>みんなが コントロールタワーに やってくると、ウーフは ケラケラ わらって いいました。<br><br>「うそだよ！じょうだんさ！」 ",
+                "textKR": "비상 단추를 누르자 알람이 아주 크게 울렸어요. 저스티스와 다이나미타는 깜짝 놀라서 침대 밖으로 뛰쳐나왔어요. 두 요고타가 관제탑에 도착했을 때 우프는 자지러지게 웃고 있었어요. <br><br>&#34;이건 가짜 알람이었어.&#34; 우프가 말했어요. <br><br>&#34;내가 장난을 친 거야.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.533",
+                        "text": "La"
+                    },
+                    {
+                        "start": "0.781",
+                        "text": "alarma"
+                    },
+                    {
+                        "start": "1.367",
+                        "text": "se"
+                    },
+                    {
+                        "start": "1.530",
+                        "text": "activó"
+                    },
+                    {
+                        "start": "2.507",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.670",
+                        "text": "de"
+                    },
+                    {
+                        "start": "2.833",
+                        "text": "inmediato,"
+                    },
+                    {
+                        "start": "3.744",
+                        "text": "Justice"
+                    },
+                    {
+                        "start": "4.330",
+                        "text": "y"
+                    },
+                    {
+                        "start": "4.428",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "5.112",
+                        "text": "llegaron."
+                    },
+                    {
+                        "start": "7.423",
+                        "text": "–Falsa"
+                    },
+                    {
+                        "start": "7.879",
+                        "text": "alarma,"
+                    },
+                    {
+                        "start": "9.051",
+                        "text": "es"
+                    },
+                    {
+                        "start": "9.311",
+                        "text": "sólo"
+                    },
+                    {
+                        "start": "9.702",
+                        "text": "una"
+                    },
+                    {
+                        "start": "9.963",
+                        "text": "broma"
+                    },
+                    {
+                        "start": "11.949",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "12.502",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "13.186",
+                        "text": "mientras"
+                    },
+                    {
+                        "start": "13.739",
+                        "text": "se"
+                    },
+                    {
+                        "start": "14.032",
+                        "text": "carcajeaba."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.666",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.936",
+                        "text": "powerful"
+                    },
+                    {
+                        "start": "1.483",
+                        "text": "alarm"
+                    },
+                    {
+                        "start": "1.935",
+                        "text": "went"
+                    },
+                    {
+                        "start": "2.288",
+                        "text": "off,"
+                    },
+                    {
+                        "start": "2.624",
+                        "text": "scaring"
+                    },
+                    {
+                        "start": "3.219",
+                        "text": "Justice"
+                    },
+                    {
+                        "start": "3.679",
+                        "text": "and"
+                    },
+                    {
+                        "start": "3.901",
+                        "text": "Dinamita"
+                    },
+                    {
+                        "start": "4.559",
+                        "text": "out"
+                    },
+                    {
+                        "start": "4.710",
+                        "text": "of"
+                    },
+                    {
+                        "start": "4.884",
+                        "text": "bed."
+                    },
+                    {
+                        "start": "5.883",
+                        "text": "When"
+                    },
+                    {
+                        "start": "6.010",
+                        "text": "they"
+                    },
+                    {
+                        "start": "6.145",
+                        "text": "arrived"
+                    },
+                    {
+                        "start": "6.644",
+                        "text": "to"
+                    },
+                    {
+                        "start": "6.755",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.890",
+                        "text": "control"
+                    },
+                    {
+                        "start": "7.334",
+                        "text": "tower,"
+                    },
+                    {
+                        "start": "8.127",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "8.539",
+                        "text": "couldn't"
+                    },
+                    {
+                        "start": "8.848",
+                        "text": "stop"
+                    },
+                    {
+                        "start": "9.237",
+                        "text": "laughing."
+                    },
+                    {
+                        "start": "10.402",
+                        "text": "False"
+                    },
+                    {
+                        "start": "10.815",
+                        "text": "alarm,"
+                    },
+                    {
+                        "start": "11.758",
+                        "text": "he"
+                    },
+                    {
+                        "start": "11.925",
+                        "text": "said"
+                    },
+                    {
+                        "start": "12.694",
+                        "text": "it"
+                    },
+                    {
+                        "start": "12.844",
+                        "text": "was"
+                    },
+                    {
+                        "start": "13.161",
+                        "text": "just"
+                    },
+                    {
+                        "start": "13.518",
+                        "text": "a"
+                    },
+                    {
+                        "start": "13.732",
+                        "text": "joke!"
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "비상"
+                    },
+                    {
+                        "start": "0.792",
+                        "text": "단추를"
+                    },
+                    {
+                        "start": "1.787",
+                        "text": "누르자"
+                    },
+                    {
+                        "start": "3.162",
+                        "text": "알람이"
+                    },
+                    {
+                        "start": "4.635",
+                        "text": "아주"
+                    },
+                    {
+                        "start": "5.671",
+                        "text": "크게"
+                    },
+                    {
+                        "start": "6.530",
+                        "text": "울렸어요."
+                    },
+                    {
+                        "start": "11.379",
+                        "text": "저스티스와"
+                    },
+                    {
+                        "start": "13.257",
+                        "text": "다이나미타는"
+                    },
+                    {
+                        "start": "15.344",
+                        "text": "깜짝"
+                    },
+                    {
+                        "start": "16.311",
+                        "text": "놀라서"
+                    },
+                    {
+                        "start": "17.634",
+                        "text": "침대"
+                    },
+                    {
+                        "start": "18.408",
+                        "text": "밖으로"
+                    },
+                    {
+                        "start": "19.828",
+                        "text": "뛰쳐나왔어요."
+                    },
+                    {
+                        "start": "23.111",
+                        "text": "두"
+                    },
+                    {
+                        "start": "23.606",
+                        "text": "요고타가"
+                    },
+                    {
+                        "start": "25.351",
+                        "text": "관제탑에"
+                    },
+                    {
+                        "start": "27.046",
+                        "text": "도착했을"
+                    },
+                    {
+                        "start": "28.149",
+                        "text": "때"
+                    },
+                    {
+                        "start": "29.400",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "30.782",
+                        "text": "자지러지게"
+                    },
+                    {
+                        "start": "32.821",
+                        "text": "웃고"
+                    },
+                    {
+                        "start": "33.910",
+                        "text": "있었어요."
+                    },
+                    {
+                        "start": "36.502",
+                        "text": "이건"
+                    },
+                    {
+                        "start": "38.317",
+                        "text": "가짜"
+                    },
+                    {
+                        "start": "38.800",
+                        "text": "알람이었어."
+                    },
+                    {
+                        "start": "42.049",
+                        "text": "우프가"
+                    },
+                    {
+                        "start": "43.225",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "45.441",
+                        "text": "내가"
+                    },
+                    {
+                        "start": "46.324",
+                        "text": "장난을"
+                    },
+                    {
+                        "start": "47.246",
+                        "text": "친"
+                    },
+                    {
+                        "start": "47.561",
+                        "text": "거야."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textEN": "The night went on and Oof kept pushing the panic button. <br><br>Eventually, the other Yogotars stopped noticing the alarm.",
+                "textES": "La noche siguió y Oof continuó con la broma. Hasta que el resto de los Yogotars dejaron de caer en la trampa.",
+                "textPT": "Oof continuou apertando o botão de pânico naquela noite. <br><br>Com o tempo, os outros Yogotars pararam de dar atenção ao alarme.",
+                "textCN": "夜深了，奥夫不停地按下紧急按钮。<br><br>最终，其他Yogotar再也不理会警报了。",
+                "textJP": "よるのあいだ ウーフは パニックボタンを なんども おしました。<br><br>やがて ほかのヨゴターたちは けいほうが なっても おきあがるのを やめました。",
+                "textKR": "우프는 밤새도록 비상 단추를 누르는 장난을 계속했어요. <br><br>마침내 다른 요고타들은 알람을 신경 쓰지 않았어요.",
+                "wordsES": [
+                    {
+                        "start": "0.533",
+                        "text": "La"
+                    },
+                    {
+                        "start": "0.814",
+                        "text": "noche"
+                    },
+                    {
+                        "start": "1.205",
+                        "text": "siguió"
+                    },
+                    {
+                        "start": "2.181",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.507",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "2.898",
+                        "text": "continuó"
+                    },
+                    {
+                        "start": "3.581",
+                        "text": "con"
+                    },
+                    {
+                        "start": "3.809",
+                        "text": "la"
+                    },
+                    {
+                        "start": "3.939",
+                        "text": "broma."
+                    },
+                    {
+                        "start": "5.405",
+                        "text": "Hasta"
+                    },
+                    {
+                        "start": "5.795",
+                        "text": "que"
+                    },
+                    {
+                        "start": "5.893",
+                        "text": "el"
+                    },
+                    {
+                        "start": "6.023",
+                        "text": "resto"
+                    },
+                    {
+                        "start": "6.414",
+                        "text": "de"
+                    },
+                    {
+                        "start": "6.544",
+                        "text": "los"
+                    },
+                    {
+                        "start": "6.739",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "7.749",
+                        "text": "dejaron"
+                    },
+                    {
+                        "start": "8.270",
+                        "text": "de"
+                    },
+                    {
+                        "start": "8.465",
+                        "text": "caer"
+                    },
+                    {
+                        "start": "8.693",
+                        "text": "en"
+                    },
+                    {
+                        "start": "8.888",
+                        "text": "la"
+                    },
+                    {
+                        "start": "9.051",
+                        "text": "trampa."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.661",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.788",
+                        "text": "night"
+                    },
+                    {
+                        "start": "0.992",
+                        "text": "went"
+                    },
+                    {
+                        "start": "1.144",
+                        "text": "on"
+                    },
+                    {
+                        "start": "1.551",
+                        "text": "and"
+                    },
+                    {
+                        "start": "1.805",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "2.161",
+                        "text": "kept"
+                    },
+                    {
+                        "start": "2.543",
+                        "text": "pushing"
+                    },
+                    {
+                        "start": "2.848",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.127",
+                        "text": "panic"
+                    },
+                    {
+                        "start": "3.458",
+                        "text": "button."
+                    },
+                    {
+                        "start": "4.500",
+                        "text": "Eventually"
+                    },
+                    {
+                        "start": "5.492",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.721",
+                        "text": "other"
+                    },
+                    {
+                        "start": "5.899",
+                        "text": "Yogotars"
+                    },
+                    {
+                        "start": "6.789",
+                        "text": "stopped"
+                    },
+                    {
+                        "start": "7.196",
+                        "text": "noticing"
+                    },
+                    {
+                        "start": "7.704",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.882",
+                        "text": "alarm."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.104",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "1.534",
+                        "text": "밤새도록"
+                    },
+                    {
+                        "start": "3.272",
+                        "text": "비상"
+                    },
+                    {
+                        "start": "4.005",
+                        "text": "단추를"
+                    },
+                    {
+                        "start": "5.055",
+                        "text": "누르는"
+                    },
+                    {
+                        "start": "6.194",
+                        "text": "장난을"
+                    },
+                    {
+                        "start": "7.686",
+                        "text": "계속했어요."
+                    },
+                    {
+                        "start": "10.714",
+                        "text": "마침내"
+                    },
+                    {
+                        "start": "12.128",
+                        "text": "다른"
+                    },
+                    {
+                        "start": "12.780",
+                        "text": "요고타들은"
+                    },
+                    {
+                        "start": "14.756",
+                        "text": "알람을"
+                    },
+                    {
+                        "start": "16.048",
+                        "text": "신경"
+                    },
+                    {
+                        "start": "16.791",
+                        "text": "쓰지"
+                    },
+                    {
+                        "start": "17.815",
+                        "text": "않았어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textEN": "The sun was almost out, when suddenly Ignorantia appeared on the screen.</br></br>Oof started pushing the panic button frantically. This time nobody showed up. ",
+                "textES": "La noche estaba por terminar, cuando de pronto Ignorantia apareció en la pantalla.</br></br>Oof de inmediato activó la alarma, pero nadie llegó. ",
+                "textPT": "O sol já estava quase nascendo quando, de repente, Ignorantia apareceu na tela.</br></br>Oof começou a apertar o botão de pânico freneticamente. Dessa vez, ninguém apareceu. ",
+                "textCN": "太阳快要出来了，突然屏幕上出现了Ignorantia的画面。</br></br>奥夫开始疯狂地按下紧急按钮。这次没人来。 ",
+                "textJP": "もうすぐ あさになるところで とつぜん、イグノランティアが がめんにあらわれました。</br></br>ウーフは ひっし でパニックボタンを おしましたが、だれも たすけに きませんでした。 ",
+                "textKR": "해가 거의 떴을 때, 이그노란티아 여왕이 갑자기 화면에 나타났어요. </br></br>우프는 비상 단추를 급하게 눌렀어요. 이번에는 아무도 달려오지 않았어요.",
+                "wordsES": [
+                    {
+                        "start": "0.586",
+                        "text": "La"
+                    },
+                    {
+                        "start": "0.781",
+                        "text": "noche"
+                    },
+                    {
+                        "start": "1.302",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "1.693",
+                        "text": "por"
+                    },
+                    {
+                        "start": "1.953",
+                        "text": "terminar,"
+                    },
+                    {
+                        "start": "3.158",
+                        "text": "cuando"
+                    },
+                    {
+                        "start": "3.516",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.744",
+                        "text": "pronto"
+                    },
+                    {
+                        "start": "4.591",
+                        "text": "Ignorantia"
+                    },
+                    {
+                        "start": "5.502",
+                        "text": "apareció"
+                    },
+                    {
+                        "start": "6.186",
+                        "text": "en"
+                    },
+                    {
+                        "start": "6.316",
+                        "text": "la"
+                    },
+                    {
+                        "start": "6.446",
+                        "text": "pantalla."
+                    },
+                    {
+                        "start": "8.856",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "9.279",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.344",
+                        "text": "inmediato"
+                    },
+                    {
+                        "start": "10.386",
+                        "text": "activó"
+                    },
+                    {
+                        "start": "10.907",
+                        "text": "la"
+                    },
+                    {
+                        "start": "10.972",
+                        "text": "alarma,"
+                    },
+                    {
+                        "start": "12.046",
+                        "text": "pero"
+                    },
+                    {
+                        "start": "12.404",
+                        "text": "nadie"
+                    },
+                    {
+                        "start": "12.893",
+                        "text": "llegó."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.636",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.839",
+                        "text": "sun"
+                    },
+                    {
+                        "start": "1.195",
+                        "text": "was"
+                    },
+                    {
+                        "start": "1.424",
+                        "text": "almost"
+                    },
+                    {
+                        "start": "1.856",
+                        "text": " out,"
+                    },
+                    {
+                        "start": "2.416",
+                        "text": "when"
+                    },
+                    {
+                        "start": "2.670",
+                        "text": "suddenly"
+                    },
+                    {
+                        "start": "3.407",
+                        "text": "Ignorantia"
+                    },
+                    {
+                        "start": "4.577",
+                        "text": "appeared"
+                    },
+                    {
+                        "start": "4.882",
+                        "text": "on"
+                    },
+                    {
+                        "start": "4.958",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.060",
+                        "text": "screen."
+                    },
+                    {
+                        "start": "6.458",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "6.636",
+                        "text": "started"
+                    },
+                    {
+                        "start": "7.145",
+                        "text": "pushing"
+                    },
+                    {
+                        "start": "7.501",
+                        "text": "the"
+                    },
+                    {
+                        "start": "7.603",
+                        "text": "panic"
+                    },
+                    {
+                        "start": "8.035",
+                        "text": "button"
+                    },
+                    {
+                        "start": "8.467",
+                        "text": "frantically."
+                    },
+                    {
+                        "start": "10.018",
+                        "text": "This"
+                    },
+                    {
+                        "start": "10.272",
+                        "text": "time"
+                    },
+                    {
+                        "start": "10.883",
+                        "text": "nobody"
+                    },
+                    {
+                        "start": "11.264",
+                        "text": "showed"
+                    },
+                    {
+                        "start": "11.849",
+                        "text": "up."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "해가"
+                    },
+                    {
+                        "start": "1.302",
+                        "text": "거의"
+                    },
+                    {
+                        "start": "2.131",
+                        "text": "떴을"
+                    },
+                    {
+                        "start": "2.868",
+                        "text": "때,"
+                    },
+                    {
+                        "start": "3.857",
+                        "text": "이그노란티아"
+                    },
+                    {
+                        "start": "5.400",
+                        "text": "여왕이"
+                    },
+                    {
+                        "start": "6.714",
+                        "text": "갑자기"
+                    },
+                    {
+                        "start": "8.289",
+                        "text": "화면에"
+                    },
+                    {
+                        "start": "9.334",
+                        "text": "나타났어요."
+                    },
+                    {
+                        "start": "12.577",
+                        "text": "우프는"
+                    },
+                    {
+                        "start": "14.005",
+                        "text": "비상"
+                    },
+                    {
+                        "start": "14.790",
+                        "text": "단추를"
+                    },
+                    {
+                        "start": "16.300",
+                        "text": "급하게"
+                    },
+                    {
+                        "start": "17.400",
+                        "text": "눌렀어요."
+                    },
+                    {
+                        "start": "19.825",
+                        "text": "이번에는"
+                    },
+                    {
+                        "start": "21.300",
+                        "text": "아무도"
+                    },
+                    {
+                        "start": "22.654",
+                        "text": "달려오지"
+                    },
+                    {
+                        "start": "24.122",
+                        "text": "않았어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textEN": "The next morning, Justice found Oof looking sad and troubled. </br></br>&#34;What's wrong, Oof?&#34; asked Justice.</br></br> &#34;Ignorantia took the power cube bank, and it's all my fault,&#34; answered Oof. &#34;I set the alarm off and no one came to help me. They thought it was just another one of my pranks.&#34; ",
+                "textES": "Por la mañana, Justice encontró a Oof, se veía triste y afligido.</br></br>–¿Qué pasa Oof? –preguntó Justice. </br></br>–Ignorantia robó el banco de power cubes. Es mi culpa, activé la alarma y nadie acudió porque pensaron que era otra de mis bromas –dijo Oof.",
+                "textPT": "Na manhã seguinte, Justice encontrou Oof triste e preocupado. </br>“Qual é o problema, Oof?”, perguntou Justice. </br>“Ignorantia invadiu o cofre de Powercubes, e é tudo culpa minha”, respondeu Oof. </br>“Eu disparei o alarme, mas ninguém veio me ajudar. Eles acharam que era só mais uma das minhas brincadeiras.” ",
+                "textCN": "第二天早上，贾斯蒂斯发现奥夫看起来很伤心，也很苦恼。</br>“怎么了，奥夫？”贾斯蒂斯问道。</br>“Ignorantia拿走了能量块组，这都是我的错。”奥夫回答。</br>“我拉响警报，但没有人来帮助我。他们以为那只是我的又一个恶作剧。” ",
+                "textJP": "つぎのあさ、ウーフが かなしいかおを しているのを ジャスティスが みつけました。</br>「ウーフ、どうしたの？」ジャスティスが たずねました。</br>「イグノランティアが パワーキューブを ぎんこうから ぬすんだんだ。ぜんぶ ぼくのせいだ」ウーフは こたえました。</br>「けいほうを ならしたけど だれも たすけにこなかった。みんな また じょうだんだと おもったんだ。」 ",
+                "textKR": "다음 날 아침, 저스티스는 슬프고 불안해하는 우프를 보았어요. </br>&#34;무슨 일이야 우프야?&#34; 저스티스가 물었어요. </br>&#34;이그노란티아가 파워 큐브를 가져갔어. 모두 내 잘못이야. &#34;우프가 대답했어요. </br>&#34;내가 알람을 울렸지만 아무도 나를 도와주러 오지 않았어. 다들 내가 또 장난을 친다고 생각했어.&#34;",
+                "wordsES": [
+                    {
+                        "start": "0.391",
+                        "text": "Por"
+                    },
+                    {
+                        "start": "0.651",
+                        "text": "la"
+                    },
+                    {
+                        "start": "0.847",
+                        "text": "mañana,"
+                    },
+                    {
+                        "start": "2.051",
+                        "text": "Justice"
+                    },
+                    {
+                        "start": "2.605",
+                        "text": "encontró"
+                    },
+                    {
+                        "start": "3.321",
+                        "text": "a"
+                    },
+                    {
+                        "start": "3.581",
+                        "text": "Oof,"
+                    },
+                    {
+                        "start": "4.558",
+                        "text": "se"
+                    },
+                    {
+                        "start": "4.851",
+                        "text": "veía"
+                    },
+                    {
+                        "start": "5.470",
+                        "text": "triste"
+                    },
+                    {
+                        "start": "6.218",
+                        "text": "y"
+                    },
+                    {
+                        "start": "6.414",
+                        "text": "afligido."
+                    },
+                    {
+                        "start": "8.986",
+                        "text": "–¿Qué"
+                    },
+                    {
+                        "start": "9.279",
+                        "text": "pasa"
+                    },
+                    {
+                        "start": "9.865",
+                        "text": "Oof?"
+                    },
+                    {
+                        "start": "11.460",
+                        "text": "–preguntó"
+                    },
+                    {
+                        "start": "12.111",
+                        "text": "Justice."
+                    },
+                    {
+                        "start": "14.716",
+                        "text": "–Ignorantia"
+                    },
+                    {
+                        "start": "15.562",
+                        "text": "robó"
+                    },
+                    {
+                        "start": "15.890",
+                        "text": "el"
+                    },
+                    {
+                        "start": "16.148",
+                        "text": "banco"
+                    },
+                    {
+                        "start": "16.572",
+                        "text": "de"
+                    },
+                    {
+                        "start": "16.832",
+                        "text": "power"
+                    },
+                    {
+                        "start": "17.158",
+                        "text": "cubes."
+                    },
+                    {
+                        "start": "18.655",
+                        "text": "Es"
+                    },
+                    {
+                        "start": "18.851",
+                        "text": "mi"
+                    },
+                    {
+                        "start": "19.111",
+                        "text": "culpa,"
+                    },
+                    {
+                        "start": "20.088",
+                        "text": "activé"
+                    },
+                    {
+                        "start": "20.576",
+                        "text": "la"
+                    },
+                    {
+                        "start": "20.674",
+                        "text": "alarma"
+                    },
+                    {
+                        "start": "21.455",
+                        "text": "y"
+                    },
+                    {
+                        "start": "21.683",
+                        "text": "nadie"
+                    },
+                    {
+                        "start": "22.041",
+                        "text": "acudió"
+                    },
+                    {
+                        "start": "22.855",
+                        "text": "porque"
+                    },
+                    {
+                        "start": "23.181",
+                        "text": "pensaron"
+                    },
+                    {
+                        "start": "23.799",
+                        "text": "que"
+                    },
+                    {
+                        "start": "23.995",
+                        "text": "era"
+                    },
+                    {
+                        "start": "24.483",
+                        "text": "otra"
+                    },
+                    {
+                        "start": "24.874",
+                        "text": "de"
+                    },
+                    {
+                        "start": "25.102",
+                        "text": "mis"
+                    },
+                    {
+                        "start": "25.265",
+                        "text": "bromas"
+                    },
+                    {
+                        "start": "26.958",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "27.446",
+                        "text": "Oof."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.661",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.737",
+                        "text": "next"
+                    },
+                    {
+                        "start": "1.068",
+                        "text": "morning,"
+                    },
+                    {
+                        "start": "1.958",
+                        "text": "Justice"
+                    },
+                    {
+                        "start": "2.517",
+                        "text": "found"
+                    },
+                    {
+                        "start": "2.797",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "3.077",
+                        "text": "looking"
+                    },
+                    {
+                        "start": "3.534",
+                        "text": "sad"
+                    },
+                    {
+                        "start": "4.043",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.246",
+                        "text": "troubled. "
+                    },
+                    {
+                        "start": "5.416",
+                        "text": "What's"
+                    },
+                    {
+                        "start": "5.696",
+                        "text": "wrong,"
+                    },
+                    {
+                        "start": "6.128",
+                        "text": "Oof?"
+                    },
+                    {
+                        "start": "6.713",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "7.247",
+                        "text": "Justice."
+                    },
+                    {
+                        "start": "8.620",
+                        "text": "Ignorantia"
+                    },
+                    {
+                        "start": "9.357",
+                        "text": "took"
+                    },
+                    {
+                        "start": "9.586",
+                        "text": "the"
+                    },
+                    {
+                        "start": "9.764",
+                        "text": "power"
+                    },
+                    {
+                        "start": "10.171",
+                        "text": "cube"
+                    },
+                    {
+                        "start": "10.501",
+                        "text": "bank,"
+                    },
+                    {
+                        "start": "10.883",
+                        "text": "and"
+                    },
+                    {
+                        "start": "11.162",
+                        "text": "it's"
+                    },
+                    {
+                        "start": "11.315",
+                        "text": "all"
+                    },
+                    {
+                        "start": "11.595",
+                        "text": "my"
+                    },
+                    {
+                        "start": "12.001",
+                        "text": "fault,"
+                    },
+                    {
+                        "start": "13.044",
+                        "text": "answered"
+                    },
+                    {
+                        "start": "13.501",
+                        "text": "Oof."
+                    },
+                    {
+                        "start": "14.417",
+                        "text": "I"
+                    },
+                    {
+                        "start": "14.595",
+                        "text": "set"
+                    },
+                    {
+                        "start": "14.900",
+                        "text": "the"
+                    },
+                    {
+                        "start": "15.053",
+                        "text": "alarm"
+                    },
+                    {
+                        "start": "15.334",
+                        "text": "off"
+                    },
+                    {
+                        "start": "15.841",
+                        "text": "and"
+                    },
+                    {
+                        "start": "16.019",
+                        "text": "no"
+                    },
+                    {
+                        "start": "16.146",
+                        "text": "one"
+                    },
+                    {
+                        "start": "16.324",
+                        "text": "came"
+                    },
+                    {
+                        "start": "16.553",
+                        "text": "to"
+                    },
+                    {
+                        "start": "16.705",
+                        "text": "help"
+                    },
+                    {
+                        "start": "17.036",
+                        "text": "me."
+                    },
+                    {
+                        "start": "17.697",
+                        "text": "They"
+                    },
+                    {
+                        "start": "17.900",
+                        "text": "thought"
+                    },
+                    {
+                        "start": "18.025",
+                        "text": "it"
+                    },
+                    {
+                        "start": "18.115",
+                        "text": "was"
+                    },
+                    {
+                        "start": "18.409",
+                        "text": "just"
+                    },
+                    {
+                        "start": "18.765",
+                        "text": "another"
+                    },
+                    {
+                        "start": "19.095",
+                        "text": "one"
+                    },
+                    {
+                        "start": "19.273",
+                        "text": "of"
+                    },
+                    {
+                        "start": "19.426",
+                        "text": "my"
+                    },
+                    {
+                        "start": "19.665",
+                        "text": "pranks."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "다음"
+                    },
+                    {
+                        "start": "0.550",
+                        "text": "날"
+                    },
+                    {
+                        "start": "1.161",
+                        "text": "아침,"
+                    },
+                    {
+                        "start": "2.518",
+                        "text": "저스티스는"
+                    },
+                    {
+                        "start": "4.327",
+                        "text": "슬프고"
+                    },
+                    {
+                        "start": "5.994",
+                        "text": "불안해하는"
+                    },
+                    {
+                        "start": "7.643",
+                        "text": "우프를"
+                    },
+                    {
+                        "start": "8.589",
+                        "text": "보았어요."
+                    },
+                    {
+                        "start": "11.530",
+                        "text": "무슨"
+                    },
+                    {
+                        "start": "11.910",
+                        "text": "일이야"
+                    },
+                    {
+                        "start": "12.766",
+                        "text": "우프야?"
+                    },
+                    {
+                        "start": "14.839",
+                        "text": "저스티스가"
+                    },
+                    {
+                        "start": "16.616",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "19.570",
+                        "text": "이그노란티아가"
+                    },
+                    {
+                        "start": "21.855",
+                        "text": "파워"
+                    },
+                    {
+                        "start": "22.424",
+                        "text": "큐브를"
+                    },
+                    {
+                        "start": "23.477",
+                        "text": "가져갔어."
+                    },
+                    {
+                        "start": "25.608",
+                        "text": "모두"
+                    },
+                    {
+                        "start": "26.619",
+                        "text": "내"
+                    },
+                    {
+                        "start": "27.051",
+                        "text": "잘못이야."
+                    },
+                    {
+                        "start": "29.108",
+                        "text": "우프가"
+                    },
+                    {
+                        "start": "30.296",
+                        "text": "대답했어요."
+                    },
+                    {
+                        "start": "33.069",
+                        "text": "내가"
+                    },
+                    {
+                        "start": "33.974",
+                        "text": "알람을"
+                    },
+                    {
+                        "start": "34.800",
+                        "text": "울렸지만"
+                    },
+                    {
+                        "start": "36.290",
+                        "text": "아무도"
+                    },
+                    {
+                        "start": "37.523",
+                        "text": "나를"
+                    },
+                    {
+                        "start": "38.376",
+                        "text": "도와주러"
+                    },
+                    {
+                        "start": "39.300",
+                        "text": "오지"
+                    },
+                    {
+                        "start": "39.850",
+                        "text": "않았어."
+                    },
+                    {
+                        "start": "41.628",
+                        "text": "다들"
+                    },
+                    {
+                        "start": "42.663",
+                        "text": "내가"
+                    },
+                    {
+                        "start": "43.911",
+                        "text": "또"
+                    },
+                    {
+                        "start": "44.400",
+                        "text": "장난을"
+                    },
+                    {
+                        "start": "45.315",
+                        "text": "친다고"
+                    },
+                    {
+                        "start": "46.305",
+                        "text": "생각했어."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "trackEN": "audios/EN/7.mp3",
+                "trackES": "audios/ES/7.mp3",
+                "trackPT": "audios/PT/7.mp3",
+                "trackCN": "audios/ZH/7.mp3",
+                "trackJP": "audios/JA/7.mp3",
+                "trackKR": "audios/KR/7.mp3",
+                "textEN": "Justice started cackling uncontrollably.<br><br>&#34;What's so funny, Justice?&#34; asked Oof, confused.<br><br>&#34;Those were fake power cubes! Wait until Ignorantia finds out,&#34; said Justice, still laughing. &#34;The important thing here is that you learned your lesson, Oof.&#34; <br><br>&#34;I promise never to lie again!&#34; exclaimed Oof, relieved. ",
+                "textES": "Justice comenzó a carcajearse. <br><br>–¿Por qué te ríes? –preguntó Oof con sorpresa.<br><br>–Esos eran power cubes falsos. Espera a que Ignorantia se dé cuenta. Lo bueno de todo esto es que has aprendido tu lección, Oof –dijo Justice. <br><br>–Prometo no mentir nunca más –dijo Oof.",
+                "textPT": "Justice começou a gargalhar incontrolavelmente.<br><br>“O que é tão engraçado, Justice?”, perguntou Oof, confuso.<br><br>“Aqueles Powercubes eram falsos! Espere até Ignorantia descobrir”, disse Justice, ainda rindo, “o importante é que você aprendeu a lição, Oof”. <br><br>“Eu prometo que nunca mais vou mentir!”, exclamou Oof, aliviado. ",
+                "textCN": "贾斯蒂斯开始忍不住咯咯笑起来。<br><br>“有什么好笑的，贾斯蒂斯？”奥夫疑惑地问道。<br><br>“那些都是假的能量块！Ignorantia还没发现，”贾斯蒂斯仍然笑着说，“但重要的是你吸取了教训，奥夫。”<br><br>“我保证再也不说谎了！”奥夫说道，松了口气。 ",
+                "textJP": "<font size='4'>ジャスティスは こらえきれずに わらいだしました。<br><br>「なにが そんなに おかしいのさ？」ウーフは わけがわからずに たずねました。<br><br>「ぬすまれたのは にせのパワーキューブだよ！イグノランティアは いつ きがつくかな」ジャスティスは まだわらっています。「たいせつなのは うそは いけないって ウーフが まなんだことだよ」<br><br>「もうぜったい うそは つかないって やくそくするよ！」ウーフは ほっとして いいました。</font>",
+                "textKR": "저스티스는 몸을 가눌 수 없을 정도로 낄낄대며 웃었어요. <br><br>&#34;너는 왜 그렇게 웃는 거야 저스티스?&#34; 우프가 당황해서 물었어요. <br><br>&#34;이그노란티아가 가져간 파워 큐브는 전부 가짜야. 여왕이 알아챌 때까지 기다리자.&#34; <br><br>저스티스가 계속 웃으면서 말했어요. &#34;중요한 건 네가 이번 일로 교훈을 얻었다는 거지. 그렇지 우프야?&#34; &#34;나는 다시는 거짓말을 하지 않을게.&#34; 우프가 걱정 없는 목소리로 말했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.977",
+                        "text": "Justice"
+                    },
+                    {
+                        "start": "1.791",
+                        "text": "comenzó"
+                    },
+                    {
+                        "start": "2.507",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.605",
+                        "text": "carcajearse. "
+                    },
+                    {
+                        "start": "4.819",
+                        "text": "–¿Por"
+                    },
+                    {
+                        "start": "5.112",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "5.405",
+                        "text": "te"
+                    },
+                    {
+                        "start": "5.632",
+                        "text": "ríes?"
+                    },
+                    {
+                        "start": "7.618",
+                        "text": "–preguntó"
+                    },
+                    {
+                        "start": "8.302",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "8.660",
+                        "text": "con"
+                    },
+                    {
+                        "start": "8.791",
+                        "text": "sorpresa."
+                    },
+                    {
+                        "start": "11.330",
+                        "text": "–Esos"
+                    },
+                    {
+                        "start": "11.981",
+                        "text": "eran"
+                    },
+                    {
+                        "start": "12.469",
+                        "text": "power"
+                    },
+                    {
+                        "start": "12.828",
+                        "text": "cubes"
+                    },
+                    {
+                        "start": "13.218",
+                        "text": "falsos."
+                    },
+                    {
+                        "start": "14.521",
+                        "text": "Espera"
+                    },
+                    {
+                        "start": "15.074",
+                        "text": "a"
+                    },
+                    {
+                        "start": "15.237",
+                        "text": "que"
+                    },
+                    {
+                        "start": "15.335",
+                        "text": "Ignorantia"
+                    },
+                    {
+                        "start": "16.083",
+                        "text": "se"
+                    },
+                    {
+                        "start": "16.279",
+                        "text": "dé"
+                    },
+                    {
+                        "start": "16.572",
+                        "text": "cuenta."
+                    },
+                    {
+                        "start": "17.972",
+                        "text": "Lo"
+                    },
+                    {
+                        "start": "18.265",
+                        "text": "bueno"
+                    },
+                    {
+                        "start": "18.558",
+                        "text": "de"
+                    },
+                    {
+                        "start": "18.753",
+                        "text": "todo"
+                    },
+                    {
+                        "start": "19.111",
+                        "text": "esto"
+                    },
+                    {
+                        "start": "19.925",
+                        "text": "es"
+                    },
+                    {
+                        "start": "20.251",
+                        "text": "que"
+                    },
+                    {
+                        "start": "20.381",
+                        "text": "has"
+                    },
+                    {
+                        "start": "20.707",
+                        "text": "aprendido"
+                    },
+                    {
+                        "start": "21.325",
+                        "text": "tu"
+                    },
+                    {
+                        "start": "21.520",
+                        "text": "lección,"
+                    },
+                    {
+                        "start": "22.269",
+                        "text": "Oof"
+                    },
+                    {
+                        "start": "23.865",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "24.385",
+                        "text": "Justice."
+                    },
+                    {
+                        "start": "26.274",
+                        "text": "–Prometo"
+                    },
+                    {
+                        "start": "26.990",
+                        "text": "no"
+                    },
+                    {
+                        "start": "27.153",
+                        "text": "mentir"
+                    },
+                    {
+                        "start": "27.902",
+                        "text": "nunca"
+                    },
+                    {
+                        "start": "28.520",
+                        "text": "más"
+                    },
+                    {
+                        "start": "30.116",
+                        "text": "–dijo"
+                    },
+                    {
+                        "start": "30.604",
+                        "text": "Oof."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.559",
+                        "text": "Justice"
+                    },
+                    {
+                        "start": "1.220",
+                        "text": "started"
+                    },
+                    {
+                        "start": "1.729",
+                        "text": "cackling"
+                    },
+                    {
+                        "start": "2.365",
+                        "text": "uncontrollably."
+                    },
+                    {
+                        "start": "4.500",
+                        "text": "What's"
+                    },
+                    {
+                        "start": "4.780",
+                        "text": "so"
+                    },
+                    {
+                        "start": "4.958",
+                        "text": "funny,"
+                    },
+                    {
+                        "start": "5.314",
+                        "text": "Justice?"
+                    },
+                    {
+                        "start": "6.280",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "6.636",
+                        "text": "Oof,"
+                    },
+                    {
+                        "start": "7.170",
+                        "text": "confused."
+                    },
+                    {
+                        "start": "8.492",
+                        "text": "Those"
+                    },
+                    {
+                        "start": "8.747",
+                        "text": "were"
+                    },
+                    {
+                        "start": "8.964",
+                        "text": "fake"
+                    },
+                    {
+                        "start": "9.269",
+                        "text": "power"
+                    },
+                    {
+                        "start": "9.866",
+                        "text": "cubes!"
+                    },
+                    {
+                        "start": "10.374",
+                        "text": "Wait"
+                    },
+                    {
+                        "start": "10.730",
+                        "text": "until"
+                    },
+                    {
+                        "start": "11.137",
+                        "text": "Ignorantia"
+                    },
+                    {
+                        "start": "11.932",
+                        "text": "finds"
+                    },
+                    {
+                        "start": "12.378",
+                        "text": "out,"
+                    },
+                    {
+                        "start": "13.410",
+                        "text": "said"
+                    },
+                    {
+                        "start": "13.781",
+                        "text": "Justice,"
+                    },
+                    {
+                        "start": "14.544",
+                        "text": "still"
+                    },
+                    {
+                        "start": "14.951",
+                        "text": "laughing,"
+                    },
+                    {
+                        "start": "16.070",
+                        "text": "the"
+                    },
+                    {
+                        "start": "16.324",
+                        "text": "important"
+                    },
+                    {
+                        "start": "16.629",
+                        "text": "thing"
+                    },
+                    {
+                        "start": "16.985",
+                        "text": "here"
+                    },
+                    {
+                        "start": "17.239",
+                        "text": "is"
+                    },
+                    {
+                        "start": "17.392",
+                        "text": "that"
+                    },
+                    {
+                        "start": "17.646",
+                        "text": "you"
+                    },
+                    {
+                        "start": "17.900",
+                        "text": "learned"
+                    },
+                    {
+                        "start": "18.155",
+                        "text": "your"
+                    },
+                    {
+                        "start": "18.358",
+                        "text": "lesson,"
+                    },
+                    {
+                        "start": "18.765",
+                        "text": "Oof."
+                    },
+                    {
+                        "start": "19.528",
+                        "text": "I"
+                    },
+                    {
+                        "start": "19.884",
+                        "text": "promise"
+                    },
+                    {
+                        "start": "20.240",
+                        "text": "never"
+                    },
+                    {
+                        "start": "20.799",
+                        "text": "to"
+                    },
+                    {
+                        "start": "21.033",
+                        "text": "lie"
+                    },
+                    {
+                        "start": "21.287",
+                        "text": "again!"
+                    },
+                    {
+                        "start": "22.101",
+                        "text": "exclaimed"
+                    },
+                    {
+                        "start": "22.782",
+                        "text": "Oof,"
+                    },
+                    {
+                        "start": "23.342",
+                        "text": "relieved."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "저스티스는"
+                    },
+                    {
+                        "start": "1.965",
+                        "text": "몸을"
+                    },
+                    {
+                        "start": "3.104",
+                        "text": "가눌"
+                    },
+                    {
+                        "start": "3.672",
+                        "text": "수"
+                    },
+                    {
+                        "start": "4.459",
+                        "text": "없을"
+                    },
+                    {
+                        "start": "5.272",
+                        "text": "정도로"
+                    },
+                    {
+                        "start": "6.663",
+                        "text": "낄낄대며"
+                    },
+                    {
+                        "start": "7.934",
+                        "text": "웃었어요."
+                    },
+                    {
+                        "start": "10.605",
+                        "text": "너는"
+                    },
+                    {
+                        "start": "11.309",
+                        "text": "왜"
+                    },
+                    {
+                        "start": "11.709",
+                        "text": "그렇게"
+                    },
+                    {
+                        "start": "12.600",
+                        "text": "웃는"
+                    },
+                    {
+                        "start": "13.109",
+                        "text": "거야"
+                    },
+                    {
+                        "start": "13.691",
+                        "text": "저스티스?"
+                    },
+                    {
+                        "start": "15.979",
+                        "text": "우프가"
+                    },
+                    {
+                        "start": "17.285",
+                        "text": "당황해서"
+                    },
+                    {
+                        "start": "18.505",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "21.566",
+                        "text": "이그노란티아가"
+                    },
+                    {
+                        "start": "24.781",
+                        "text": "가져간"
+                    },
+                    {
+                        "start": "25.679",
+                        "text": "파워"
+                    },
+                    {
+                        "start": "26.236",
+                        "text": "큐브는"
+                    },
+                    {
+                        "start": "27.386",
+                        "text": "전부"
+                    },
+                    {
+                        "start": "28.037",
+                        "text": "가짜야."
+                    },
+                    {
+                        "start": "30.425",
+                        "text": "여왕이"
+                    },
+                    {
+                        "start": "31.529",
+                        "text": "알아챌"
+                    },
+                    {
+                        "start": "32.308",
+                        "text": "때까지"
+                    },
+                    {
+                        "start": "33.135",
+                        "text": "기다리자."
+                    },
+                    {
+                        "start": "36.072",
+                        "text": "저스티스가"
+                    },
+                    {
+                        "start": "37.918",
+                        "text": "계속"
+                    },
+                    {
+                        "start": "39.201",
+                        "text": "웃으면서"
+                    },
+                    {
+                        "start": "40.605",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "43.068",
+                        "text": "중요한"
+                    },
+                    {
+                        "start": "43.713",
+                        "text": "건"
+                    },
+                    {
+                        "start": "44.537",
+                        "text": "네가"
+                    },
+                    {
+                        "start": "45.769",
+                        "text": "이번"
+                    },
+                    {
+                        "start": "46.440",
+                        "text": "일로"
+                    },
+                    {
+                        "start": "47.529",
+                        "text": "교훈을"
+                    },
+                    {
+                        "start": "48.826",
+                        "text": "얻었다는"
+                    },
+                    {
+                        "start": "49.757",
+                        "text": "거지."
+                    },
+                    {
+                        "start": "51.034",
+                        "text": "그렇지"
+                    },
+                    {
+                        "start": "51.878",
+                        "text": "우프야?"
+                    },
+                    {
+                        "start": "54.301",
+                        "text": "나는"
+                    },
+                    {
+                        "start": "55.280",
+                        "text": "다시는"
+                    },
+                    {
+                        "start": "56.618",
+                        "text": "거짓말을"
+                    },
+                    {
+                        "start": "57.628",
+                        "text": "하지"
+                    },
+                    {
+                        "start": "58.292",
+                        "text": "않을게."
+                    },
+                    {
+                        "start": "60.252",
+                        "text": "우프가"
+                    },
+                    {
+                        "start": "61.631",
+                        "text": "걱정"
+                    },
+                    {
+                        "start": "62.391",
+                        "text": "없는"
+                    },
+                    {
+                        "start": "63.066",
+                        "text": "목소리로"
+                    },
+                    {
+                        "start": "64.330",
+                        "text": "말했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            },
+            "21": {
+                "image": "21.png"
+            },
+            "22": {
+                "image": "22.png"
+            }
+        }
+    }
+}

@@ -1,0 +1,2026 @@
+{
+    "book": {
+        "titleES": "Nuestro amigo el Sol",
+        "titleEN": "Our Friend the Sun",
+        "titlePT": "Nosso amigo o Sol",
+        "titleCN": "我们的好朋友 - 太阳",
+        "titleJP": "私たちのともだち、太陽",
+        "titleKR": "우리의 친구 태양",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1ES.png",
+                "imagePT": "1PT.png",
+                "imageCN": "1ZH.png",
+                "imageJP": "1JA.png",
+                "imageKR": "1KO.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2ES.png",
+                "imagePT": "2PT.png",
+                "imageCN": "2ZH.png",
+                "imageJP": "2JA.png",
+                "imageKR": "2KO.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3ES.png",
+                "imagePT": "3PT.png",
+                "imageCN": "3ZH.png",
+                "imageJP": "3JA.png",
+                "imageKR": "3KO.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5ES.png",
+                "imagePT": "5PT.png",
+                "imageCN": "5ZH.png",
+                "imageJP": "5JA.png",
+                "imageKR": "5KO.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/ES/1.mp3",
+                "trackPT": "audios/PT/1.mp3",
+                "trackCN": "audios/ZH/1.mp3",
+                "trackJP": "audios/JA/1.mp3",
+                "trackKR": "audios/KR/1.mp3",
+                "textES": "¡Había una emergencia en el sistema solar! El Sol había dejado de brillar y los dirigentes de los ocho planetas del sistema estaban preocupados.",
+                "textEN": "There was an emergency in the Solar System! The Sun had stopped shining and the leaders of the eight planets were concerned.",
+                "textPT": "Havia uma emergência no Sistema Solar! O Sol tinha parado de brilhar, e os líderes dos oito planetas ficaram preocupados.",
+                "textCN": "太阳系发生了紧急情况！太阳的光照消失了，八颗行星的领导人都非常担心。",
+                "textJP": "太陽系に緊急事態が発生しました！ 太陽は輝きを止め、8つの惑星のリーダーたちは心配しました。",
+                "textKR": "태양계에서 긴급 상황이 발생했어요! 태양이 더는 빛나지 않아서 여덟 행성의 지도자들은 걱정이 되었어요.",
+                "wordsES": [
+                    { "start": "0.100", "text": "¡Había" },
+                    { "start": "0.4", "text": "una" },
+                    { "start": "0.7", "text": "emergencia" },
+                    { "start": "1.1", "text": "en" },
+                    { "start": "1.4", "text": "el" },
+                    { "start": "1.7", "text": "sistema" },
+                    { "start": "2.0", "text": "solar!" },
+                    { "start": "3.7", "text": "El" },
+                    { "start": "4.0", "text": "Sol" },
+                    { "start": "4.2", "text": "había" },
+                    { "start": "4.5", "text": "dejado" },
+                    { "start": "4.8", "text": "de" },
+                    { "start": "5.0", "text": "brillar" },
+                    { "start": "6.3", "text": "y" },
+                    { "start": "6.6", "text": "los" },
+                    { "start": "6.9",  "text": "dirigentes" },
+                    { "start": "7.4", "text": "de" },
+                    { "start": "7.6", "text": "los" },
+                    { "start": "7.8", "text": "ocho" },
+                    { "start": "8.1", "text": "planetas" },
+                    { "start": "8.4", "text": "del" },
+                    { "start": "8.6", "text": "sistema" },
+                    { "start": "10.0", "text": "estaban" },
+                    { "start": "10.8", "text": "preocupados." }
+                ],
+                "wordsEN": [
+                    { "start": "0.100", "text": "There" },
+                    { "start": "0.4", "text": "was" },
+                    { "start": "0.7", "text": "an" },
+                    { "start": "1.0", "text": "emergency" },
+                    { "start": "1.4", "text": "in" },
+                    { "start": "1.8", "text": "the" },
+                    { "start": "2.1", "text": "Solar" },
+                    { "start": "2.5", "text": "System!" },
+                    { "start": "3.7", "text": "The" },
+                    { "start": "4.1", "text": "Sun" },
+                    { "start": "4.4", "text": "had" },
+                    { "start": "4.9", "text": "stopped" },
+                    { "start": "5.3", "text": "shining" },
+                    { "start": "5.6", "text": "and" },
+                    { "start": "6.0", "text": "the" },
+                    { "start": "6.3", "text": "leaders" },
+                    { "start": "6.6", "text": "of" },
+                    { "start": "6.9", "text": "the" },
+                    { "start": "7.0", "text": "eight" },
+                    { "start": "7.3", "text": "planets" },
+                    { "start": "7.9", "text": "were" },
+                    { "start": "8.0", "text": "concerned." }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "태양계에서"
+                    },
+                    {
+                        "start": "1.465",
+                        "text": "긴급"
+                    },
+                    {
+                        "start": "1.962",
+                        "text": "상황이"
+                    },
+                    {
+                        "start": "2.688",
+                        "text": "발생했어요!"
+                    },
+                    {
+                        "start": "4.862",
+                        "text": "태양이"
+                    },
+                    {
+                        "start": "5.982",
+                        "text": "더는"
+                    },
+                    {
+                        "start": "6.571",
+                        "text": "빛나지"
+                    },
+                    {
+                        "start": "7.300",
+                        "text": "않아서"
+                    },
+                    {
+                        "start": "8.422",
+                        "text": "여덟"
+                    },
+                    {
+                        "start": "8.986",
+                        "text": "행성의"
+                    },
+                    {
+                        "start": "9.718",
+                        "text": "지도자들은"
+                    },
+                    {
+                        "start": "11.269",
+                        "text": "걱정이"
+                    },
+                    {
+                        "start": "12.070",
+                        "text": "되었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/ES/2.mp3",
+                "trackPT": "audios/PT/2.mp3",
+                "trackCN": "audios/ZH/2.mp3",
+                "trackJP": "audios/JA/2.mp3",
+                "trackKR": "audios/KR/2.mp3",
+                "textES": "Eagle y Theffanie viajaron al sistema solar para ver lo que sucedía. De inmediato, notaron que la vida en cada uno de estos planetas era imposible sin el Sol. No había más que frío y oscuridad en el universo.",
+                "textEN": "Eagle and Theffanie traveled to the Solar System to see what had happened. Immediately, they realized that life on each of these planets was impossible without the Sun. There was nothing but coldness and darkness in the universe.",
+                "textPT": "Eagle e Theffanie viajaram ao Sistema Solar para ver o que aconteceu. Imediatamente, eles perceberam que a vida em cada um desses planetas era impossível sem o Sol. Havia apenas frio e escuridão no universo.",
+                "textCN": "伊戈和范妮出发去太阳系查看究竟发生了什么。他们立马意识到，没有太阳，这些行星上的生命将无法存活。整个宇宙只剩下冰冷和黑暗。",
+                "textJP": "イーグルとティファニーは何が起こったのかを調べに太陽系に行きました。 彼らはすぐに太陽がなければそれぞれの惑星では生命は育めないことに気付きました。 宇宙は寒さと暗闇だけになりました。",
+                "textKR": "이글이와 티파니는 문제를 파악하러 태양계로 갔어요. 도착하자마자 히어로들은 모든 행성에 있는 생명체들이 태양 없이는 존재할 수 없다고 깨달았어요. 우주는 추위와 어둠으로 가득 차 있었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "y"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "viajaron"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "al"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "sistema"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "solar"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "para"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "sucedía."
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "De"
+                    },
+                    {
+                        "start": "5.3",
+                        "text": "inmediato,"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "notaron"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "la"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "vida"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "en"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "cada"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "uno"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "de"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "estos"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "planetas"
+                    },
+                    {
+                        "start": "10.1",
+                        "text": "era"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "imposible"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "sin"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "el"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "Sol."
+                    },
+                    {
+                        "start": "13.4",
+                        "text": "No"
+                    },
+                    {
+                        "start": "13.8",
+                        "text": "había"
+                    },
+                    {
+                        "start": "14.1",
+                        "text": "más"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "14.8",
+                        "text": "frío"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "y"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "oscuridad"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "en"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "el"
+                    },
+                    {
+                        "start": "16.3",
+                        "text": "universo."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "and"
+                    },
+                    {
+                        "start": "1.2",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "traveled"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "Solar"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "System"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "to"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "see"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "what"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "had"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "happened."
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "Immediately,"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "they"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "realized"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "that"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "life"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "on"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "each"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "of"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "these"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "planets"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "was"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "impossible"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "without"
+                    },
+                    {
+                        "start": "11.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "Sun."
+                    },
+                    {
+                        "start": "12.8",
+                        "text": "There"
+                    },
+                    {
+                        "start": "13.1",
+                        "text": "was"
+                    },
+                    {
+                        "start": "13.2",
+                        "text": "nothing"
+                    },
+                    {
+                        "start": "13.7",
+                        "text": "but"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "coldness"
+                    },
+                    {
+                        "start": "14.7",
+                        "text": "and"
+                    },
+                    {
+                        "start": "14.9",
+                        "text": "darkness"
+                    },
+                    {
+                        "start": "15.1",
+                        "text": "in"
+                    },
+                    {
+                        "start": "15.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "15.7",
+                        "text": "universe."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "이글이와"
+                    },
+                    {
+                        "start": "0.793",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "2.152",
+                        "text": "문제를"
+                    },
+                    {
+                        "start": "2.918",
+                        "text": "파악하러"
+                    },
+                    {
+                        "start": "4.146",
+                        "text": "태양계로"
+                    },
+                    {
+                        "start": "5.014",
+                        "text": "갔어요."
+                    },
+                    {
+                        "start": "6.861",
+                        "text": "도착하자마자"
+                    },
+                    {
+                        "start": "8.363",
+                        "text": "히어로들은"
+                    },
+                    {
+                        "start": "9.859",
+                        "text": "모든"
+                    },
+                    {
+                        "start": "10.469",
+                        "text": "행성에"
+                    },
+                    {
+                        "start": "11.191",
+                        "text": "있는"
+                    },
+                    {
+                        "start": "11.728",
+                        "text": "생명체들이"
+                    },
+                    {
+                        "start": "13.172",
+                        "text": "태양"
+                    },
+                    {
+                        "start": "13.728",
+                        "text": "없이는"
+                    },
+                    {
+                        "start": "15.073",
+                        "text": "존재할"
+                    },
+                    {
+                        "start": "15.742",
+                        "text": "수"
+                    },
+                    {
+                        "start": "16.431",
+                        "text": "없다고"
+                    },
+                    {
+                        "start": "17.264",
+                        "text": "깨달았어요."
+                    },
+                    {
+                        "start": "19.401",
+                        "text": "우주는"
+                    },
+                    {
+                        "start": "20.608",
+                        "text": "추위와"
+                    },
+                    {
+                        "start": "21.464",
+                        "text": "어둠으로"
+                    },
+                    {
+                        "start": "22.662",
+                        "text": "가득"
+                    },
+                    {
+                        "start": "23.225",
+                        "text": "차"
+                    },
+                    {
+                        "start": "23.650",
+                        "text": "있었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/ES/3.mp3",
+                "trackPT": "audios/PT/3.mp3",
+                "trackCN": "audios/ZH/3.mp3",
+                "trackJP": "audios/JA/3.mp3",
+                "trackKR": "audios/KR/3.mp3",
+                "textES": "Los Héroes viajaron a la parte más oscura de la vía láctea y ahí encontraron al Sol. Estaba  escondido debajo de una gabardina negra.",
+                "textEN": "The Heroes made their way to the darkest part of the Milky Way. They found the Sun hiding there beneath a black trench coat.",
+                "textPT": "Os Heróis viajaram até a parte mais escura da Via Láctea e encontraram o Sol, que estava escondido atrás de uma gabardina negra.",
+                "textCN": "英雄们走向了银河系最黑暗的地带。他们发现太阳把自己藏在一件黑色风衣中。",
+                "textJP": "ヒーローたちは天の川の一番暗い部分に向かいました。 彼らは黒いトレンチコートの下に隠れている太陽を見つけました。",
+                "textKR": "히어로들은 은하수에서 가장 어두운 곳으로 이동했어요. 거기에 갔더니 태양이 검은색 코트 아래 숨어 있었어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Los"
+                    },
+                    {
+                        "start": "0.3",
+                        "text": "Héroes"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "viajaron"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "la"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "parte"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "más"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "oscura"
+                    },
+                    {
+                        "start": "2.8",
+                        "text": "de"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "la"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "vía"
+                    },
+                    {
+                        "start": "3.8",
+                        "text": "láctea"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "y"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "ahí"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "encontraron"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "al"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "Sol."
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "Estaba"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": ""
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "escondido"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "debajo"
+                    },
+                    {
+                        "start": "10.2",
+                        "text": "de"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "una"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "gabardina"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "negra."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "The"
+                    },
+                    {
+                        "start": "0.9",
+                        "text": "Heroes"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "made"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "their"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "way"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "darkest"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "part"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "of"
+                    },
+                    {
+                        "start": "3.5",
+                        "text": "the"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "Milky"
+                    },
+                    {
+                        "start": "3.9",
+                        "text": "Way."
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "They"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "found"
+                    },
+                    {
+                        "start": "5.7",
+                        "text": "the"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "Sun"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "hiding"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "there"
+                    },
+                    {
+                        "start": "7.0",
+                        "text": "beneath"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "black"
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "trench"
+                    },
+                    {
+                        "start": "8.4",
+                        "text": "coat."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "히어로들은"
+                    },
+                    {
+                        "start": "1.440",
+                        "text": "은하수에서"
+                    },
+                    {
+                        "start": "2.791",
+                        "text": "가장"
+                    },
+                    {
+                        "start": "3.457",
+                        "text": "어두운"
+                    },
+                    {
+                        "start": "4.164",
+                        "text": "곳으로"
+                    },
+                    {
+                        "start": "4.766",
+                        "text": "이동했어요."
+                    },
+                    {
+                        "start": "7.004",
+                        "text": "거기에"
+                    },
+                    {
+                        "start": "7.718",
+                        "text": "갔더니"
+                    },
+                    {
+                        "start": "9.006",
+                        "text": "태양이"
+                    },
+                    {
+                        "start": "10.106",
+                        "text": "검은색"
+                    },
+                    {
+                        "start": "10.950",
+                        "text": "코트"
+                    },
+                    {
+                        "start": "11.515",
+                        "text": "아래"
+                    },
+                    {
+                        "start": "12.324",
+                        "text": "숨어"
+                    },
+                    {
+                        "start": "12.932",
+                        "text": "있었어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/ES/4.mp3",
+                "trackPT": "audios/PT/4.mp3",
+                "trackCN": "audios/ZH/4.mp3",
+                "trackJP": "audios/JA/4.mp3",
+                "trackKR": "audios/KR/4.mp3",
+                "textES": "Eagle le preguntó al Sol por qué se estaba escondiendo. El Sol le explicó que estaba triste y preocupado, pues había escuchado que sus rayos le hacían daño a sus amigos planetas.",
+                "textEN": "Eagle asked the Sun why he was hiding. The Sun explained that he was sad and worried. He had heard that his rays were harming his friends, the planets.",
+                "textPT": "Eagle perguntou ao Sol por que ele estava se escondendo. O Sol explicou que estava triste e preocupado, pois tinha ouvido dizer que seus raios estavam prejudicando seus amigos, os planetas.",
+                "textCN": "伊戈问太阳为什么要躲起来。太阳说，他很难过，也很担心。他听说他的光芒伤害了他的朋友们，也就是八大行星。",
+                "textJP": "イーグルはどうして隠れていたのかと太陽に聞きました。 太陽は悲しくて心配していると説明しました。 太陽の光線が友人の惑星に害を及ぼしているというのです。",
+                "textKR": "이글이는 태양에게 왜 숨어있냐고 물었어요. 태양은 슬프고 걱정이 된다고 말했어요. 태양은 자기의 빛이 자기의 친구인 행성들을 해치고 있다는 얘기를 들었거든요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "0.25",
+                        "text": "le"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "preguntó"
+                    },
+                    {
+                        "start": "0.6",
+                        "text": "al"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "Sol"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "por"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "qué"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "se"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "escondiendo."
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "El"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "Sol"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "le"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "explicó"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "que"
+                    },
+                    {
+                        "start": "6.6",
+                        "text": "estaba"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "triste"
+                    },
+                    {
+                        "start": "7.2",
+                        "text": "y"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "preocupado,"
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "pues"
+                    },
+                    {
+                        "start": "9.3",
+                        "text": "había"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "escuchado"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "rayos"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "le"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "hacían"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "daño"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "a"
+                    },
+                    {
+                        "start": "12.1",
+                        "text": "sus"
+                    },
+                    {
+                        "start": "12.4",
+                        "text": "amigos"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "planetas."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "asked"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "Sun"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "why"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "he"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "was"
+                    },
+                    {
+                        "start": "2.9",
+                        "text": "hiding."
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "The"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "Sun"
+                    },
+                    {
+                        "start": "4.8",
+                        "text": "explained"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "that"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "he"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "was"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "sad"
+                    },
+                    {
+                        "start": "6.2",
+                        "text": "and"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "worried."
+                    },
+                    {
+                        "start": "8.0",
+                        "text": "He"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "had"
+                    },
+                    {
+                        "start": "8.7",
+                        "text": "heard"
+                    },
+                    {
+                        "start": "8.9",
+                        "text": "that"
+                    },
+                    {
+                        "start": "9.1",
+                        "text": "his"
+                    },
+                    {
+                        "start": "9.2",
+                        "text": "rays"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "were"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "harming"
+                    },
+                    {
+                        "start": "10.4",
+                        "text": "his"
+                    },
+                    {
+                        "start": "10.6",
+                        "text": "friends,"
+                    },
+                    {
+                        "start": "11.2",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.3",
+                        "text": "planets."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "이글이는"
+                    },
+                    {
+                        "start": "1.318",
+                        "text": "태양에게"
+                    },
+                    {
+                        "start": "2.506",
+                        "text": "왜"
+                    },
+                    {
+                        "start": "2.911",
+                        "text": "숨어있냐고"
+                    },
+                    {
+                        "start": "4.071",
+                        "text": "물었어요."
+                    },
+                    {
+                        "start": "6.051",
+                        "text": "태양은"
+                    },
+                    {
+                        "start": "7.225",
+                        "text": "슬프고"
+                    },
+                    {
+                        "start": "8.256",
+                        "text": "걱정이"
+                    },
+                    {
+                        "start": "9.088",
+                        "text": "된다고"
+                    },
+                    {
+                        "start": "9.859",
+                        "text": "말했어요."
+                    },
+                    {
+                        "start": "11.939",
+                        "text": "태양은"
+                    },
+                    {
+                        "start": "13.137",
+                        "text": "자기의"
+                    },
+                    {
+                        "start": "13.884",
+                        "text": "빛이"
+                    },
+                    {
+                        "start": "14.800",
+                        "text": "자기의"
+                    },
+                    {
+                        "start": "15.452",
+                        "text": "친구인"
+                    },
+                    {
+                        "start": "16.650",
+                        "text": "행성들을"
+                    },
+                    {
+                        "start": "17.500",
+                        "text": "해치고"
+                    },
+                    {
+                        "start": "18.250",
+                        "text": "있다는"
+                    },
+                    {
+                        "start": "18.900",
+                        "text": "얘기를"
+                    },
+                    {
+                        "start": "19.509",
+                        "text": "들었거든요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/ES/5.mp3",
+                "trackPT": "audios/PT/5.mp3",
+                "trackCN": "audios/ZH/5.mp3",
+                "trackJP": "audios/JA/5.mp3",
+                "trackKR": "audios/KR/5.mp3",
+                "textES": "Theffanie usó el poder de su gema y le hizo ver al Sol que su luz no era mala, sino todo lo contrario. Su luz daba vida a todos los planetas que orbitaban a su alrededor. Esto conmovió al Sol, ya que ahora entendía su propósito.",
+                "textEN": "Theffanie used the power of her gem. She helped the Sun realize that his light was not bad but quite the opposite. His light gave life to the planets that orbit him. This got the Sun emotional, as he now understood his purpose.",
+                "textPT": "Theffanie usou o poder de sua gema e ajudou o Sol a ver que sua luz não era ruim, pelo contrário. Sua luz gerava vida a todos os planetas que orbitavam ao seu redor. Isso comoveu o Sol, pois ele passou a entender qual era seu propósito.",
+                "textCN": "范妮使用了她的宝石的力量。她帮助太阳认识到，他的光芒并不会造成伤害，而是恰恰相反。他的光芒为环绕他的行星带来了生命。太阳很激动，现在他已经知道了自己的使命。",
+                "textJP": "ティファニーは彼女の宝石の力を使って、太陽に自分の光は悪いものでなく、その全く反対だということを教えました。 太陽の光は旋回する惑星に命を与えました。 こうして太陽は自分の目的を理解し感激しました",
+                "textKR": "티파니는 보석 파워를 써서 태양이 잘못 알고 있는 내용을 고쳐주었어요. 태양 빛은 태양 주변을 공전하는 행성에게 생명을 주는 역할을 해요. 이 말은 태양의 감정을 자극했고, 태양은 자기 존재 이유를 이해했어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "0.5",
+                        "text": "usó"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "el"
+                    },
+                    {
+                        "start": "1.1",
+                        "text": "poder"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "de"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "su"
+                    },
+                    {
+                        "start": "1.9",
+                        "text": "gema"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "y"
+                    },
+                    {
+                        "start": "2.5",
+                        "text": "le"
+                    },
+                    {
+                        "start": "3.0",
+                        "text": "hizo"
+                    },
+                    {
+                        "start": "3.3",
+                        "text": "ver"
+                    },
+                    {
+                        "start": "3.6",
+                        "text": "al"
+                    },
+                    {
+                        "start": "3.7",
+                        "text": "Sol"
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "4.5",
+                        "text": "su"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "luz"
+                    },
+                    {
+                        "start": "5.1",
+                        "text": "no"
+                    },
+                    {
+                        "start": "5.4",
+                        "text": "era"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "mala,"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "sino"
+                    },
+                    {
+                        "start": "6.8",
+                        "text": "todo"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "lo"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "contrario."
+                    },
+                    {
+                        "start": "9.0",
+                        "text": "Su"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "luz"
+                    },
+                    {
+                        "start": "9.9",
+                        "text": "daba"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "vida"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "a"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "todos"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "los"
+                    },
+                    {
+                        "start": "11.7",
+                        "text": "planetas"
+                    },
+                    {
+                        "start": "12.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "12.3",
+                        "text": "orbitaban"
+                    },
+                    {
+                        "start": "12.7",
+                        "text": "a"
+                    },
+                    {
+                        "start": "13.0",
+                        "text": "su"
+                    },
+                    {
+                        "start": "13.3",
+                        "text": "alrededor."
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "Esto"
+                    },
+                    {
+                        "start": "15.9",
+                        "text": "conmovió"
+                    },
+                    {
+                        "start": "16.6",
+                        "text": "al"
+                    },
+                    {
+                        "start": "16.8",
+                        "text": "Sol,"
+                    },
+                    {
+                        "start": "17.7",
+                        "text": "ya"
+                    },
+                    {
+                        "start": "18.0",
+                        "text": "que"
+                    },
+                    {
+                        "start": "18.3",
+                        "text": "ahora"
+                    },
+                    {
+                        "start": "18.7",
+                        "text": "entendía"
+                    },
+                    {
+                        "start": "19.3",
+                        "text": "su"
+                    },
+                    {
+                        "start": "19.4",
+                        "text": "propósito."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "1.3",
+                        "text": "used"
+                    },
+                    {
+                        "start": "1.6",
+                        "text": "the"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "power"
+                    },
+                    {
+                        "start": "2.0",
+                        "text": "of"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "her"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "gem."
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "She"
+                    },
+                    {
+                        "start": "4.1",
+                        "text": "helped"
+                    },
+                    {
+                        "start": "4.4",
+                        "text": "the"
+                    },
+                    {
+                        "start": "4.7",
+                        "text": "Sun"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "realize"
+                    },
+                    {
+                        "start": "5.6",
+                        "text": "that"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "his"
+                    },
+                    {
+                        "start": "5.9",
+                        "text": "light"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "was"
+                    },
+                    {
+                        "start": "6.4",
+                        "text": "not"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "bad"
+                    },
+                    {
+                        "start": "7.3",
+                        "text": "but"
+                    },
+                    {
+                        "start": "7.6",
+                        "text": "quite"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "opposite."
+                    },
+                    {
+                        "start": "8.6",
+                        "text": "His"
+                    },
+                    {
+                        "start": "9.7",
+                        "text": "light"
+                    },
+                    {
+                        "start": "10.0",
+                        "text": "gave"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "life"
+                    },
+                    {
+                        "start": "10.7",
+                        "text": "to"
+                    },
+                    {
+                        "start": "10.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "11.0",
+                        "text": "planets"
+                    },
+                    {
+                        "start": "11.5",
+                        "text": "that"
+                    },
+                    {
+                        "start": "11.6",
+                        "text": "orbit"
+                    },
+                    {
+                        "start": "11.8",
+                        "text": "him."
+                    },
+                    {
+                        "start": "12.5",
+                        "text": "This"
+                    },
+                    {
+                        "start": "13.5",
+                        "text": "got"
+                    },
+                    {
+                        "start": "13.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "14.0",
+                        "text": "Sun"
+                    },
+                    {
+                        "start": "14.3",
+                        "text": "emotional,"
+                    },
+                    {
+                        "start": "15.3",
+                        "text": "as"
+                    },
+                    {
+                        "start": "15.6",
+                        "text": "he"
+                    },
+                    {
+                        "start": "15.8",
+                        "text": "now"
+                    },
+                    {
+                        "start": "16.0",
+                        "text": "understood"
+                    },
+                    {
+                        "start": "16.9",
+                        "text": "his"
+                    },
+                    {
+                        "start": "17.3",
+                        "text": "purpose."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "1.108",
+                        "text": "보석"
+                    },
+                    {
+                        "start": "1.738",
+                        "text": "파워를"
+                    },
+                    {
+                        "start": "2.300",
+                        "text": "써서"
+                    },
+                    {
+                        "start": "3.555",
+                        "text": "태양이"
+                    },
+                    {
+                        "start": "4.294",
+                        "text": "잘못"
+                    },
+                    {
+                        "start": "4.901",
+                        "text": "알고"
+                    },
+                    {
+                        "start": "5.461",
+                        "text": "있는"
+                    },
+                    {
+                        "start": "5.900",
+                        "text": "내용을"
+                    },
+                    {
+                        "start": "6.937",
+                        "text": "고쳐주었어요."
+                    },
+                    {
+                        "start": "9.293",
+                        "text": "태양"
+                    },
+                    {
+                        "start": "9.900",
+                        "text": "빛은"
+                    },
+                    {
+                        "start": "11.035",
+                        "text": "태양"
+                    },
+                    {
+                        "start": "11.505",
+                        "text": "주변을"
+                    },
+                    {
+                        "start": "12.241",
+                        "text": "공전하는"
+                    },
+                    {
+                        "start": "13.375",
+                        "text": "행성에게"
+                    },
+                    {
+                        "start": "14.736",
+                        "text": "생명을"
+                    },
+                    {
+                        "start": "15.564",
+                        "text": "주는"
+                    },
+                    {
+                        "start": "16.092",
+                        "text": "역할을"
+                    },
+                    {
+                        "start": "16.774",
+                        "text": "해요."
+                    },
+                    {
+                        "start": "18.416",
+                        "text": "이"
+                    },
+                    {
+                        "start": "18.732",
+                        "text": "말은"
+                    },
+                    {
+                        "start": "19.687",
+                        "text": "태양의"
+                    },
+                    {
+                        "start": "20.433",
+                        "text": "감정을"
+                    },
+                    {
+                        "start": "21.188",
+                        "text": "자극했고,"
+                    },
+                    {
+                        "start": "22.468",
+                        "text": "태양은"
+                    },
+                    {
+                        "start": "23.715",
+                        "text": "자기"
+                    },
+                    {
+                        "start": "24.361",
+                        "text": "존재"
+                    },
+                    {
+                        "start": "25.050",
+                        "text": "이유를"
+                    },
+                    {
+                        "start": "26.048",
+                        "text": "이해했어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/ES/6.mp3",
+                "trackPT": "audios/PT/6.mp3",
+                "trackCN": "audios/ZH/6.mp3",
+                "trackJP": "audios/JA/6.mp3",
+                "trackKR": "audios/KR/6.mp3",
+                "textES": "El Sol decidió volver a salir y celebrar. Eagle y Theffanie pasaron un gran día en la playa junto a su nuevo amigo el Sol.",
+                "textEN": "The Sun decided to come out and celebrate. Eagle and Theffanie spent a great day at the beach with their new friend, the Sun.",
+                "textPT": "O Sol decidiu sair e comemorar. Eagle e Theffanie passaram um ótimo dia na praia junto a seu novo amigo, o Sol.",
+                "textCN": "太阳决定出来庆祝一下。伊戈和范妮在海滩上与他们的新朋友 - 太阳一起度过了美好的一天。",
+                "textJP": "太陽は出てきてお祝いすることにしました。 イーグルとティファニーは新しいともだち、太陽といっしょにビーチですばらしい一日を過ごしました。",
+                "textKR": "태양은 기쁜 마음으로 원래 자리로 돌아갔어요. 이글이와 티파니는 태양이라는 새로운 친구와 함께 해변에서 좋은 하루를 보냈어요.",
+                "wordsES": [
+                    {
+                        "start": "0.100",
+                        "text": "El"
+                    },
+                    {
+                        "start": "0.4",
+                        "text": "Sol"
+                    },
+                    {
+                        "start": "0.7",
+                        "text": "decidió"
+                    },
+                    {
+                        "start": "1.7",
+                        "text": "volver"
+                    },
+                    {
+                        "start": "2.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "2.3",
+                        "text": "salir"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "y"
+                    },
+                    {
+                        "start": "3.1",
+                        "text": "celebrar."
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "y"
+                    },
+                    {
+                        "start": "5.0",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "6.0",
+                        "text": "pasaron"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "un"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "gran"
+                    },
+                    {
+                        "start": "7.5",
+                        "text": "día"
+                    },
+                    {
+                        "start": "7.8",
+                        "text": "en"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "la"
+                    },
+                    {
+                        "start": "8.1",
+                        "text": "playa"
+                    },
+                    {
+                        "start": "8.5",
+                        "text": "junto"
+                    },
+                    {
+                        "start": "9.4",
+                        "text": "a"
+                    },
+                    {
+                        "start": "9.6",
+                        "text": "su"
+                    },
+                    {
+                        "start": "9.8",
+                        "text": "nuevo"
+                    },
+                    {
+                        "start": "10.3",
+                        "text": "amigo"
+                    },
+                    {
+                        "start": "10.5",
+                        "text": "el"
+                    },
+                    {
+                        "start": "11.1",
+                        "text": "Sol."
+                    }
+                ],
+                "wordsEN": [
+                    {
+                        "start": "0.100",
+                        "text": "The"
+                    },
+                    {
+                        "start": "1.0",
+                        "text": "Sun"
+                    },
+                    {
+                        "start": "1.4",
+                        "text": "decided"
+                    },
+                    {
+                        "start": "1.8",
+                        "text": "to"
+                    },
+                    {
+                        "start": "2.1",
+                        "text": "come"
+                    },
+                    {
+                        "start": "2.4",
+                        "text": "out"
+                    },
+                    {
+                        "start": "2.6",
+                        "text": "and"
+                    },
+                    {
+                        "start": "2.7",
+                        "text": "celebrate."
+                    },
+                    {
+                        "start": "4.0",
+                        "text": "Eagle"
+                    },
+                    {
+                        "start": "4.3",
+                        "text": "and"
+                    },
+                    {
+                        "start": "4.6",
+                        "text": "Theffanie"
+                    },
+                    {
+                        "start": "4.9",
+                        "text": "spent"
+                    },
+                    {
+                        "start": "5.2",
+                        "text": "a"
+                    },
+                    {
+                        "start": "5.5",
+                        "text": "great"
+                    },
+                    {
+                        "start": "5.8",
+                        "text": "day"
+                    },
+                    {
+                        "start": "6.1",
+                        "text": "at"
+                    },
+                    {
+                        "start": "6.3",
+                        "text": "the"
+                    },
+                    {
+                        "start": "6.5",
+                        "text": "beach"
+                    },
+                    {
+                        "start": "6.7",
+                        "text": "with"
+                    },
+                    {
+                        "start": "6.9",
+                        "text": "their"
+                    },
+                    {
+                        "start": "7.1",
+                        "text": "new"
+                    },
+                    {
+                        "start": "7.4",
+                        "text": "friend,"
+                    },
+                    {
+                        "start": "7.9",
+                        "text": "the"
+                    },
+                    {
+                        "start": "8.2",
+                        "text": "Sun."
+                    }
+                ],
+                "wordsKR": [
+                    {
+                        "start": "0.100",
+                        "text": "태양은"
+                    },
+                    {
+                        "start": "0.948",
+                        "text": "기쁜"
+                    },
+                    {
+                        "start": "1.578",
+                        "text": "마음으로"
+                    },
+                    {
+                        "start": "2.859",
+                        "text": "원래"
+                    },
+                    {
+                        "start": "3.404",
+                        "text": "자리로"
+                    },
+                    {
+                        "start": "4.073",
+                        "text": "돌아갔어요."
+                    },
+                    {
+                        "start": "6.219",
+                        "text": "이글이와"
+                    },
+                    {
+                        "start": "7.065",
+                        "text": "티파니는"
+                    },
+                    {
+                        "start": "8.558",
+                        "text": "태양이라는"
+                    },
+                    {
+                        "start": "9.781",
+                        "text": "새로운"
+                    },
+                    {
+                        "start": "10.525",
+                        "text": "친구와"
+                    },
+                    {
+                        "start": "11.237",
+                        "text": "함께"
+                    },
+                    {
+                        "start": "12.410",
+                        "text": "해변에서"
+                    },
+                    {
+                        "start": "13.661",
+                        "text": "좋은"
+                    },
+                    {
+                        "start": "14.128",
+                        "text": "하루를"
+                    },
+                    {
+                        "start": "14.877",
+                        "text": "보냈어요."
+                    }
+                ],
+                "wordsCN": [],
+                "wordsPT": [],
+                "wordsJP": []
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}

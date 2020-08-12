@@ -1,0 +1,475 @@
+{
+    "book": {
+        "titleES": "A Fourth of July Celebration",
+        "titleEN": "A Fourth of July Celebration",
+        "titlePT": "A Fourth of July Celebration",
+        "titleCN": "A Fourth of July Celebration",
+        "titleJP": "A Fourth of July Celebration",
+        "titleKR": "A Fourth of July Celebration",
+        "pages": {
+            "1": {
+                "imageEN": "1EN.png",
+                "imageES": "1EN.png",
+                "imagePT": "1EN.png",
+                "imageCN": "1EN.png",
+                "imageJP": "1EN.png",
+                "imageKR": "1EN.png"
+            },
+            "2": {
+                "imageEN": "2EN.png",
+                "imageES": "2EN.png",
+                "imagePT": "2EN.png",
+                "imageCN": "2EN.png",
+                "imageJP": "2EN.png",
+                "imageKR": "2EN.png"
+            },
+            "3": {
+                "imageEN": "3EN.png",
+                "imageES": "3EN.png",
+                "imagePT": "3EN.png",
+                "imageCN": "3EN.png",
+                "imageJP": "3EN.png",
+                "imageKR": "3EN.png"
+            },
+            "4": {
+                "image": "4.png"
+            },
+            "5": {
+                "imageEN": "5EN.png",
+                "imageES": "5EN.png",
+                "imagePT": "5EN.png",
+                "imageCN": "5EN.png",
+                "imageJP": "5EN.png",
+                "imageKR": "5EN.png"
+            },
+            "6": {
+                "trackEN": "audios/EN/1.mp3",
+                "trackES": "audios/EN/1.mp3",
+                "trackPT": "audios/EN/1.mp3",
+                "trackCN": "audios/EN/1.mp3",
+                "trackJP": "audios/EN/1.mp3",
+                "trackKR": "audios/EN/1.mp3",
+                "textES": "<center><font style='font-size:120px;'>a</font></center><br><font size='10' color='#3f7487'>is for apple pie.</font>",
+                "textEN": "<center><font style='font-size:120px;'>a</font></center><br><font size='10' color='#3f7487'>is for apple pie.</font>",
+                "textPT": "<center><font style='font-size:120px;'>a</font></center><br><font size='10' color='#3f7487'>is for apple pie.</font>",
+                "textCN": "<center><font style='font-size:120px;'>a</font></center><br><font size='10' color='#3f7487'>is for apple pie.</font>",
+                "textJP": "<center><font style='font-size:120px;'>a</font></center><br><font size='10' color='#3f7487'>is for apple pie.</font>",
+                "textKR": "<center><font style='font-size:120px;'>a</font></center><br><font size='10' color='#3f7487'>is for apple pie.</font>",
+                "wordsES": [
+                    { "start": "0.100", "text": "a" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "apple" },
+                    { "start": "1.6", "text": "pie." }],
+                "wordsEN": [
+                    { "start": "0.100", "text": "a" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "apple" },
+                    { "start": "1.6", "text": "pie." }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "a" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "apple" },
+                    { "start": "1.6", "text": "pie." }
+                ],
+                "wordsCN": [
+                    { "start": "0.100", "text": "a" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "apple" },
+                    { "start": "1.6", "text": "pie." }
+                ],
+                "wordsPT": [
+                    { "start": "0.100", "text": "a" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "apple" },
+                    { "start": "1.6", "text": "pie." }
+                ],
+                "wordsJP": [
+                    { "start": "0.100", "text": "a" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "apple" },
+                    { "start": "1.6", "text": "pie." }
+                ]
+            },
+            "7": {
+                "image": "7.png"
+            },
+            "8": {
+                "trackEN": "audios/EN/2.mp3",
+                "trackES": "audios/EN/2.mp3",
+                "trackPT": "audios/EN/2.mp3",
+                "trackCN": "audios/EN/2.mp3",
+                "trackJP": "audios/EN/2.mp3",
+                "trackKR": "audios/EN/2.mp3",
+                "textES": "<center><font style='font-size:120px;'>b</font></center><br><font size='10' color='#3f7487'>is for black-eyed peas.</font>",
+                "textEN": "<center><font style='font-size:120px;'>b</font></center><br><font size='10' color='#3f7487'>is for black-eyed peas.</font>",
+                "textPT": "<center><font style='font-size:120px;'>b</font></center><br><font size='10' color='#3f7487'>is for black-eyed peas.</font>",
+                "textCN": "<center><font style='font-size:120px;'>b</font></center><br><font size='10' color='#3f7487'>is for black-eyed peas.</font>",
+                "textJP": "<center><font style='font-size:120px;'>b</font></center><br><font size='10' color='#3f7487'>is for black-eyed peas.</font>",
+                "textKR": "<center><font style='font-size:120px;'>b</font></center><br><font size='10' color='#3f7487'>is for black-eyed peas.</font>",
+                "wordsES": [
+                    { "start": "0.100", "text": "b" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "black-eyed" },
+                    { "start": "1.7", "text": "peas." }
+                ],
+                "wordsEN": [
+                    { "start": "0.100", "text": "b" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "black-eyed" },
+                    { "start": "1.7", "text": "peas." }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "b" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "black-eyed" },
+                    { "start": "1.7", "text": "peas." }
+                ],
+                "wordsCN": [
+                    { "start": "0.100", "text": "b" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "black-eyed" },
+                    { "start": "1.7", "text": "peas." }
+                ],
+                "wordsPT": [
+                    { "start": "0.100", "text": "b" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "black-eyed" },
+                    { "start": "1.7", "text": "peas." }
+                ],
+                "wordsJP": [
+                    { "start": "0.100", "text": "b" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "black-eyed" },
+                    { "start": "1.7", "text": "peas." }
+                ]
+            },
+            "9": {
+                "image": "9.png"
+            },
+            "10": {
+                "trackEN": "audios/EN/3.mp3",
+                "trackES": "audios/EN/3.mp3",
+                "trackPT": "audios/EN/3.mp3",
+                "trackCN": "audios/EN/3.mp3",
+                "trackJP": "audios/EN/3.mp3",
+                "trackKR": "audios/EN/3.mp3",
+                "textES": "<center><font style='font-size:120px;'>c</font></center><br><font size='10' color='#3f7487'>is for corn on the cob.</font>",
+                "textEN": "<center><font style='font-size:120px;'>c</font></center><br><font size='10' color='#3f7487'>is for corn on the cob.</font>",
+                "textPT": "<center><font style='font-size:120px;'>c</font></center><br><font size='10' color='#3f7487'>is for corn on the cob.</font>",
+                "textCN": "<center><font style='font-size:120px;'>c</font></center><br><font size='10' color='#3f7487'>is for corn on the cob.</font>",
+                "textJP": "<center><font style='font-size:120px;'>c</font></center><br><font size='10' color='#3f7487'>is for corn on the cob.</font>",
+                "textKR": "<center><font style='font-size:120px;'>c</font></center><br><font size='10' color='#3f7487'>is for corn on the cob.</font>",
+                "wordsES": [
+                    { "start": "0.100", "text": "c" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "corn" },
+                    { "start": "1.6", "text": "on" },
+                    { "start": "1.8", "text": "the" },
+                    { "start": "2.1", "text": "cob." }
+                ],
+                "wordsEN": [
+                    { "start": "0.100", "text": "c" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "corn" },
+                    { "start": "1.6", "text": "on" },
+                    { "start": "1.8", "text": "the" },
+                    { "start": "2.1", "text": "cob." }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "c" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "corn" },
+                    { "start": "1.6", "text": "on" },
+                    { "start": "1.8", "text": "the" },
+                    { "start": "2.1", "text": "cob." }
+                ],
+                "wordsCN": [
+                    { "start": "0.100", "text": "c" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "corn" },
+                    { "start": "1.6", "text": "on" },
+                    { "start": "1.8", "text": "the" },
+                    { "start": "2.1", "text": "cob." }
+                ],
+                "wordsPT": [
+                    { "start": "0.100", "text": "c" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "corn" },
+                    { "start": "1.6", "text": "on" },
+                    { "start": "1.8", "text": "the" },
+                    { "start": "2.1", "text": "cob." }
+                ],
+                "wordsJP": [
+                    { "start": "0.100", "text": "c" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "corn" },
+                    { "start": "1.6", "text": "on" },
+                    { "start": "1.8", "text": "the" },
+                    { "start": "2.1", "text": "cob." }
+                ]
+            },
+            "11": {
+                "image": "11.png"
+            },
+            "12": {
+                "trackEN": "audios/EN/4.mp3",
+                "trackES": "audios/EN/4.mp3",
+                "trackPT": "audios/EN/4.mp3",
+                "trackCN": "audios/EN/4.mp3",
+                "trackJP": "audios/EN/4.mp3",
+                "trackKR": "audios/EN/4.mp3",
+                "textES": "<center><font style='font-size:120px;'>d</font></center><br><font size='10' color='#3f7487'>is for dumplings.</font>",
+                "textEN": "<center><font style='font-size:120px;'>d</font></center><br><font size='10' color='#3f7487'>is for dumplings.</font>",
+                "textPT": "<center><font style='font-size:120px;'>d</font></center><br><font size='10' color='#3f7487'>is for dumplings.</font>",
+                "textCN": "<center><font style='font-size:120px;'>d</font></center><br><font size='10' color='#3f7487'>is for dumplings.</font>",
+                "textJP": "<center><font style='font-size:120px;'>d</font></center><br><font size='10' color='#3f7487'>is for dumplings.</font>",
+                "textKR": "<center><font style='font-size:120px;'>d</font></center><br><font size='10' color='#3f7487'>is for dumplings.</font>",
+                "wordsES": [
+                    { "start": "0.100", "text": "d" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "dumplings." }
+                ],
+                "wordsEN": [
+                    { "start": "0.100", "text": "d" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "dumplings." }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "d" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "dumplings." }
+                ],
+                "wordsCN": [
+                    { "start": "0.100", "text": "d" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "dumplings." }
+                ],
+                "wordsPT": [
+                    { "start": "0.100", "text": "d" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "dumplings." }
+                ],
+                "wordsJP": [
+                    { "start": "0.100", "text": "d" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "dumplings." }
+                ]
+            },
+            "13": {
+                "image": "13.png"
+            },
+            "14": {
+                "trackEN": "audios/EN/5.mp3",
+                "trackES": "audios/EN/5.mp3",
+                "trackPT": "audios/EN/5.mp3",
+                "trackCN": "audios/EN/5.mp3",
+                "trackJP": "audios/EN/5.mp3",
+                "trackKR": "audios/EN/5.mp3",
+                "textES": "<center><font style='font-size:120px;'>e</font></center><br><font size='10' color='#3f7487'>is for enchiladas.</font>",
+                "textEN": "<center><font style='font-size:120px;'>e</font></center><br><font size='10' color='#3f7487'>is for enchiladas.</font>",
+                "textPT": "<center><font style='font-size:120px;'>e</font></center><br><font size='10' color='#3f7487'>is for enchiladas.</font>",
+                "textCN": "<center><font style='font-size:120px;'>e</font></center><br><font size='10' color='#3f7487'>is for enchiladas.</font>",
+                "textJP": "<center><font style='font-size:120px;'>e</font></center><br><font size='10' color='#3f7487'>is for enchiladas.</font>",
+                "textKR": "<center><font style='font-size:120px;'>e</font></center><br><font size='10' color='#3f7487'>is for enchiladas.</font>",
+                "wordsES": [
+                    { "start": "0.100", "text": "e" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "enchiladas." }
+                ],
+                "wordsEN": [
+                    { "start": "0.100", "text": "e" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "enchiladas." }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "e" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "enchiladas." }
+                ],
+                "wordsCN": [
+                    { "start": "0.100", "text": "e" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "enchiladas." }
+                ],
+                "wordsPT": [
+                    { "start": "0.100", "text": "e" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "enchiladas." }
+                ],
+                "wordsJP": [
+                    { "start": "0.100", "text": "e" },
+                    { "start": "0.8", "text": "is" },
+                    { "start": "1.0", "text": "for" },
+                    { "start": "1.3", "text": "enchiladas." }
+                ]
+            },
+            "15": {
+                "image": "15.png"
+            },
+            "16": {
+                "trackEN": "audios/EN/6.mp3",
+                "trackES": "audios/EN/6.mp3",
+                "trackPT": "audios/EN/6.mp3",
+                "trackCN": "audios/EN/6.mp3",
+                "trackJP": "audios/EN/6.mp3",
+                "trackKR": "audios/EN/6.mp3",
+                "textES": "<font size='8' color='#3f7487'>The United States is a melting pot of many cultures who enjoy many types of foods.</font>",
+                "textEN": "<font size='8' color='#3f7487'>The United States is a melting pot of many cultures who enjoy many types of foods.</font>",
+                "textPT": "<font size='8' color='#3f7487'>The United States is a melting pot of many cultures who enjoy many types of foods.</font>",
+                "textCN": "<font size='8' color='#3f7487'>The United States is a melting pot of many cultures who enjoy many types of foods.</font>",
+                "textJP": "<font size='8' color='#3f7487'>The United States is a melting pot of many cultures who enjoy many types of foods.</font>",
+                "textKR": "<font size='8' color='#3f7487'>The United States is a melting pot of many cultures who enjoy many types of foods.</font>",
+                "wordsES": [
+                    { "start": "0.100", "text": "The" },
+                    { "start": "0.4", "text": "United" },
+                    { "start": "0.8", "text": "States" },
+                    { "start": "1.2", "text": "is" },
+                    { "start": "1.9", "text": "a" },
+                    { "start": "2.1", "text": "melting" },
+                    { "start": "2.3", "text": "pot" },
+                    { "start": "2.8", "text": "of" },
+                    { "start": "3.0", "text": "many" },
+                    { "start": "3.5", "text": "cultures" },
+                    { "start": "3.9", "text": "who" },
+                    { "start": "4.3", "text": "enjoy" },
+                    { "start": "4.7", "text": "many" },
+                    { "start": "5.1", "text": "types" },
+                    { "start": "5.4", "text": "of" },
+                    { "start": "5.6", "text": "foods." }
+                ],
+                "wordsEN": [
+                    { "start": "0.100", "text": "The" },
+                    { "start": "0.4", "text": "United" },
+                    { "start": "0.8", "text": "States" },
+                    { "start": "1.2", "text": "is" },
+                    { "start": "1.9", "text": "a" },
+                    { "start": "2.1", "text": "melting" },
+                    { "start": "2.3", "text": "pot" },
+                    { "start": "2.8", "text": "of" },
+                    { "start": "3.0", "text": "many" },
+                    { "start": "3.5", "text": "cultures" },
+                    { "start": "3.9", "text": "who" },
+                    { "start": "4.3", "text": "enjoy" },
+                    { "start": "4.7", "text": "many" },
+                    { "start": "5.1", "text": "types" },
+                    { "start": "5.4", "text": "of" },
+                    { "start": "5.6", "text": "foods." }
+                ],
+                "wordsKR": [
+                    { "start": "0.100", "text": "The" },
+                    { "start": "0.4", "text": "United" },
+                    { "start": "0.8", "text": "States" },
+                    { "start": "1.2", "text": "is" },
+                    { "start": "1.9", "text": "a" },
+                    { "start": "2.1", "text": "melting" },
+                    { "start": "2.3", "text": "pot" },
+                    { "start": "2.8", "text": "of" },
+                    { "start": "3.0", "text": "many" },
+                    { "start": "3.5", "text": "cultures" },
+                    { "start": "3.9", "text": "who" },
+                    { "start": "4.3", "text": "enjoy" },
+                    { "start": "4.7", "text": "many" },
+                    { "start": "5.1", "text": "types" },
+                    { "start": "5.4", "text": "of" },
+                    { "start": "5.6", "text": "foods." }
+                ],
+                "wordsCN": [
+                    { "start": "0.100", "text": "The" },
+                    { "start": "0.4", "text": "United" },
+                    { "start": "0.8", "text": "States" },
+                    { "start": "1.2", "text": "is" },
+                    { "start": "1.9", "text": "a" },
+                    { "start": "2.1", "text": "melting" },
+                    { "start": "2.3", "text": "pot" },
+                    { "start": "2.8", "text": "of" },
+                    { "start": "3.0", "text": "many" },
+                    { "start": "3.5", "text": "cultures" },
+                    { "start": "3.9", "text": "who" },
+                    { "start": "4.3", "text": "enjoy" },
+                    { "start": "4.7", "text": "many" },
+                    { "start": "5.1", "text": "types" },
+                    { "start": "5.4", "text": "of" },
+                    { "start": "5.6", "text": "foods." }
+                ],
+                "wordsPT": [
+                    { "start": "0.100", "text": "The" },
+                    { "start": "0.4", "text": "United" },
+                    { "start": "0.8", "text": "States" },
+                    { "start": "1.2", "text": "is" },
+                    { "start": "1.9", "text": "a" },
+                    { "start": "2.1", "text": "melting" },
+                    { "start": "2.3", "text": "pot" },
+                    { "start": "2.8", "text": "of" },
+                    { "start": "3.0", "text": "many" },
+                    { "start": "3.5", "text": "cultures" },
+                    { "start": "3.9", "text": "who" },
+                    { "start": "4.3", "text": "enjoy" },
+                    { "start": "4.7", "text": "many" },
+                    { "start": "5.1", "text": "types" },
+                    { "start": "5.4", "text": "of" },
+                    { "start": "5.6", "text": "foods." }
+                ],
+                "wordsJP": [
+                    { "start": "0.100", "text": "The" },
+                    { "start": "0.4", "text": "United" },
+                    { "start": "0.8", "text": "States" },
+                    { "start": "1.2", "text": "is" },
+                    { "start": "1.9", "text": "a" },
+                    { "start": "2.1", "text": "melting" },
+                    { "start": "2.3", "text": "pot" },
+                    { "start": "2.8", "text": "of" },
+                    { "start": "3.0", "text": "many" },
+                    { "start": "3.5", "text": "cultures" },
+                    { "start": "3.9", "text": "who" },
+                    { "start": "4.3", "text": "enjoy" },
+                    { "start": "4.7", "text": "many" },
+                    { "start": "5.1", "text": "types" },
+                    { "start": "5.4", "text": "of" },
+                    { "start": "5.6", "text": "foods." }
+                ]
+            },
+            "17": {
+                "image": "17.png"
+            },
+            "18": {
+                "image": "18.png"
+            },
+            "19": {
+                "image": "19.png"
+            },
+            "20": {
+                "image": "20.png"
+            }
+        }
+    }
+}
